@@ -1,0 +1,53 @@
+<item>
+<title>S1 EP1 - Thou Shalt Not Kill</title>
+<link>https://od.lk/s/OTdfMzQyMDcxNF8/s01e01%20-%20Thou%20Shalt%20Not%20Kill.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQyMTM3MF8/S1.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQyMTM3NV8/SP1.jpg</fanart>
+<info>Thou Shalt Not Kill
+Twenty high-explosive devices are smuggled into England. When the first goes off killing a doctor and severely injuring her young daughter, the team scrambles to track down an American anti-abortion activist who sneaked into the country - and may be planning a huge commemoration of her husband's execution back home in just a few days. Things are complicated by CIA insistence that the woman, if found, be extradited back to Florida, where she too will face the death penalty. </info>
+</item>
+
+<item>
+<title>S1 EP2 - Looking After Our Own</title>
+<link>https://od.lk/s/OTdfMzQyMDczN18/s01e02%20-%20Looking%20After%20Our%20Own.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQyMTM3MV8/S2.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQyMTM3NV8/SP1.jpg</fanart>
+<info>Looking After Our Own
+Racial tensions in Britain continue to rise and the team pieces together an organized attempt to stir up problems for political gain. Tom and Helen go undercover to get close to the well-protected head of the conspirators. But as time runs short, personal loyalties will leave one team member dead. </info>
+</item>
+
+<item>
+<title>S1 EP3 One Last Dance.</title>
+<link>https://od.lk/s/OTdfMzQyMDczOF8/s01e03%20-%20One%20Last%20Dance.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQyMTM3Ml8/S3.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQyMTM3NV8/SP1.jpg</fanart>
+<info>One Last Dance.
+Zoe is undercover on a routine op, pretending to be a PR agent hoping to land a contract with the Turkish government. She winds up a hostage - along with dozens of others - when a group of Kurds take over the Turkish embassy and demand the release of political prisoners. However, the team pieces together that this is just a cover, as a disgruntled former spook is using kidnapping and terrorism to gain access to a secret bank account - one with millions of pounds... and the personal identities of every undercover officer. </info>
+</item>
+
+<item>
+<title>S1 EP4 Traitors Gate</title>
+<link>https://od.lk/s/OTdfMzQyMDczOV8/s01e04%20-%20Traitors%20Gate.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQyMTM3M18/S4.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQyMTM3NV8/SP1.jpg</fanart>
+<info>Traitors Gate
+During riots in advance of US President Bush's visit to London, the MI-5 team observe Peter Salter among the agitators. Salter is a legendary agent and neither Zoe or Danny are quite sure what to do. When they report what they saw to Harry Pearce, he instructs them to remove any reference to Salter from their reports and to forget what they saw. Turns out Harry is running Salter on a special op in cooperation with MI-6. They are trying to nab a well known anarchist who is in the UK to stir up trouble. As the investigation progresses however, Salter's loyalty is called... </info>
+</item>
+
+<item>
+<title>S1 EP5  The Rose Bed Memoirs</title>
+<link>https://od.lk/s/OTdfMzQyMDc0MF8/s01e05%20-%20The%20Rose%20Bed%20Memoirs.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQyMTM2OF8/S5.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQyMTM3NV8/SP1.jpg</fanart>
+<info> The Rose Bed Memoirs
+A former MP, imprisoned years before in an arms-dealing scandal, claims to have a damaging memoir ready to go to press. The team tries to determine whether its claims are genuine while possibly being subverted by other agencies with other agendas. </info>
+</item>
+
+<item>
+<title>S1 EP6 The Lesser of Two Evils</title>
+<link>https://od.lk/s/OTdfMzQyMDc0MV8/s01e06%20-%20The%20Lesser%20of%20Two%20Evils.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQyMTM2OV8/S6.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQyMTM3NV8/SP1.jpg</fanart>
+<info>The Lesser of Two Evils
+SPOILERS Patrick McCann, the leader of an Irish splinter group walks into a safe house and insists that he has crucial information for MI5 concerning their investigation on an Middle East terrorist group called Asabiyah. To share in-depth information on Asabiyah's plan to hit a British nuclear power station with MI5, McCann requests that his group goes unwatched for 30 hours. Despite doubts about this collaboration, McCann's splinter group is granted their request of not being watched for 30 hours. It then becomes evident, however, that McCann has planned to release a...</info>
+</item>

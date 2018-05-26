@@ -1,0 +1,147 @@
+﻿<layouttype>thumbnail</layouttype>
+
+
+<channels>
+<channel>
+<name>Lucifer</name>
+<thumbnail>https://od.lk/s/OTdfMzQxMTkwOF8/Lucifer%20icon.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQyNTQwNV8/season.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQxMTkwN18/Lucifer%20fanart.jpg</fanart>
+<info>Based on characters created by Neil Gaiman, Sam Kieth and Mike Dringenberg, this series follows Lucifer, the original fallen angel, who has become dissatisfied with his life in hell. After abandoning his throne and retiring to Los Angeles, Lucifer indulges in his favorite things (women, wine and song) -- until a murder takes place outside of his upscale nightclub. For the first time in billions of years, the murder awakens something unfamiliar in Lucifier's soul that is eerily similar to compassion and sympathy. Lucifer is faced with another surprise when he meets an intriguing homicide detective named Chloe, who appears to possess an inherent goodness -- unlike the worst of humanity, to which he is accustomed. Suddenly, Lucifer starts to wonder if there is hope for his soul.</info>
+</channel>
+
+<channel>
+<name>Designated Survivor</name>
+<thumbnail>https://od.lk/s/OTdfMzQyMDI1OV8/Designated%20Survivor.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQyMzk2NF8/Seasons.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQyMDI2MF8/designatedsurvivor.jpg</fanart>
+<info>A low-level Cabinet member becomes President of the United States after a catastrophic attack kills everyone above him in the Presidential line of succession.</info>
+</channel>
+
+<channel>
+<name>Lethal weapon</name>
+<thumbnail>https://od.lk/s/OTdfMzQyMDI1N18/lethal.weapon%20logo.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQyMDI1Nl8/Seasons.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQyMDI1OF8/lethal.weapon%20f.jpg</fanart>
+<info>TV show based on the popular 'Lethal Weapon' films in which a slightly unhinged cop is partnered with a veteran detective trying to maintain a low stress level in his life. </info>
+</channel>
+
+<channel>
+<name>Teen Wolf</name>
+<thumbnail>https://od.lk/s/OTdfMzQyMTcwMV8/teen-wolf%20s1.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQyMTY5MV8/Seasons.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQyMTcwNl8/teen-wolf-season%20f%20s6.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>MacGyver</name>
+<thumbnail>https://od.lk/s/OTdfMzQyMTYxOF8/MACGYVER.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQyMTYyN18/Seasons.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQyMTYyNl8/macgyver%20f.jpg</fanart>
+<info></info>
+
+</channel>
+<channel>
+<name>SPOOKS</name>
+<thumbnail>https://od.lk/s/OTdfMzQyMTQ2Nl8/SP1.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQyMTQ1MV8/Spooks.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQyMTQ1Ml8/SP9F.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>The Exorcist</name>
+<thumbnail>https://od.lk/s/OTdfMzQyMzU0M18/The-Exorcist.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQyMTk5N18/S1.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQyMzU0Ml8/The.Exorcist..jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>Van Helsing 2016</name>
+<thumbnail>https://od.lk/s/OTdfMzQyMzAzOV8/van_helsing.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQyMzk3Nl8/Seasons.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQyMzAzOF8/van-helsing.jpg</fanart>
+<info>Vanessa Helsing, distant relative of famous vampire hunter Abraham Van Helsing, is resurrected only to find that vampires have taken over the world. She is humanity's last hope to lead an offensive to take back what has been lost. </info>
+</channel>
+
+<channel>
+<name>Pitch 2016</name>
+<thumbnail>https://od.lk/s/OTdfMzQyMzE5OF8/pitch.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQyMzE5Nl8/Seasons.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQyMzE5OV8/Pitch-tv-show.jpg</fanart>
+<info>A young pitcher becomes the first woman to play in the Major Leagues.</info>
+</channel>
+
+<channel>
+<name>Notorious 2016</name>
+<thumbnail>https://od.lk/s/OTdfMzQyMzIwMF8/notorious..jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQyMzIwMl8/Seasons.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQyMzIwMV8/notorious.jpg</fanart>
+<info>A charismatic defense attorney and a powerhouse television producer work together to control the media following a high-profile incident. </info>
+</channel>
+
+<channel>
+<name>Gotham 2016</name>
+<thumbnail>https://od.lk/s/OTdfMzQyMzUzM18/gotham.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQyMzUwN18/Season.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQyMzUzNF8/Gotham-TV.jpg</fanart>
+<info>The story behind Detective James Gordon's rise to prominence in Gotham City in the years before Batman's arrival.</info>
+</channel>
+
+<channel>
+<name>Quarry</name>
+<thumbnail>https://od.lk/s/OTdfMzQyMzk0NF8/quarry.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQyMzk0Nl8/Season.txt</externallink>
+<fanart></fanart>
+<info>Quarry, a disillusioned Vietnam War vet, returns home to Memphis in 1972 only to find rejection and scrutiny at every step. A mysterious man known only as The Broker gives him an offer he can't refuse - to work for him as a hitman.</info>
+</channel>
+
+<channel>
+<name>Luke Cage</name>
+<thumbnail>https://od.lk/s/OTdfMzQyNTA4Nl8/luke%20cage.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQyNTA4OF8/Season.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQyNTA4NV8/Luke-Cage.jpg</fanart>
+<info>Quarry, a disillusioned Vietnam War vet, returns home to Memphis in 1972 only to find rejection and scrutiny at every step. A mysterious man known only as The Broker gives him an offer he can't refuse - to work for him as a hitman.</info>
+</channel>
+
+<channel>
+<name>Aftermath</name>
+<thumbnail>https://od.lk/s/OTdfMzQyNTA5Ml8/aftermath...jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQyNDkwOV8/Season.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQyNTA5M18/aftermath.jpg</fanart>
+<info>A desperately seeking outlander stumbles across a mysterious, reclusive hermit who may hold the secret that could change a lost world.</info>
+</channel>
+
+<channel>
+<name>Westworld</name>
+<thumbnail></thumbnail>
+<externallink>https://od.lk/s/OTdfMzQyNTQxM18/season.txt</externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>Wolf Creek</name>
+<thumbnail>https://od.lk/s/OTdfMzQyNjc3NV8/wolf%20creek.jpg</thumbnail>
+<externallink>https://goo.gl/shBf8J</externallink>
+<fanart>https://od.lk/s/OTdfMzQyNjc3Nl8/wolf-creek.jpg</fanart>
+<info>Eve, a 19-year-old American tourist is targeted by crazed serial killer Mick Taylor. She survives his attack and embarks on a mission of revenge.</info>
+</channel>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

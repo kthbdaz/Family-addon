@@ -1,0 +1,60 @@
+<item>
+<title>S1 EP1 You Don't Miss Your Water</title>
+<link>https://od.lk/s/OTdfMzQxMTY2OV8/Quarry.S01E01.HDTV.x264-KILLERS%5Bettv%5D.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQyNzk0OF8/quarry.jpg</thumbnail>
+<fanart></fanart>
+<info>You Don't Miss Your Water
+Coming back home from Vietnam, two soldiers, struggling to find jobs and getting back to normal life, are approached by the mysterious 'Broker' with an interesting offer. </info>
+</item>
+
+<item>
+<title>S1 EP2 Figure Four</title>
+<link>https://od.lk/s/OTdfMzQyMzgwNl8/Quarry.S01E02.HDTV.x264-KILLERS%5Bettv%5D.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQyNzk0OF8/quarry.jpg</thumbnail>
+<fanart></fanart>
+<info>Figure Four
+Joni fears the worst about Mac when her lover turns up dead. Meanwhile, Mac helps Buddy with a gun deal that turns into a violent confrontation in another bit of work for The Broker. </info>
+</item>
+
+<item>
+<title>S1 EP3 A Mouthful of Splinters</title>
+<link>https://od.lk/s/OTdfMzQyMzgwN18/Quarry.S01E03.HDTV.x264-KILLERS%5Bettv%5D.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQyNzk0OF8/quarry.jpg</thumbnail>
+<fanart></fanart>
+<info>A Mouthful of Splinters
+Joni gets visited by an unexpected guest. Mac comes home for an unpleasant surprise, that makes him contact The Broker. </info>
+</item>
+
+<item>
+<title>S1 EP4 Seldom Realized</title>
+<link>https://od.lk/s/OTdfMzQyNjk2M18/Quarry.S01E04.INTERNAL.HDTV.x264-KILLERS%5Bettv%5D.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQyNzk0OF8/quarry.jpg</thumbnail>
+<fanart></fanart>
+<info>Seldom Realized
+Fearing for his wife's safety, Mac checks Joni and him to a motel. </info>
+</item>
+
+<item>
+<title>S1 EP5 Coffee Blues</title>
+<link>https://od.lk/s/OTdfMzQyNjkwMF8/Quarry.S01E05.HDTV.x264-KILLERS%5Bettv%5D.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQyNzk0OF8/quarry.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP6 His Deeds Were Scattered</title>
+<link>https://od.lk/s/OTdfMzQyODgwOV8/Quarry.S01E06.PROPER.HDTV.XviD-FUM%5Bettv%5D.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzQyNzk0OF8/quarry.jpg</thumbnail>
+<fanart></fanart>
+<info>His Deeds Were Scattered
+Mac gets a high-profile assignment from The Broker; a curfew is ordered in the wake of racial unrest.</info>
+</item>
+
+<item>
+<title>S1 EP7</title>
+<link>https://od.lk/s/OTdfMzQzNDM0OF8/Quarry.S01E07.PROPER.HDTV.x264-FUM%5Bettv%5D.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQyNzk0OF8/quarry.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>

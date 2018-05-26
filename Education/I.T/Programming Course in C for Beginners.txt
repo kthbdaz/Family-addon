@@ -1,0 +1,607 @@
+<item>
+<title>Introduction to Computer Science for Everyone</title>
+<link>https://od.lk/s/OTdfMzU3MTM5OV8/Introduction%20to%20Computer%20Science%20for%20Everyone.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MTQ5OF8/C_Programming.svg.png</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MTQ5OV8/Computer-Programming.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>Lesson 1.2 Which programming language</title>
+<link>https://od.lk/s/OTdfMzU3MTQwMF8/Lesson%201.2%20%20Which%20programming%20language.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MTQ5OF8/C_Programming.svg.png</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MTQ5OV8/Computer-Programming.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>Binary Tutorial</title>
+<link>https://od.lk/s/OTdfMzU3MTM5OF8/Binary%20Tutorial.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MTQ5OF8/C_Programming.svg.png</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MTQ5OV8/Computer-Programming.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>The importance of understanding binary</title>
+<link>https://od.lk/s/OTdfMzU3MTM5NV8/The%20importance%20of%20understanding%20binary.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MTQ5OF8/C_Programming.svg.png</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MTQ5OV8/Computer-Programming.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>Lesson 2.3 Hexadecimal Tutorial</title>
+<link>https://od.lk/s/OTdfMzU3MTQwMV8/Lesson%202.3%20%20Hexadecimal%20Tutorial.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MTQ5OF8/C_Programming.svg.png</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MTQ5OV8/Computer-Programming.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>Lesson 3.1 Include Statements</title>
+<link>https://od.lk/s/OTdfMzU3MTQwMl8/Lesson%203.1%20%20Include%20Statements.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MTQ5OF8/C_Programming.svg.png</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MTQ5OV8/Computer-Programming.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>Lesson 3.2 How programming languages work with data</title>
+<link>https://od.lk/s/OTdfMzU3MTQwM18/Lesson%203.2%20%20How%20programming%20languages%20work%20with%20data.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MTQ5OF8/C_Programming.svg.png</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MTQ5OV8/Computer-Programming.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>Lesson 3.3 Some Basics Concerning RAM</title>
+<link>https://od.lk/s/OTdfMzU3MTQwNF8/Lesson%203.3%20%20Some%20Basics%20Concerning%20RAM.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MTQ5OF8/C_Programming.svg.png</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MTQ5OV8/Computer-Programming.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>Lesson 3.4 Programs are Data Too</title>
+<link>https://od.lk/s/OTdfMzU3MTQwNV8/Lesson%203.4%20%20Programs%20are%20Data%20Too.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MTQ5OF8/C_Programming.svg.png</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MTQ5OV8/Computer-Programming.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>Lesson 4.1 About Program Flow</title>
+<link>https://od.lk/s/OTdfMzU3MTQwNl8/Lesson%204.1%20%20About%20Program%20Flow.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MTQ5OF8/C_Programming.svg.png</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MTQ5OV8/Computer-Programming.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>Lesson 4.2 Functions, Methods, Routines</title>
+<link>https://od.lk/s/OTdfMzU3MTQwN18/Lesson%204.2%20%20Functions%2C%20Methods%2C%20Routines.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MTQ5OF8/C_Programming.svg.png</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MTQ5OV8/Computer-Programming.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>Lesson 4.3 About Arguments and Return Values</title>
+<link>https://od.lk/s/OTdfMzU3MTQwOF8/Lesson%204.3%20%20About%20Arguments%20and%20Return%20Values.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MTQ5OF8/C_Programming.svg.png</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MTQ5OV8/Computer-Programming.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>Lesson 4.4 About Syntax and Functions</title>
+<link>https://od.lk/s/OTdfMzU3MTQwOV8/Lesson%204.4%20%20About%20Syntax%20and%20Functions.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MTQ5OF8/C_Programming.svg.png</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MTQ5OV8/Computer-Programming.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>Lesson 5.1 Writing your first program in C</title>
+<link>https://od.lk/s/OTdfMzU3MTQxMF8/Lesson%205.1%20%20Writing%20your%20first%20program%20in%20C.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MTQ5OF8/C_Programming.svg.png</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MTQ5OV8/Computer-Programming.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>Lesson 5.2 Review of your first program</title>
+<link>https://od.lk/s/OTdfMzU3MTQxMV8/Lesson%205.2%20%20Review%20of%20your%20first%20program.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MTQ5OF8/C_Programming.svg.png</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MTQ5OV8/Computer-Programming.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>Lesson 5.3 Running your first program</title>
+<link>https://od.lk/s/OTdfMzU3MTQxMl8/Lesson%205.3%20%20Running%20your%20first%20program.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MTQ5OF8/C_Programming.svg.png</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MTQ5OV8/Computer-Programming.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>Typing and running your first program in CodeBlocks</title>
+<link>https://od.lk/s/OTdfMzU3MTM5Nl8/Typing%20and%20running%20your%20first%20program%20in%20CodeBlocks.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MTQ5OF8/C_Programming.svg.png</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MTQ5OV8/Computer-Programming.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>Lesson 6.1 Basics of signed and unsigned numbers</title>
+<link>https://od.lk/s/OTdfMzU3MTQxM18/Lesson%206.1%20%20Basics%20of%20signed%20and%20unsigned%20numbers.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MTQ5OF8/C_Programming.svg.png</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MTQ5OV8/Computer-Programming.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>Lesson 6.2 The Basics of Numeric Overflow</title>
+<link>https://od.lk/s/OTdfMzU3MTQxNF8/Lesson%206.2%20%20The%20Basics%20of%20Numeric%20Overflow.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MTQ5OF8/C_Programming.svg.png</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MTQ5OV8/Computer-Programming.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>Lesson 6.3 Fractional numbers in binary</title>
+<link>https://od.lk/s/OTdfMzU3MTQxNV8/Lesson%206.3%20%20Fractional%20numbers%20in%20binary.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MTQ5OF8/C_Programming.svg.png</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MTQ5OV8/Computer-Programming.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>Lesson 6.4 Numeric Data Types in C</title>
+<link>https://od.lk/s/OTdfMzU3MTQxNl8/Lesson%206.4%20%20Numeric%20Data%20Types%20in%20C.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MTQ5OF8/C_Programming.svg.png</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MTQ5OV8/Computer-Programming.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>Lesson 6.5 The basics of ASCII and the char data type</title>
+<link>https://od.lk/s/OTdfMzU3MTQxN18/Lesson%206.5%20%20The%20basics%20of%20ASCII%20and%20the%20char%20data%20type.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MTQ5OF8/C_Programming.svg.png</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MTQ5OV8/Computer-Programming.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>Lesson 6.6 How numbers are encoded as characters in ASCII</title>
+<link>https://od.lk/s/OTdfMzU3MTQxOF8/Lesson%206.6%20%20How%20numbers%20are%20encoded%20as%20characters%20in%20ASCII.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MTQ5OF8/C_Programming.svg.png</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MTQ5OV8/Computer-Programming.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>Lesson 6.7 Maximum values for unsigned integers in C</title>
+<link>https://od.lk/s/OTdfMzU3MTQxOV8/Lesson%206.7%20%20Maximum%20values%20for%20unsigned%20integers%20in%20C.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MTQ5OF8/C_Programming.svg.png</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MTQ5OV8/Computer-Programming.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>Lesson 6.8 Minimum and maximum values of signed integers</title>
+<link>https://od.lk/s/OTdfMzU3MTQyMF8/Lesson%206.8%20%20Minimum%20and%20maximum%20values%20of%20signed%20integers.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MTQ5OF8/C_Programming.svg.png</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MTQ5OV8/Computer-Programming.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>Lesson 7.1 Introducing Variables</title>
+<link>https://od.lk/s/OTdfMzU3MTQyMV8/Lesson%207.1%20%20Introducing%20Variables.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MTQ5OF8/C_Programming.svg.png</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MTQ5OV8/Computer-Programming.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>Lesson 7.2 The connection between function return values and variables</title>
+<link>https://od.lk/s/OTdfMzU3MTQyMl8/Lesson%207.2%20%20The%20connection%20between%20function%20return%20values%20and%20variables.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MTQ5OF8/C_Programming.svg.png</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MTQ5OV8/Computer-Programming.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>Lesson 7.3 Terminating strings of text and other data</title>
+<link>https://od.lk/s/OTdfMzU3MTQyM18/Lesson%207.3%20Terminating%20strings%20of%20text%20and%20other%20data.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MTQ5OF8/C_Programming.svg.png</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MTQ5OV8/Computer-Programming.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>Lesson 7.4 More about the printf function and an introduction to placeholders</title>
+<link>https://od.lk/s/OTdfMzU3MTQyNV8/Lesson%207.4%20%20More%20about%20the%20printf%20function%20and%20an%20introduction%20to%20placeholders.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MTQ5OF8/C_Programming.svg.png</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MTQ5OV8/Computer-Programming.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>Lesson 8.1 Introducing arrays and pointers - part one</title>
+<link>https://od.lk/s/OTdfMzU3MTQyNl8/Lesson%208.1%20%20Introducing%20arrays%20and%20pointers%20-%20part%20one.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MTQ5OF8/C_Programming.svg.png</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MTQ5OV8/Computer-Programming.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>Lesson 8.2 Introducing arrays and pointers - part two</title>
+<link>https://od.lk/s/OTdfMzU3MTQyN18/Lesson%208.2%20%20Introducing%20arrays%20and%20pointers%20-%20part%20two.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MTQ5OF8/C_Programming.svg.png</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MTQ5OV8/Computer-Programming.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>Lesson 8.3 Introducing the pointer data type</title>
+<link>https://od.lk/s/OTdfMzU3MTQyOF8/Lesson%208.3%20%20Introducing%20the%20pointer%20data%20type.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MTQ5OF8/C_Programming.svg.png</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MTQ5OV8/Computer-Programming.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>Lesson 8.4 How to create a pointer in C</title>
+<link>https://od.lk/s/OTdfMzU3MTQyOV8/Lesson%208.4%20%20How%20to%20create%20a%20pointer%20in%20C.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MTQ5OF8/C_Programming.svg.png</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MTQ5OV8/Computer-Programming.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>Lesson 8.5 Assigning a value to a pointer.</title>
+<link>https://od.lk/s/OTdfMzU3MTQzMF8/Lesson%208.5%20%20Assigning%20a%20value%20to%20a%20pointer.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MTQ5OF8/C_Programming.svg.png</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MTQ5OV8/Computer-Programming.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>Lesson 8.6 Getting the value stored at a memory address using a pointer</title>
+<link>https://od.lk/s/OTdfMzU3MTQzMV8/Lesson%208.6%20%20Getting%20the%20value%20stored%20at%20a%20memory%20address%20using%20a%20pointer.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MTQ5OF8/C_Programming.svg.png</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MTQ5OV8/Computer-Programming.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>Lesson 8.7 A chance to practice and use what you have learned</title>
+<link>https://od.lk/s/OTdfMzU3MTQzMl8/Lesson%208.7%20%20A%20chance%20to%20practice%20and%20use%20what%20you%20have%20learned.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MTQ5OF8/C_Programming.svg.png</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MTQ5OV8/Computer-Programming.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>Lesson 9.1 Using pointers for direct memory access and manipulation in C</title>
+<link>https://od.lk/s/OTdfMzU3MTQzM18/Lesson%209.1%20%20Using%20pointers%20for%20direct%20memory%20access%20and%20manipulation%20in%20C.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MTQ5OF8/C_Programming.svg.png</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MTQ5OV8/Computer-Programming.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>Lesson 9.2 About changing the memory address contained within a pointer.</title>
+<link>https://od.lk/s/OTdfMzU3MTQzNF8/Lesson%209.2%20%20About%20changing%20the%20memory%20address%20contained%20within%20a%20pointer.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MTQ5OF8/C_Programming.svg.png</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MTQ5OV8/Computer-Programming.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>Lesson 9.3 Pointers containing memory addresses of multi byte variables</title>
+<link>https://od.lk/s/OTdfMzU3MTM2N18/Lesson%209.3%20%20Pointers%20containing%20memory%20addresses%20of%20multi%20byte%20variables.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MTQ5OF8/C_Programming.svg.png</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MTQ5OV8/Computer-Programming.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>Lesson 9.4 Pointers have memory addresses too</title>
+<link>https://od.lk/s/OTdfMzU3MTM2OF8/Lesson%209.4%20%20Pointers%20have%20memory%20addresses%20too.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MTQ5OF8/C_Programming.svg.png</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MTQ5OV8/Computer-Programming.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>Lesson 9.5 Why do you need to learn pointers</title>
+<link>https://od.lk/s/OTdfMzU3MTM2OV8/Lesson%209.5%20%20Why%20do%20you%20need%20to%20learn%20pointers.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MTQ5OF8/C_Programming.svg.png</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MTQ5OV8/Computer-Programming.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>Lesson 9.6 Introducing the char pointer</title>
+<link>https://od.lk/s/OTdfMzU3MTM3MF8/Lesson%209.6%20%20Introducing%20the%20char%20pointer.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MTQ5OF8/C_Programming.svg.png</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MTQ5OV8/Computer-Programming.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>Lesson 10.1 Introducing constants and string literals in C</title>
+<link>https://od.lk/s/OTdfMzU3MTM3MV8/Lesson%2010.1%20%20Introducing%20constants%20and%20string%20literals%20in%20C.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MTQ5OF8/C_Programming.svg.png</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MTQ5OV8/Computer-Programming.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>Lesson 10.2 Important review and clarifications</title>
+<link>https://od.lk/s/OTdfMzU3MTM3Ml8/Lesson%2010.2%20%20Important%20review%20and%20clarifications.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MTQ5OF8/C_Programming.svg.png</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MTQ5OV8/Computer-Programming.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>Lesson 10.3 More about strings and constants in C</title>
+<link>https://od.lk/s/OTdfMzU3MTM3M18/Lesson%2010.3%20%20More%20about%20strings%20and%20constants%20in%20C.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MTQ5OF8/C_Programming.svg.png</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MTQ5OV8/Computer-Programming.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>Lesson 10.4 A new way to visualize RAM</title>
+<link>https://od.lk/s/OTdfMzU3MTM3NF8/Lesson%2010.4%20%20A%20new%20way%20to%20visualize%20RAM.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MTQ5OF8/C_Programming.svg.png</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MTQ5OV8/Computer-Programming.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>Lesson 10.5 Introducing the character string as an array of characters in C</title>
+<link>https://od.lk/s/OTdfMzU3MTM3Nl8/Lesson%2010.5%20%20Introducing%20the%20character%20string%20as%20an%20array%20of%20characters%20in%20C.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MTQ5OF8/C_Programming.svg.png</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MTQ5OV8/Computer-Programming.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>Lesson 10.6 Using a pointer to directly manipulate data in memory in C</title>
+<link>https://od.lk/s/OTdfMzU3MTM3OF8/Lesson%2010.6%20%20Using%20a%20pointer%20to%20directly%20manipulate%20data%20in%20memory%20in%20C.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MTQ5OF8/C_Programming.svg.png</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MTQ5OV8/Computer-Programming.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>Lesson 11.1 Introducing conditional flow statements.</title>
+<link>https://od.lk/s/OTdfMzU3MTM3OV8/Lesson%2011.1%20%20Introducing%20conditional%20flow%20statements.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MTQ5OF8/C_Programming.svg.png</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MTQ5OV8/Computer-Programming.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>Lesson 11.2 The mechanisms for control flow statements</title>
+<link>https://od.lk/s/OTdfMzU3MTM4MF8/Lesson%2011.2%20%20The%20mechanisms%20for%20control%20flow%20statements.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MTQ5OF8/C_Programming.svg.png</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MTQ5OV8/Computer-Programming.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>Lesson 11.3 Implementing a simple if statement in c</title>
+<link>https://od.lk/s/OTdfMzU3MTM4MV8/Lesson%2011.3%20%20Implementing%20a%20simple%20if%20statement%20in%20c.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MTQ5OF8/C_Programming.svg.png</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MTQ5OV8/Computer-Programming.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>Lesson 11.4 More about if statements and logical operators</title>
+<link>https://od.lk/s/OTdfMzU3MTM4Ml8/Lesson%2011.4%20%20More%20about%20if%20statements%20and%20logical%20operators.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MTQ5OF8/C_Programming.svg.png</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MTQ5OV8/Computer-Programming.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>Lesson 11.5 Introducing Logical OR</title>
+<link>https://od.lk/s/OTdfMzU3MTM4M18/Lesson%2011.5%20%20Introducing%20Logical%20OR.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MTQ5OF8/C_Programming.svg.png</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MTQ5OV8/Computer-Programming.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>Lesson 12.1 Introducing GOTO and Loops in C</title>
+<link>https://od.lk/s/OTdfMzU3MTM4NF8/Lesson%2012.1%20%20Introducing%20GOTO%20and%20Loops%20in%20C.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MTQ5OF8/C_Programming.svg.png</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MTQ5OV8/Computer-Programming.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>Lesson 12.2 More about blocks of code and GOTO statements</title>
+<link>https://od.lk/s/OTdfMzU3MTM4NV8/Lesson%2012.2%20%20More%20about%20blocks%20of%20code%20and%20GOTO%20statements.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MTQ5OF8/C_Programming.svg.png</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MTQ5OV8/Computer-Programming.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>Lesson 12.3 Introducing the While Loop in C</title>
+<link>https://od.lk/s/OTdfMzU3MTM4Nl8/Lesson%2012.3%20%20Introducing%20the%20While%20Loop%20in%20C.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MTQ5OF8/C_Programming.svg.png</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MTQ5OV8/Computer-Programming.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>Lesson 12.4 Introducing Custom Functions in C</title>
+<link>https://od.lk/s/OTdfMzU3MTM4N18/Lesson%2012.4%20%20Introducing%20Custom%20Functions%20in%20C.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MTQ5OF8/C_Programming.svg.png</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MTQ5OV8/Computer-Programming.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>Lesson 12.5 Introducing Booleans</title>
+<link>https://od.lk/s/OTdfMzU3MTM4OF8/Lesson%2012.5%20%20Introducing%20Booleans.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MTQ5OF8/C_Programming.svg.png</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MTQ5OV8/Computer-Programming.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>Lesson 12.6 Introducing Bitmasks</title>
+<link>https://od.lk/s/OTdfMzU3MTM4OV8/Lesson%2012.6%20%20Introducing%20Bitmasks.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MTQ5OF8/C_Programming.svg.png</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MTQ5OV8/Computer-Programming.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>Lesson 12.7 Changing data using bitmasks</title>
+<link>https://od.lk/s/OTdfMzU3MTM5MF8/Lesson%2012.7%20%20Changing%20data%20using%20bitmasks.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MTQ5OF8/C_Programming.svg.png</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MTQ5OV8/Computer-Programming.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>Unit 12 Supplemental Video Displaying data in memory as binary</title>
+<link>https://od.lk/s/OTdfMzU3MTM5N18/Unit%2012%20Supplemental%20Video%20%20Displaying%20data%20in%20memory%20as%20binary.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MTQ5OF8/C_Programming.svg.png</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MTQ5OV8/Computer-Programming.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>Lesson 12.8 Introduction to data structures</title>
+<link>https://od.lk/s/OTdfMzU3MTM5MV8/Lesson%2012.8%20%20Introduction%20to%20data%20structures.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MTQ5OF8/C_Programming.svg.png</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MTQ5OV8/Computer-Programming.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>Lesson 13.1 Introduction to Algorithm Design Part 1</title>
+<link>https://od.lk/s/OTdfMzU3MTM5Ml8/Lesson%2013.1%20%20Introduction%20to%20Algorithm%20Design%20Part%201.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MTQ5OF8/C_Programming.svg.png</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MTQ5OV8/Computer-Programming.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>Lesson 13.2 Basics of Algorithm Design Part 2 Introducing the For Loop in C</title>
+<link>https://od.lk/s/OTdfMzU3MTM5M18/Lesson%2013.2%20%20Basics%20of%20Algorithm%20Design%20Part%202%20%20Introducing%20the%20For%20Loop%20in%20C.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MTQ5OF8/C_Programming.svg.png</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MTQ5OV8/Computer-Programming.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>Lesson 13.2 Supplemental Printing Binary Data #2</title>
+<link>https://od.lk/s/OTdfMzU3MTM5NF8/Lesson%2013.2%20%20Supplemental%20%20Printing%20Binary%20Data%20%232.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MTQ5OF8/C_Programming.svg.png</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MTQ5OV8/Computer-Programming.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzU3MTQ5OF8/C_Programming.svg.png</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MTQ5OV8/Computer-Programming.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzU3MTQ5OF8/C_Programming.svg.png</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MTQ5OV8/Computer-Programming.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzU3MTQ5OF8/C_Programming.svg.png</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MTQ5OV8/Computer-Programming.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzU3MTQ5OF8/C_Programming.svg.png</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MTQ5OV8/Computer-Programming.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzU3MTQ5OF8/C_Programming.svg.png</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MTQ5OV8/Computer-Programming.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzU3MTQ5OF8/C_Programming.svg.png</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MTQ5OV8/Computer-Programming.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzU3MTQ5OF8/C_Programming.svg.png</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MTQ5OV8/Computer-Programming.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzU3MTQ5OF8/C_Programming.svg.png</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MTQ5OV8/Computer-Programming.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzU3MTQ5OF8/C_Programming.svg.png</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MTQ5OV8/Computer-Programming.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzU3MTQ5OF8/C_Programming.svg.png</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MTQ5OV8/Computer-Programming.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzU3MTQ5OF8/C_Programming.svg.png</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MTQ5OV8/Computer-Programming.jpg</fanart>
+<info></info> 
+</item>

@@ -1,0 +1,29 @@
+<item>
+<title>CD1</title>
+<link>https://od.lk/s/OTdfMzQ1Mjk3NV8/Now%2095%20cd1.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQ1Mjk3MV8/Cover.jpg</thumbnail>
+<fanart></fanart>
+<info>1. James Arthur	Say You Won't Let Go
+2. Little Mix	Shout Out To My Ex
+3. Clean Bandit feat. Sean Paul & Anne	Rockabye
+4. The Chainsmokers feat. Halsey	Closer
+5. Major Lazer feat. Justin Bieber and MØ	Cold Water
+6. Ariana Grande feat. Nicki Minaj	Side To Side
+7. Sia	The Greatest
+8. Calvin Harris	My Way
+9. Hailee Steinfeld & Grey feat. Zedd	Starving
+10. M.O	Who Do You Think Of?
+11. NEIKED feat. Dyo	Sexual
+12. Anne Marie	Alarm
+13. Olly Murs	You Don't Know Love
+14. MØ	Final Song
+15. Maroon 5	Don't Wanna Know
+16. JP Cooper	September Song
+17. Shawn Mendes	Mercy
+18. Ellie Goulding	Still Falling For You (from ‘Bridget Jones's Baby’)
+19. Emeli Sandé	Hurts
+20. Michael Bublé	I Believe in You
+21. Craig David	All We Needed
+22. Drake feat. WizKid & Kyla	One Dance</info>
+</item>
+

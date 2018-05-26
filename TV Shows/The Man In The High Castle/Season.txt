@@ -1,0 +1,41 @@
+﻿
+
+
+
+
+
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+<channel>
+<name>Season 1</name>
+<thumbnail>https://od.lk/s/OTdfMzUzMDk4MV8/The%20Man%20In%20The%20High%20Castle.jpg</thumbnail>
+<externallink>https://goo.gl/NG0qKV</externallink>
+<fanart>https://od.lk/s/OTdfMzUzMDk4Ml8/The%20Man%20in%20the%20High%20Castle%20f.jpg</fanart>
+<genre> Drama, Sci-Fi, Thriller </genre>
+<info>What would it be like if the Allied Powers had lost WWII, and Japan and Germany ruled the United States?</info>
+</channel>
+
+<channel>
+<name>Season 2</name>
+<thumbnail>https://od.lk/s/OTdfMzUzMDk4MV8/The%20Man%20In%20The%20High%20Castle.jpg</thumbnail>
+<externallink>https://goo.gl/bX0xs7</externallink>
+<fanart>https://od.lk/s/OTdfMzUzMDk4Ml8/The%20Man%20in%20the%20High%20Castle%20f.jpg</fanart>
+<genre> Drama, Sci-Fi, Thriller </genre>
+<info>What would it be like if the Allied Powers had lost WWII, and Japan and Germany ruled the United States?</info>
+</channel>
+
+</channels>
+
+
+
+
+
+
+
+
+
+
+
+

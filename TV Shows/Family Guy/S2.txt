@@ -1,0 +1,211 @@
+<item>
+<title>S2 EP1 Peter, Peter, Caviar Eater</title>
+<link>https://od.lk/s/OTdfMzUzNjczOF8/Family%20Guy%20-%20S02E01.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY2Nl8/s2.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Peter, Peter, Caviar Eater
+Peter changes for the worse after he and Lois inherit a mansion in Newport.</info>
+</item>
+
+<item>
+<title>S2 EP2 Holy Crap</title>
+<link>https://od.lk/s/OTdfMzUzNjczOV8/Family%20Guy%20-%20S02E02.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY2Nl8/s2.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Holy Crap
+Peter's ultra-religious father causes trouble when he comes to live with the family.</info>
+</item>
+
+<item>
+<title>S2 EP3 Da Boom</title>
+<link>https://od.lk/s/OTdfMzUzNjc0MF8/Family%20Guy%20-%20S02E03.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY2Nl8/s2.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Da Boom
+The Griffins survive a Y2K atomic holocaust and attempt to rebuild civilization.</info>
+</item>
+
+<item>
+<title>S2 EP4 Brian in Love</title>
+<link>https://od.lk/s/OTdfMzUzNjc0MV8/Family%20Guy%20-%20S02E04.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY2Nl8/s2.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Brian in Love
+Brian suffers from a mid-life crisis that may be due to unrequited love.</info>
+</item>
+
+<item>
+<title>S2 EP5 Love Thy Trophy</title>
+<link>https://od.lk/s/OTdfMzUzNjc0Ml8/Family%20Guy%20-%20S02E05.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY2Nl8/s2.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Love Thy Trophy
+Everyone on Spooner Street becomes enemies when a trophy they all won mysteriously goes missing; Meg makes extra tips at her new job as a waitress by telling everyone she's unwed, teenage mother of Stewie.</info>
+</item>
+
+<item>
+<title>S2 EP6 Death Is a Bitch</title>
+<link>https://od.lk/s/OTdfMzUzNjc0M18/Family%20Guy%20-%20S02E06.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY2Nl8/s2.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Death Is a Bitch
+To avoid paying an expensive hospital bill, Peter says he's dead on the sign-out sheet. When chasing Peter down, Death twists his ankle and Peter must take his place.</info>
+</item>
+
+<item>
+<title>S2 EP7 The King Is Dead</title>
+<link>https://od.lk/s/OTdfMzUzNjc0NF8/Family%20Guy%20-%20S02E07.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY2Nl8/s2.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>The King Is Dead
+Peter takes over Lois' production of The King and I.</info>
+</item>
+
+<item>
+<title>S2 EP8 I Am Peter, Hear Me Roar</title>
+<link>https://od.lk/s/OTdfMzUzNjcyNF8/Family%20Guy%20-%20S02E08.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY2Nl8/s2.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>I Am Peter, Hear Me Roar
+When Peter is sued for sexual harassment, he is forced to attend a woman's retreat for sensitivity training, and soon embraces his newfound feminine side.</info>
+</item>
+
+<item>
+<title>S2 EP9 If I'm Dyin' I'm Lyin'</title>
+<link>https://od.lk/s/OTdfMzUzNjcyNV8/Family%20Guy%20-%20S02E09.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY2Nl8/s2.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>If I'm Dyin' I'm Lyin'
+Peter's attempt to un-cancel a TV show gets him worshiped as a god.</info>
+</item>
+
+<item>
+<title>S2 EP10 Running Mates</title>
+<link>https://od.lk/s/OTdfMzUzNjcyNl8/Family%20Guy%20-%20S02E10.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY2Nl8/s2.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Running Mates
+Peter and Lois face off in a school board election.</info>
+</item>
+
+<item>
+<title>S2 EP11 A Picture Is Worth 1,000 Bucks</title>
+<link>https://od.lk/s/OTdfMzUzNjcyN18/Family%20Guy%20-%20S02E11.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY2Nl8/s2.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>A Picture Is Worth 1,000 Bucks
+Chris' artwork gets discovered by a famous critic.</info>
+</item>
+
+<item>
+<title>S2 EP12 Fifteen Minutes of Shame</title>
+<link>https://od.lk/s/OTdfMzUzNjcyOF8/Family%20Guy%20-%20S02E12.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY2Nl8/s2.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Fifteen Minutes of Shame
+Meg's plan to embarrass her family backfires.</info>
+</item>
+
+<item>
+<title>S2 EP13 Road to Rhode Island</title>
+<link>https://od.lk/s/OTdfMzUzNjcyOV8/Family%20Guy%20-%20S02E13.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY2Nl8/s2.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Road to Rhode Island
+Brian and Stewie have to make their way across the US.</info>
+</item>
+
+<item>
+<title>S2 EP14 Let's Go to the Hop</title>
+<link>https://od.lk/s/OTdfMzUzNjczMF8/Family%20Guy%20-%20S02E14.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY2Nl8/s2.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Let's Go to the Hop
+Peter goes undercover to stop a toad-licking epidemic.</info>
+</item>
+
+<item>
+<title>S2 EP15 Dammit Janet</title>
+<link>https://od.lk/s/OTdfMzUzNjczMV8/Family%20Guy%20-%20S02E15.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY2Nl8/s2.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Dammit Janet
+Stewie discovers love at the day care center.</info>
+</item>
+
+<item>
+<title>S2 EP16 There's Something About Paulie</title>
+<link>https://od.lk/s/OTdfMzUzNjczMl8/Family%20Guy%20-%20S02E16.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY2Nl8/s2.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>There's Something About Paulie
+Peter has to repay a mafia debt by playing babysitter for Big Fat Paulie.</info>
+</item>
+
+<item>
+<title>S2 EP17 He's Too Sexy for His Fat</title>
+<link>https://od.lk/s/OTdfMzUzNjczM18/Family%20Guy%20-%20S02E17.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY2Nl8/s2.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>He's Too Sexy for His Fat
+Liposuction turns Peter beautiful, but insufferable.</info>
+</item>
+
+<item>
+<title>S2 EP18 E. Peterbus Unum</title>
+<link>https://od.lk/s/OTdfMzUzNjczNF8/Family%20Guy%20-%20S02E18.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY2Nl8/s2.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>E. Peterbus Unum
+Peter's home becomes an independent nation and goes to war with the US.</info>
+</item>
+
+<item>
+<title>S2 EP19 The Story on Page One</title>
+<link>https://od.lk/s/OTdfMzUzNjczNV8/Family%20Guy%20-%20S02E19.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY2Nl8/s2.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>The Story on Page One
+Meg gets the lead story in her school paper, but it's not the one she wrote.</info>
+</item>
+
+<item>
+<title>S2 EP20 Wasted Talent</title>
+<link>https://od.lk/s/OTdfMzUzNjczNl8/Family%20Guy%20-%20S02E20.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY2Nl8/s2.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Wasted Talent
+Peter becomes a master pianist as long as he's drunk.</info>
+</item>
+
+<item>
+<title>S2 EP21 Fore, Father</title>
+<link>https://od.lk/s/OTdfMzUzNjczN18/Family%20Guy%20-%20S02E21.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY2Nl8/s2.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Fore, Father
+Peter becomes a golf mentor to Cleveland's son.</info>
+</item>
+
+

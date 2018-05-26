@@ -1,0 +1,200 @@
+<item>
+<title>S14 EP1 Pilling Them Softly</title>
+<link>https://od.lk/s/OTdfMzU0NTYzOV8/S14E01.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3OF8/s14.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Pilling Them Softly
+Stewie gets addicted to Adderal; Peter and Quagmire make their own cooking shows which rival each other.</info>
+</item>
+
+<item>
+<title>S14 EP2 Papa Has a Rollin' Son</title>
+<link>https://od.lk/s/OTdfMzU0NTY0MV8/S14E02.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3OF8/s14.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Papa Has a Rollin' Son
+When Joe learns his father hates handicapped people, Peter pretends to be Joe; Stewie becomes friends with Tom Cruise after learning he will grow up to be only 5'1.</info>
+</item>
+
+<item>
+<title>S14 EP3 Guy, Robot</title>
+<link>https://od.lk/s/OTdfMzU0NTY0Ml8/S14E03.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3OF8/s14.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Guy, Robot
+Stewie builds a robot friend after a fight with Brian and Lois makes Peter buy a new mattress.</info>
+</item>
+
+<item>
+<title>S14 EP4 Peternormal Activity</title>
+<link>https://od.lk/s/OTdfMzU0NTY0M18/S14E04.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3OF8/s14.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Peternormal Activity
+When the guys go to an abandoned asylum to gain inspiration for a new horror movie, they accidentally kill a man who they think is keeping them hostage. Annoyed with Brian is perceived pretension, Stewie endeavours to destroy his glasses.</info>
+</item>
+
+<item>
+<title>S14 EP5 Peter, Chris & Brian</title>
+<link>https://od.lk/s/OTdfMzU0NTY0NF8/S14E05.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3OF8/s14.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Peter, Chris & Brian
+After Peter watches a VHS tape of his younger self, he discovers that he's a failure. With Brian's help, he launches a plan to make sure that Chris doesn't take the same path.</info>
+</item>
+
+<item>
+<title>S14 EP6 Peter's Sister</title>
+<link>https://od.lk/s/OTdfMzU0NTY0N18/S14E06.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3OF8/s14.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Peter's Sister
+Peter's sister Karen comes over for Thanksgiving, while Stewie goes a little too far as he and Brian go on a cleanse to avoid overeating.</info>
+</item>
+
+<item>
+<title>S14 EP7 Hot Pocket-Dial</title>
+<link>https://od.lk/s/OTdfMzU0NTY0OF8/S14E07.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3OF8/s14.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Hot Pocket-Dial
+Quagmire finally confesses his love for Lois, but it happens while he accidentally pocket dials Peter, who is furious, so Brian tries to fix the situation.</info>
+</item>
+
+<item>
+<title>S14 EP8 Brokeback Swanson</title>
+<link>https://od.lk/s/OTdfMzU0NTY0OV8/S14E08.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3OF8/s14.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Brokeback Swanson
+Joe becomes a quadriplegic while Brian has an affair with a married woman.</info>
+</item>
+
+<item>
+<title>S14 EP9 A Shot in the Dark</title>
+<link>https://od.lk/s/OTdfMzU0NTY1MF8/S14E09.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3OF8/s14.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>A Shot in the Dark
+While participating in a newly formed neighborhood watch group, Peter is arrested and charged with a hate crime.</info>
+</item>
+
+<item>
+<title>S14 EP10 Candy, Quahog Marshmallow</title>
+<link>https://od.lk/s/OTdfMzU0NTYyNl8/S14E10.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3OF8/s14.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Candy, Quahog Marshmallow
+When the guys travel to Korea to retrieve the final episode of an Asian soap that Quagmire starred in, Quagmire is reunited with a former lover.</info>
+</item>
+
+<item>
+<title>S14 EP11 The Peanut Butter Kid</title>
+<link>https://od.lk/s/OTdfMzU0NTYyN18/S14E11.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3OF8/s14.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>The Peanut Butter Kid
+Stewie's new role brings Peter and Lois into show business.</info>
+</item>
+
+<item>
+<title>S14 EP12 Scammed Yankees</title>
+<link>https://od.lk/s/OTdfMzU0NTYyOV8/S14E12.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3OF8/s14.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Scammed Yankees
+Peter and Carter go to Africa to return Carter's money he lost to a Nigerian scammer. Meanwhile, Brian tries to hook up with one of Meg's friends after he finds out that she has a great body.</info>
+</item>
+
+<item>
+<title>S14 EP13 An App a Day</title>
+<link>https://od.lk/s/OTdfMzU0NTYzMV8/S14E13.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3OF8/s14.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>An App a Day
+Peter learns about phone apps and overloads his phone with them. He buys a new phone with more memory and gives his old phone to Chris, which causes a series of horrible events. Meanwhile, Stewie joins a tennis club and invites Brian to be his tennis partner.</info>
+</item>
+
+<item>
+<title>S14 EP14 Underage Peter</title>
+<link>https://od.lk/s/OTdfMzU0NTYzMl8/S14E14.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3OF8/s14.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Underage Peter
+Peter uses Brian as a way to get alcohol, after Mayor West bans alcohol from all people under 50.</info>
+</item>
+
+<item>
+<title>S14 EP15 A Lot Going on Upstairs</title>
+<link>https://od.lk/s/OTdfMzU0NTYzM18/S14E15.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3OF8/s14.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>A Lot Going on Upstairs
+Peter turns the attic into a man cave, which makes Lois furious; Stewie builds a device to enable Brian to help Stewie conquer his terrifying nightmares.</info>
+</item>
+
+<item>
+<title>S14 EP16 The Heartbreak Dog</title>
+<link>https://od.lk/s/OTdfMzU0NTYzNF8/S14E16.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3OF8/s14.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>The Heartbreak Dog
+Brian and Bonnie run away together after declaring their love for each other meanwhile Meg starts volunteer work in a retirement home.</info>
+</item>
+
+<item>
+<title>S14 EP17 Take a Letter</title>
+<link>https://od.lk/s/OTdfMzU0NTYzNV8/S14E17.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3OF8/s14.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Take a Letter
+An old flame returns to Peter's life after Lois finds a dead letter at the post office. Stewie goes to a new preschool and tries to fit in with a rich new friend.</info>
+</item>
+
+<item>
+<title>S14 EP18 The New Adventures of Old Tom</title>
+<link>https://od.lk/s/OTdfMzU0NTYzNl8/S14E18.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3OF8/s14.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>The New Adventures of Old Tom
+Peter gets lost in the mall while Brian pretends to be a millionaire to impress a woman.</info>
+</item>
+
+<item>
+<title>S14 EP19 Run, Chris, Run</title>
+<link>https://od.lk/s/OTdfMzU0NTYzN18/S14E19.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3OF8/s14.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Run, Chris, Run
+Meg discovers that the cool kids only elected Chris homecoming king just to prank him. In the meantime, Peter, Joe and Quagmire look for a new black friend when Cleveland starts hanging out with Jerome.</info>
+</item>
+
+<item>
+<title>S14 EP20 Road to India</title>
+<link>https://od.lk/s/OTdfMzU0NTYzOF8/S14E20.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3OF8/s14.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Road to India
+Brian falls in love with a tech support girl, so he and Stewie go to India to find her. Meanwhile, Peter becomes the center of attention when he's invited to Joe's bingo night.</info>
+</item>
+

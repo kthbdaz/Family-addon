@@ -1,0 +1,39 @@
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+<channel>
+<name>Electrical tips</name>
+<thumbnail>https://od.lk/s/OTdfMzU2MTk0OF8/electric.jpg</thumbnail>
+<externallink>https://goo.gl/glsHkJ</externallink>
+<fanart>https://od.lk/s/OTdfMzU2MTk1M18/DIY-f%20Logo.jpg</fanart>
+<info>how to change a plug
+how to change battery in smoke alarms ect</info>
+</channel>
+
+<channel>
+<name>Plumbing tips</name>
+<thumbnail>https://od.lk/s/OTdfMzU2MTk1MF8/plumbingICON.png</thumbnail>
+<externallink>https://goo.gl/oSUR3X</externallink>
+<fanart>https://od.lk/s/OTdfMzU2MTk1M18/DIY-f%20Logo.jpg</fanart>
+<info>unblock sinks and toilets</info>
+</channel>
+
+<channel>
+<name>Decorating tips</name>
+<thumbnail>https://od.lk/s/OTdfMzU2MTk0OV8/Home-Decor-icon.jpg</thumbnail>
+<externallink>https://goo.gl/ScbOuC</externallink>
+<fanart>https://od.lk/s/OTdfMzU2MTk1M18/DIY-f%20Logo.jpg</fanart>
+<info>hanging wallpaper ect</info>
+</channel>
+
+<channel>
+<name>How to do basic diy jobs</name>
+<thumbnail>https://od.lk/s/OTdfMzU2MTk1NF8/DIY-Logo.jpg</thumbnail>
+<externallink>https://goo.gl/GpP8Pu</externallink>
+<fanart>https://od.lk/s/OTdfMzU2MTk1M18/DIY-f%20Logo.jpg</fanart>
+<info>drilling holes
+smoke alarms ect</info>
+</channel>
+
+</channels>

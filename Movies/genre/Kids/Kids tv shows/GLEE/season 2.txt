@@ -1,0 +1,219 @@
+<item>
+<title>S2 EP1 Audition</title>
+<link>https://od.lk/s/OTdfMzUzMjU1OF8/Glee%20S02E01%20Audition.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQ3MF8/glee%202.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMjQ4MV8/glee%202%20f.jpg</fanart>
+<genre>Comedy, Drama, Music</genre>
+<info>Audition
+New faces challenge some Glee Club veterans during auditions, while new and old relationships leave some feeling happy, and others sad.</info>
+</item>
+
+<item>
+<title>S2 EP2 Britney/Brittany</title>
+<link>https://od.lk/s/OTdfMzUzMjU1OV8/Glee%20S02E02%20Britney%20Brittany%20.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQ3MF8/glee%202.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMjQ4MV8/glee%202%20f.jpg</fanart>
+<genre>Comedy, Drama, Music</genre>
+<info>Britney/Brittany
+Brittany has hallucinations while at the dentist and channels her inner Britney Spears. Rachel fears her relationship with Finn could be in peril.</info>
+</item>
+
+<item>
+<title>S2 EP3 Grilled Cheesus</title>
+<link>https://od.lk/s/OTdfMzUzMjU2MF8/Glee%20S02E03%20Grilled%20Cheesus%20.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQ3MF8/glee%202.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMjQ4MV8/glee%202%20f.jpg</fanart>
+<genre>Comedy, Drama, Music</genre>
+<info>Grilled Cheesus
+Finn believes he sees the face of Jesus in a grilled cheese sandwich, and random events have the members of the Glee Club questioning religion and God.</info>
+</item>
+
+<item>
+<title>S2 EP4 Duets</title>
+<link>https://od.lk/s/OTdfMzUzMjU2MV8/Glee%20S02E04%20Duets.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQ3MF8/glee%202.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMjQ4MV8/glee%202%20f.jpg</fanart>
+<genre>Comedy, Drama, Music</genre>
+<info>Duets
+Will's duet challenge, with a free meal for the winners, causes some relationship issues between the members of the club.</info>
+</item>
+
+<item>
+<title>S2 EP5 The Rocky Horror Glee Show</title>
+<link>https://od.lk/s/OTdfMzUzMjU2Ml8/Glee%20S02E05%20The%20Rocky%20Horror%20Glee%20Show.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQ3MF8/glee%202.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMjQ4MV8/glee%202%20f.jpg</fanart>
+<genre>Comedy, Drama, Music</genre>
+<info>The Rocky Horror Glee Show
+On a jealous impulse, Will decides to stage "The Rocky Horror Picture Show" as the school play, and Sue encourages him for devious reasons.</info>
+</item>
+
+<item>
+<title>S2 EP6 Never Been Kissed</title>
+<link>https://od.lk/s/OTdfMzUzMjU2M18/Glee%20S02E06%20Never%20Been%20Kissed.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQ3MF8/glee%202.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMjQ4MV8/glee%202%20f.jpg</fanart>
+<genre>Comedy, Drama, Music</genre>
+<info>Never Been Kissed
+Will hosts the second annual Boys vs. Girls competition, while Puck finally gets out of juvenile detention.</info>
+</item>
+
+<item>
+<title>S2 EP7 The Substitute</title>
+<link>https://od.lk/s/OTdfMzUzMjU2NV8/Glee%20S02E07%20The%20Substitute.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQ3MF8/glee%202.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMjQ4MV8/glee%202%20f.jpg</fanart>
+<genre>Comedy, Drama, Music</genre>
+<info>The Substitute
+A substitute teacher takes over for a sick Will and wows the group with her unconventional teaching methods.</info>
+</item>
+
+<item>
+<title>S2 EP8 Furt</title>
+<link>https://od.lk/s/OTdfMzUzMjQ5NV8/Glee%20S02E08%20Furt.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQ3MF8/glee%202.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMjQ4MV8/glee%202%20f.jpg</fanart>
+<genre>Comedy, Drama, Music</genre>
+<info>Furt
+Sue plans a wedding where her mom wants to sing; Kurt plans the wedding of his dad and Finn's mom. Will Finn face down Kurt's tormentor?</info>
+</item>
+
+<item>
+<title>S2 EP9 Special Education</title>
+<link>https://od.lk/s/OTdfMzUzMjQ5OV8/Glee%20S02E09%20Special%20Education.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQ3MF8/glee%202.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMjQ4MV8/glee%202%20f.jpg</fanart>
+<genre>Comedy, Drama, Music</genre>
+<info>Special Education
+New Directions face fierce competition against the Hipsters and Warblers. Finn and Rachel and Emma and Carl experience relationship trouble.</info>
+</item>
+
+<item>
+<title>S2 EP10 A Very Glee Christmas</title>
+<link>https://od.lk/s/OTdfMzUzMjUxNV8/Glee%20S02E10%20A%20Very%20Glee%20Christmas.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQ3MF8/glee%202.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMjQ4MV8/glee%202%20f.jpg</fanart>
+<genre>Comedy, Drama, Music</genre>
+<info>A Very Glee Christmas
+Finn tries to get everyone at McKinley High into the holiday spirit. Sue paints herself up as the Grinch to steal back presents.</info>
+</item>
+
+<item>
+<title>S2 EP11 The Sue Sylvester Shuffle</title>
+<link>https://od.lk/s/OTdfMzUzMjUxNl8/Glee%20S02E11%20The%20Sue%20Sylvester%20Shuffle.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQ3MF8/glee%202.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMjQ4MV8/glee%202%20f.jpg</fanart>
+<genre>Comedy, Drama, Music</genre>
+<info>The Sue Sylvester Shuffle
+A huge halftime performance is planned during the championship football game at McKinley High. Sue's Cheerios have trouble at the Regionals.</info>
+</item>
+
+<item>
+<title>S2 EP12 Silly Love Songs</title>
+<link>https://od.lk/s/OTdfMzUzMjUxOF8/Glee%20S02E12%20Silly%20Love%20Songs.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQ3MF8/glee%202.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMjQ4MV8/glee%202%20f.jpg</fanart>
+<genre>Comedy, Drama, Music</genre>
+<info>Silly Love Songs
+As Valentine's Day approaches, it's all about romance, connections, hope, stolen kisses, heartbreak, and spite.</info>
+</item>
+
+<item>
+<title>S2 EP13 Comeback</title>
+<link>https://od.lk/s/OTdfMzUzMjUxOV8/Glee%20S02E13%20Comeback.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQ3MF8/glee%202.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMjQ4MV8/glee%202%20f.jpg</fanart>
+<genre>Comedy, Drama, Music</genre>
+<info>Comeback
+Sue is depressed since her loss at Regionals. Brittany starts a new fashion trend at school to the dismay of Rachel who showed her what to wear.</info>
+</item>
+
+<item>
+<title>S2 EP14 Blame It on the Alcohol</title>
+<link>https://od.lk/s/OTdfMzUzMjUyMF8/Glee%20S02E14%20Blame%20It%20on%20the%20Alcohol.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQ3MF8/glee%202.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMjQ4MV8/glee%202%20f.jpg</fanart>
+<genre>Comedy, Drama, Music</genre>
+<info>Blame It on the Alcohol
+Will has the Glee Club perform a song about underage drinking, but the message might lose impact when they come to school with hangovers.</info>
+</item>
+
+<item>
+<title>S2 EP15 Sexy</title>
+<link>https://od.lk/s/OTdfMzUzMjUyM18/Glee%20S02E15%20Sexy.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQ3MF8/glee%202.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMjQ4MV8/glee%202%20f.jpg</fanart>
+<genre>Comedy, Drama, Music</genre>
+<info>Sexy
+Holly Holliday returns to McKinley High to teach sex education to the students. Puck and Lauren join the celibacy club.</info>
+</item>
+
+<item>
+<title>S2 EP16 Original Song</title>
+<link>https://od.lk/s/OTdfMzUzMjUzNV8/Glee%20S02E16%20Original%20Song.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQ3MF8/glee%202.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMjQ4MV8/glee%202%20f.jpg</fanart>
+<genre>Comedy, Drama, Music</genre>
+<info>Original Song
+New Directions wants to get an edge at the Regionals and decides to use original songs. Blaine wants to try a new strategy during Regionals.</info>
+</item>
+
+<item>
+<title>S2 EP17 A Night of Neglect</title>
+<link>https://od.lk/s/OTdfMzUzMjUzN18/Glee%20S02E17%20A%20Night%20of%20Neglect.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQ3MF8/glee%202.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMjQ4MV8/glee%202%20f.jpg</fanart>
+<genre>Comedy, Drama, Music</genre>
+<info>A Night of Neglect
+Will tries to come up with ways to raise money to send the kids to the Nationals. Sandy forms "the Heckling Club" with eyes on the glee team.</info>
+</item>
+
+<item>
+<title>S2 EP18 Born This Way</title>
+<link>https://od.lk/s/OTdfMzUzMjU0MF8/Glee%20S02E18%20Born%20This%20Way.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQ3MF8/glee%202.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMjQ4MV8/glee%202%20f.jpg</fanart>
+<genre>Comedy, Drama, Music</genre>
+<info>Born This Way
+Finn accidentally breaks Rachel's nose during dance rehearsals. The campaign to become prom queen heats up between the girls.</info>
+</item>
+
+<item>
+<title>S2 EP19 Rumours</title>
+<link>https://od.lk/s/OTdfMzUzMjU0MV8/Glee%20S02E19%20Rumours.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQ3MF8/glee%202.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMjQ4MV8/glee%202%20f.jpg</fanart>
+<genre>Comedy, Drama, Music</genre>
+<info>Rumours
+Brittany's new internet talk show spreads like wildfire around the school. April returns to McKinley High after an unsuccessful attempt on Broadway.</info>
+</item>
+
+<item>
+<title>S2 EP20 Prom Queen</title>
+<link>https://od.lk/s/OTdfMzUzMjU1NF8/Glee%20S02E20%20Prom%20Queen.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQ3MF8/glee%202.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMjQ4MV8/glee%202%20f.jpg</fanart>
+<genre>Comedy, Drama, Music</genre>
+<info>Prom Queen
+The prom arrives. The glee club performs as a substitute band, Kurt wants to have a good time with Blaine, while Quinn and Santana vie for the crown.</info>
+</item>
+
+<item>
+<title>S2 EP21 Funeral</title>
+<link>https://od.lk/s/OTdfMzUzMjU1NV8/Glee%20S02E21%20Funeral.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQ3MF8/glee%202.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMjQ4MV8/glee%202%20f.jpg</fanart>
+<genre>Comedy, Drama, Music</genre>
+<info>Funeral
+Coach Sylvester tries to sabatoge the New Directions' trip to New York. The Glee Club performs songs at a funeral. Finn has bad news for Quinn.</info>
+</item>
+
+<item>
+<title>S2 EP22 New York</title>
+<link>https://od.lk/s/OTdfMzUzMjU1Nl8/Glee%20S02E22%20New%20York.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQ3MF8/glee%202.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMjQ4MV8/glee%202%20f.jpg</fanart>
+<genre>Comedy, Drama, Music</genre>
+<info>New York
+The Glee Club gets ready to perform at the Nationals in New York. Finn and Rachel have an emotional moment on stage during the competition.</info>
+</item>

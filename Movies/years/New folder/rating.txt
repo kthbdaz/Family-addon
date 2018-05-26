@@ -1,0 +1,5 @@
+<div class="rating">
+<p></p>
+<div class="stars">
+<div class="stars-in star8"></div>
+</div>

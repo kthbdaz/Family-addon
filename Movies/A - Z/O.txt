@@ -1,0 +1,186 @@
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>One Under The Sun 2017</title>
+<link>https://od.lk/s/OTdfMzY0NTUzNV8/One.Under.The.Sun.2017.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzY0NTU3Ml8/icon.jpg</thumbnail>
+<fanart></fanart>
+<genre> Drama, Mystery, Sci-Fi </genre>
+<info>Astronaut Kathryn Voss, sole survivor of a disastrous space mission, is desperate to reunite with her terminally ill daughter but becomes a fugitive when the government discovers she's returned to earth with an extraordinary gift.</info>
+</item>
+
+<item>
+<title>One of Us (2017)</title>
+<link>https://od.lk/s/OTdfMzY0NTA5Ml8/One.of.Us.2017.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzY0NTEwOV8/icon.jpg</thumbnail>
+<fanart></fanart>
+<genre> Drama, Horror, Mystery</genre>
+<info>A young journalist goes deep undercover within a mountain commune and becomes manipulated by a duplicitous cult leader.</info>
+</item>
+
+<item>
+<title>Office Christmas Party (2016)</title>
+<link>https://od.lk/s/OTdfMzY0NDAzOF8/Office.Christmas.Party.2016.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzY0NDA0MV8/Office%20Christmas%20Party%20%282016%29.jpg</thumbnail>
+<fanart></fanart>
+<genre>Comedy</genre>
+<info>When the CEO (Jennifer Aniston) tries to close her hard-partying brother's branch, he (T.J. Miller) and his Chief Technical Officer (Jason Bateman) must rally their co-workers and host an epic office Christmas party in an effort to impress a potential client and close a sale that will save their jobs.</info>
+</item>
+
+<item>
+<title>Officer Downe (2016)</title>
+<link>https://od.lk/s/OTdfMzU4OTM2OF8/Officer.Downe.2016.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzU4OTM3N18/Officer%20Downe%20%282016%29.jpg</thumbnail>
+<fanart></fanart>
+<genre> Action, Comedy, Sci-Fi </genre>
+<info>Based on the Man of Action/Image Comics original graphic novel created by Joe Casey and Chris Burnham, written by Joe Casey, about a police officer who can't be stopped by death so he returns to the streets time and time again to fight crime.</info>
+</item>
+
+<item>
+<title>Onus.2016</title>
+<link>https://od.lk/s/OTdfMzUzMjYxOF8/Onus.2016.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjYyMF8/onus.jpg</thumbnail>
+<fanart></fanart>
+<genre>Drama, Mystery, Thriller</genre>
+<info>A boy wakes up below a cliff, bloodied, with a gun in his hand, and chained to a man who lies beside him… He stresses hard to remember what happened, and soon the puzzle of the days events come back to him. The story begins.</info>
+</item>
+
+<item>
+<title>Ozzy (2016)</title>
+<link>https://od.lk/s/OTdfMzU2MTc5Nl8/Ozzy.2016.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzU2MTg0OF8/Ozzy%20%282016%29.jpg</thumbnail>
+<fanart></fanart>
+<genre> Animation</genre>
+<info>Ozzy, a friendly, peaceful beagle has his idyllic life turned upside down when the Martins leave on a long and distant trip. There's only one problem: no dogs allowed! Unable to bring their beloved Ozzy along for the ride, they settle on the next best thing, a top-of-the-line canine spa called Blue Creek. This picture perfect place turns out to be a facade constructed by its villainous owner to capture dogs. Ozzy will soon end up in the real Blue Creek, a prison for dogs, run by dogs. Ozzy will have to avoid danger and find strength in his new friends, Chester, Fronky and Doc to escape the prison and return home safely. The narrative of 'OZZY' aims to follow in the footsteps of movies which employs Pixar-like quality and fun. 'OZZY' is an animated comedy-adventure movie targeted for kids of all ages and represents family entertainment at its best. The story itself is based, almost entirely, around dogs. 'OZZY' falls into the "prison movie" genre with funny tributes to the great prison..</info>
+</item>
+
+<item>
+<title>Operation Chromite (2016)</title>
+<link>https://od.lk/s/OTdfMzU0NzExM18/Operation.Chromite.2016.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzU0NzExNl8/Operation%20Chromite%20%282016%29.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU0NzEyMF8/Operation%20Chromite%20f%20%282016%29.jpg</fanart>
+<genre> Action, Drama, History</genre>
+<info>American General Douglas MacArthur (Liam Neeson) sends eight members of the Korean Liaison Office, led by a South Korean Navy Lieutenant (Lee Jung-Jae) on a secret mission far behind North Korean lines to carry out Operation "X-ray". This covert operation must succeed so that MacArthur can launch the daring Incheon Landing Operation.This is a fictionalized version of the historical CIA/military intelligence operation "Trudy Jackson", part of Operation Chromite.</info>
+</item>
+
+<item>
+<title>Open Marriage (2017)</title>
+<link>https://od.lk/s/OTdfMzU0Mjk5N18/open.marriage.2017.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU0MzAwMV8/Open%20Marriage%20%282017%29.jpg</thumbnail>
+<fanart></fanart>
+<genre>Thriller</genre>
+<info>A young, disenchanted couple agree to engage in an open relationship with their two friends in hopes of rekindling their love life, but none of those involved anticipate the jealousy, heartbreak and betrayal that soon follow.</info>
+</item>
+
+<item>
+<title>Operation Avalanche (2016)</title>
+<link>https://od.lk/s/OTdfMzUzNzY1MV8/Operation.Avalanche.2016.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzU0Mjg4MV8/Operation.Avalanche.2016.jpg</thumbnail>
+<fanart></fanart>
+<genre>Thriller</genre>
+<info>1967: the height of the Cold War. The CIA suspects there is a Russian mole inside of NASA, sabotaging the Apollo program. They send two young agents on a mission to go undercover, posing as documentary filmmakers to capture NASA's race to the moon. The real mission - use their access and technology to hunt down the leak. But what they discover is far more shocking than soviet spies - Their government may be hiding a secret about Apollo that could define the decade, and the White House will stop at nothing to silence anyone who learns it.</info>
+</item>
+
+<item>
+<title>Onus.2016</title>
+<link>https://od.lk/s/OTdfMzUzMjYxOF8/Onus.2016.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjYyMF8/onus.jpg</thumbnail>
+<fanart></fanart>
+<genre>Drama, Mystery, Thriller</genre>
+<info>A boy wakes up below a cliff, bloodied, with a gun in his hand, and chained to a man who lies beside him… He stresses hard to remember what happened, and soon the puzzle of the days events come back to him. The story begins.</info>
+</item>
+
+<item>
+<title>Other.Halves.2016</title>
+<link>https://od.lk/s/OTdfMzUyNzI0M18/Other.Halves.2016.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUyNzI1Ml8/Other.Halves.2016.jpg</thumbnail>
+<fanart></fanart>
+<genre> Comedy | Horror | Sci-Fi | Thriller</genre>
+<info>A team of programmers develop a revolutionary new dating app called Other Halves. On the night before the app is set to launch, they discover it causes strange side effects: users lose all self-control, becoming amoral, lascivious, violent... evil. They consider shutting the app down, but... Evil is profitable.</info>
+</item>
+
+<item>
+<title>Officer.Downe.2016</title>
+<link>https://od.lk/s/OTdfMzQ0NDAyMV8/Officer.Downe.2016.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzQ0NDE1NF8/Officer.Downe.2016.jpg</thumbnail>
+<fanart></fanart>
+<info>Action
+Based on the Man of Action/Image Comics original graphic novel created by Joe Casey and Chris Burnham, written by Joe Casey, about a police officer who can't be stopped by death so he returns to the streets time and time again to fight crime.</info>
+</item>
+
+<item>
+<title>Outlaws and Angels.2016</title>
+<link>https://www.dropbox.com/s/ldmk3vvxi56bgly/Outlaws.and.Angels.2016.avi?dl=1</link>
+<thumbnail>https://www.dropbox.com/s/tmwwumt4ja3l2sq/OutlawsAndAngels.png?dl=1</thumbnail>
+<fanart>https://www.dropbox.com/s/2iq5ef9r9xq8zy9/Outlaws-and-Angels-2016-3%20fanart.jpg?dl=1</fanart>
+<info>When outlaws on the lam invade the home of an unsuspecting, seemingly innocent, frontier family to hide out for the night, an unexpected game of cat and mouse ensues, leading to seduction, role reversal, and ultimately, bloody revenge. </info>
+</item>
+
+<item>
+<title>On the Brain 2016</title>
+<link>https://www.dropbox.com/s/fw3hb0yezafmgyr/On.the.Brain.2016.avi?dl=1</link>
+<thumbnail>https://www.dropbox.com/s/em3tdo4e0hhxjk6/OntheBrain.md.jpg?dl=1</thumbnail>
+<fanart>https://www.dropbox.com/s/xi9bj1wy6xeawa5/On%20the%20Brain%202016%20fanart.jpg?dl=1</fanart>
+<info></info>
+</item>
+
+<item>
+<title>Our.Kind.of.Traitor.2016</title>
+<link>https://od.lk/s/OTdfMzQwMDUyM18/Our.Kind.of.Traitor.2016.1080p.BluRay.H264.AAC-RARBG.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQwMDkyNF8/Our%20Kind%20of%20Traitor.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQwMjc4NV8/our-kind-of-traitor.jpg</fanart>
+<info>A couple finds themselves lured into a Russian oligarch's plans to defect, and are soon positioned between the Russian Mafia and the British Secret Service, neither of whom they can trust</info>
+</item>
+
+<item>
+<title>Operator.2016</title>
+<link>https://od.lk/s/OTdfMzQ0MjUzN18/Operator.2016.720p.WEBRip.x264.AAC-ETRG.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQ0MjU0MF8/Operator.2016.jpg</thumbnail>
+<fanart></fanart>
+<info>Comedy, Drama
+Joe, a programmer and obsessive self-quantifier, and Emily, a budding comedy performer, are happily married until they decide to use one another in their work</info>
+</item>
+
+<item>
+<title>Ordinary.World.2016.</title>
+<link>https://od.lk/s/OTdfMzQzMDY3NV8/Ordinary.World.2016.HDRip.XviD.AC3-EVO.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzQzMDY4N18/Ordinary.World.2016.jpg</thumbnail>
+<fanart></fanart>
+<info>The mid-life crisis of a husband and father who, on his 40th birthday, decides to revisit his punk-rock past by throwing an extravagant party in the presidential suite of the Drake Hotel - where he encounters his beautiful ex-girlfriend and former bandmates who have since moved on to bigger and better things.</info>
+</item>
+
+<item>
+<title>One-Eyed.Jacks.1961</title>
+<link>https://od.lk/s/OTdfMzQyNjgwNl8/One-Eyed.Jacks.1961.1080p.BluRay.H264.AAC-RARBG.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQ0MTE1Nl8/One-Eyed.Jacks.1961.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0MTE1N18/One-Eyed.Jacks.1961%20f.jpg</fanart>
+<info>Running from the law after a bank robbery in Mexico, Dad Longworth finds an opportunity to take the stolen gold and leave his partner Rio to be captured. Years later, Rio escapes from the prison where he has been since, and hunts down Dad for revenge. Dad is now a respectable sheriff in California, and has been living in fear of Rio's return.</info>
+</item>
+
+<item>
+<title>Operation.Crossbow.1965</title>
+<link>https://od.lk/s/OTdfMzQyMjU1OV8/Operation.Crossbow.1965.WEBRip.x264-RARBG.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQyMjY0M18/Operation%20Crossbow.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQyMjY0NF8/Operation.Crossbow.1965.jpg</fanart>
+<info>This is the story of the methods used to defeat Hitler's V1 (doodlebug) and V2 (rocket) "revenge weapons" towards the end of the second world war. Even though the Nazis were in retreat these weapons could have turned their defeat into victory. The film includes references to Hannah Reich, who in real life was a German test pilot. </info>
+</item>
+
+<item>
+<title>Ozombie.2012</title>
+<link>https://od.lk/s/OTdfMzQ0NDczNV8/Ozombie.2012.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQ1MzAwNF8/Ozombie.2012.jpg</thumbnail>
+<fanart></fanart>
+<info>Genres: Action | Horror
+Certificate: 18 
+Language: English
+Release Date: 10 August 2013
+Runtime: 92 min
+
+The story follows Dusty, a yoga instructor from Colorado, who is on a desperate rescue mission to save her crazy brother Derek, a conspiracy theorist who is convinced Osama bin Laden is still alive, despite having been buried at sea. In Afghanistan, Dusty falls in with a team of NATO special forces on a secret assignment. Turns out Derek is not so crazy after all, and that Osama has returned from his watery grave and is making an army of zombie terrorists. When the group crashes headlong into the growing zombie apocalypse, Dusty and the troops must find and destroy the root of the zombie insurgency before it infests the rest of the world. </info>
+</item>

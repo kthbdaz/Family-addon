@@ -1,0 +1,37 @@
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+<channel>
+<name>good parenting</name>
+<thumbnail>https://od.lk/s/OTdfMzU2MjAzNF8/parent.png</thumbnail>
+<externallink>https://goo.gl/1GiZ2z</externallink>
+<fanart>https://od.lk/s/OTdfMzU2MjAzNV8/natural-parenting.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>Health</name>
+<thumbnail>https://od.lk/s/OTdfMzU2MjAzNF8/parent.png</thumbnail>
+<externallink>https://goo.gl/LBLQyu</externallink>
+<fanart>https://od.lk/s/OTdfMzU2MjAzNV8/natural-parenting.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>Child Safety</name>
+<thumbnail>https://od.lk/s/OTdfMzU2MjAzNF8/parent.png</thumbnail>
+<externallink>https://goo.gl/YvqiJV</externallink>
+<fanart>https://od.lk/s/OTdfMzU2MjAzNV8/natural-parenting.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>Social services</name>
+<thumbnail>https://od.lk/s/OTdfMzU2MjAzNF8/parent.png</thumbnail>
+<externallink>https://goo.gl/8b4mJL</externallink>
+<fanart>https://od.lk/s/OTdfMzU2MjAzNV8/natural-parenting.jpg</fanart>
+<info></info>
+</channel>
+
+</channels>

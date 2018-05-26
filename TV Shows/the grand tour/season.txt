@@ -1,0 +1,32 @@
+﻿
+
+
+
+
+
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+<channel>
+<name>Season 1</name>
+<thumbnail>https://od.lk/s/OTdfMzQ0NDIyOV8/The.Grand.Tour.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQ0NDIyN18/S1.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQ0NDIzMF8/The.Grand.Tour%20f.png</fanart>
+<genre>Comedy | Talk-Show</genre>
+<info>Follow Jeremy, Richard, and James, as they embark on an adventure across the globe. Driving new and exciting automobiles from manufactures all over the world.</info>
+</channel>
+
+</channels>
+
+
+
+
+
+
+
+
+
+
+
+

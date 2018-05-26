@@ -1,0 +1,210 @@
+<item>
+<title>S12 EP1 Finders Keepers</title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3Nl8/s12.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Finders Keepers
+Peter goes on a real-life treasure hunt based on a treasure map from a child's meal menu.</info>
+</item>
+
+<item>
+<title>S12 EP2 Vestigial Peter</title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3Nl8/s12.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Vestigial Peter
+Peter has a vestigial twin growing of his neck, and he has surgery to remove it and have it become a separate entity.</info>
+</item>
+
+<item>
+<title>S12 EP3 Quagmire's Quagmire</title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3Nl8/s12.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Quagmire's Quagmire
+Quagmire falls in love with a woman who is just as kinky as he is, but doesn't find out until it's too late that she's a complete psycho.</info>
+</item>
+
+<item>
+<title>S12 EP4 A Fistful of Meg</title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3Nl8/s12.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>A Fistful of Meg
+Meg turns to Quagmire for help taking on a school bully, and Brian looks for a way to get back at Peter for forcing him to see him naked</info>
+</item>
+
+<item>
+<title>S12 EP5 Boopa-dee Bappa-dee</title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3Nl8/s12.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Boopa-dee Bappa-dee
+The Griffins take a trip to Italy and are forced to deal with annoying immigration laws after Peter destroys the family's passports.</info>
+</item>
+
+<item>
+<title>S12 EP6 Life of Brian</title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3Nl8/s12.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Life of Brian
+Brian dies and Stewie cannot use his time machine to save him. Meanwhile, Peter replaces Brian with an Italian dog named Vinny.</info>
+</item>
+
+<item>
+<title>S12 EP7 Into Harmony's Way</title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3Nl8/s12.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Into Harmony's Way
+Fame gets to Peter when he forms a song writing team with Quagmire.</info>
+</item>
+
+<item>
+<title>S12 EP8 Christmas Guy</title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3Nl8/s12.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Christmas Guy
+Peter fills Carter with the spirit of Christmas; Stewie goes on to get the only thing he wants for Christmas.</info>
+</item>
+
+<item>
+<title>S12 EP9 Peter Problems</title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3Nl8/s12.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Peter Problems
+Lately Peter hasn't been able to perform very well in the bedroom. So he asks Quagmire and Joe to step in and help him get his mojo back.</info>
+</item>
+
+<item>
+<title>S12 EP10 Grimm Job</title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3Nl8/s12.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Grimm Job
+Peter tells Stewie the stories "Jack and the Beanstalk," "Little Red Riding Hood," and "Cinderella."</info>
+</item>
+
+<item>
+<title>S12 EP11 Brian's a Bad Father</title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3Nl8/s12.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Brian's a Bad Father
+Brian uses his son to get a writing job for a TV show, and Quagmire stops being friends with Peter after Peter shoots him.</info>
+</item>
+
+<item>
+<title>S12 EP12 Mom's the Word</title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3Nl8/s12.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Mom's the Word
+Peter is seduced by his late mother's longtime friend, while Stewie is distraught over the realities of death.</info>
+</item>
+
+<item>
+<title>S12 EP13 3 Acts of God</title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3Nl8/s12.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>3 Acts of God
+Peter is sick of opposing football teams thanking God for beating the Patriots, so he and the guys go on a quest to find the Lord and ask Him to stop interfering in the outcomes of football games.</info>
+</item>
+
+<item>
+<title>S12 EP14 Fresh Heir</title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3Nl8/s12.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Fresh Heir
+When Chris is made the sole future heir to Carter's fortune after caring for him, Peter takes drastic measures to keep the wealth within his reach - by marrying Chris.</info>
+</item>
+
+<item>
+<title>S12 EP15 Secondhand Spoke</title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3Nl8/s12.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Secondhand Spoke
+Peter is asked to be the face of an anti-smoking campaign after taking up smoking cigarettes, while Stewie helps Chris face school bullies.</info>
+</item>
+
+<item>
+<title>S12 EP16 Herpe, the Love Sore</title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3Nl8/s12.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Herpe, the Love Sore
+Stewie gets herpes from Brian, while Peter and the guys discover that another group has taken their favorite booth at the Drunken Clam.</info>
+</item>
+
+<item>
+<title>S12 EP17 he Most Interesting Man in the World</title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3Nl8/s12.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>The Most Interesting Man in the World
+Lois calls Peter an idiot for bringing home the wrong baby after he takes Stewie to the park for some father-son bonding, so he goes to Chicago on a business trip and returns a smart, classy person.</info>
+</item>
+
+<item>
+<title>S12 EP18 Baby Got Black</title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3Nl8/s12.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Baby Got Black
+Chris runs away with Jerome's daughter Pam, whom Jerome has forbidden Chris from dating, so Jerome must work with Peter to find their kids.</info>
+</item>
+
+<item>
+<title>S12 EP19 Meg Stinks!</title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3Nl8/s12.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Meg Stinks!
+Peter takes Meg to a college for an interview where they end up partying, while Brian is forced to live in the wild after a skunk sprays him.</info>
+</item>
+
+<item>
+<title>S12 EP20 He's Bla-ack!</title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3Nl8/s12.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>He's Bla-ack!
+Cleveland returns to Quahog, but is forbidden from spending time with Peter when their wives get into an argument over parenting.</info>
+</item>
+
+<item>
+<title>S12 EP21 Chap Stewie</title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3Nl8/s12.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Chap Stewie
+Stewie tries to erase himself from history when Peter and Chris constantly interrupt his TV time, only to end up as the baby of a British family.</info>
+</item>
+

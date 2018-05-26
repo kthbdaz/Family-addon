@@ -1,0 +1,1278 @@
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>Isolation (2015)</title>
+<link>https://od.lk/s/OTdfNDYxMTA5OV8/Isolation.2015.mp4</link>
+<thumbnail>https://od.lk/s/OTdfNDYxMjA3OF8/icon.jpg</thumbnail>
+<fanart></fanart>
+<genre> Action, Thriller </genre>
+<info>Inspired by the true events of a couple vacationing on a remote island in the Bahamas who are hunted by a group of modern-day pirates, after their identities and their lives.</info>
+</item>
+
+<item>
+<title>Night Cries (2015)</title>
+<link>https://od.lk/s/OTdfMzY0NTQwMV8/Night%20Cries.2016.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzY0NTM4OV8/icon.jpg</thumbnail>
+<fanart></fanart>
+<genre> Action, Drama, Romance</genre>
+<info>Night Cries is a psychological thriller about a man's obsession with finding his wife in a post-apocalyptic world.</info>
+</item>
+
+<item>
+<title>Man Down (2015)</title>
+<link>https://od.lk/s/OTdfMzU4ODIyMV8/Man.Down.2015.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzU4ODU4OV8/Man%20Down%20%282015%29.jpg</thumbnail>
+<fanart></fanart>
+<genre>Drama, Thriller </genre>
+<info>When a U.S. Marine returns home from Afghanistan, he finds that the place he once called home is no better than the battlefields he fought on overseas. Accompanied by his best friend, he searches desperately for the whereabouts of his estranged son and wife. In their search, the two intercept a man carrying vital information about his family. </info>
+</item>
+
+<item>
+<title>Being.Charlie.2015</title>
+<link>https://od.lk/s/OTdfMzUzMjg4NV8/Being.Charlie.2015.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjg5Nl8/Being.Charlie.2015.jpg</thumbnail>
+<fanart></fanart>
+<genre> Drama, Romance</genre>
+<info>Charlie is a troublesome 18-year-old who breaks out of a youth drug treatment clinic, but when he returns home to Los Angeles, he's given an intervention by his parents and forced to go to an adult rehab. There, he meets a beautiful but troubled girl, Eva, and is forced to battle with drugs, elusive love and divided parents.</info>
+</item>
+
+<item>
+<title>I Am Gangster.2015</title>
+<link>https://od.lk/s/OTdfMzUzMjYxN18/I%20Am%20Gangster.2015.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjYyNF8/I%20Am%20Gangster%20%282015%29.jpg</thumbnail>
+<fanart></fanart>
+<genre> Action, Crime, Drama</genre>
+<info>David is an idealistic rookie officer able to maintain a decent urban lifestyle for him and his family until his moral code is challenged. At the same time up-and-coming gang member Lito steps into dangerous territory when he defies matriarch Tia in seeking more power and wealth on his own. Rebellious teenager Rio is flirting with gang life until he has to deal with his own guilt over a tragic death.</info>
+</item>
+
+<item>
+<title>Hunting Grounds (2015)
+Valley of the Sasquatch (original title)</title>
+<link>https://od.lk/s/OTdfMzUzNjI5M18/Valley%20of%20the%20Sasquatch%202015.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjMwMl8/Hunting%20Grounds%20%282015%29.jpg</thumbnail>
+<fanart></fanart>
+<genre> Horror, Thriller</genre>
+<info>After losing their home following a devastating tragedy, a father and son are forced to move to an old family cabin. Neither reacts well to being thrown into this new world. The son's attempts to relate to his father are complicated when two old friends arrive for a weekend of hunting. This trip into the forest will unearth not only buried feelings of guilt and betrayal, but also a tribe of Sasquatch that are determined to protect their land.</info>
+</item>
+
+<item>
+<title>Night of the Living Deb (2015)</title>
+<link>https://od.lk/s/OTdfMzUzNjE5OV8/Night.of.the.Living.Deb.2015.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjIwMl8/Night.of.the.Living.Deb.2015.jpg</thumbnail>
+<fanart></fanart>
+<genre>Comedy, Horror, Romance </genre>
+<info>After a girls' night out, endearingly awkward Deb wakes up in the apartment of the most attractive guy in Portland, Maine. She's thrilled, but she can't remember much of what got her there. Pretty boy Ryan only knows it was a mistake and ushers her out the door... into a full-scale zombie apocalypse. Now, a walk of shame becomes a fight for survival as the mismatched pair discovers that the only thing scarier than trusting someone with your life... is trusting them with your heart. </info>
+</item>
+
+<item>
+<title>Bleeding Heart (2015)</title>
+<link>https://od.lk/s/OTdfMzUzNjE5M18/Bleeding.Heart.2015.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjE5NF8/Bleeding.Heart.2015.jpg</thumbnail>
+<fanart></fanart>
+<genre> Drama</genre>
+<info>A yoga instructor looks to protect her sex-worker sister from her deadbeat boyfriend.</info>
+</item>
+
+<item>
+<title>Maggie's.Plan.2015</title>
+<link>https://od.lk/s/OTdfMzUzNjE0MF8/Maggie%27s.Plan.2015.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjE4Nl8/Maggie%27s.Plan.2015.jpg</thumbnail>
+<fanart></fanart>
+<genre>Comedy, Drama, Romance</genre>
+<info>Maggie's plan to have a baby on her own is derailed when she falls in love with John, a married man, destroying his volatile marriage to the brilliant and impossible Georgette. But one daughter and three years later, Maggie is out of love and in a quandary: what do you do when you suspect your man and his ex wife are actually perfect for each other?</info>
+</item>
+
+<item>
+<title>How.to.Plan.an.Orgy.in.a.Small.Town.2015</title>
+<link>https://od.lk/s/OTdfMzUzNjEzOF8/How.to.Plan.an.Orgy.in.a.Small.Town.2015.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjE4NF8/How.to.Plan.jpg</thumbnail>
+<fanart></fanart>
+<genre>Comedy</genre>
+<info>How to Plan an Orgy in a Small Town is about a group of friends who live in the picturesque town of Beaver's Ridge-the epitome of wholesomeness and strong family values. Their orderly life is interrupted by the homecoming of Cassie Cranston, whom they slut-shamed into leaving town when she was a teenager. Now a big-city sex writer, Cassie returns home to face an unwelcome reception by her former friends, and finds an opportunity to seek revenge by writing a book about them when they ask her if she'll help them plan an orgy.</info>
+</item>
+
+<item>
+<title>Bite 2015</title>
+<link>https://od.lk/s/OTdfMzUzNjEyOV8/Bite.2015.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjEzMV8/Bite%202015.jpg</thumbnail>
+<fanart></fanart>
+<genre>Horror</genre>
+<info>While on her bachelorette party getaway, Casey, the bride to be, gets a seemingly harmless bite from an unknown insect. After returning home with cold feet, Casey tries to call off her wedding but before she's able to, she starts exhibiting insect like traits. Between her physical transformation and her wedding anxiety, Casey succumbs to her new instincts and begins creating a hive that not only houses her translucent eggs, but feeds on the flesh of others. As her transformation becomes complete, Casey discovers that everything can change with a single bite</info>
+</item>
+
+<item>
+<title>Riot 2015</title>
+<link>https://od.lk/s/OTdfMzUzMzUzOF8/Riot.2015.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNTQzOF8/Riot.2015.jpg</thumbnail>
+<fanart></fanart>
+<genre>Action</genre>
+<info>Copper Jack Stone purposefully orchestrates a bank robbery in order to be thrown into prison with the notorious Russian kingpin Balam. Balam is more than just a mob criminal; he's a very cunning and dangerous lord who controls the police force from behind bars. Balam lives in prison as a cover for his real power, which is King of the city. His cell is a lavish private room built specifically for him, inaccessible to most in the depths of the prison structure. Even the warden fears venturing into his area of the prison. However, even surrounded by his loyal henchmen and guards in his sectioned off fortress, Balam doesn't know Jack is coming for him to avenge his family, who Balam murdered in cold blood. Balam is tough... but Jack is tougher.</info>
+</item>
+
+<item>
+<title>Bunny.the.Killer.Thing.2015</title>
+<link>https://od.lk/s/OTdfMzUzMjg3NV8/Bunny.the.Killer.Thing.2015.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjg4MV8/Bunny%20the%20Killer%20Thing%20%282015%29.jpg</thumbnail>
+<fanart></fanart>
+<genre> Action, Comedy, Horror</genre>
+<info>A group of Finnish and British people get stuck at a cabin when they are attacked by a creature that is a half human, half rabbit.</info>
+</item>
+
+<item>
+<title>Anger.of.the.Dead.2015</title>
+<link>https://od.lk/s/OTdfMzUzMjg3NF8/Anger.of.the.Dead.2015.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjg4Ml8/Anger.of.the.Dead.2015.jpg</thumbnail>
+<fanart></fanart>
+<genre> Drama, Horror</genre>
+<info>In a world ravaged by a virus that turns people into cannibals, a pregnant woman (Alice) manages to survive. Alice, in the company of two other men, strives to reach an island untouched by the plague. Meanwhile, a dangerous individual is on the trail of a mysterious girl, which causes Alice to realize that the Zombies are not her biggest and only threat.</info>
+</item>
+
+<item>
+<title>I Am Gangster.2015</title>
+<link>https://od.lk/s/OTdfMzUzMjYxN18/I%20Am%20Gangster.2015.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjYyNF8/I%20Am%20Gangster%20%282015%29.jpg</thumbnail>
+<fanart></fanart>
+<genre> Action, Crime, Drama</genre>
+<info>David is an idealistic rookie officer able to maintain a decent urban lifestyle for him and his family until his moral code is challenged. At the same time up-and-coming gang member Lito steps into dangerous territory when he defies matriarch Tia in seeking more power and wealth on his own. Rebellious teenager Rio is flirting with gang life until he has to deal with his own guilt over a tragic death.</info>
+</item>
+
+<item>
+<title>Borealis.2015</title>
+<link>https://od.lk/s/OTdfMzUyOTI0NV8/Borealis.2015.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMDU4MV8/Borealis.jpg</thumbnail>
+<fanart></fanart>
+<genre> Comedy, Crime, Drama</genre>
+<info>JONAH, an unemployed gambler, takes his estranged pot-smoking teenaged daughter AURORA on a dangerous road trip to Churchill, Manitoba to show her the magnificent Northern Lights - before her vision disorder renders her completely blind. With a volatile bookie in hot pursuit, Jonah and Aurora are forced to finally confront each other, and their complicated pasts.</info>
+</item>
+
+<item>
+<title>A.Sunday.Kind.of.Love.2015</title>
+<link>https://od.lk/s/OTdfMzQ0NDY4M18/A.Sunday.Kind.of.Love.2015.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQ1MjEwMl8/A.Sunday.Kind.of.Love.2015.jpg</thumbnail>
+<fanart></fanart>
+<info>Rating:NR
+Genre: Drama , Science Fiction & Fantasy , Romance 
+Directed By:Geordie Sabbagh 
+Runtime: 93 minutes
+
+Adam Loule, 31, is trying to write the next great novel. It isn't going well. His previous books have all been failures, and now he's only surviving thanks to his girlfriend Tracy, 29, a successful lawyer. His blind obsession for greatness has recently put a strain on their relationship, not that Adam's noticed. He does however notice the beautiful and flattering Emma, 25, especially when she tells Adam she also goes by another name, Death...and she's here for him. Not surprisingly, Adam doesn't believe her, regardless of her infinite knowledge of his most embarrassing secrets, until she takes another guy whose time is up. As Adam descends into panic, Emma assures him death isn't all that bad. She's going to give him until tomorrow to finish his book, which will make him famous and become the classic he's always dreamed of writing. She can see the future after he dies when he isn't around to screw it up. Living only results in poverty and obscurity. Adam decides he'll take his chances and live, as what good is fame if you can't be around to bask in it. Adam pleads with Emma and she finally relents. If he can prove that living is better than his dreams coming true, she might let him live. Adam thinks about Tracy, but Emma doesn't buy it. Tracy's moving up in the world and is quickly going to tire of the supporting a struggling writer who doesn't notice her, and dreams of becoming George Clooney as soon as he's famous so women can get past the awkwardness and khakis. Realizing she might be right, Adam tries to make amends with Tracy, but unable to see Emma, she doesn't believe him and wonders if this is about another very real woman. After two years together, she wants to move on with life and is wondering if he's the guy to do it with. As Adam continues to try and find things worth living for, he begins to connect with Emma. The attraction is mutual. Emma wants to quit being Death, but is afraid to take the next step and has been looking for someone to go past the gates with. She wants to go with Adam. Suddenly, the afterlife isn't looking so bad. Torn between the two women, his desire for fame, and with dawn about to break, Adam must decide if what he's dreamed about is worth dying for, and if the woman he truly loves is in the present or the hereafter.</info>
+</item>
+
+<item>
+<title>The Frontier 2015</title>
+<link>https://od.lk/s/OTdfMzQ1MTMwMV8/The%20Frontier.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzQ1MTMxM18/The%20Frontier%202015.jpg</thumbnail>
+<fanart></fanart>
+<info> Crime, Drama, Thriller
+Laine, a young woman on the run from the law, turns up at the Frontier, an isolated desert diner and motel. She is offered a job by Luanne, the owner, and, hoping to lose herself in the obscurity of the place, accepts the job. But soon Laine realizes she has stumbled into an even bigger and more dangerous situation. </info>
+</item>
+
+<item>
+<title>The.Id.2015</title>
+<link>https://od.lk/s/OTdfMzQ0NDM5M18/The.Id.2015.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQ0NDQxNl8/The.Id.2015.jpg</thumbnail>
+<fanart></fanart>
+<info> Horror, Thriller
+A lonely woman caring for her domineering father is pushed to the brink when a figure from her past re-enters her life.</info>
+</item>
+
+<item>
+<title>Me.and.My.Mates.vs.The.Zombie.Apocalypse.2015</title>
+<link>https://od.lk/s/OTdfMzQ0NDI4NV8/Me.and.My.Mates.vs.The.Zombie.Apocalypse.2015.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQ0NDM4OV8/Me.and.My.Mates.vs.The.Zombie.Apocalypse.2015.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0NDM4OF8/Me.and.My.Mates.vs.The.Zombie.Apocalypse.2015%20f.jpg</fanart>
+<info> Comedy, Horror
+Three Australian telecom tradesman find themselves trapped in a telephone exchange during the onset of a zombie apocalypse.</info>
+</item>
+
+<item>
+<title>Vampyres.2015</title>
+<link>https://od.lk/s/OTdfMzQ0MjM3NF8/Vampyres.2015.DVDRip.XViD-ETRG.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzQ0MjM3N18/Vampyres.2015.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0MjM3OF8/Vampyres.2015%20f.jpg</fanart>
+<info>Horror
+Faithful to the sexy, twisted 1974 cult classic by Joseph Larraz, Vampyres is an English-language remake pulsating with raw eroticism, wicked sado-masochism and bloody, creative gore. Victor Matellano (Wax (2014, Zarpazos! A Journey through Spanish Horror, 2013) directs this tale set in a stately English manor inhabited by two older female vampires and with their only cohabitant being a man imprisoned in the basement. Their lives and lifestyle are upended when a trio of campers come upon their lair and seek to uncover their dark secrets, a decision that has sexual and blood-curdling consequences.</info>
+</item>
+
+<item>
+<title>Hacker.2015</title>
+<link>https://od.lk/s/OTdfMzQ0MjM1OV8/Hacker.2015.HDRip.XViD-ETRG.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzQ0MjM2MV8/Hacker.2015.jpg</thumbnail>
+<fanart></fanart>
+<info> Crime, Drama, Thriller
+Alex is a young Ukranian immigrant, who supports his parents by doing illegal jobs on the internet. His best friend Sye is a black market dealer, who helps Alex make money. They end up partnering up with a girl named Kira who has suspicious intentions.</info>
+</item>
+
+<item>
+<title>Already.Tomorrow.in.Hong.Kong.2015</title>
+<link>https://od.lk/s/OTdfMzQ0MjAwMV8/Already.Tomorrow.in.Hong.Kong.2015.1080p.BluRay.H264.AAC-RARBG.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQ0MjIzMF8/Already%20Tomorrow%20In%20Hong%20Kong%20%282016%29.jpg</thumbnail>
+<fanart></fanart>
+<info> Comedy, Romance 
+An attraction forms when a Chinese American girl visiting Hong Kong for the first time meets an American expat who shows her the way, but timing may not quite be on their side. A walk and talk romance set in the beautiful city of Hong Kong, the film asks the question - what happens when you meet the right person at the wrong time?</info>
+</item>
+
+<item>
+<title>Fourth.Man.Out.2015</title>
+<link>https://od.lk/s/OTdfMzQ0MTk4NF8/Fourth.Man.Out.2015.720p.BRRip.x264.AAC-ETRG.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQ0MTk4N18/Fourth.Man.Out.2015.jpg</thumbnail>
+<fanart></fanart>
+<info>Comedy, Drama 
+A car mechanic in a small, working class town comes out of the closet to his unsuspecting, blue-collar best friends.</info>
+</item>
+
+<item>
+<title> Blackway..2015.</title>
+<link>https://od.lk/s/OTdfMzQ0MTE2Ml8/Blackway..2015.720p.BRRip.x264.AAC-ETRG.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQ0MTE2Nl8/Blackway..2015..jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0MTE2NV8/Blackway..2015.f.jpg</fanart>
+<info>A modern fable set against the rugged backdrop of a Pacific Northwest logging community, this is the story of Lillian, a young woman newly returned to her hometown who becomes the subject of harassment by a man named Blackway, an ex-cop turned violent crimelord who operates with impunity in this small community on the edge of the wilderness. Forsaken by the local townspeople, advised by the Sheriff to leave town, Lillian decides instead to take a stand against her sociopathic stalker, and enlists the help of an ex-logger Lester and his laconic young sidekick Nate-the only two men in town brave enough, or crazy enough, to go with her, and go up against Blackway</info>
+</item>
+
+<item>
+<title>Stick.Man.2015.</title>
+<link>https://od.lk/s/OTdfMzQzODY3NF8/Stick.Man.2015.720p.WEBRip.x264.AAC-ETRG.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQ0MDMwMV8/Stick.Man.2015.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0MDMwNF8/stick-man%20F.jpg</fanart>
+<info>Stick Man, an animated twig, lives with his Stick Lady Love and their children in the family tree. Out one day for a jog he meets a little boy who throws him for his dog to fetch, some children who play Pooh-sticks with him and a swan who uses him to build a nest before being washed out to sea and onto a beach far from home. After several other humiliating encounters throughout the year he has an unexpected saviour in the form of Santa Claus who helps him to get home for Christmas with his family</info>
+</item>
+
+<item>
+<title>She.Who.Must.Burn.2015</title>
+<link>https://od.lk/s/OTdfMzQyOTAwNV8/She.Who.Must.Burn.2015.HDRip.XViD-ETRG.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzQ0MDMwM18/She.Who.Must.Burn.2015.jpg</thumbnail>
+<fanart></fanart>
+<info>The Baarkers', a family group of religious fanatics who believe they are God's chosen ones, polarize a town and force it's residents to fight for their lives as their zeal turns murderous and the rule of law decays into brutish mob mentality.</info>
+</item>
+
+<item>
+<title>Crushed.2015</title>
+<link>https://od.lk/s/OTdfMzQ0MDIxOF8/Crushed.2015.HDRip.XViD-ETRG.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzQ0MDMwMl8/Crushed.2015.jpg</thumbnail>
+<fanart></fanart>
+<info>A young woman returns home to her family vineyard after her father dies in an accident on the winery. But when his death is ruled a murder and her mother becomes the prime suspect she must uncover the truth.</info>
+</item>
+
+<item>
+<title>Street.2015</title>
+<link>https://od.lk/s/OTdfMzQzNzQ3M18/Street.2015.HDRip.XviD.AC3-iFT.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzQzNzQ3N18/Street.2015.jpg</thumbnail>
+<fanart></fanart>
+<info>Remo Street is a young fighter who comes from a world where nothing is easy, so when he is faced with the opportunity to train with a world class coach, he has to choose between the long hard road to honor and glory, or succumbing to a brutal future as a cage fighter for the Russian Mafia.</info>
+</item>
+
+<item>
+<title>Capsule.2015</title>
+<link>https://od.lk/s/OTdfMzQyNTA1MF8/Capsule.2016.HDRip.XviD.AC3-EVO.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzQyNTA4MV8/Capsule.2016.jpg</thumbnail>
+<fanart></fanart>
+<info>Guy is an experienced British fighter pilot who is in command of Britain's first manned mission to space. He has trained for this for three years at the height of the Cold War and now he is alone in space with a malfunctioning capsule. He has limited contact with the UK, some unusual communication with the US and some unorthodox communication with Tyuratam deep in Soviet Russia. Who will help him? Will he make the right choice?</info>
+</item>
+
+<item>
+<title>Blood.Trap.2015</title>
+<link>https://od.lk/s/OTdfMzQyNDgzMV8/Blood.Trap.2015.HDRip.XViD-ETRG.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzQyNTA4Ml8/Blood.Trap.2015.jpg</thumbnail>
+<fanart></fanart>
+<info>Six criminals are tasked with kidnapping a young woman for ransom, but when they get locked inside her mansion, what they find is not what they expected. </info>
+</item>
+
+<item>
+<title>The Unspoken (2015)</title>
+<link>https://od.lk/s/OTdfMzQyNDM2Nl8/The.Unspoken.2015.HDRip.XViD-ETRG.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzQyNTA4NF8/The.Unspoken.2015...gif</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQyNTA4M18/The.Unspoken.2015..jpg</fanart>
+<info>In 1997 the Anderson family vanished from their home without a trace. No bodies were ever found. For 17 years the house has remained undisturbed... until now. </info>
+</item>
+
+<item>
+<title>Blackburn.2015</title>
+<link>https://od.lk/s/OTdfMzQyNTAzOF8/Blackburn.2016.HDRip.XviD.AC3-EVO.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzQyNTA3M18/Blackburn.2016.jpg</thumbnail>
+<fanart></fanart>
+<info>A forest fire and rock-slide trap five bickering college friends in a small Alaskan ghost town with a horrifying history. When they seek refuge inside the torched ruins of Blackburn Asylum they must fight to survive as the angry inhabitants slaughter the friends one-by-one. </info>
+</item>
+
+<item>
+<title>The.Night.Before.2015</title>
+<link>https://od.lk/s/OTdfMzQyMTY3Ml8/The.Night.Before.2015.720p.BRRip.x264.AAC-ETRG.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQyMTY3OF8/The.Night.Before.2015.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQyMTY3OV8/The.Night.Before.2015..jpg</fanart>
+<info>Ethan (Joseph Gordon-Levitt), Isaac (Seth Rogen) and Chris (Anthony Mackie) have been friends since childhood, and for a decade, their yearly Christmas Eve reunion has been an annual night of debauchery and hilarity. Now that they're entering adulthood, the tradition is coming to an end, and to make it as memorable as possible, they set out to find the Nutcracka Ball - the Holy Grail of Christmas parties. </info>
+</item>
+
+<item>
+<title>Christmas.Eve.2015</title>
+<link>https://od.lk/s/OTdfMzQyMTY2M18/Christmas.Eve.2015.HDRip.XviD.AC3-EVO.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzQyMTY3MF8/christmas_eve.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQyMTY2OV8/ChristmasEve.jpg</fanart>
+<info>"Christmas Eve" is the dramatic, comedic story of six different groups of New Yorkers who get stuck inside elevators overnight on Christmas Eve. With nowhere to go and no one to interact with but each other, all of them are transformed by the events of their long night togethe</info>
+</item>
+
+<item>
+<title>The.Gift.2015</title>
+<link>https://od.lk/s/OTdfMzQyMTY0MV8/The.Gift.2015.BRRip.XViD-ETRG.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzQyMTY2Nl8/The.Gift.2015.png</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQyMTY2N18/The.Gift.2015..jpg</fanart>
+<info>Simon and Robyn are a young married couple whose life is going just as planned until a chance encounter with an acquaintance from Simon's high school sends their world into a harrowing tailspin. Simon doesn't recognize Gordo at first, but after a series of uninvited encounters and mysterious gifts prove troubling, a horrifying secret from the past is uncovered after more than 20 years. As Robyn learns the unsettling truth about what happened between Simon and Gordo, she starts to question: how well do we really know the people closest to us, and are past bygones ever really bygones?</info>
+</item>
+
+<item>
+<title>The.Minds.Eye.2015</title>
+<link>https://od.lk/s/OTdfMzQyMTMzM18/The.Minds.Eye.2015.1080p.BluRay.H264.AAC-RARBG.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQyMTM1NF8/The%20Mind%27s%20Eye.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQyMTM1N18/The.Minds.Eye.2015.jpg</fanart>
+<info>Zack Connors and Rachel Meadows were born with incredible psychokinetic capabilities. When word of their supernatural talents gets out, they find themselves the prisoners of Michael Slovak, a deranged doctor intent on harvesting their powers. After a daring escape, they are free from his sinister institution, but the corrupt doctor will stop at nothing to track them down so that he may continue to siphon their gifts for his own use. Written by RLJ Entertainment</info>
+</item>
+
+<item>
+<title>Into.the.Forest.2015</title>
+<link>https://od.lk/s/OTdfMzQyMTMyNV8/Into.the.Forest.2015.1080p.BluRay.H264.AAC-RARBG.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQyMTM1NV8/into-the-forest.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQyMTM1OF8/Into.the.Forest.2015.jpg</fanart>
+<info>In a world that is increasingly dependent on electricity, a power outage seems like an awful predicament. Mankind is using electricity for the past 140 years, but still, we can't imagine ourselves living in a world deprived of electricity. In such a difficult and dreary situation found themselves a father and his two daughters, after a seemingly normal power outage lingered on, changing the lives of everyone in the region. What was the reason for this outage? Is it regional, or does it affect the whole country? No one really knows and as time passes, the family will have to put to the test its survival skills, adaptability and endurance, but most of all, the integrity of the familial bonds</info>
+</item>
+
+<item>
+<title>Krampus.2015</title>
+<link>https://od.lk/s/OTdfMzQyMTIwNV8/Krampus.2015.1080p.BluRay.H264.AAC-RARBG.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQyMTIwNl8/krampus.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQyMTIwN18/krampus..jpg</fanart>
+<info>When his dysfunctional family clashes over the holidays, young Max (Emjay Anthony) is disillusioned and turns his back on Christmas. Little does he know, this lack of festive spirit has unleashed the wrath of Krampus: a demonic force of ancient evil intent on punishing non-believers. All hell breaks loose as beloved holiday icons take on a monstrous life of their own, laying siege to the fractured family's home and forcing them to fight for each other if they hope to survive. </info>
+</item>
+
+<item>
+<title>Eden.2015</title>
+<link>https://od.lk/s/OTdfMzQxOTE5MF8/Eden.2015.1080p.BluRay.x264-%5BYTS.AG%5D.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQxOTM2OV8/Eden.jpg</thumbnail>
+<fanart></fanart>
+<info>After their plane crashes off the coast of a deserted Pacific island, the surviving members of an American soccer team find themselves in the most dire of circumstances with limited resources, dwindling food supply and no rescue coming any time soon. Team spirit evaporates as disagreements cause the group to separate into factions - a violent one lead by an unbalanced ruler (Peck), and a compassionate one led by a selfless player (Parker).</info>
+</item>
+
+<item>
+<title>De.Palma.2015</title>
+<link>https://od.lk/s/OTdfMzQxOTI1M18/De.Palma.2015.1080p.BluRay.x264-%5BYTS.AG%5D.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQxOTM2OF8/De%20Palma.jpg</thumbnail>
+<fanart></fanart>
+<info>In the annals of Hollywood film since the artistic glories of the New Hollywood era, few have a better reputation and body of work in the field of the suspense film exploring the contemporary darkness in American life than Brian De Palma. Here, the great film writer and director takes us through his professional life in his own words of a career that would redefine film horror and suspense. All the while, he also confesses the challenges of working in Hollywood and the price paid even the great artists pay for being a part of it.</info>
+</item>
+
+<item>
+<title>Back.in.Time.2015</title>
+<link>https://od.lk/s/OTdfMzQxOTM1NF8/Back.in.Time.2015.1080p.BluRay.H264.AAC-RARBG.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQxOTM2Nl8/back-in-time-2015.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQxOTM2N18/Back%20In%20Time%20%282015%29.jpg</fanart>
+<info>A look at the very real impact the Back to the Future movies have had on our culture. What was once a little idea that spawned a tightly-focused documentary has grown into something truly amazing over two years of filming. Back in Time is a cinematic monument to the vastness of the trilogy's fandom. In addition to the footage and interviews revolving around the time machine itself, the crew found that simply by delving into the impact of the trilogy an epic journey began to unfold before them. The crew captured countless hours of footage during filming. From Steven Spielberg to Robert Zemeckis and Bob Gale, to the Sheas and Hollers, and from James Tolkan and Lea Thompson to Christopher Lloyd and Michael J. Fox, Back in Time features interview after interview that simply must be seen. </info>
+</item>
+
+<item>
+<title>All.Roads.Lead.To.Rome.2015</title>
+<link>https://od.lk/s/OTdfMzQxOTM2M18/All.Roads.Lead.To.Rome.2015.720p.BluRay.H264.AAC-RARBG.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQxOTM2NV8/all-roads-lead-to-rome-.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQxOTM2NF8/all-roads.jpg</fanart>
+<info>"A woman takes what she wants, when she wants it." Maggie (Parker) is starting to lose touch with her daughter Summer (Day). In an effort to reconnect they take a trip to Italy. Maggie sees this as a bonding experience but Summer sees it as punishment and is worried about her boyfriend who she left. When Maggie reconnects with a former love it only enforces Summer's desire to return home and she takes a car, and a grandma, and will stop at nothing to fly home. Maggie will stop at nothing to stop her.</info>
+</item>
+
+<item>
+<title>The.Chosen.2015</title>
+<link>https://od.lk/s/OTdfMzQxODcxM18/The.Chosen.2015.720p.BRRip.x264.AAC-ETRG.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQxODg3N18/The%20Chosen.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQxODg3Nl8/The.Chosen.2015.jpg</fanart>
+<info>When a child-stealing demon attaches itself to a little girl, her family is thrust into a battle against time in order to save the girl and send the demon back to hell</info>
+</item>
+
+<item>
+<title>guns for hire 2015 </title>
+<link>https://od.lk/s/OTdfMzQxNzc4Nl8/The.Adventures.of.Beatle.2015.1080p.BluRay.H264.AAC-RARBG.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQxNzg4OV8/Guns%20for%20Hire.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQxNzg5MF8/gund%20for%20hire%20f.jpg</fanart>
+<info>Beatle is a quirky loner who refuses to live by society's rules. Her business cards read "Towing/Assassination," and she even has a hit man infomercial to go along with it. Her only human contact is with her psychiatrist and the stripper/hooker she employs once a week. Everything changes the night she meets Athena Klendon, a suicidal blonde with a secret. With a demented killer on their tail, courtesy of Athena's crooked former employer, the two quickly strike a bargain. Athena will change her life insurance policy to reflect Beatle as the beneficiary in exchange for her own execution. And while they wait for the paperwork to come through, Beatle will provide room and board and get some extra help on her infomercial. The two have no idea that Detective Holt has been on their case reviewing their every move. Just when he thinks he's got Beatle pinned beyond a shadow of a doubt, this comedic mystery takes a wild and unexpected turn.</info>
+</item>
+
+
+<item>
+<title>Dark.Exorcism.2015</title>
+<link>https://od.lk/s/OTdfMzQxNzY4NV8/Dark.Exorcism.2015.HDRip.XViD-ETRG.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzQxNzg5MV8/Dark.Exorcism.2015.jpg</thumbnail>
+<fanart></fanart>
+<info>A skeptical grad student and a renowned paranormal specialist investigate a potentially haunted home and the troubled woman inside whose affliction may be beyond the capacity of either of them. </info>
+</item>
+
+<item>
+<title>The.Fits.2015</title>
+<link>https://od.lk/s/OTdfMzQxNjYwNV8/The.Fits.2015.1080p.BluRay.H264.AAC-RARBG.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQxNjY3Ml8/The%20Fits.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQxNjY3M18/The.Fits.2015.jpg</fanart>
+<info>The Fits is a psychological portrait of 11-year-old Toni-a tomboy assimilating to a tight-knit dance team in Cincinnati's West End. Enamored by the power and confidence of this strong community of girls, Toni eagerly absorbs routines, masters drills, and even pierces her own ears to fit in. When a mysterious outbreak of fainting spells plagues the team, Toni's desire for acceptance is twisted</info>
+</item>
+
+<item>
+<title>The.Hollow.2015</title>
+<link>https://od.lk/s/OTdfMzQxNTU0MV8/The.Hollow.2015.1080p.BluRay.H264.AAC-RARBG.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQxNjE2OF8/the-hollow.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQxNjE2N18/The-Hollow-2015.jpg</fanart>
+<info>It's Halloween eve on Shelter Island, and the small town is preparing for a killer storm. But the dark clouds gathering over the island are bringing with them a curse one-hundred years in waiting. As the woods give birth to an ungodly and insatiable creature of fire, bones, and earth, three sisters must scramble to stay alive through the long dark night of the Hollow. For it's not something you can kill. It's only something you can try and survive. </info>
+</item>
+
+<item>
+<title>The.Meddler.2015</title>
+<link>https://od.lk/s/OTdfMzQxNDU0MF8/The.Meddler.2015.1080p.BluRay.H264.AAC-RARBG.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQxNjE2OV8/The%20Meddler.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQxNjE3MF8/meddler..jpg</fanart>
+<info>An aging widow from New York City follows her daughter to Los Angeles in hopes of starting a new life after her husband passes away. </info>
+</item>
+
+<item>
+<title>Those.People.2015</title>
+<link>https://od.lk/s/OTdfMzQxNDU0N18/Those.People.2015.WEBRip.x264-RARBG.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQxNjE2Nl8/Those%20People.jpg</thumbnail>
+<fanart></fanart>
+<info>On Manhattan's gilded Upper East Side, a young gay painter is torn between an obsession with his infamous socialite best friend and a promising new romance with an older foreign concert pianist. </info>
+</item>
+
+<item>
+<title>The.Ones.Below.2015</title>
+<link>https://od.lk/s/OTdfMzQwMzkzNl8/The.Ones.Below.2015.720p.BluRay.x264-%5BYTS.AG%5D.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQwMzk0Ml8/The%20Ones%20Below.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQwMzk0M18/The.Ones.Below.2015.jpg</fanart>
+<info>A couple expecting their first child discover an unnerving difference between themselves and the couple living in the flat below them who are also having a baby. </info>
+</item>
+
+<item>
+<title>Project.Almanac.2015</title>
+<link>https://od.lk/d/OTdfMzE2MTE3OV8/Project.Almanac.2014.1080p.BluRay.x264.YIFY.mp4</link>
+<thumbnail>https://od.lk/d/OTdfMzE2MTMyOV8/project-almanac.jpg</thumbnail>
+<fanart>https://od.lk/d/OTdfMzE2MTMyOF8/project-almanac..jpg</fanart>
+<info>A group of teens discover secret plans of a time machine, and construct one. However, things start to get out of control</info>
+</item>
+
+<item>
+<title>Breaking Through - Breaking Dance (2015)</title>
+<link>https://od.lk/s/OTdfMzM1NjMxNF8/Breaking%20Dance%20%282015%29.ita.eng.sub.ita-MIRCrew.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzM1NjQzOV8/Breaking%20Through.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzM1NjQ0MF8/breaking-through.jpg</fanart>
+<info>When Casey, a dancer who is discovered on YouTube, gets thrust into the modern world of internet celebrity and culture, she must find a way to balance her true identity with her online persona, or risk losing everything she cares about. </info>
+</item>
+
+<item>
+<title>A Haunting in Cawdor</title>
+<link>https://od.lk/s/OTdfMzMwNjM1OF8/A.Haunting.in.Cawdor.2015.1080p.BluRay.H264.AAC-RARBG.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzMwNjU3MV8/A%20Haunting%20in%20Cawdor.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzMwNjg4MF8/A%20Haunting%20in%20Cawdor..jpg</fanart>
+<info>Vivian Miller is serving out her jail sentence at a work release program in the Midwest. Her final 90 day sentence takes her to the Cawdor Barn Theatre, a dilapidated old structure run by Lawrence O'Neil, a troubled man raging at the mistakes of his past. After Vivian views an old VHS tape of what looks like a murder being recorded, she sets out to unravel this horrific crime before she becomes the next victim of the supernatural forces inhabiting the haunted structure. </info>
+</item>
+
+<item>
+<title>Swat: Unit 887</title>
+<link>https://od.lk/s/OTdfMzMxMjIzNF8/SWAT.Unit.887.2015.1080p.BluRay.H264.AAC-RARBG.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzMxMjIzNF8/SWAT.Unit.887.2015.1080p.BluRay.H264.AAC-RARBG.mp4</thumbnail>
+<fanart>https://od.lk/s/OTdfMzMxMzI0MF8/SWAT-Unit-887-2015.jpg</fanart>
+<info>A non-stop, race against time action packed thriller that follows an elite SWAT Team as they try to stop a domestic terrorist from killing innocent hostages and destroying the city of Los Angeles. With 24 hours left on the clock, the team must rely on their instincts and unique skill set to stop the attack and bring justice. </info>
+</item>
+
+<item>
+<title>Clinger (2015)</title>
+<link>https://od.lk/s/OTdfMzI5NzQwOV8/Clinger.2015.1080p.BluRay.H264.AAC-RARBG.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzI5ODkwNF8/Clinger%20%282015%29.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzI5OTA2MV8/clinger-banner.jpg</fanart>
+<info>Fern Petersen, a driven high school senior, has her life turned upside down when her overly affectionate boyfriend, Robert Klingher, dies in an embarrassing accident. When Robert returns from the dead as a love-sick ghost, he tries to reunite with Fern - only to have his heart broken. As Robert plots to kill Fern so they can be together forever, Fern will have to fight to stay in the world of the living. Clinger is a blood-soaked coming of age story about the horrors of first love. </info>
+</item>
+
+<item>
+<title>The Rezort </title>
+<link>https://od.lk/s/OTdfMzI4OTY5MV8/The.Rezort.2015.1080p.BluRay.H264.AAC-RARBG.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzI5NDk4M18/The%20Rezort.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzM1ODkxNl8/The%20Rezort..jpg</fanart>
+<info>Following a near-apocalyptic zombie outbreak, humans are once again in control. If an occasional rogue zombie finds its way into everyday life, it is quickly disposed of by the authorities. In this day and age, people know how to handle "Zee's". The latest craze is the Zombie Safari - Zafari - a chance to go out and shoot the undead in the wild. The ultimate blood sport experience, and for many the ultimate therapeutic revenge following the losses suffered during the outbreak. Little do the vacationers realize they're actually in a highly controlled environment, where the zombies are always kept at a safe shooting distance. Nothing is left to chance, nothing is unplanned. So far</info>
+</item>
+
+<item>
+<title>Lethal.Seduction.2015</title>
+<link>https://od.lk/s/OTdfMzI5MzU4MF8/Lethal.Seduction.2015.WEBRip.x264-RARBG.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzI5NDk4MF8/Lethal%20Seduction.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzM1OTA3OV8/Lethal.Seduction.2015.jpg</fanart>
+<info>High School senior MARK RICHARDS has never minded his overprotective widowed mother, TANYA, and is a good son to her as he prepares to go off to Princeton in the fall. However, when he comes under the sexual spell of the rapacious, manipulative older woman CARISSA KENSINGTON, he finds himself in the middle of two strong, unreasonable women--one of whom is insane...</info>
+</item>
+
+<item>
+<title>Andron.2015</title>
+<link>https://od.lk/s/OTdfMzIxNjU1M18/Andron.2015.1080p.BluRay.H264.AAC-RARBG.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzIxODEwNF8/Andron.2015.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzIxODEwNV8/andron-1.jpg</fanart>
+<info>In the year 2154, a group of young men and women awake in a dark claustrophobic maze. They don't remember who they are or how they got stuck in the Black Labyrinth of ANDRON. The group must learn to decipher codes, understand the signals and beat the tests in this mysterious and bizarre place. Out of necessity they struggle to form a bond to survive, while the outside world watches and wagers on their fate.</info>
+</item>
+
+<item>
+<title>The.Sighting.2015</title>
+<link>https://od.lk/s/OTdfMzIwOTIyNV8/The.Sighting.2015.1080p.BluRay.H264.AAC-RARBG.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzIxNjUwMl8/The.Sighting.2015.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzM1OTI5N18/The.Sighting.2015..jpg</fanart>
+<info>One year after seven local students are inexplicably murdered at a lake house party near the Canadian border, recent high school grads Travis and his buddy Nate plan a celebratory road trip to Canada. While cutting through the woods at night, the two friends are savagely attacked by mysterious creatures and Nate is dragged off leaving Travis- to run for help. After Travis's efforts to save Nate end up in the death of Nate's brother, Chris, the police begin to investigate the events surrounding the deaths. Did things go as Travis claims they did, or are his claims of Sasquatch-like creatures signs of deeper troubles in his world? </info>
+</item>
+
+<item>
+<title>The.Sea.Of.Trees.2015.</title>
+<link>https://od.lk/s/OTdfMzIwOTA5M18/The.Sea.Of.Trees.2015.1080p.BluRay.H264.AAC-RARBG.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzIxNjUwMV8/The.Sea.Of.Trees.2015.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzIxNjUwMF8/The.Sea.Of.Trees.2015..jpg</fanart>
+<info>Arthur Brennan treks into Aokigahara, known as The Sea of Trees, a mysterious dense forest at the base of Japan's Mount Fuji where people go to commit suicide. On his journey to the suicide forest, he encounters Takumi Nakamura, a Japanese man who has lost his way after attempting suicide. The two men begin a journey of reflection and survival, which affirms Arthur's will to live and reconnects him to his love for his wife. </info>
+</item>
+
+<item>
+<title>The.Dead.Room.2015</title>
+<link>https://od.lk/s/OTdfMzIwOTE1NF8/The.Dead.Room.2015.1080p.BluRay.H264.AAC-RARBG.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzIxNjQ5Nl8/The.Dead.Room.2015.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzM1OTM0N18/The.Dead.Room..2015.jpg</fanart>
+<info>When a terrified family flees a desolate southern New Zealand farmhouse, two cynical scientists and a young psychic are sent to investigate their claims of a haunting. There they encounter a powerful spirit that will protect the house's secrets at all costs. </info>
+</item>
+
+<item>
+<title>River.2015</title>
+<link>https://od.lk/s/OTdfMzIwNzgwOF8/River.2015.1080p.BluRay.H264.AAC-RARBG.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzIxNjQ5OV8/River.2015.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzM1OTM0OV8/River.2015..jpg</fanart>
+<info>A medical practitioner gets himself involved in a crime which happens in a unexpected way. Filled full of guilt, he tries to escape from the cops of Thailand but finally gets captured for a while, then gets a approached to go back to his own country</info>
+</item>
+
+<item>
+<title>Mythica.The.Darkspore.2015</title>
+<link>https://od.lk/s/OTdfMzIwOTM2MV8/Mythica.The.Darkspore.2015.1080p.BluRay.x264.YIFY.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzIxNjU1Nl8/Mythica.The.Darkspore.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzM1OTM1MF8/Mythica.The.Darkspore.2015.jpg</fanart>
+<info>Marek and her company must go on a journey and prevent Szorlok from obtaining all the shards of the Darkspore, or all will be lost.</info>
+</item>
+
+<item>
+<title>Mythica.A.Quest.for.Heroes.2015</title>
+<link>https://od.lk/s/OTdfMzIxMDE0NF8/Mythica.A.Quest.for.Heroes.2015.1080p.BluRay.H264.AAC-RARBG.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzIxNjU1NV8/Mythica.A.Quest.for.Heroes.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzM1OTM1MV8/Mythica.A.Quest.for.Heroes.2015.jpg</fanart>
+<info>Stuck in a life of indentured servitude, Marek dreams of becoming a wizard. When she meets a beautiful priestess, Teela, in need of help, Marek escapes her master and puts together a team of adventurers and embarks on an epic quest to free Teela's sister from a vicious ogre. </info>
+</item>
+
+<item>
+<title>Equals.2015</title>
+<link>https://od.lk/s/OTdfMzIwOTIxNV8/Equals.2015.1080p.BluRay.x264-%5BYTS.AG%5D.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzIxNjQ5OF8/Equals.2015.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzIxNjQ5N18/Equals.2015..jpg</fanart>
+<info>A futuristic love story set in a world where emotions have been eradicated. </info>
+</item>
+
+<item>
+<title>The.Timber.2015</title>
+<link>https://od.lk/s/OTdfMzE2OTM3NV8/The.Timber.2015.1080p.BluRay.H264.AAC-RARBG.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzE2OTQ4MV8/The.Timber.2015.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzE2OTQ4MF8/The.Timber.2015..jpg</fanart>
+<info>In the wild west, two brothers embark on a journey to collect a bounty in a desperate attempt to save their home: but what they find along the way is more than they bargained for</info>
+</item>
+
+<item>
+<title>The.Last.Rescue.2015</title>
+<link>https://od.lk/s/OTdfMzE2OTM4MF8/The.Last.Rescue.2015.1080p.BluRay.H264.AAC-RARBG.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzE2OTQ3MF8/the-last-rescue.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzE2OTQ3MV8/The-Last-Rescue-2015.jpg</fanart>
+<info>A World War II story from Puget Sound filmmakers: Shortly after D-Day, three American soldiers and two Army Corps nurses are stranded behind enemy lines. They take a high-ranking German officer as their prisoner and try to orchestrate an escape. </info>
+</item>
+
+<item>
+<title>The.Last.House.on.Cemetery.Lane.2015</title>
+<link>https://od.lk/s/OTdfMzE2OTM4Ml8/The.Last.House.on.Cemetery.Lane.2015.1080p.BluRay.H264.AAC-RARBG.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzE2OTQ2OF8/the-last-house-on-Cemetery-lane.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzE2OTQ2OV8/The-Last-House-on-Cemetery-Lane-.jpg</fanart>
+<info>Screenwriter John Davies has grown tired of living in London and moves to an old manor house in a sleepy West Wales village to get out of the rat race. At first he enjoys himself, embracing the quieter pace of life and starting a relationship with his beautiful neighbour Cassie Konrad. But strange, unexplained occurrences begin to occur in the manor house. John discovers he is surrounded by a supernatural presence and begins to research the house's past, discovering secrets more terrible than he ever imagined. It is now up to John to right the injustices of the past and finally lay to rest the spirits which haunt the Last House on Cemetery Lane. </info>
+</item>
+
+<item>
+<title>The Haunting of Ellie Rose 2015</title>
+<link>https://od.lk/s/OTdfMzE2OTM4Nl8/The.Haunting.Of.Ellie.Rose.2015.1080p.BluRay.x264-%5BYTS.AG%5D.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzE2OTQ2N18/The-Haunting-of-Ellie-Rose.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzE2OTQ4Ml8/The-Haunting-of-Ellie-Rose..jpg</fanart>
+<info>Torn by years in an abusive marriage, an emotional Ellie Rose arrives alone at the family cabin along a broken East US coastline. Her story and motives for being there are unclear. Arriving unprepared and packed with few supplies she seems anxious at either leaving or someone else arriving. The cabin unused for years, still holds memories providing hints of a shattered family. Plagued by her childhood and nightmares of her murdered family; Ellie anxiously prepares for an unwelcome visitor. Before long her nightmares turn real and those horrors that stalk her mind transform into the reality of everyday life. Imprisoned by her own actions and haunted by the ghosts of her past, Ellie soon starts to spiral out of control. The waiting is over...Ellie finally confronts her fears, her family and the truth. </info>
+</item>
+
+<item>
+<title>Darkest.Day.2015</title>
+<link>https://od.lk/s/OTdfMzE2OTM4M18/Darkest.Day.2015.1080p.BluRay.x264-%5BYTS.AG%5D.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzE2OTQ3OV8/darkest-day.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzE2OTQ3OF8/Darkest.Day.2015..jpg</fanart>
+<info>Dan wakes up on a beach with no memory. He discovers an empty city ravaged by a deadly virus. After befriending a small group of survivors it soon becomes clear the army are hunting him down, and the group are forced on a dangerous journey to escape.</info>
+</item>
+
+<item>
+<title>Born to dance</title>
+<link>https://od.lk/s/OTdfMzE2OTM4OF8/Born.to.Dance.2015.1080p.BluRay.H264.AAC-RARBG.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzE2OTQ4NF8/born_to_dance_poster.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzE2OTQ4M18/Born-to-Dance-2015.jpg</fanart>
+<info>Coming of age tale told through the eyes of 'Tu', an ambitious young man from Auckland who dreams of being a professional hip-hop dancer.</info>
+</item>
+
+<item>
+<title>Born to be blue 2015</title>
+<link>https://od.lk/s/OTdfMzE2OTM5MF8/Born.to.Be.Blue.2015.720p.BluRay.H264.AAC-RARBG.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzE2OTQ3N18/born%20to%20be%20blue.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzE2OTQ3Nl8/born%20to%20be%20blue..jpg</fanart>
+<info>Born to be Blue starring Ethan Hawke is a re-imagining of jazz trumpeter Chet Baker's life in the 60's. When Chet stars in a film about himself, a romance heats up with his costar, the enigmatic Jane (Carmen Ejogo). Production is shelved when Chet's past comes back to haunt him and it appears he may never play music again but Jane challenges him to mount a musical comeback against all the odds. </info>
+</item>
+
+<item>
+<title>Animus.The.Tell.Tale.Heart.2015</title>
+<link>https://od.lk/s/OTdfMzE2OTM3NF8/Animus.The.Tell.Tale.Heart.2015.1080p.BluRay.H264.AAC-RARBG.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzE2OTQ3NV8/Animus.The.Tell.Tale.Heart.2015.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzE2OTQ3NF8/Animus.jpg</fanart>
+<info>Hoping to find proof of the paranormal, five film students set out to document the legendary Copper Queen Hospital. But as the sun goes down, they experience something far worse than they ever could have imagined and they find themselves pursued by a blood thirsty maniac.</info>
+</item>
+
+<item>
+<title>American.Poltergeist.2015</title>
+<link>https://od.lk/s/OTdfMzE2OTQxMV8/American.Poltergeist.2015.1080p.BluRay.H264.AAC-RARBG.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzE2OTQ3M18/American.Poltergeist.2015.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzE2OTQ3Ml8/American.Poltergeist.2015..jpg</fanart>
+<info>A group of friends move into a vacation home with a sinister past in Fall River, Massachusetts. Suspicious of the home's owner, Taryn feels a strong connection to the house and finds herself at the center of one of the most deadly poltergeists in American history. </info>
+</item>
+
+<item>
+<title>San.Andreas.2015.</title>
+<link>https://od.lk/s/OTdfMzE2NzI4M18/San.Andreas.2015.1080p.BluRay.x264.YIFY.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzE2NzI5MF8/large_san_andreas_ver4.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzE2NzI4OV8/san-andreas-08.jpg</fanart>
+<info>In San Andreas, California is experiencing a statewide earthquake that goes on record as easily the biggest earthquake in history. Dwayne Johnson plays Ray Gaines, a helicopter rescue pilot for the Los Angeles Fire Department, who is trying to find his daughter, Blake (Alexandra Daddario), who is in San Francisco amidst the chaos. Ray's estranged wife, Emma, is forced to turn to Ray for help, as he is her last resort. Together they journey to save their daughter.</info>
+</item>
+
+<item>
+<title>San.Andreas.Quake.2015</title>
+<link>https://od.lk/s/OTdfMzE2NzI3N18/San.Andreas.Quake.2015.1080p.BluRay.x264.YIFY.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzE2NzI4Nl8/San.Andreas.Quake.2015.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzM1OTM1Ml8/San-Andreas-Quake-2015.jpg</fanart>
+<info>In San Andreas, California is experiencing a statewide earthquake that goes on record as easily the biggest earthquake in history. Dwayne Johnson plays Ray Gaines, a helicopter rescue pilot for the Los Angeles Fire Department, who is trying to find his daughter, Blake (Alexandra Daddario), who is in San Francisco amidst the chaos. Ray's estranged wife, Emma, is forced to turn to Ray for help, as he is her last resort. Together they journey to save their daughter.</info>
+</item>
+
+<item>
+<title>Mythica.The.Necromancer.2015</title>
+<link>https://www.dropbox.com/s/wsvmgq0o5v2uafs/Mythica.The.Necromancer.2015.HDRip.XviD.AC3-EVO.avi?dl=1</link>
+<thumbnail>https://www.dropbox.com/s/jxgk057griy7ivf/mythica.the.necromancer.2015.png?dl=1</thumbnail>
+<fanart>https://www.dropbox.com/s/mbnympqv23a6mgs/mythica.the.necromancer.2015.jpg?dl=1</fanart>
+<info>Mallister takes Thane prisoner and forces Marek and her team on a quest</info>
+</item>
+
+<item>
+<title>Insurgent.2015</title>
+<link>https://od.lk/d/OTdfMzE2MDIyMF8/Insurgent.2015.1080p.3D.HSBS.BluRay.x264.YIFY.mp4</link>
+<thumbnail>https://od.lk/d/OTdfMzE2MjE1M18/Insurgent.2015.jpg</thumbnail>
+<fanart>https://od.lk/d/OTdfMzE2MjE1NF8/insurjent.jpg</fanart>
+<info>One choice can transform you-or it can destroy you. But every choice has consequences, and as unrest surges in the factions all around her, Tris Prior must continue trying to save those she loves--and herself--while grappling with haunting questions of grief and forgiveness, identity and loyalty, politics and love. Tris's initiation day should have been marked by celebration and victory with her chosen faction; instead, the day ended with unspeakable horrors. War now looms as conflict between the factions and their ideologies grows. And in times of war, sides must be chosen, secrets will emerge, and choices will become even more irrevocable--and even more powerful. Transformed by her own decisions but also by haunting grief and guilt, radical new discoveries, and shifting relationships. Tris must fully embrace her Divergence, even if she does not know what she may lose by doing so.</info>
+</item>
+
+<item>
+<title>The.SpongeBob.Movie.Sponge.Out.of.Water.2015</title>
+<link>https://od.lk/d/OTdfMzE2MDM1Ml8/The.SpongeBob.Movie.Sponge.Out.of.Water.2015.1080p.3D.HSBS.BluRay.x264.YIFY.mp4</link>
+<thumbnail>https://od.lk/d/OTdfMzE2MjE0NF8/The-SpongeBob.jpg</thumbnail>
+<fanart>https://od.lk/d/OTdfMzE2MjEzNl8/spongbob.jpg</fanart>
+<info>During a fight between the Krusty Krab and Plankton, the secret formula disappears and all of Bikini Bottom goes into a terrible apocalypse. The Bikini Bottomites go crazy and they all believe that Spongebob and Plankton stole the secret formula. The two new teammates create a time machine to get the secret formula before it disappears and also go to some weird places along the way including a time paralex where they meet a time wizard named Bubbles who is a dolphin. The two later get to the time when the formula disappeared and take it back to the present day time. They then realized that it's a fake formula Plankton made when he was taking the real one and the Bikini Bottomites try to destroy Spongebob (Plankton runs away) Spongebob smells Krabby patties and so does everyone else so the Bikini Bottomites follow it (instead of destroying Spongebob) and they arrive at the bank of the surface. Everyone except Spongebob, Patrick, Mr. Krabs, Squidward, Sandy, and a stowaway Plankton go back home while the six characters that stayed are greeted by Bubbles who takes them to the surface where a pirate is selling Krabby Patties. The team learns that they can write in a magic book and it'll make whatever they write in it become true. They decide to turn themselves into superheroes and battle the pirate. Meanwhile, Plankton writes himself as a superhero too.</info>
+</item>
+
+<item>
+<title>The.Black.Hole.2015</title>
+<link>https://od.lk/d/OTdfMzE2MTExNV8/The.Black.Hole.2015.1080p.BluRay.H264.AAC-RARBG.mp4</link>
+<thumbnail>https://od.lk/d/OTdfMzE2MTMzMl8/the%20black%20hole.jpg</thumbnail>
+<fanart>https://od.lk/d/OTdfMzE2MTMzOV8/Black-hole.jpg</fanart>
+<info>Mattie Carver's world is turning curiouser and curiouser, as space and time seem to be collapsing all around her. Joined by a misfit team of friends, teachers, and two mysterious men in black, Mattie is in a race to restore her world to normal, before it's too late</info>
+</item>
+
+<item>
+<title>Eye.in.the.Sky.2015.</title>
+<link>https://www.dropbox.com/s/9hr2rl1eydianzk/Eye.in.the.Sky.2015..mp4?dl=1</link>
+<thumbnail>https://www.dropbox.com/s/t9hjagzcd1x2caa/Eye.in.the.Sky.2015.png?dl=1</thumbnail>
+<fanart>https://www.dropbox.com/s/xrhlgdr6829udnx/Eye.in.the.Sky.2015.jpg?dl=1</fanart>
+<info>EYE IN THE SKY stars Helen Mirren as Colonel Katherine Powell, a UK-based military officer in command of a top secret drone operation to capture terrorists in Kenya. Through remote surveillance and on-the-ground intel, Powell discovers the targets are planning a suicide bombing and the mission escalates from "capture" to "kill." But as American pilot Steve Watts (Aaron Paul) is about to engage, a nine-year old girl enters the kill zone triggering an international dispute, reaching the highest levels of US and British government, over the moral, political, and personal implications of modern warfare</info>
+</item>
+
+<item>
+<title>Life on the line 2015</title>
+<link>https://www.dropbox.com/s/h408krbb2dhctj7/Life.On.The.Line.2015.1080p.BluRay.H264.AAC-RARBG.mp4?dl=1</link>
+<thumbnail>https://www.dropbox.com/s/ywe2im4asq2yxdq/Life%20on%20the%20line%202015.png?dl=1</thumbnail>
+<fanart>https://www.dropbox.com/s/x9ecqotw9ue5es1/Life%20on%20the%20line%202015.jpg?dl=1</fanart>
+<info>A crew of men who do the high-wire work of fixing the electrical grid are hit by a sudden deadly storm. </info>
+</item>
+
+<item>
+<title>Nina.Forever.2015</title>
+<link>https://www.dropbox.com/s/mj1ieyh2mm7wzt5/Nina.Forever.2015.1080p.BluRay.H264.AAC-RARBG.mp4?dl=1</link>
+<thumbnail>https://www.dropbox.com/s/rlshadp93t3g29q/Nina.Forever.2015.png?dl=1</thumbnail>
+<fanart>https://www.dropbox.com/s/107yuqn5o91ha89/Nina.Forever.2015.jpg?dl=1</fanart>
+<info>After his girlfriend Nina dies in a car crash, Rob unsuccessfully attempts suicide. As he begins to overcome his grief, he falls in love with a coworker, Holly. Their relationship is complicated when Nina, unable to find rest in the afterlife, comes back to life to sarcastically torment them whenever they have sex. </info>
+</item>
+
+<item>
+<title>Dont grow up 2015</title>
+<link>https://www.dropbox.com/s/ilr9lkzoaphprzn/Dont.Grow.Up.2015.1080p.BluRay.H264.AAC-RARBG.mp4?dl=1</link>
+<thumbnail>https://www.dropbox.com/s/s9a5v95smsgv6gm/Dont.Grow.Up.2015.png?dl=1</thumbnail>
+<fanart>https://www.dropbox.com/s/1z4fwzr66j6xgwb/Dont.Grow.Up.2015.jpg?dl=1</fanart>
+<info>The story about a group of youths who can't face the thought of growing up because anyone who does becomes a rampaging zombie. </info>
+</item>
+
+<item>
+<title>Mr.Right.2015</title>
+<link>https://www.dropbox.com/s/46wsz2veiz5fsaa/Mr.Right.2015.720p.BluRay.H264.AAC-RARBG.mp4?dl=1</link>
+<thumbnail>https://www.dropbox.com/s/pc0cyjak1l89arn/Mr.Right.2015%20icon.jpg?dl=1</thumbnail>
+<fanart>https://www.dropbox.com/s/58cb63s118jha1o/th.jpg?dl=1</fanart>
+<info>After a going through a painful break up, a woman meets a man who appears to be perfect for her. However, as their relationship develops, she learns that he is a former hit-man. Their new, but genuine relationship is tested even further as they try to save each other after his dark past comes back to haunt him. </info>
+</item>
+
+<item>
+<title>Now.Add.Honey.2015</title>
+<link>https://www.dropbox.com/s/kemfs8nigeq233a/Now.Add.Honey.2015.1080p.BluRay.H264.AAC-RARBG.mp4?dl=1</link>
+<thumbnail>https://www.dropbox.com/s/orm8hsvcpr6jz6c/Now.Add.Honey.2015%20icon.jpg?dl=1</thumbnail>
+<fanart>https://www.dropbox.com/s/lebljtb6d9btxan/Now.Add.Honey.2015.jpg?dl=1</fanart>
+<info>Caroline Morgan is delighted when her sister, Beth, brings her movie star daughter, Honey Halloway, home for a visit. But when Beth is suddenly sent to rehab, Caroline is forced to have Honey move in to her suburban home. Honey struggles with life without an entourage, and her cousins, Clare and Harriet, struggle with a movie star hogging the bathroom. But after Honey leads Caroline to uncover a family secret, Caroline struggles most of all, as her life quickly falls apart. Trapped together in the house, a middle-aged woman and a teen starlet must each wrestle with who they really are. </info>
+</item>
+
+
+<item>
+<title>Touched with fire</title>
+<link>https://www.dropbox.com/s/tebngjhv7mlyz7u/Touched.with.Fire.2015.1080p.BluRay.H264.AAC-RARBG.mp4?dl=1</link>
+<thumbnail>https://www.dropbox.com/s/pmnv1z0fqebav4y/Touched%20with%20fire.png?dl=1</thumbnail>
+<fanart>https://www.dropbox.com/s/ik8agokvgfdmuxr/Touched%20with%20fire.jpg?dl=1</fanart>
+<info>Two bipolar patients meet in a psychiatric hospital and begin a romance that brings out all of the beauty and horror of their condition.</info>
+</item>
+
+<item>
+<title>HYENA ROAD 2015</title>
+<link>https://www.dropbox.com/s/apkes2s9k2xi2qt/Hyena.Road.2015.HDRip.XviD.AC3-EVO.avi?dl=1</link>
+<thumbnail>https://www.dropbox.com/s/5g5wsm1efnof3oo/Hyena.Road.2015.png?dl=1</thumbnail>
+<fanart>https://www.dropbox.com/s/tfsbl38d5yw5cah/Hyena.Road.2015.jpg?dl=1</fanart>
+<info>Three different men, three different worlds, three different wars - all stand at the intersection of modern warfare - a murky world of fluid morality where all is not as it seems.</info>
+</item>
+
+<item>
+<title>The big short 2015</title>
+<link>https://www.dropbox.com/s/wkl7flg09blrd4o/The.Big.Short.2015.WEB-DL.H264.MP3.NL-Subs.Team%C2%AE.avi?dl=1</link>
+<thumbnail>https://www.dropbox.com/s/q9xo5duk6u20jv4/the%20big%20short%202015.png?dl=1</thumbnail>
+<fanart>https://www.dropbox.com/s/mtvgbilwfgxis8f/the%20big%20short%202015.jpg?dl=1</fanart>
+<info>Three separate but parallel stories of the U.S mortgage housing crisis of 2005 are told. Michael Burry, an eccentric ex-physician turned one-eyed Scion Capital hedge fund manager, has traded traditional office attire for shorts, bare feet and a Supercuts haircut. He believes that the US housing market is built on a bubble that will burst within the next few years. Autonomy within the company allows Burry to do largely as he pleases, so Burry proceeds to bet against the housing market with the banks, who are more than happy to accept his proposal for something that has never happened in American history. The banks believe that Burry is a crackpot and therefore are confident in that they will win the deal. Jared Vennett with Deutschebank gets wind of what Burry is doing and, as an investor believes he too can cash in on Burry's beliefs. An errant telephone call to FrontPoint Partners gets this information into the hands of Mark Baum, an idealist who is fed up with the corruption in the </info>
+</item>
+
+<item>
+<title>Bunker.of.the.Dead.2015</title>
+<link>https://www.dropbox.com/s/qzucz1zv0227res/Bunker.of.the.Dead.2015.1080p.BluRay.H264.AAC-RARBG.mp4?dl=1</link>
+<thumbnail>https://www.dropbox.com/s/9145stah428bfwl/Bunker.of.the.Dead.2015.PNG?dl=1</thumbnail>
+<fanart>https://www.dropbox.com/s/nzapvhwkw3kjp9e/Bunker.of.the.Dead.2015.jpg?dl=1</fanart>
+<info>In the picturesque Bavarian town of Oberammergau, two friends, Markus and Thomas, are using the instructions found in an old Jewish diary to gain access to a WW II underground military base formerly codenamed: CERUSIT. Used by the Nazis as a secret research institute, there are shrouded rumors to this day about the lost gold of the Third Reich. The entrance to the cave system, however, lies right within the restricted area of a U.S. military base.. the first of many problems Markus and Thomas will have to face. Equipped only with a two-way-radio and a 3D camera, Markus penetrates the restricted area and manages to locate the entrance to the underground facility and later, the secret base. But what Markus does not know is that through his efforts, he has not only drawn the attention of the US Military.. but something else that has managed to survive in exile for over 70 years without luxuries... especially food. For Markus, it has now become race of life and death.</info>
+</item>
+
+<item>
+<title>Creative.Control.2015</title>
+<link>https://www.dropbox.com/s/e8qjkwbp623dc91/Creative.Control.2015.1080p.BluRay.H264.AAC-RARBG.mp4?dl=1</link>
+<thumbnail>https://od.lk/s/OTdfMzM1OTM1M18/Creative.Control.2015.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzM1OTM1NF8/Creative.Control..2015.jpg</fanart>
+<info>In near future Brooklyn, an ad executive uses a new Augmented Reality technology to conduct an affair with his best friend's girlfriend...sort of.</info>
+</item>
+
+<item>
+<title>Diablo.2015</title>
+<link>https://www.dropbox.com/s/azn904uroe3z8tv/Diablo.2015.1080p.BluRay.H264.AAC-RARBG.mp4?dl=1</link>
+<thumbnail>https://www.dropbox.com/s/2ms3m70zapu75dk/Diablo.2015.PNG?dl=1</thumbnail>
+<fanart>https://www.dropbox.com/s/1oe1umqv1jhp9ic/Diablo.2015.jpg?dl=1</fanart>
+<info>A young civil war veteran is forced on a desperate journey to save his kidnapped wife. </info>
+</item>
+
+<item>
+<title>Dope.2015</title>
+<link>https://www.dropbox.com/s/4ck2zlcmm2ohye2/Dope.2015.720p.BluRay.x264.YIFY.mp4?dl=1</link>
+<thumbnail>https://od.lk/s/OTdfMzM1OTM1NV8/Dope.2015.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzM1OTM1Nl8/Dope..2015.jpg</fanart>
+<info>A coming of age comedy/drama for the post hip hop generation. Malcolm is a geek, carefully surviving life in The Bottoms, a tough neighborhood in Inglewood, CA filled gangsters and drugs dealers, while juggling his senior year of college applications, interviews and the SAT. His dream is to attend Harvard. A chance invitation to a big underground party leads Malcolm and his friends into a, only in Los Angeles, gritty adventure filed with offbeat characters and bad choices. If Malcolm can persevere, he'll go from being a geek, to being dope, to ultimately being himself.</info>
+</item>
+
+<item>
+<title>Emelie.2015</title>
+<link>https://www.dropbox.com/s/pqhbuhd5mh0abuh/Emelie.2015.1080p.BluRay.H264.AAC-RARBG.mp4?dl=1</link>
+<thumbnail>https://www.dropbox.com/s/pola1kesgbbv9mk/Emelie.2015.PNG?dl=1</thumbnail>
+<fanart>https://www.dropbox.com/s/qgt3llqx4aeb4qt/Emelie.2015.jpg?dl=1</fanart>
+<info>A couple's replacement babysitter turns out to be more than they bargined for when she subjects their kids to a series of twisted activities. </info>
+</item>
+
+<item>
+<title>Ex.Machina.2015</title>
+<link>https://www.dropbox.com/s/b2o6kar5of1rmef/Ex.Machina.2015.1080p.BluRay.x264.YIFY.mp4?dl=1</link>
+<thumbnail>https://www.dropbox.com/s/v3tznjkedor8vix/Ex.Machina.2015.PNG?dl=1</thumbnail>
+<fanart>https://www.dropbox.com/s/29aj43rutjeu73f/Ex.Machina.2015.jpg?dl=1</fanart>
+<info>Caleb, a 26 year old coder at the world's largest internet company, wins a competition to spend a week at a private mountain retreat belonging to Nathan, the reclusive CEO of the company. But when Caleb arrives at the remote location he finds that he will have to participate in a strange and fascinating experiment in which he must interact with the world's first true artificial intelligence, housed in the body of a beautiful robot girl</info>
+</item>
+
+<item>
+<title>Forsaken.2015</title>
+<link>https://www.dropbox.com/s/4ufp6d295bdbq2p/Forsaken.2015.1080p.BluRay.H264.AAC-RARBG.mp4?dl=1</link>
+<thumbnail>https://www.dropbox.com/s/n2kks0w3gcj0tvi/Forsaken.2015.PNG?dl=1</thumbnail>
+<fanart>https://www.dropbox.com/s/534d4na69vfyrfv/Forsaken.2015.jpg?dl=1</fanart>
+<info>John Henry returns to his hometown in hopes of repairing his relationship with his estranged father, but a local gang is terrorizing the town. John Henry is the only one who can stop them, however he has abandoned both his gun and reputation as a fearless quick-draw killer. </info>
+</item>
+
+<item>
+<title>Gridlocked.2015</title>
+<link>https://www.dropbox.com/s/u99bf5iichgiyzo/Gridlocked.2015.1080p.BluRay.H264.AAC-RARBG.mp4?dl=1</link>
+<thumbnail>https://www.dropbox.com/s/ljv6c6gtwdbbj0c/Gridlocked.2015.PNG?dl=1</thumbnail>
+<fanart>https://www.dropbox.com/s/xd1wld9pcehhpqz/Gridlocked.2015.jpg?dl=1</fanart>
+<info>Former SWAT leader David Hendrix is down on his luck and has failed to receive medical clearance after taking a bullet on the job. Despite being highly trained and competent, his efforts have been reduced to routine tasks for the NYPD. As if things couldn't get any worse, he's been forced to babysit Brody Walker, a hard partying celebrity that's been sent on a mandatory ride along as part of his probation. Pampered and irritating, Walker is the last thing Hendrix needs. But all of that changes when a police training facility comes under attack by a team of ruthless mercenaries led by the mysterious Korver. Now, Hendrix and Walker must band together with the remaining survivors to fight back and keep the mercenaries from overtaking the compound.... if they don't kill each other first. </info>
+</item>
+
+<item>
+<title>Backtrack.2015</title>
+<link>https://www.dropbox.com/s/skdpg0fla28i1c9/Backtrack.2015.1080p.BluRay.H264.AAC-RARBG.mp4?dl=1</link>
+<thumbnail>https://www.dropbox.com/s/0vjt6ccih4tr573/Backtrack.2015.png?dl=1</thumbnail>
+<fanart>https://www.dropbox.com/s/yaae41xeqgghaz2/Backtrack.2015.jpg?dl=1</fanart>
+<info>Psychologist Peter Bower's life is thrown into turmoil when he discovers that the patients he has been seeing are ghosts. Risking his own sanity, Peter delves into his past to uncover a terrifying secret which only he can put right. Backtrack is a spine-chilling story from the acclaimed writer-director, Michael Petroni.</info>
+</item>
+
+<item>
+<title>Avengers.Age.of.Ultron.2015</title>
+<link>https://www.dropbox.com/s/e1wredrsm8zcrvh/Avengers.Age.of.Ultron.2015.1080p.BluRay.x264.YIFY.mp4?dl=1</link>
+<thumbnail>https://www.dropbox.com/s/dg4nb5kgp503n6z/Avengers.Age.of.Ultron.2015.PNG?dl=1</thumbnail>
+<fanart>https://www.dropbox.com/s/4jx7yli849nyzb1/Avengers.Age.of.Ultron.2015.jpg?dl=1</fanart>
+<info>When Tony Stark tries to jumpstart a dormant peacekeeping program, things go awry and Earth's Mightiest Heroes, including Iron Man, Captain America, Thor, the Incredible Hulk, Black Widow and Hawkeye, are put to the ultimate test as the fate of the planet hangs in the balance. As the villainous Ultron emerges, it is up to the Avengers to stop him from enacting his terrible plans, and soon uneasy alliances and unexpected action pave the way for a global adventure.</info>
+</item>
+
+<item>
+<title>Hello.My.Name.Is.Doris.2015</title>
+<link>https://www.dropbox.com/s/bc0wgib71f97k25/Hello.My.Name.Is.Doris.2015.1080p.BluRay.H264.AAC-RARBG.mp4?dl=1</link>
+<thumbnail>https://od.lk/s/OTdfMzM1OTM1OF8/Hello-My-Name-Is-Doris.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzM1OTM1N18/Hello.My.Name.Is.Doris.2015.jpg</fanart>
+<info>A self-help seminar inspires a sixty-something woman to romantically pursue her younger co-worker.</info>
+</item>
+
+<item>
+<title>Jane.Got.a.Gun.2015</title>
+<link>https://www.dropbox.com/s/deya9jpgzmyichi/Jane.Got.a.Gun.2015.1080p.BluRay.H264.AAC-RARBG.mp4?dl=1</link>
+<thumbnail>https://www.dropbox.com/s/igbcoyijh0y3wsz/Jane.Got.a.Gun.2015.PNG?dl=1</thumbnail>
+<fanart>https://www.dropbox.com/s/lamr3dj38pfgb9x/Jane.Got.a.Gun.2015.jpg?dl=1</fanart>
+<info>Jane Got a Gun centers on Jane Hammond, who has built a new life with her husband Bill "Ham" Hammond after being tormented by the ultra-violent Bishop Boys outlaw gang. She finds herself in the gang's cross-hairs once again when Ham stumbles home riddled with bullets after dueling with the Boys and their relentless mastermind Colin. With the vengeful crew hot on Ham's trail, Jane has nowhere to turn but to her former fiancé Dan Frost for help in defending her family against certain destruction. Haunted by old memories, Jane's past meets the present in a heart-stopping battle for survival.</info>
+</item>
+
+<item>
+<title>Jeruzalem.2015</title>
+<link>https://www.dropbox.com/s/0ahrk2tux6dq5i7/Jeruzalem.2015.1080p.BluRay.H264.AAC-RARBG.mp4?dl=1</link>
+<thumbnail>https://www.dropbox.com/s/gu0a2dev9he75kh/Jeruzalem.2015.png?dl=1</thumbnail>
+<fanart>https://www.dropbox.com/s/x4hox2undhsqdg6/Jeruzalem.2015.jpg?dl=1</fanart>
+<info>When a couple of American young adults fly to Israel to visit the city of Jerusalem, a biblical nightmare falls upon the city </info>
+</item>
+
+<item>
+<title>Jurassic World 2015</title>
+<link>https://www.dropbox.com/s/o8k60qen6qrgn0g/Jurassic.World.2015.720p.BDRip.x264.AC3-Mikas.mkv?dl=1</link>
+<thumbnail>https://www.dropbox.com/s/n9xn2wyceaqvhuu/Jurassic%20World%202015.png?dl=1</thumbnail>
+<fanart>https://www.dropbox.com/s/an1htlwbl4mcc32/Jurassic%20World%202015.jpg?dl=1</fanart>
+<info>22 years after the original Jurassic Park failed, the new park (also known as Jurassic World) is open for business. After years of studying genetics the scientists on the park genetically engineer a new breed of dinosaur. When everything goes horribly wrong, will our heroes make it off the island?</info>
+</item>
+
+<item>
+<title>Kicking.Off.2015</title>
+<link>https://www.dropbox.com/s/mn6wa5voby9xuy7/Kicking.Off.2015.1080p.BluRay.H264.AAC-RARBG.mp4?dl=1</link>
+<thumbnail>https://www.dropbox.com/s/srv74448qgj6t16/Kicking.Off.2015.png?dl=1</thumbnail>
+<fanart>https://od.lk/s/OTdfMzM1OTM2MV8/Kicking.Off.2015.jpg</fanart>
+<info>Despite a mare of a season, loyal fans Wigsy (Warren Brown) and Cliff (Greg McHugh) join the thousands of adoring supporters each Saturday in the terraces to sing and cheer their boys to victory. But today is different. Today is important. Win: they stay up. Lose: they go down. In the dying moments of the match, unbelievable elation as their team score is immediately followed by unbelievable deflation as the Ref (Alistair Petrie) disallows the goal. This, compounded by a moody goal at the other end, sends the losing supporters into a rioting frenzy. Disenfranchised by the impotency of the rioting hooligans to cause any real change, but determined to right this injustice, Wigsy and the more reluctant Cliff inadvertently form their own two-man firm....and kidnap the referee.</info>
+</item>
+
+<item>
+<title>Mad.Max.Fury.Road.2015</title>
+<link>https://www.dropbox.com/s/v2dybx4l67k52jz/Mad.Max.Fury.Road.2015.1080p.BluRay.x264.YIFY.mp4?dl=1</link>
+<thumbnail>https://od.lk/d/OTdfMzE2MjE1NV8/Mad_Max.jpg</thumbnail>
+<fanart>https://od.lk/d/OTdfMzE2MjE1Nl8/mad-max-fury-road.jpg</fanart>
+<info>An apocalyptic story set in the furthest reaches of our planet, in a stark desert landscape where humanity is broken, and almost everyone is crazed fighting for the necessities of life. Within this world exist two rebels on the run who just might be able to restore order. There's Max, a man of action and a man of few words, who seeks peace of mind following the loss of his wife and child in the aftermath of the chaos. And Furiosa, a woman of action and a woman who believes her path to survival may be achieved if she can make it across the desert back to her childhood homeland.</info>
+</item>
+
+<item>
+<title>Ratter.2015</title>
+<link>https://www.dropbox.com/s/dw2ceuayvoqykgj/Ratter.2015.1080p.BluRay.H264.AAC-RARBG.mp4?dl=1</link>
+<thumbnail>https://www.dropbox.com/s/415iz93b0eakrme/Ratter.2015.png?dl=1</thumbnail>
+<fanart>https://www.dropbox.com/s/aps01i3zobm5rkw/Ratter.2015.jpg?dl=1</fanart>
+<info>Emma, a graduate student living alone in NYC, is being watched by a stalker who hacks into the technology that surrounds her - laptop, cell phone, and other web connected devices. This obsession continues to grow as the hacker records Emma's most intimate moments. When the thrill of watching isn't enough, the situation escalates to a dangerous and terrifying level. </info>
+</item>
+
+<item>
+<title>Regression.2015</title>
+<link>https://www.dropbox.com/s/mcvucefykbynsxm/Regression.2015.1080p.BluRay.H264.AAC-RARBG.mp4?dl=1</link>
+<thumbnail>https://od.lk/s/OTdfMzIwOTI1OV8/regression.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzM1OTQxMl8/Regression.2015.jpg</fanart>
+<info>A young girl is sexually abused by her father. Thus, begins the disturbing tale of a father and daughter torn apart, thrown into the center of a conspiracy that shocks the nation. </info>
+</item>
+
+<item>
+<title>Return.to.Sender.2015</title>
+<link>https://www.dropbox.com/s/z3g3rdr3w26kpn1/Return.to.Sender.2015.1080p.BluRay.H264.AAC-RARBG.mp4?dl=1</link>
+<thumbnail>https://od.lk/s/OTdfMzIwOTI2MF8/return-to-sender.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzM1OTQxM18/Return.to.Sender.2015.jpg</fanart>
+<info>An attractive but lonely nurse accepts a blind date setup by a co-worker and arranges for them to meet at her home. A stranger arrives on her porch before the arranged time and she mistakes him for her blind date. The stranger rapes her and leaves her seriously traumatized. Her life falls apart and she enters depression. She learns much later he is in a prison an hour away and begins visiting him, first to confront him and her fears. Then she starts to flirt and her spirits improve dramatically in the rest of her life. </info>
+</item>
+
+<item>
+<title>Robert.the.Doll.2015</title>
+<link>https://www.dropbox.com/s/y2k4jklmgxpxq01/Robert.the.Doll.2015.1080p.BluRay.H264.AAC-RARBG.mp4?dl=1</link>
+<thumbnail>https://od.lk/s/OTdfMzIwOTI2MV8/Robert.the.Doll.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzM1OTQxNV8/Robert.the.Doll.2015.jpg</fanart>
+<info>After Paul and Jenny part ways with their sinister housekeeper Agatha, the disgruntled former employee gives a vintage doll called Robert to their son Gene. Soon after Agatha's departure, strange events begin plaguing the household. Furniture is vandalized, objects are thrown around and maniacal giggles echo through the house in the middle of the night. But nobody believes Gene when he claims Robert is to blame for the disturbances. Paul and Jenny consider the possibility that a supernatural force has taken over their home. But as the occurrences escalate they discover that it's not the house that's haunted... it's the doll.</info>
+</item>
+
+<item>
+<title>Shut.In.2015</title>
+<link>https://www.dropbox.com/s/gazf19ngs2d0olm/Shut.In.2015.1080p.BluRay.H264.AAC-RARBG.mp4?dl=1</link>
+<thumbnail>https://www.dropbox.com/s/0w36bodwmfun84w/Shut.In.2015.png?dl=1</thumbnail>
+<fanart>https://www.dropbox.com/s/cvu7ejyn4hr9f57/Shut.In.2015.jpg?dl=1</fanart>
+<info>A heart-pounding thriller about a widowed child psychologist who lives in an isolated existence in rural New England. Caught in a deadly winter storm, she must find a way to rescue a young boy before he disappears forever. </info>
+</item>
+
+<item>
+<title>Southpaw.2015</title>
+<link>https://www.dropbox.com/s/q8ktgmnmx5s1sb9/Southpaw.2015.720p.BluRay.x264.YIFY.mp4?dl=1</link>
+<thumbnail>https://www.dropbox.com/s/6du13du94tpxdwn/Southpaw.2015.png?dl=1</thumbnail>
+<fanart>https://www.dropbox.com/s/eglqaykpbqk3jm4/Southpaw.2015.jpg?dl=1</fanart>
+<info>As tragedy strikes him in his prime, famed boxer, Billy Hope, begins to fall into a great depression. Once the decision regarding the custody of his daughter is under question, Billy decides to get his life back on track by getting back into the ring</info>
+</item>
+
+<item>
+<title>Superfast 2015</title>
+<link>https://www.dropbox.com/s/pcl08gv25oaex69/Superfast%21.2015.1080p.BluRay.x264.YIFY.mp4?dl=1</link>
+<thumbnail>https://www.dropbox.com/s/1c6kipmxiy369i8/Superfast%202015.png?dl=1</thumbnail>
+<fanart>https://www.dropbox.com/s/u0046bz4igojexf/Superfast%202015.jpg?dl=1</fanart>
+<info>Undercover cop Lucas White joins Vin Serento's LA gang of illegal street racers. They are fast and they are furious and they plan to double cross LA crime kingpin Juan Carlos de la Sol who hides his cash in a downtown Taco Bell. The gangs outrageous plan is as daring as it is ridiculous and will see them towing the whole damn restaurant, at crazy speeds.</info>
+</item>
+
+<item>
+<title>Terminator.Genisys.2015</title>
+<link>https://www.dropbox.com/s/2oocurp1vbn8q29/Terminator.Genisys.2015.720p.BluRay.x264.YIFY.mp4?dl=1</link>
+<thumbnail>https://od.lk/s/OTdfMzIwOTI2Ml8/terminator.Genisys.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzM1OTQxNl8/Terminator.Genisys.2015.jpg</fanart>
+<info>When John Connor (Jason Clarke), leader of the human resistance, sends Sgt. Kyle Reese (Jai Courtney) back to 1984 to protect Sarah Connor (Emilia Clarke) and safeguard the future, an unexpected turn of events creates a fractured timeline. Now, Sgt. Reese finds himself in a new and unfamiliar version of the past, where he is faced with unlikely allies, including the Guardian (Arnold Schwarzenegger), dangerous new enemies, and an unexpected new mission: To reset the future.</info>
+</item>
+
+<item>
+<title>Terminus.2015</title>
+<link>https://www.dropbox.com/s/6866cm7eift8ij8/Terminus.2015.1080p.BluRay.H264.AAC-RARBG.mp4?dl=1</link>
+<thumbnail>https://od.lk/s/OTdfMzIwOTI2M18/Terminus.jpg</thumbnail>
+<fanart></fanart>
+<info>Following a near-fatal accident, David Chamberlain makes an unprecedented discovery that will not only determine the fate of his family, but of mankind.</info>
+</item>
+
+<item>
+<title>The Hateful Eight 2015</title>
+<link>https://www.dropbox.com/s/w59uvm7294qavxd/The%20Hateful%20Eight%202015.1080p.BluRay.5.1.x264%20.%20NVEE.mp4?dl=1</link>
+<thumbnail>https://od.lk/s/OTdfMzIwOTI2NF8/The%20Hateful%20Eight.jpg</thumbnail>
+<fanart></fanart>
+<info>Some time after the Civil War, a stagecoach hurtles through the wintry Wyoming landscape. Bounty hunter John Ruth and his fugitive captive Daisy Domergue race towards the town of Red Rock, where Ruth will bring Daisy to justice. Along the road, they encounter Major Marquis Warren (an infamous bounty hunter) and Chris Mannix (a man who claims to be Red Rock's new sheriff). Lost in a blizzard, the bunch seeks refuge at Minnie's Haberdashery. When they arrive they are greeted by unfamiliar faces: Bob, who claims to be taking care of the place while Minnie is gone; Oswaldo Mobray, the hangman of Red Rock; Joe Gage, a cow puncher; and confederate general Sanford Smithers. As the storm overtakes the mountainside, the eight travelers come to learn that they might not make it to Red Rock after all...</info>
+</item>
+
+<item>
+<title>The.Age.of.Adaline.2015</title>
+<link>https://www.dropbox.com/s/6hwgbp0n9jcupa8/The.Age.of.Adaline.2015.1080p.BluRay.x264.YIFY.mp4?dl=1</link>
+<thumbnail>https://od.lk/s/OTdfMzIwOTI2NV8/The.Age.of.Adaline.jpg</thumbnail>
+<fanart></fanart>
+<info>After miraculously remaining 29 years old for almost eight decades, Adaline Bowman has lived a solitary existence, never allowing herself to get close to anyone who might reveal her secret. But a chance encounter with charismatic philanthropist Ellis Jones reignites her passion for life and romance. When a weekend with his parents threatens to uncover the truth, Adaline makes a decision that will change her life forever.</info>
+</item>
+
+<item>
+<title>The.Benefactor.2015</title>
+<link>https://www.dropbox.com/s/x2it3qq2c9d4v6e/The.Benefactor.2015.1080p.BluRay.H264.AAC-RARBG.mp4?dl=1</link>
+<thumbnail>https://od.lk/s/OTdfMzIwOTI2Nl8/The.Benefactor.jpg</thumbnail>
+<fanart></fanart>
+<info>A philanthropist meddles in the lives of newly-married couples in an attempt to relive his past. </info>
+</item>
+
+<item>
+<title>The.Invitation.2015</title>
+<link>https://www.dropbox.com/s/sjjpe1ejiy8cjvr/The.Invitation.2015.1080p.BluRay.H264.AAC-RARBG.mp4?dl=1</link>
+<thumbnail>https://od.lk/s/OTdfMzIwOTI2N18/The.Invitation.jpg</thumbnail>
+<fanart></fanart>
+<info>Will and Eden were once a loving couple. After a tragedy took their son, Eden disappeared. Two years later, out of the blue, she returns with a new husband... and as a different person, eerily changed and eager to reunite with her ex and those she left behind. Over the course of a dinner party in the house that was once his, the haunted Will is gripped by mounting evidence that Eden and her new friends have a mysterious and terrifying agenda. But can we trust Will's hold on reality? Or will he be the unwitting catalyst of the doom he senses? </info>
+</item>
+
+<item>
+<title>The.Lobster.2015</title>
+<link>https://www.dropbox.com/s/jwk6xhkd5lbl7nm/The.Lobster.2015.1080p.BluRay.H264.AAC-RARBG.mp4?dl=1</link>
+<thumbnail>https://od.lk/s/OTdfMzIwOTI2OF8/The.Lobster.jpg</thumbnail>
+<fanart></fanart>
+<info>A love story set in a dystopian near future where single people are arrested and transferred to a creepy hotel. There they are obliged to find a matching mate in 45 days. If they fail, they are transformed into an animal and released into the woods. </info>
+</item>
+
+<item>
+<title>The.Witch.2015</title>
+<link>https://www.dropbox.com/s/kgf9ybhktc6qswq/The.Witch.2015.1080p.BluRay.H264.AAC-RARBG.mp4?dl=1</link>
+<thumbnail>https://www.dropbox.com/s/y3ehdj1owp981r1/The.Witch.2015.png?dl=1</thumbnail>
+<fanart>https://www.dropbox.com/s/qfanyogt896151g/The.Witch.2015.jpg?dl=1</fanart>
+<info>A family in 1630s New England is torn apart by the forces of witchcraft, black magic and possession. </info>
+</item>
+
+<item>
+<title>Creed 2015</title>
+<link>https://www.dropbox.com/s/u0p7qumijypnkjn/Creed.2015.1080p.BluRay.H264.AAC-RARBG.mp4?dl=1</link>
+<thumbnail>https://www.dropbox.com/s/ggcsg0mplu5uyoe/creed.jpg?dl=1</thumbnail>
+<fanart>https://www.dropbox.com/s/tko95s4xwqkom9h/creed%202015.jpg?dl=1</fanart>
+<info>Adonis Johnson is the son of the famous boxing champion Apollo Creed, who died in a boxing match in (1985). Adonis wasn't born until after his father's death and wants to follow his fathers footsteps in boxing. He seeks a mentor who is the former heavyweight boxing champion and former friend of Apollo Creed, the retired Rocky Balboa. Rocky eventually agrees to mentor Adonis. With Rocky's help they hope to get a title job to face even deadlier opponents than his father. But whether he is a true fighter remains to be seen</info>
+</item>
+
+<item>
+<title>Daddys Home 2015</title>
+<link>https://www.dropbox.com/s/kkqg11rypmp02ue/Daddys.Home.2015.1080p.BluRay.H264.AAC-RARBG.mp4?dl=1</link>
+<thumbnail>https://www.dropbox.com/s/qkq4pain1xd4703/Daddys-Home-.jpg?dl=1</thumbnail>
+<fanart>https://www.dropbox.com/s/r26jkuea51xo8cm/Daddys-Home-split-poster-660x330.jpg?dl=1</fanart>
+<info>Stepdad, Brad Whitaker, is a radio host trying to get his stepchildren to love him and call him Dad. But his plans turn upside down when the biological father, Dusty Mayron, returns</info>
+</item>
+
+<item>
+<title>Dementia.2015</title>
+<link>https://www.dropbox.com/s/zh0jcbmtgd495bq/Dementia.2015.1080p.BluRay.H264.AAC-RARBG.mp4?dl=1</link>
+<thumbnail>https://www.dropbox.com/s/boppfzoc7t2zftk/Dementia-2015-12-04.jpg?dl=1</thumbnail>
+<fanart>https://www.dropbox.com/s/qq0j3xnbet9saku/Dementia.2015.jpg?dl=1</fanart>
+<info>After being diagnosed with Dementia, an elderly war veteran is forced by his estranged family to hire a live-in nurse, only to find she harbors a sinister secret. </info>
+</item>
+
+<item>
+<title>Dragonheart.3.The.Sorcerers.Curse.2015</title>
+<link>https://www.dropbox.com/s/dq2debay3e2cd6w/Dragonheart.3.The.Sorcerers.Curse.2015.1080p.BluRay.x264.YIFY.mp4?dl=1</link>
+<thumbnail>https://www.dropbox.com/s/d873ssg768rsatr/Dragonheart.3.The.Sorcerers.Curse.2015.jpg?dl=1</thumbnail>
+<fanart>https://www.dropbox.com/s/e468tjnxtk1h4yf/Dragonheart.3.The.Sorcerers.Curse.2015%20%281%29.jpg?dl=1</fanart>
+<info>When aspiring knight Gareth goes in search of a fallen comet rumored to contain gold, he is shocked to instead find the dragon Drago. After Drago saves Gareth's life the two become intricately bonded, and must work together to defeat an evil sorcerer and stop his reign of terror. Along the way, Gareth learns the true meaning of being a knight in this fantasy action-adventure for the ages.</info>
+</item>
+
+<item>
+<title>Earthfall.2015</title>
+<link>https://www.dropbox.com/s/bjhpz8sxav4k1ie/Earthfall.2015.1080p.BluRay.H264.AAC-RARBG.mp4?dl=1</link>
+<thumbnail>https://www.dropbox.com/s/60hgcidgiggqnn6/Earthfall.2015.jpg?dl=1</thumbnail>
+<fanart>https://www.dropbox.com/s/vb3letbckxavtq7/Earthfall-Movie-Poster.jpg?dl=1</fanart>
+<info>WHERE DO YOU HIDE FOR THE END OF THE WORLD? As a rogue planet roars through our solar system, it acts as an intergalactic magnet that pulls Earth in its wake. Meteors destroy major cities</info>
+</item>
+
+<item>
+<title>Four.Warriors.2015</title>
+<link>https://www.dropbox.com/s/uf3evocllgiojg3/Four.Warriors.2015.1080p.BluRay.H264.AAC-RARBG.mp4?dl=1</link>
+<thumbnail>https://www.dropbox.com/s/t4c30hk7spcllfy/four-warriors.jpg?dl=1</thumbnail>
+<fanart>https://www.dropbox.com/s/nqg1e6sbhr02uy3/Four.Warriors.2015.jpg?dl=1</fanart>
+<info>Four battle-weary Crusaders take on a mission to track down the evil predator who has abducted all the men and children from a devastated village. </info>
+</item>
+
+<item>
+<title>He.Never.Died.2015</title>
+<link>https://www.dropbox.com/s/qui8652p9uecdq6/He.Never.Died.2015.1080p.BluRay.H264.AAC-RARBG.mp4?dl=1</link>
+<thumbnail>https://www.dropbox.com/s/myc8caucm67naco/He%20Never%20Died%20%28%202015%20%29.jpg?dl=1</thumbnail>
+<fanart>https://www.dropbox.com/s/pdzvie3dkp5y7qg/He.Never.Died.2015.jpg?dl=1</fanart>
+<info>Jack's in a rut. Depression and severe anti-social behavior has whittled down his existence to sleeping and watching television. He spends his days in a diner, playing church bingo and sleeping. When some hired thugs show up Jack's life is stirred up and the question of his existence comes to light. </info>
+</item>
+
+<item>
+<title>I.Saw.the.Light.2015</title>
+<link>https://www.dropbox.com/s/bmbebd7bbi5hceh/I.Saw.the.Light.2015.1080p.BluRay.H264.AAC-RARBG.mp4?dl=1</link>
+<thumbnail>https://www.dropbox.com/s/5uh8pmk5nkv8mcv/I.Saw.the.Light.2015.jpg?dl=1</thumbnail>
+<fanart>https://www.dropbox.com/s/lxri3pnxvaehd9l/I-Saw-the-Light-Poster-slice-1024x485.jpg?dl=1</fanart>
+<info>The story of the country-western singer Hank Williams, who in his brief life created one of the greatest bodies of work in American music. The film chronicles his rise to fame and its tragic effect on his health and personal life.</info>
+</item>
+
+<item>
+<title>In.the.Heart.of.the.Sea.2015</title>
+<link>https://www.dropbox.com/s/hh32nec0067468u/In.the.Heart.of.the.Sea.2015.1080p.BluRay.H264.AAC-RARBG.mp4?dl=1</link>
+<thumbnail>https://www.dropbox.com/s/2ngcxu7oj1ptlsb/in-the-heart-of-the-sea-poster.jpg?dl=1</thumbnail>
+<fanart>https://www.dropbox.com/s/rp868dyzgq9azqf/In-the-heart-of-the-sea-poster-featured.jpg?dl=1</fanart>
+<info>In the winter of 1820, the New England whaling ship Essex was assaulted by something no one could believe: a whale of mammoth size and will, and an almost human sense of vengeance. The real-life maritime disaster would inspire Herman Melville's Moby-Dick. But that told only half the story. "In the Heart of the Sea" reveals the encounter's harrowing aftermath, as the ship's surviving crew is pushed to their limits and forced to do the unthinkable to stay alive. Braving storms, starvation, panic and despair, the men will call into question their deepest beliefs, from the value of their lives to the morality of their trade, as their captain searches for direction on the open sea and his first mate still seeks to bring the great whale down. </info>
+</item>
+
+<item>
+<title>Kill-Or-Be-Killed</title>
+<link>https://www.dropbox.com/s/wjgaknbpnxd3454/Kill-Or-Be-Killed-2x05-Damon-damon-salvatore-16113692-1280-720.jpg?dl=1</link>
+<thumbnail>https://www.dropbox.com/s/a0jksnij9h6z4ca/Kill_or_be_Killed.jpg?dl=1</thumbnail>
+<fanart>https://www.dropbox.com/s/wjgaknbpnxd3454/Kill-Or-Be-Killed-2x05-Damon-damon-salvatore-16113692-1280-720.jpg?dl=1</fanart>
+<info>In the autumn of 1900, outlaw Claude Barbee puts his 'retirement plan' in action, attempting to lead his train-robbing gang across Texas to recover a cash stash hidden after a botched railroad heist</info>
+</item>
+
+<item>
+<title>Pod 2015</title>
+<link>https://www.dropbox.com/s/duti1hn3qu88fft/POD.2015.1080p.BluRay.H264.AAC-RARBG.mp4?dl=1</link>
+<thumbnail>https://www.dropbox.com/s/6g55vg9gnbwuqmz/Pod%202015.jpg?dl=1</thumbnail>
+<fanart>https://www.dropbox.com/s/vwe46lowt844ckz/Pod.jpg?dl=1</fanart>
+<info>A family intervention goes horrifically awry within the snowy confines of an isolated lake house. </info>
+</item>
+
+<item>
+<title>Poltergeist.Activity.2015</title>
+<link>https://www.dropbox.com/s/eu34zetcesd68us/Poltergeist.Activity.2015.1080p.BluRay.H264.AAC-RARBG.mp4?dl=1</link>
+<thumbnail>https://www.dropbox.com/s/qlvkwudu6m5kpe6/poltergeist-activity-2015-kat-720p-poster.jpg?dl=1</thumbnail>
+<fanart>https://www.dropbox.com/s/1zwma4yz6x6tcky/Poltergeist.Activity.2015.jpg?dl=1</fanart>
+<info>After the death of his wife, David Prescott moves to a secluded farmhouse in a Welsh village with teenage daughter Katherine. A stressful, upsetting time is soon made all the worse when they encounter unexplained occurrences and frightening visions in their new home. Desperate for answers, David turns to retired paranormal investigator Hans Voltz who must rediscover all of his skill and spiritual strength to defeat the spectral menace. </info>
+</item>
+
+<item>
+<title>Stormageddon.2015</title>
+<link>https://www.dropbox.com/s/76ghcqnnatmfe18/Stormageddon.2015.1080p.BluRay.H264.AAC-RARBG.mp4?dl=1</link>
+<thumbnail>https://www.dropbox.com/s/oelqq7uizvim3rt/Stormageddon-2015.jpg?dl=1</thumbnail>
+<fanart>https://www.dropbox.com/s/eon85ah0senisys/Stormageddon.2015.jpg?dl=1</fanart>
+<info>What happens when you ask the most powerful computer program, run by the most powerful computers, to follow, listen and predict human behavior? The program learns, becomes sentient and begins to behave like a human. When a master computer program, Echelon, takes over America's entire online system, our country is threatened to be brought to its knees. Hacking into DARPA, Echelon gains the ability to manipulate the weather, create earthquakes, and cause a level of destruction unlike anything the country could ever imagine. But how do you stop a computer program when it has control over any and every defense you have? </info>
+</item>
+
+<item>
+<title>The.Invoking.2.2015.</title>
+<link>https://www.dropbox.com/s/38m7fv9jkl8h8z9/The.Invoking.2.2015.mp4?dl=1</link>
+<thumbnail>https://www.dropbox.com/s/nnqsu4z84tcn0ez/The.Invoking.2.2015.jpg?dl=1</thumbnail>
+<fanart>https://www.dropbox.com/s/an9qlr7uwymv9tc/The.Invoking.2.2015...jpg?dl=1</fanart>
+<info>"Although hundreds of disturbing paranormal events occur every year, most of these chilling encounters go unreported - until now. Bear witness as hapless victims experience the unspeakable terror of confronting demonic forces, murderous poltergeists and other evil entities that are dead set on claiming their souls. Descend into an abyss of waking nightmares as these bloodthirsty, malevolent spirits seek to possess their prey and drag them-kicking and screaming-down to hell." </info>
+</item>
+
+<item>
+<title>The.Ouija.Exorcism.2015.</title>
+<link>https://www.dropbox.com/s/scxrl4yb1w82z9z/The.Ouija.Exorcism.2015.mp4?dl=1</link>
+<thumbnail>https://www.dropbox.com/s/4mnd7pq3gouqbi5/The.Ouija.Exorcism.2015.jpg?dl=1</thumbnail>
+<fanart>https://www.dropbox.com/s/iueua9uynczxftg/The.Ouija.Exorcism.2015...jpg?dl=1</fanart>
+<info>In 1985, a celebrated exorcist trapped a horrific demon inside a ouija board. Thinking the board to be a game, his son played without obeying the rules, and let the demon loose. In order to save his son, the exorcist sent him far away until the demon could be destroyed. Thirty years later, and after his death, his grandson finds the board and makes the same mistake his father did. Now the evil is back and roaming the earth to terrorize those responsible for its imprisonment.</info>
+</item>
+
+<item>
+<title>Vice.2015</title>
+<link>https://www.dropbox.com/s/dao0b3pab8nf664/Vice.2015.mp4?dl=1</link>
+<thumbnail>https://www.dropbox.com/s/rmamhv7zafyrcr1/vice2015.jpg?dl=1</thumbnail>
+<fanart>https://www.dropbox.com/s/rs3zf54xknmnhxy/Vice.2015.jpg?dl=1</fanart>
+<info>Julian Michaels (Bruce Willis) has designed the ultimate resort: VICE, where anything goes and the customers can play out their wildest fantasies with artificial inhabitants who look, think and feel like humans. When an artificial (Ambyr Childers) becomes self-aware and escapes, she finds herself caught in the crossfire between Julian's mercenaries and a cop (Thomas Jane) who is hell-bent on shutting down Vice, and stopping the violence once and for all</info>
+</item>
+
+<item>
+<title>Vice.2015 1080p</title>
+<link>https://www.dropbox.com/s/1skk76hsi9l4l2d/Vice.2015.1080p.BluRay.x264.YIFY.mp4?dl=1</link>
+<thumbnail>https://www.dropbox.com/s/rmamhv7zafyrcr1/vice2015.jpg?dl=1</thumbnail>
+<fanart>https://www.dropbox.com/s/rs3zf54xknmnhxy/Vice.2015.jpg?dl=1</fanart>
+<info>Julian Michaels (Bruce Willis) has designed the ultimate resort: VICE, where anything goes and the customers can play out their wildest fantasies with artificial inhabitants who look, think and feel like humans. When an artificial (Ambyr Childers) becomes self-aware and escapes, she finds herself caught in the crossfire between Julian's mercenaries and a cop (Thomas Jane) who is hell-bent on shutting down Vice, and stopping the violence once and for all</info>
+</item>
+
+<item>
+<title>San.Andreas.2015</title>
+<link>https://od.lk/d/OTdfMzE2MDE1M18/San.Andreas.2015.1080p.3D.HSBS.BluRay.x264.YIFY.mp4</link>
+<thumbnail>https://od.lk/d/OTdfMzE2MjEzMl8/San-Andreas-2015.jpg</thumbnail>
+<fanart>https://od.lk/d/OTdfMzE2MjEzMV8/san-andreas.jpg</fanart>
+<info>In San Andreas, California is experiencing a statewide earthquake that goes on record as easily the biggest earthquake in history. Dwayne Johnson plays Ray Gaines, a helicopter rescue pilot for the Los Angeles Fire Department, who is trying to find his daughter, Blake (Alexandra Daddario), who is in San Francisco amidst the chaos. Ray's estranged wife, Emma, is forced to turn to Ray for help, as he is her last resort. Together they journey to save their daughter.</info>
+</item>
+
+<item>
+<title>Puerto Ricans in Paris 2015</title>
+<link>https://www.dropbox.com/s/ebxpwpzdqw68a8w/Puerto%20Ricans%20in%20Paris%20%282015%29%20LIMITED%20Dual%20YG.mkv?dl=1</link>
+<thumbnail>https://od.lk/s/OTdfMzIwOTMxN18/Puerto%20Ricans%20in%20Paris.jpg</thumbnail>
+<fanart></fanart>
+<info>Two Puerto Rican NYPD detectives head to Paris to track down a stolen handbag.</info>
+</item>
+
+<item>
+<title>The.von.Trapp.Family.A.Life.of.Music.2015.1080p</title>
+<link>https://www.dropbox.com/s/t36gqspekiqnvrd/The.von.Trapp.Family.A.Life.of.Music.2015.1080p.BluRay.H264.AAC-RARBG.mp4?dl=1</link>
+<thumbnail>https://od.lk/s/OTdfMzIwOTMxNV8/The%20von%20Trapp%20Family.jpg</thumbnail>
+<fanart></fanart>
+<info>Agathe von Trapp, the eldest daughter of a well-known musical family, overcomes many obstacles to pursue her musical career and move to the United States.</info>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>

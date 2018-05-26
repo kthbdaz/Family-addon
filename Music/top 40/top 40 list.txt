@@ -1,0 +1,21 @@
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+<channel>
+<name>UK TO 40 21/10/2016</name>
+<thumbnail>https://od.lk/s/OTdfMzQzNTc2MV8/Cover.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQzNTc2Ml8/21%20OCT%202016.txt</externallink>
+<fanart></fanart>
+<info>Top 40 hits from the uk and usa</info>
+</channel>
+
+<channel>
+<name>Best of UK and usa Top 40 2016</name>
+<thumbnail>https://od.lk/s/OTdfMzQzNTc2MV8/Cover.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzUyNzI2M18/top%2040%20uk%20and%20usa.txt</externallink>
+<fanart></fanart>
+<info>Top 40 hits from the uk and usa</info>
+</channel>
+
+</channels>

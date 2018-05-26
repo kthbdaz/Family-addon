@@ -1,0 +1,21 @@
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+<channel>
+<name> Defensive Tactics Takedown</name>
+<thumbnail>https://od.lk/s/OTdfNTI0ODAzOV8/SIA.jpg</thumbnail>
+<externallink>https://goo.gl/F8hC6U</externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>How to defend</name>
+<thumbnail>https://od.lk/s/OTdfNTI0ODAzOV8/SIA.jpg</thumbnail>
+<externallink>https://goo.gl/ZSfVTB</externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+
+</channels>

@@ -1,0 +1,415 @@
+<item>
+<title>01, Installing Eclipse CDT and MinGW</title>
+<link>https://od.lk/s/OTdfMzU3MzcyMF8/1%2C%20Installing%20Eclipse%20CDT%20and%20MinGW.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MzcxOV8/cpp1.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MzcxN18/c-computer%20f.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>02, First C++ Program</title>
+<link>https://od.lk/s/OTdfMzU3Mzc3Nl8/2%2C%20First%20C%2B%2B%20Program.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MzcxOV8/cpp1.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MzcxN18/c-computer%20f.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>03, Variables, Assignment &amp; Data Types</title>
+<link>https://od.lk/s/OTdfMzU3MzczNl8/3%2C%20Variables%2C%20Assignment%20%26amp%3B%20Data%20Types.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MzcxOV8/cpp1.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MzcxN18/c-computer%20f.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>04, C++ Program Input and Output</title>
+<link>https://od.lk/s/OTdfMzU3MzczOF8/4%2C%20C%2B%2B%20Program%20Input%20and%20Output.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MzcxOV8/cpp1.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MzcxN18/c-computer%20f.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>05, Devising an Algorithm C++ Program - Part 1</title>
+<link>https://od.lk/s/OTdfMzU3Mzc3NF8/5%2C%20Devising%20an%20Algorithm%20C%2B%2B%20Program%20-%20Part%201.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MzcxOV8/cpp1.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MzcxN18/c-computer%20f.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>06, Devising an Algorithm C++ Program - Part 2</title>
+<link>https://od.lk/s/OTdfMzU3Mzc3NV8/6%2C%20Devising%20an%20Algorithm%20C%2B%2B%20Program%20-%20Part%202.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MzcxOV8/cpp1.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MzcxN18/c-computer%20f.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>07, Casting in C++</title>
+<link>https://od.lk/s/OTdfMzU3Mzc1NF8/7%2C%20Casting%20in%20C%2B%2B.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MzcxOV8/cpp1.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MzcxN18/c-computer%20f.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>08, C++ Relational and Boolean Operators</title>
+<link>https://od.lk/s/OTdfMzU3Mzc1Ml8/8%2C%20C%2B%2B%20Relational%20and%20Boolean%20Operators.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MzcxOV8/cpp1.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MzcxN18/c-computer%20f.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>09, Using Conditional Statements in C++ Part 1</title>
+<link>https://od.lk/s/OTdfMzU3MzczMl8/9%2C%20Using%20Conditional%20Statements%20in%20C%2B%2B%20Part%201.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MzcxOV8/cpp1.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MzcxN18/c-computer%20f.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>10 Using Conditional Statements in C++ Part 2</title>
+<link>https://od.lk/s/OTdfMzU3MzczM18/10%2C%20Using%20Conditional%20Statements%20in%20C%2B%2B%20Part%202.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MzcxOV8/cpp1.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MzcxN18/c-computer%20f.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>11, Using Conditional Statements in C++ Part 3</title>
+<link>https://od.lk/s/OTdfMzU3MzczNF8/11%2C%20Using%20Conditional%20Statements%20in%20C%2B%2B%20Part%203.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MzcxOV8/cpp1.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MzcxN18/c-computer%20f.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>12, Using Conditional Statements in C++ Part 4</title>
+<link>https://od.lk/s/OTdfMzU3MzczNV8/12%2C%20Using%20Conditional%20Statements%20in%20C%2B%2B%20Part%204.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MzcxOV8/cpp1.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MzcxN18/c-computer%20f.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>13, Using Conditional Statements in C++ (Multiple Alternative Example</title>
+<link>https://od.lk/s/OTdfMzU3MzczMV8/13%2C%20Using%20Conditional%20Statements%20in%20C%2B%2B%20%28Multiple%20Alternative%20Example%29.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MzcxOV8/cpp1.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MzcxN18/c-computer%20f.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>14, Repetition Looping Structures in C++.</title>
+<link>https://od.lk/s/OTdfMzU3MzcyN18/14%2C%20Repetition%20Looping%20Structures%20in%20C%2B%2B.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MzcxOV8/cpp1.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MzcxN18/c-computer%20f.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>15, Functions in C++</title>
+<link>https://od.lk/s/OTdfMzU3Mzc3OF8/15%2C%20Functions%20in%20C%2B%2B.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MzcxOV8/cpp1.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MzcxN18/c-computer%20f.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>16, Call Stack, Scope and Lifetime of Variables.</title>
+<link>https://od.lk/s/OTdfMzU3Mzc1M18/16%2C%20Call%20Stack%2C%20Scope%20%26amp%3B%20Lifetime%20of%20Variables.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MzcxOV8/cpp1.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MzcxN18/c-computer%20f.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>17, Function Declarations in C++.</title>
+<link>https://od.lk/s/OTdfMzU3Mzc3N18/17%2C%20Function%20Declarations%20in%20C%2B%2B.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MzcxOV8/cpp1.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MzcxN18/c-computer%20f.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>18, Programming Errors (C++)</title>
+<link>https://od.lk/s/OTdfMzU3MzcyNl8/18%2C%20Programming%20Errors%20%28C%2B%2B%29.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MzcxOV8/cpp1.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MzcxN18/c-computer%20f.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>19, Header Files in C++</title>
+<link>https://od.lk/s/OTdfMzU3Mzc3OV8/19%2C%20Header%20Files%20in%20C%2B%2B.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MzcxOV8/cpp1.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MzcxN18/c-computer%20f.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>20, Object Oriented Design Object and Classes</title>
+<link>https://od.lk/s/OTdfMzU3MzcyMl8/20%2C%20Object%20Oriented%20Design%20Object%20and%20Classes.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MzcxOV8/cpp1.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MzcxN18/c-computer%20f.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>21, User Defined Types (Classes) in C++</title>
+<link>https://od.lk/s/OTdfMzU3MzczMF8/21%2C%20User%20Defined%20Types%20%28Classes%29%20in%20C%2B%2B.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MzcxOV8/cpp1.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MzcxN18/c-computer%20f.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>22, Vectors in C++</title>
+<link>https://od.lk/s/OTdfMzU3MzczN18/22%2C%20Vectors%20in%20C%2B%2B.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MzcxOV8/cpp1.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MzcxN18/c-computer%20f.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>23, Introduction to Pointers in C++, Tutorial on Pointers, C++ Pointers</title>
+<link>https://od.lk/s/OTdfMzU3MzcyMV8/23%2C%20Introduction%20to%20Pointers%20in%20C%2B%2B%2C%20Tutorial%20on%20Pointers%2C%20C%2B%2B%20Pointers.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MzcxOV8/cpp1.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MzcxN18/c-computer%20f.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>24, Pointers and Dynamic Memory in C++ (Memory Management)</title>
+<link>https://od.lk/s/OTdfMzU3MzcyNV8/24%2C%20Pointers%20and%20Dynamic%20Memory%20in%20C%2B%2B%20%28Memory%20Management%29.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MzcxOV8/cpp1.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MzcxN18/c-computer%20f.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>25, C++ Programming Intro to Arrays Part I</title>
+<link>https://od.lk/s/OTdfMzU3Mzc0N18/25%2C%20C%2B%2B%20Programming%20Intro%20to%20Arrays%20Part%20I.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MzcxOV8/cpp1.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MzcxN18/c-computer%20f.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>26, C++ Programming Intro to Arrays Part 2</title>
+<link>https://od.lk/s/OTdfMzU3Mzc0OV8/26%2C%20C%2B%2B%20Programming%20Intro%20to%20Arrays%20Part%20II.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MzcxOV8/cpp1.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MzcxN18/c-computer%20f.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>27, C++ Programming Passing Arrays to Functions</title>
+<link>https://od.lk/s/OTdfMzU3Mzc1MV8/27%2C%20C%2B%2B%20Programming%20Passing%20Arrays%20to%20Functions.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MzcxOV8/cpp1.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MzcxN18/c-computer%20f.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>28, C++ Programming Array Traversals</title>
+<link>https://od.lk/s/OTdfMzU3Mzc0MV8/28%2C%20C%2B%2B%20Programming%20Array%20Traversals.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MzcxOV8/cpp1.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MzcxN18/c-computer%20f.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>29, C++ Programming Linear Search Algorithm</title>
+<link>https://od.lk/s/OTdfMzU3Mzc1MF8/29%2C%20C%2B%2B%20Programming%20Linear%20Search%20Algorithm.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MzcxOV8/cpp1.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MzcxN18/c-computer%20f.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>30, C++ Programming Binary Search Algorithm</title>
+<link>https://od.lk/s/OTdfMzU3Mzc0M18/30%2C%20C%2B%2B%20Programming%20Binary%20Search%20Algorithm.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MzcxOV8/cpp1.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MzcxN18/c-computer%20f.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>31, C++ Programming Analysis of Linear Search and Binary Search Algorithms</title>
+<link>https://od.lk/s/OTdfMzU3MzczOV8/31%2C%20C%2B%2B%20Programming%20Analysis%20of%20Linear%20Search%20and%20Binary%20Search%20Algorithms.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MzcxOV8/cpp1.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MzcxN18/c-computer%20f.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>32, Rule of Three in C++ Overloaded Assignment, Copy Constructor, Destructor</title>
+<link>https://od.lk/s/OTdfMzU3MzcyOV8/32%2C%20Rule%20of%20Three%20in%20C%2B%2B%20Overloaded%20Assignment%2C%20Copy%20Constructor%2C%20Destructor.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MzcxOV8/cpp1.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MzcxN18/c-computer%20f.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>33, Operator Overloading in C++</title>
+<link>https://od.lk/s/OTdfMzU3MzcyM18/33%2C%20Operator%20Overloading%20in%20C%2B%2B.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MzcxOV8/cpp1.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MzcxN18/c-computer%20f.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>34, Overloaded Insertion Operator Example in C++</title>
+<link>https://od.lk/s/OTdfMzU3MzcyNF8/34%2C%20Overloaded%20Insertion%20Operator%20Example%20in%20C%2B%2B.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MzcxOV8/cpp1.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MzcxN18/c-computer%20f.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>35, Rule of Three Implementation in C++</title>
+<link>https://od.lk/s/OTdfMzU3MzcyOF8/35%2C%20Rule%20of%20Three%20Implementation%20in%20C%2B%2B.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MzcxOV8/cpp1.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MzcxN18/c-computer%20f.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>36, Data Structures Abstract Data Type (ADT)</title>
+<link>https://od.lk/s/OTdfMzU3Mzc1NV8/36%2C%20Data%20Structures%20Abstract%20Data%20Type%20%28ADT%29.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MzcxOV8/cpp1.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MzcxN18/c-computer%20f.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>37, Data Structures Introduction to Data Structures.</title>
+<link>https://od.lk/s/OTdfMzU3Mzc1Nl8/37%2C%20Data%20Structures%20Introduction%20to%20Data%20Structures.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MzcxOV8/cpp1.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MzcxN18/c-computer%20f.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>38, Data Structures Stack (Abstract Data Type)</title>
+<link>https://od.lk/s/OTdfMzU3Mzc1OV8/38%2C%20Data%20Structures%20Stack%20%28Abstract%20Data%20Type%29.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MzcxOV8/cpp1.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MzcxN18/c-computer%20f.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>39, Data Structures Using C++ STL Stack Class</title>
+<link>https://od.lk/s/OTdfMzU3Mzc2OF8/39%2C%20Data%20Structures%20Using%20C%2B%2B%20STL%20Stack%20Class.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MzcxOV8/cpp1.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MzcxN18/c-computer%20f.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>40, Data Structures Using C++ Using the Stack to create a RPN (post-fix notation) Calculator.</title>
+<link>https://od.lk/s/OTdfMzU3Mzc3Ml8/40%2C%20Data%20Structures%20Using%20C%2B%2B%20Using%20the%20Stack%20to%20create%20a%20RPN%20%28post-fix%20notation%29%20Calculator.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MzcxOV8/cpp1.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MzcxN18/c-computer%20f.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>41, Data Structures Queue (Abstract Data Type)</title>
+<link>https://od.lk/s/OTdfMzU3Mzc1OF8/41%2C%20Data%20Structures%20Queue%20%28Abstract%20Data%20Type%29.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MzcxOV8/cpp1.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MzcxN18/c-computer%20f.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>42, Data Structures Using C++ STL Queue Class</title>
+<link>https://od.lk/s/OTdfMzU3Mzc2N18/42%2C%20Data%20Structures%20Using%20C%2B%2B%20STL%20Queue%20Class.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MzcxOV8/cpp1.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MzcxN18/c-computer%20f.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>43, Data Structures Introduction to Linked Lists</title>
+<link>https://od.lk/s/OTdfMzU3Mzc1N18/43%2C%20Data%20Structures%20Introduction%20to%20Linked%20Lists.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MzcxOV8/cpp1.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MzcxN18/c-computer%20f.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>44, Data Structures Using C++ Linked List Implementation Part I (Node Class)</title>
+<link>https://od.lk/s/OTdfMzU3Mzc2NV8/44%2C%20Data%20Structures%20Using%20C%2B%2B%20Linked%20List%20Implementation%20Part%20I%20%28Node%20Class%29.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MzcxOV8/cpp1.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MzcxN18/c-computer%20f.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>45, Data Structures Using C++ Linked List Implementation Part II (List Class)</title>
+<link>https://od.lk/s/OTdfMzU3Mzc2Nl8/45%2C%20Data%20Structures%20Using%20C%2B%2B%20Linked%20List%20Implementation%20Part%20II%20%28List%20Class%29.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MzcxOV8/cpp1.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MzcxN18/c-computer%20f.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>46, Data Structures Using C++ Traversing a Linked List</title>
+<link>https://od.lk/s/OTdfMzU3Mzc3MF8/46%2C%20Data%20Structures%20Using%20C%2B%2B%20Traversing%20a%20Linked%20List.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MzcxOV8/cpp1.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MzcxN18/c-computer%20f.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>47, Data Structures Using C++ Inserting a Node into a Linked List (Sorted Linked List)</title>
+<link>https://od.lk/s/OTdfMzU3Mzc2M18/47%2C%20Data%20Structures%20Using%20C%2B%2B%20Inserting%20a%20Node%20into%20a%20Linked%20List%20%28Sorted%20Linked%20List%29.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MzcxOV8/cpp1.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MzcxN18/c-computer%20f.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>48, Data Structures Using C++ Implementation - Inserting a Node into a Linked List (Sorted Linked List).</title>
+<link>https://od.lk/s/OTdfMzU3Mzc2MV8/48%2C%20Data%20Structures%20Using%20C%2B%2B%20Implementation%20-%20Inserting%20a%20Node%20into%20a%20Linked%20List%20%28Sorted%20Linked%20List%29.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MzcxOV8/cpp1.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MzcxN18/c-computer%20f.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>49, Data Structures Using C++ Deleting a node from a linked list.</title>
+<link>https://od.lk/s/OTdfMzU3Mzc2MF8/49%2C%20Data%20Structures%20Using%20C%2B%2B%20Deleting%20a%20node%20from%20a%20linked%20list.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MzcxOV8/cpp1.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MzcxN18/c-computer%20f.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>50, Data Structures Using C++ Introduction to Recursion (Problem Solving Technique)</title>
+<link>https://od.lk/s/OTdfMzU3Mzc2NF8/50%2C%20Data%20Structures%20Using%20C%2B%2B%20Introduction%20to%20Recursion%20%28Problem%20Solving%20Technique%29.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MzcxOV8/cpp1.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MzcxN18/c-computer%20f.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>51, Data Structures Using C++ Using Recursion to Process a Linked List.</title>
+<link>https://od.lk/s/OTdfMzU3Mzc3MV8/51%2C%20Data%20Structures%20Using%20C%2B%2B%20Using%20Recursion%20to%20Process%20a%20Linked%20List.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MzcxOV8/cpp1.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MzcxN18/c-computer%20f.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>52, Data Structures Using C++ Implementation of Recursive (reverse) Print List Function.</title>
+<link>https://od.lk/s/OTdfMzU3Mzc2Ml8/52%2C%20Data%20Structures%20Using%20C%2B%2B%20Implementation%20of%20Recursive%20%28reverse%29%20Print%20List%20Function.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MzcxOV8/cpp1.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3MzcxN18/c-computer%20f.jpg</fanart>
+<info></info> 
+</item>

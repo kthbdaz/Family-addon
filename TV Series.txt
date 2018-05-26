@@ -1,0 +1,622 @@
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+<channel>
+<name>Taboo</name>
+<thumbnail>https://od.lk/s/OTdfMzUzNjIwOF8/TABOO.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzUzNjIwNl8/season.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzU0NjU5NV8/Taboo%20f.jpg</fanart>
+<genre>Drama</genre>
+<info>James Keziah Delaney returns to 1814 London after 10 years in Africa to discover that he has been left a mysterious legacy by his father. Driven to wage war on those who have wronged him, Delaney finds himself in a face-off against the East India Company, whilst playing a dangerous game between two warring nations, Britain and America.</info>
+</channel>
+
+<channel>
+<name>Tina and Bobby</name>
+<thumbnail>https://od.lk/s/OTdfMzU0NzQ4N18/Tina%20and%20Bobby.jpg</thumbnail>
+<externallink>https://goo.gl/MEee2c</externallink>
+<fanart></fanart>
+<genre>Drama, Romance</genre>
+<info>A three-part drama about England and West Ham footballer Bobby Moore and his first wife Tina.</info>
+</channel>
+
+<channel>
+<name>SIX</name>
+<thumbnail>https://od.lk/s/OTdfMzU0NzQ5Ml8/Six.jpg</thumbnail>
+<externallink>https://goo.gl/hjg9Du</externallink>
+<fanart></fanart>
+<genre>Action, Drama, History</genre>
+<info>Navy SEAL Team Six attempt to eliminate a Taliban leader in Afghanistan when they discover an American citizen working with the enemy.</info>
+</channel>
+
+<channel>
+<name>Emerald City</name>
+<thumbnail>https://od.lk/s/OTdfMzUzNjIxMV8/emerald%20city.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzUzNjIxMF8/season.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzUzNjIxMl8/EmeraldCity%20f.jpg</fanart>
+<genre>Fantasy</genre>
+<info>When a tornado transports Dorothy Gale from Lucas, Kan., to the faraway land of Oz, her arrival sets in motion a prophecy about a disastrous event known as The Beast Forever and strikes fear into the land's almighty ruler, the Wizard. On her quest to meet the Wizard in Emerald City, Dorothy encounters witches, an amnesiac soldier, a sheltered little boy and many more mysterious beings who will ultimately shape the future of Oz and Dorothy's place in it.</info>
+</channel>
+
+
+<channel>
+<name>The Walking Dead S1 - S7</name>
+<thumbnail>https://od.lk/s/OTdfMzQzNjAwM18/The_Walking_Dead.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQzNjAwNF8/season.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQzNjAwMl8/The-Walking%20f.jpg</fanart>
+<info>Rick Grimes is a former Sheriff's deputy who has been in a coma for several months after being shot while on duty. When he awakens he discovers that the world has been ravished by a zombie epidemic of apocalyptic proportions, and that he seems to be the only person still alive. After returning home to discover his wife and son missing, he runs into survivors Morgan and his son; who teach him the ropes of the new world. He then heads for Atlanta to search for his family. Narrowly escaping death at the hands of the zombies on arrival in Atlanta he is aided by another survivor, Glenn, who takes Rick to a camp outside the town. There Rick finds his wife Lori and his son, Carl, along with his partner/best friend Shane and a small group of survivors who struggle to fend off the zombie hordes; as well as competing with other surviving groups who are prepared to do whatever it takes to survive in this harsh new world.</info>
+</channel>
+
+<channel>
+<name>Medici Masters of Florence 2016</name>
+<thumbnail>https://od.lk/s/OTdfMzUzMDk2OV8/Medici%20Masters%20of%20Florence.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzUzMDk2Nl8/Season.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzUzMDk2OF8/Medici%20Masters%20of%20Florence%20f.jpg</fanart>
+<genre> Biography, Drama, History</genre>
+<info>A political, family drama set in Florence in the early 16th century. Cosimo de' Medici finds himself at the helm of his supremely wealthy, banking dynasty family, when his father, Giovanni dies suddenly. However Cosimo is concealing a dangerous secret - Giovanni was murdered. Now Cosimo must unearth his killer in order to protect the wealth and power of the family.</info>
+</channel>
+
+<channel>
+<name>Still Open All Hours</name>
+<thumbnail>https://od.lk/s/OTdfMzUyOTc5M18/still%20open%20all%20hours.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzUyOTgwMV8/Season.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzUyOTgwM18/Still-Open-All-Hours-%20f.jpg</fanart>
+<genre> Comedy</genre>
+<info>Arkwright is long dead and Granville now runs the shop with his daft son Leroy, the result of a one night stand in Blackpool. Granville has inherited his uncle's parsimony, trying to sell nappy rash cream as a body building aid whilst the handsome boy is a hit with the female customers. Granville would like to get back with old flame Mavis, now back on the market, but she is guarded by her fearsome sister Madge though Mrs Featherstone, the one time Black Widow, is extremely interested in a dalliance with Granville - unlike retired nurse Gladys, who is no more interested in Granville than she was in his uncle. Nonetheless, after a trying day with his most annoying customer Wet Eric, Granville realizes that a little affection from the Black Widow may not come amiss.</info>
+</channel>
+
+<channel>
+<name>Roman Empire Reign of Blood</name>
+<thumbnail>https://od.lk/s/OTdfMzUzMTAxMF8/Roman.Empire.Reign.of.Blood.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzUzMTAxMl8/Season.txt</externallink>
+<fanart></fanart>
+<genre> Documentary, Drama</genre>
+<info>An academic and graphic account of the rule of the famously narcissistic Roman Emperor Commodus, who inherited the Roman Empire from his father, Marcus Aurelius, at the height of its expansion in the second century AD, told over a backdrop of violence, sex, and corruption.</info>
+</channel>
+
+<channel>
+<name>The Man In The High Castle</name>
+<thumbnail>https://od.lk/s/OTdfMzUzMDk4MV8/The%20Man%20In%20The%20High%20Castle.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzUzMDk4NF8/Season.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzUzMDk4Ml8/The%20Man%20in%20the%20High%20Castle%20f.jpg</fanart>
+<genre> Drama, Sci-Fi, Thriller </genre>
+<info>What would it be like if the Allied Powers had lost WWII, and Japan and Germany ruled the United States?</info>
+</channel>
+
+<channel>
+<name>White Rabbit</name>
+<thumbnail>https://od.lk/s/OTdfMzQ1NDE3M18/White%20Rabbit%20Project.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQ1NDE3Ml8/season.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQ1NDE3NF8/white-rabbit-project%20f.jpg</fanart>
+<genre>Reality-TV | TV Series (2016– )</genre>
+<info>Scientists investigate unusual events from pop culture, science and history.</info>
+</channel>
+
+<channel>
+<name>Travelers</name>
+<thumbnail>https://od.lk/s/OTdfMzQ1MjI3Ml8/travelers.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQ1MjI3MF8/season.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQ1MjI3MV8/Travelers%20%28f%29.jpg</fanart>
+<genre>Genres: Sci-Fi</genre>
+<info>Language: English
+Release Date: 17 October 2016 (Canada)
+Runtime: 44 min
+Creator: Brad Wright
+Stars: MacKenzie Porter, Nesta Cooper, Eric McCormack
+ 
+Hundreds of years from now, surviving humans discover how to send consciousness back through time, into people of the 21st century. These travelers assume the lives of others, while attempting to save humanity from a terrible future.</info>
+</channel>
+
+<channel>
+<name>Shooter</name>
+<thumbnail>https://od.lk/s/OTdfMzQ1MjA5Ml8/shooter.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQ1MjA5MV8/season.txt</externallink>
+<fanart></fanart>
+<genre> Action, Drama | TV Series </genre>
+<info>Country: USA
+Language: English
+Release Date: 15 November 2016 (USA)
+Filming Locations: Santa Clarita, California,
+Runtime: 60 min
+
+SHOOTER is USA Network's new conspiracy thriller based on the best-selling novel "Point of Impact" by Stephen Hunter, and the 2007 Paramount film starring Mark Wahlberg. Starring Ryan Phillippe, the series follows the journey of Bob Lee Swagger, a highly-decorated veteran who is coaxed back into action to prevent a plot to kill the President. When Swagger's former commanding officer Isaac Johnson solicits his expertise in a clandestine operation, Swagger discovers that he is has been framed and must do everything in his power to protect his family and clear his name.
+</info>
+</channel>
+
+<channel>
+<name>Pacific Heat</name>
+<thumbnail>https://od.lk/s/OTdfMzQ1MzkyOV8/pacific%20h.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQ1MzkzMl8/season.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQ1MzkzMF8/Pacific%20Heat.jpg</fanart>
+<genre>Animation | TV Series (2016– )</genre>
+<info>A group of ragtag Australian agents working hard to recover their reputation in order to prevent having their team shut down.</info>
+</channel>
+
+<channel>
+<name>The Grand Tour</name>
+<thumbnail>https://od.lk/s/OTdfMzQ0NDIyOV8/The.Grand.Tour.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQ0NDIyOF8/season.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQ0NDIzMF8/The.Grand.Tour%20f.png</fanart>
+<genre>TV Series (2016– )</genre>
+<info>Follow Jeremy, Richard, and James, as they embark on an adventure across the globe. Driving new and exciting automobiles from manufactures all over the world.</info>
+</channel>
+
+<channel>
+<name>close to the enemy</name>
+<thumbnail>https://od.lk/s/OTdfMzQ0MzE0OF8/Close%20to%20the%20Enemy.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQ0MzE1MV8/season.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQ0MzE0OV8/Close-to-the-enemy%20F.jpg</fanart>
+<genre>Drama | TV Mini-Series (2016– )</genre>
+<info>A British intelligence officer has to ensure that a captured German scientist helps the British develop jet aircraft.</info>
+</channel>
+
+<channel>
+<name>Frontier</name>
+<thumbnail>https://od.lk/s/OTdfMzQ0MjUxMV8/Frontier.2016.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQ0MjUxMF8/season.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQ0MjUxM18/frontier%20f.jpg</fanart>
+<genre> Adventure | TV Series (2016– )</genre>
+<info>Frontier is the first original scripted series ordered by Discovery, and will follow the struggle to "control wealth and power in the North American fur trade in the late 18th century."</info>
+</channel>
+
+<channel>
+<name>Dark Angel</name>
+<thumbnail>https://od.lk/s/OTdfMzQ0MjQxN18/dark%20angel%20c.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQ0MjQxNl8/S1.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQ0MjQxOF8/DARK%20ANGEL.jpg</fanart>
+<genre>Drama, Thriller | TV Mini-Series (2016– )</genre>
+<info>A two-part drama about the Victorian serial killer Mary Ann Cotton.</info>
+</channel>
+
+<channel>
+<name>Kevin.Can.Wait</name>
+<thumbnail>https://od.lk/s/OTdfMzQ0MTE3OF8/Kevin.Can.Wait..jpg</thumbnail>
+<externallink>https://goo.gl/iU4joC</externallink>
+<fanart>https://od.lk/s/OTdfMzQ0MTE3OV8/Kevin.Can.Wait.f.jpg</fanart>
+<genre> Comedy | TV Series (2016– )</genre>
+<info>KEVIN CAN WAIT stars Kevin James as a newly retired police officer looking forward to spending carefree quality time with his wife and three kids, only to discover he faces tougher challenges at home than he ever did on the streets. Kevin's retirement plans consist of chilling with his family and having epic adventures with fellow retirees Goody, his former partner and close friend, and Duffy, his oldest pal, as well as his brother, Kyle, a firefighter whose closest encounter with a blaze would be a grease fire in the firehouse kitchen. However, Kevin's dream is jeopardized when he discovers that Donna, his wonderful wife of 20 years, has shielded him from key family info while he worked overtime protecting the community. Their usually reliable eldest, Kendra, is dropping out of college so she can support her unemployed fiancé, Chale, while he designs the next "big app"; his teenage daughter, Sara, has budding anger-management issues; and their youngest, Jack, is a bit of a ...</info>
+</channel>
+
+<channel>
+<name>Good.Behavior</name>
+<thumbnail>https://od.lk/s/OTdfMzQzOTI4OV8/Good.Behavior.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQzOTI5MF8/season.txt</externallink>
+<fanart></fanart>
+<genre> Crime, Drama, Mystery | TV Series (2016– )</genre>
+<info>Letty Dobesh is a thief and con artist whose life is always one wrong turn, one bad decision, from implosion. Which is just how she likes it. Fresh out of prison, she's attempting to stay afloat. But when she overhears a hit man being hired to kill a man's wife, she sets out to derail the job, sending her on a wild collision course with the charming killer, and entangling them in dangerous, seductive relationship.</info>
+</channel>
+
+<channel>
+<name>paranoid</name>
+<thumbnail>https://od.lk/s/OTdfMzQzODUyMV8/paraniod.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQzODUxOF8/home.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQzODUyMF8/paraniod%20f.jpg</fanart>
+<genre>Crime, Drama, Mystery | TV Mini-Series (2016– )</genre>
+<info>The murder of a female GP in a rural playground in front of numerous witnesses draws a group of detectives into an ever-darkening mystery that takes them across Europe, aided by mysterious notes sent by the "Ghost Detective".</info>
+</channel>
+
+<channel>
+<name>Falling Water</name>
+<thumbnail>https://od.lk/s/OTdfMzQzODU4N18/falling%20water.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQzODU4M18/home.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQzODU4Nl8/falling%20water%20f.jpg</fanart>
+<genre> Drama, Mystery, Sci-Fi | TV Series (2016– )</genre>
+<info>The story of three unrelated people, who slowly realize that they are dreaming separate parts of a single common dream. Each of them is on a mysterious and highly personal quest - one is searching for his missing girlfriend, one is searching for a lost child, one is looking to cure his catatonic mother - and it is the clues found in their collective dream that come to guide them. The deeper they dig the more they come to realize that their missions touch on stakes that are much larger than their individual agendas. </info>
+</channel>
+
+<channel>
+<name>Chance</name>
+<thumbnail>https://od.lk/s/OTdfMzQzODQ5OF8/Chance..jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQzODQ5N18/home.txt</externallink>
+<fanart></fanart>
+<genre> Drama, Mystery, Thriller | TV Series (2016– )</genre>
+<info>A forensic neuro-psychiatrist reluctantly enters a dangerous and violent world of mistaken identity, police corruption and mental illness.</info>
+</channel>
+
+<channel>
+<name>Zapped</name>
+<thumbnail>https://od.lk/s/OTdfMzQzODQ5NV8/zapped.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQzODQ5M18/home.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQzODQ5NF8/zapped%20f.jpg</fanart>
+<genre> Comedy | TV Series (2016– )</genre>
+<info>A man is transported to a parallel world featuring "psychopathic Fairies, Shell Men, seductive Demi-Fins and vicious Throcks</info>
+</channel>
+
+<channel>
+<name>Frequency</name>
+<thumbnail>https://od.lk/s/OTdfMzQzODUwMl8/Frequency.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQzODUwMV8/home.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQzODUwM18/Frequency%20f.jpg</fanart>
+<genre> Drama, Fantasy, Mystery | TV Series (2016– )</genre>
+<info>A police detective in 2016 discovers that she is able to speak via a ham radio with her estranged father; Frank Sullivan, a detective who died in 1996 and the two must work together to change the history of tragic events to come while also getting the chance to heal their complicated relationship.</info>
+</channel>
+
+<channel>
+<name>The Crown</name>
+<thumbnail>https://od.lk/s/OTdfMzQ0MTk1Nl8/the%20crown.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQ0MTk1NV8/season.txt</externallink>
+<fanart></fanart>
+<genre> Drama, History | TV Series (2016– )</genre>
+<info>The Crown focuses on Queen Elizabeth II as a 25-year-old newlywed faced with the daunting prospect of leading the world's most famous monarchy while forging a relationship with legendary Prime Minister, Sir Winston Churchill. The British Empire is in decline, the political world is in disarray, and a young woman takes the throne....a new era is dawning. Peter Morgan's masterfully researched scripts reveal the Queen's private journey behind the public facade with daring frankness. Prepare to be welcomed into the coveted world of power and privilege and behind locked doors in Westminster and Buckingham Palace....the leaders of an empire await. </info>
+</channel>
+
+<channel>
+<name>Grimm seasons 1 - 5</name>
+<thumbnail>https://od.lk/s/OTdfMzQ0NDI0Nl8/grimm%20s1.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQ0NDIzN18/season.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQ0NDI0NF8/grimm%20f.jpg</fanart>
+<genre> Drama, Fantasy, Horror | TV Series (2011– )</genre>
+<info>A homicide detective discovers he is a descendant of hunters who fight supernatural forces.</info>
+</channel>
+
+<channel>
+<name>Catching.Kelce</name>
+<thumbnail></thumbnail>
+<externallink>https://od.lk/s/OTdfMzQzODU0N18/home.txt</externallink>
+<fanart></fanart>
+<genre></genre>
+<info>Reality-TV | TV Series (2016– )</info>
+</channel>
+
+<channel>
+<name>Man With a Plan</name>
+<thumbnail>https://od.lk/s/OTdfMzQzNjg3Nl8/man%20with%20a%20plan.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQzNjg3OF8/S1.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQzNjg3N18/man%20with%20a%20plan%20f.jpg</fanart>
+<genre> Comedy | TV Series (2016– )</genre>
+<info>A dad finds out that parenting is harder than he thought after his wife goes back to work and he's left at home to take care of the kids.</info>
+</channel>
+
+<channel>
+<name>Class</name>
+<thumbnail>https://od.lk/s/OTdfMzQzNjAyOF8/class.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQzNjAzMF8/season.txt</externallink>
+<fanart></fanart>
+<genre> Drama, Sci-Fi | TV Series (2016– )</genre>
+<info>Coal Hill School has been a feature of Doctor Who (1963) since the first episode, but now we get to see the day-to-day adventures of the students coping with intrusions from space and time.
+Plot Su</info>
+</channel>
+
+<channel>
+<name>Lethal Weapon</name>
+<thumbnail>https://od.lk/s/OTdfMzQyNzkzNF8/lethal.weapon%20logo.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQyODU1MV8/season.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQyNzkzM18/lethal.weapon%20f.jpg</fanart>
+<genre> Action, Crime, Drama | TV Series (2016– )</genre>
+<info>TV show based on the popular 'Lethal Weapon' films in which a slightly unhinged cop is partnered with a veteran detective trying to maintain a low stress level in his life.</info>
+</channel>
+
+<channel>
+<name>Aftermath</name>
+<thumbnail>https://od.lk/s/OTdfMzQyNzkzMV8/aftermath...jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQyNzk1N18/season.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQyNzkzMl8/aftermath.jpg</fanart>
+<genre> Sci-Fi | TV Series (2016– )</genre>
+<info>The Copeland family battle for survival when civilization comes to an apocalyptic end, triggered by massive storms, meteor strikes, earthquakes, a plague - and the rise of supernatural creatures.</info>
+</channel>
+
+<channel>
+<name>The Missing</name>
+<thumbnail>https://od.lk/s/OTdfMzQzMjM3OV8/the%20missing.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQzMjM3N18/season.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQzMjM4MF8/the-missing%20f.jpg</fanart>
+<genre> Crime, Drama, Mystery | TV Series (2014– )</genre>
+<info>"The Missing" follows Tony, played by James Nesbitt, as a man devastated by the abduction of his young son, Oliver, during a family vacation in France. He becomes a man obsessed, unable to accept that his child may be dead and spends years searching for him. Tony's exhaustive search fractures his marriage to Emily, played by Frances O' Connor and threatens to destroy his life. Tcheky Karyo plays Julien, the French police detective who launched the initial search for the child. Even though he is retired in present day, he too cannot shake the small belief that the child may still be alive. Told using a fascinating narrative puzzle, "The Missing" explores the impact of a child's abduction, the emotional cost of obsession, hope and finding when to let go. This gripping thriller is told simultaneously over multiple time frames and set in France and London.</info>
+</channel>
+
+<channel>
+<name>Quantico</name>
+<thumbnail>https://od.lk/s/OTdfMzQzMTE0MV8/quantico.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQzMTEzOV8/season.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQzMTE0Ml8/quantico%20f.jpg</fanart>
+<genre> Crime, Drama, Mystery | TV Series (2015– )</genre>
+<info>A look at the lives of young FBI recruits training at the Quantico base in Virginia when one of them is suspected of being a sleeper terrorist.</info>
+</channel>
+
+
+<channel>
+<name>Bull</name>
+<thumbnail>https://od.lk/s/OTdfMzQzMDY1MV8/BULL.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQzMDY0OF8/season.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQzMDY1MF8/bull%20f.jpg</fanart>
+<genre> Drama | TV Series (2016– )</genre>
+<info>Rupert Bull tries to run an antiques shop, but knows nothing about antiques. He is both helped and hindered by his incompetent staff and his disillusioned sister.</info>
+</channel>
+
+<channel>
+<name>Shoot The Messenger</name>
+<thumbnail>https://od.lk/s/OTdfMzQyODg2N18/stm.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQyODg2OF8/season.txt</externallink>
+<fanart></fanart>
+<genre> Crime, Drama, Thriller | TV Series (2016– )</genre>
+<info>A young journalist who, while working on her first murder case, becomes embroiled in a web of urban gangs, the political class, corporate power-brokers and the police.</info>
+</channel>
+
+<channel>
+<name>Channel Zero</name>
+<thumbnail>https://od.lk/s/OTdfMzQyODgzOF8/channel%20zero.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQyODgzOV8/seasons.txt</externallink>
+<fanart></fanart>
+<genre> Drama, Horror, Mystery | TV Series (2016– )</genre>
+<info>An anthology series telling the stories of Creepypastas, Internet short form horror stories. Season one is the story of Candle Cove.</info>
+</channel>
+
+<channel>
+<name>Queen Sugar</name>
+<thumbnail>https://od.lk/s/OTdfMzQyODgyMV8/queen%20sugar.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQyNzk4NV8/Seasons.txt</externallink>
+<fanart></fanart>
+<genre></genre>
+<info>The series follows the life of three siblings--brother Ralph-Angel (trying to rebuild his life after jail) and sisters, Nova Bordelon (social activist, root woman, and herbalist) and Charley Bordelon (L.A. basketball wife), who, with her teenage son Micah, moves to the heart of Louisiana to claim an inheritance from their recently departed father - an 800-acre sugarcane farm.</info>
+</channel>
+
+<channel>
+<name>Deep Water</name>
+<thumbnail>https://od.lk/s/OTdfMzQyODc5N18/deep%20water.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQyODY0OV8/season.txt</externallink>
+<fanart></fanart>
+<genre></genre>
+<info>When the mutilated corpse of a young man is found in a beachfront apartment in Bondi, Tori Lustigman and Nick Manning are assigned the case. Is this brutal murder a domestic, a robbery gone wrong, or a gay hate crime? As other ritualistic murders occur, they discover the killer is using THRUSTR to procure his victims. Any local using that app is now at risk and it's a race against the clock to catch the serial killer before he strikes again. With mounting evidence to suggest the perpetrator has killed before, Tori and Nick start digging through old investigations. The discovery is shocking. In the 80s and 90s they uncover up to 80 possible murders of gay men in NSW - unexplained deaths, 'suicides' and disappearances. Many of these killings were linked to gay bashings by youth gangs, a blood sport that went largely unpunished. As they meet more victims from the uninvestigated past crimes, they become convinced that the current killer is somehow connected. In reopening the cold cases .</info>
+</channel>
+
+<channel>
+<name>This is us</name>
+<thumbnail>https://od.lk/s/OTdfMzQyODcxN18/this%20is%20us.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQyODY0N18/season.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQyODcxOF8/this-is-us-02-1.jpg</fanart>
+<genre></genre>
+<info>A group of people with the same birthday, including Rebecca and Jack, a married couple expecting triplets in Pittsburgh, Kevin, a handsome television actor growing bored of his fly bachelor lifestyle, and Kate, his funny and sweet heavyset twin.</info>
+</channel>
+
+<channel>
+<name>Dark Matter</name>
+<thumbnail>https://od.lk/s/OTdfMzQyODYwOV8/dark%20matter.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQyNzg4OV8/Seasons.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQyODYxMF8/darkmatter%20f.jpg</fanart>
+<genre></genre>
+<info>The six-person crew of a derelict spaceship awakens from stasis in the farthest reaches of space. Their memories wiped clean, they have no recollection of who they are or how they got on board. The only clue to their identities is a cargo bay full of weaponry and a destination: a remote mining colony that is about to become a war zone. With no idea whose side they are on, they face a deadly decision. Will these amnesiacs turn their backs on history, or will their pasts catch up with them?</info>
+</channel>
+
+<channel>
+<name>Conviction</name>
+<thumbnail>https://od.lk/s/OTdfMzQyODAxNV8/conviction.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQyNzk1OV8/season.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQyODAxNF8/conviction_2016.jpg</fanart>
+<genre></genre>
+<info>A brilliant young attorney (Hayley Atwell), who is also the daughter of a former U.S. president, is blackmailed to head up NYC's new Conviction Integrity Unit. She and her team investigate cases where people may have been wrongly convicted.</info>
+</channel>
+
+<channel>
+<name>Pitch</name>
+<thumbnail>https://od.lk/s/OTdfMzQyNzk3Nl8/pitch.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQyNzk3OV8/Seasons.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQyNzk3N18/pitch.f.jpg</fanart>
+<genre></genre>
+<info>A young pitcher becomes the first woman to play in the Major Leagues.</info>
+</channel>
+
+<channel>
+<name>The Exorcist</name>
+<thumbnail>https://od.lk/s/OTdfMzQyODA2OF8/exorcist.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQyNzkxOV8/Seasons.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQyODA2N18/The-Exorcist%20f.jpg</fanart>
+<genre></genre>
+<info>TV show based on William Blatty's 1971 novel about a priest who performs exorcisms on demonic spirits.</info>
+</channel>
+
+<channel>
+<name>Designated Surviver</name>
+<thumbnail>https://od.lk/s/OTdfMzQyODAyM18/Designated.Survivor.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQyNzk2Ml8/Seasons.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQyODAyNF8/Designated-Survivor%20F.jpg</fanart>
+<genre> Drama, Thriller | TV Series </genre>
+<info>A low-level Cabinet member becomes President of the United States after a catastrophic attack kills everyone above him in the Presidential line of succession.</info>
+</channel>
+
+<channel>
+<name>Supergirl</name>
+<thumbnail>https://od.lk/s/OTdfMzQzMDQwMF8/supergirl.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQzMDM5NF8/season.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQzMDQwMV8/supergirl%20f.jpg</fanart>
+<genre></genre>
+<info>The adventures of Superman's cousin in her own superhero career.</info>
+</channel>
+
+<channel>
+<name>Prison Break</name>
+<thumbnail>https://od.lk/s/OTdfMzQyODYxMV8/prison%20break.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQyNzk4MF8/Season.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQyODYxMl8/prison%20break%20f.jpg</fanart>
+<genre></genre>
+<info>Structural Engineer Michael Scofield turns himself in to the Fox River Penitentiary in order to break out his brother Lincoln Burrows, who is on death row for the murder of the Vice President's brother. But Lincoln was set up by some of the Company (an agency formed by corrupt government officials) guys, headed by General Jonathan Krantz. Michael breaks out from Fox River with his brother Lincoln and other convicts.</info>
+</channel>
+
+<channel>
+<name>Gotham</name>
+<thumbnail>https://od.lk/s/OTdfMzQyNzg5OV8/gotham.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQyNzg5N18/Season.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQyNzkwMF8/Gotham-TV.jpg</fanart>
+<genre>Action, Crime, Drama</genre>
+<info>In crime ridden Gotham City, Thomas and Martha Wayne are murdered before young Bruce Wayne's eyes. Although the idealistic Gotham City Police Dept. detective James Gordon, and his cynical partner, Harvey Bullock, seem to solve the case quickly, things are not so simple. Inspired by Bruce's traumatized desire for justice, Gordon vows to find it amid Gotham's corruption. Thus begins Gordon's lonely quest that would set him against his own comrades and the underworld with their own deadly rivalries and mysteries. In the coming wars, innocence will be lost and compromises will be made as some criminals will fall as casualties while others will rise as supervillains. All the while, young Bruce observes this war with a growing obsession that would one day drive him to seek his own revenge as The Batman.</info>
+</channel>
+
+<channel>
+<name>Notorious</name>
+<thumbnail>https://od.lk/s/OTdfMzQyNzk0N18/notorious..jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQyNzk3NF8/season.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQyNzk0Nl8/notorious.jpg</fanart>
+<genre></genre>
+<info>A charismatic defense attorney and a powerhouse television producer work together to control the media following a high-profile incident.</info>
+</channel>
+
+<channel>
+<name>Killjoys</name>
+<thumbnail>https://od.lk/s/OTdfMzQyODAxNl8/killjoys.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQyNzk2NF8/season.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQyODAxN18/killjoys%20f.jpg</fanart>
+<genre></genre>
+<info>Killjoys is a fast paced space adventure about a trio of hard-living, party-loving bounty hunters working for the R.A.C (Recovery and Apprehension Coalition). An Independent interplanetary organization of assassins and retrieval experts, who are known across the J cluster as Killjoys. The show centers on their lives and activities in the Quad, a heavily populated solar system, ruled by a tyrannical class based corporation known as the company. With the whole system verging on revolutionary war and their own bloody pasts finally catching up with them. The three struggle daily to maintain their R.A.C neutrality by focusing on the only law a Killjoy won't break "The Warrant is all</info>
+</channel>
+
+
+<channel>
+<name>Lucifer</name>
+<thumbnail>https://od.lk/s/OTdfMzQyNzkzNl8/Lucifer%20icon.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQyNzk2OF8/season.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQyNzkzNV8/Lucifer%20fanart.jpg</fanart>
+<genre></genre>
+<info>Lucifer, bored from his sulking life in hell comes to live in Los Angeles only to help humanity with its miseries through his experience and telepathic abilities to bring people's deepest desires and thoughts out of them. While meeting with a girl in his nightclub (called Lux), a shootout involving him and the girl leads him to become a LAPD consultant who tries to punish people for their crimes through law and justice.</info>
+</channel>
+
+<channel>
+<name>Luke Cage</name>
+<thumbnail>https://od.lk/s/OTdfMzQyNzkzOF8/luke%20cage.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQyNzk3MF8/season.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQyNzkzN18/Luke-Cage.jpg</fanart>
+<genre></genre>
+<info>Given superstrength and durability by a sabotaged experiment, a wrongly accused man escapes prison to become a superhero for hire.</info>
+</channel>
+
+<channel>
+<name>Quarry</name>
+<thumbnail>https://od.lk/s/OTdfMzQyNzk0OF8/quarry.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQyNzk4M18/season.txt</externallink>
+<fanart></fanart>
+<genre></genre>
+<info>Quarry, a disillusioned Vietnam War vet, returns home to Memphis in 1972 only to find rejection and scrutiny at every step. A mysterious man known only as The Broker gives him an offer he can't refuse - to work for him as a hitman.</info>
+</channel>
+
+<channel>
+<name>Timeless</name>
+<thumbnail>https://od.lk/s/OTdfMzQyODc5OF8/timeless.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQyODgwMF8/season.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQyODgwMV8/Timeless-F.jpg</fanart>
+<genre></genre>
+<info>An unlikely trio traveling through time to battle unknown criminals in order to protect history as we know it.</info>
+</channel>
+
+<channel>
+<name>Westworld</name>
+<thumbnail>https://od.lk/s/OTdfMzQyNzk1M18/westworld.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQyODAwMF8/season.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQyNzk1Ml8/westworld-tv.jpg</fanart>
+<genre></genre>
+<info>A series inspired by the 1973 film of the same title written by Michael Crichton about a futuristic theme park populated by artificial beings.</info>
+</channel>
+
+<channel>
+<name>Wolf Creek</name>
+<thumbnail>https://od.lk/s/OTdfMzQyNzk1NF8/wolf%20creek.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQyODAwMl8/season.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQyNzk1NV8/wolf-creek.jpg</fanart>
+<genre></genre>
+<info>Eve, a 19-year-old American tourist is targeted by crazed serial killer Mick Taylor. She survives his attack and embarks on a mission of revenge.</info>
+</channel>
+
+<channel>
+<name>Macgyver</name>
+<thumbnail>https://od.lk/s/OTdfMzQyNzk0NV8/MACGYVER.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQyNzk3Ml8/season.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQyNzk0NF8/macgyver%20f.jpg</fanart>
+<genre></genre>
+<info>A reimagining of the classic series, is an action-adventure drama about 20-something Angus "Mac" MacGyver, who creates the Department of External Services (DXS), a clandestine organization within the U.S. government where he uses his extraordinary talent for unconventional problem-solving and vast scientific knowledge to save lives. Joining his team on high-risk missions around the globe is maverick former CIA agent Jack Dalton; Patricia Thornton, an ex-field agent turned director of operations; and Riley Davis, an unpredictable computer hacker with a chip on her shoulder. At home, MacGyver is entertained by his ambitious roommate, Wilt Bozer. Under the aegis of the Department of External Services, MacGyver takes on the responsibility of saving the world, armed to the teeth with resourcefulness and little more than bubble gum and a paper clip.</info>
+</channel>
+
+<channel>
+<name>Limitless</name>
+<thumbnail>https://od.lk/s/OTdfMzQyODAyMl8/limitless.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQyNzk2Nl8/season.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQyODAyMV8/limitless%20f.jpg</fanart>
+<genre></genre>
+<info>An average 28-year old man who gains the ability to use the full extent of his brain's capabilities is hired by the FBI as a consultant.</info>
+</channel>
+
+<channel>
+<name>Outlander</name>
+<thumbnail>https://od.lk/s/OTdfMzQzMDExNl8/Outlander.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQzMDExOV8/season.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQzMDExNV8/Outlander%20f.jpg</fanart>
+<genre></genre>
+<info>Follows the story of Claire Randall, a married combat nurse from 1945 who is mysteriously swept back in time to 1743, where she is immediately thrown into an unknown world where her life is threatened. When she is forced to marry Jamie Fraser, a chivalrous and romantic young Scottish warrior, a passionate relationship is ignited that tears Claire's heart between two vastly different men in two irreconcilable lives. </info>
+</channel>
+
+<channel>
+<name>Z Nation</name>
+<thumbnail>https://od.lk/s/OTdfMzQzMDI5NV8/Z%20NATION.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQzMDI5MV8/season.txt</externallink>
+<fanart></fanart>
+<genre></genre>
+<info>Three years after the zombie virus has gutted the country, a team of everyday heroes must transport the only known survivor of the plague from New York to California, where the last functioning viral lab waits for his blood.</info>
+</channel>
+
+<channel>
+<name>Power</name>
+<thumbnail>https://od.lk/s/OTdfMzQzMjUwMl8/power.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQzMjUwMF8/season.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQzMjUwM18/power-slider.jpg</fanart>
+<genre></genre>
+<info>"Power" tells the story of James "Ghost" St. Patrick, a wealthy New York City nightclub owner who caters to the city's elite. He wants to build an empire, turn the club into a Fortune 500 business, but there's just one problem: Ghost is living a double life. When he is not in the club, he is the kingpin of the most lucrative drug network in New York for a very high-level clientele. His marriage, family and business all become unknowingly threatened as he is tempted to leave his criminal life behind and become the rags-to-riches businessman he wants to be most of all.</info>
+</channel>
+
+<channel>
+<name>Wentworth</name>
+<thumbnail>https://od.lk/s/OTdfMzQzODc0MF8/WF.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQzODczOV8/Season.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQzODczMV8/F.jpg</fanart>
+<genre></genre>
+<info>Bea Smith is locked up while awaiting trial for the attempted murder of her husband and must learn how life works in prison.</info>
+</channel>
+
+<channel>
+<name>Stargate SG1</name>
+<thumbnail></thumbnail>
+<externallink>https://od.lk/s/OTdfMzQyNzc5MV8/season.txt</externallink>
+<fanart></fanart>
+<genre></genre>
+<info></info>
+</channel>
+
+<channel>
+<name>Teen Wolf</name>
+<thumbnail>https://od.lk/s/OTdfMzQyMTcwMV8/teen-wolf%20s1.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQyNzk5Ml8/Seasons.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQyMTcwNF8/-Teen-Wolf%20f.jpg</fanart>
+<info></info>
+<genre></genre>
+</channel>
+
+<channel>
+<name>Prison Break</name>
+<thumbnail></thumbnail>
+<externallink>https://od.lk/s/OTdfMzQyNzk4MF8/Season.txt</externallink>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+</channel>
+
+<channel>
+<name>Van Helsing</name>
+<thumbnail>https://od.lk/s/OTdfMzQyNzk0OV8/van_helsing.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQyNzk5N18/season.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQyNzk1MF8/van-helsing.jpg</fanart>
+<genre> Action, Drama, Fantasy | TV Series (2016– )</genre>
+<info>Vanessa Helsing, distant relative of famous vampire hunter Abraham Van Helsing, is resurrected only to find that vampires have taken over the world. She is humanity's last hope to lead an offensive to take back what has been lost.</info>
+</channel>
+
+<channel>
+<name>Family Guy</name>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY5NF8/fg%20icon.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzUzNjY1Nl8/season.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Sick, twisted and politically incorrect, the animated series features the adventures of the Griffin family. Endearingly ignorant Peter and his stay-at-home wife Lois reside in Quahog, R.I., and have three kids. Meg, the eldest child, is a social outcast, and teenage Chris is awkward and clueless when it comes to the opposite sex. The youngest, Stewie, is a genius baby bent on killing his mother and destroying the world. The talking dog, Brian, keeps Stewie in check while sipping martinis and sorting through his own life issues.</info>
+</channel>
+
+<channel>
+<name>Building Alaska</name>
+<thumbnail>https://od.lk/s/OTdfMzQzMDU5M18/BA..jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQzMDU4OV8/season.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQzMDU5NF8/BA.%20f.jpg</fanart>
+<genre></genre>
+<info></info>
+</channel>

@@ -1,0 +1,38 @@
+﻿
+
+
+
+
+
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+<channel>
+<name>Season 1</name>
+<thumbnail>https://od.lk/s/OTdfMzQ1MjA5Ml8/shooter.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQ1MjA5MF8/S1.txt</externallink>
+<fanart></fanart>
+<genre> Action, Drama | TV Series </genre>
+<info>Country: USA
+Language: English
+Release Date: 15 November 2016 (USA)
+Filming Locations: Santa Clarita, California,
+Runtime: 60 min
+
+SHOOTER is USA Network's new conspiracy thriller based on the best-selling novel "Point of Impact" by Stephen Hunter, and the 2007 Paramount film starring Mark Wahlberg. Starring Ryan Phillippe, the series follows the journey of Bob Lee Swagger, a highly-decorated veteran who is coaxed back into action to prevent a plot to kill the President. When Swagger's former commanding officer Isaac Johnson solicits his expertise in a clandestine operation, Swagger discovers that he is has been framed and must do everything in his power to protect his family and clear his name.
+</info>
+</channel>
+</channels>
+
+
+
+
+
+
+
+
+
+
+
+

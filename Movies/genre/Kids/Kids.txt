@@ -1,0 +1,39 @@
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+<channel>
+<name>Kids Movies</name>
+<thumbnail>https://www.dropbox.com/s/ewgidpp7ncjnofn/warner_bros.jpg?dl=1</thumbnail>
+<externallink>https://goo.gl/El9qJM</externallink>
+<fanart>https://od.lk/s/OTdfMzUyNTYyNF8/kids%20f.png</fanart>
+<genre>KIDS MOVIES</genre>
+<info>kthbdaz.netau,net</info>
+</channel>
+
+<channel>
+<name>Cartoons</name>
+<thumbnail>https://od.lk/s/OTdfMzUyNTYyMF8/cartoons.png</thumbnail>
+<externallink>https://od.lk/s/OTdfMzUyNTY4MF8/A%20-%20Z.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzUyNTYyMV8/cartoons%20f.png</fanart>
+<genre>Kids Animation</genre>
+<info>cartoons for all ages</info>
+</channel>
+
+<channel>
+<name>KIDS TV SHOWS</name>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQxM18/KidsTVShows.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzUzMjQxMV8/Kids%20tv%20shows.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzUzMjQxMl8/kids-TV-shows.jpg</fanart>
+<genre>Glee seasons added</genre>
+<info>Glee seasons 1 - 6</info>
+</channel>
+
+<channel>
+<name>KIDS boxsets</name>
+<thumbnail>https://od.lk/s/OTdfMzQyODA3NF8/boxsets.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzUzMjUxN18/Boxsets.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQyODA3NV8/boxsets%20f.jpg</fanart>
+<genre></genre>
+<info></info>
+</channel>

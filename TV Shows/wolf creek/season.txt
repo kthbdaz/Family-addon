@@ -1,0 +1,13 @@
+﻿<layouttype>thumbnail</layouttype>
+
+
+<channels>
+<channel>
+<name>S1</name>
+<thumbnail>https://od.lk/s/OTdfMzQyNzk1NF8/wolf%20creek.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQyODAwMV8/S1.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQyNzk1NV8/wolf-creek.jpg</fanart>
+<info>Eve, a 19-year-old American tourist is targeted by crazed serial killer Mick Taylor. She survives his attack and embarks on a mission of revenge.</info>
+</channel>
+</channels>
+

@@ -1,0 +1,180 @@
+<item>
+<title>S9 EP1 And Then There Were Fewer</title>
+<link>https://od.lk/s/OTdfMzU0NTM0M18/S09E01.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3M18/s9.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>And Then There Were Fewer
+The Griffins and the other citizens of Quahog are invited to James Woods' house, but a murder mystery takes place.</info>
+</item>
+
+<item>
+<title>S9 EP2 Excellence in Broadcasting</title>
+<link>https://od.lk/s/OTdfMzU0NTM0NF8/S09E02.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3M18/s9.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Excellence in Broadcasting
+Brian does a 180 on Rush Limbaugh and befriends him after he reads one of his books.</info>
+</item>
+
+<item>
+<title>S9 EP3 Welcome Back Carter</title>
+<link>https://od.lk/s/OTdfMzU0NTMyMl8/S09E03.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3M18/s9.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Welcome Back Carter
+After Peter catches Lois' dad, Carter, having an affair, he is strong-armed into keeping a secret. But when Peter accidentally spills the beans, Lois' mom demands a divorce, and Peter is in charge of Carter's return to bachelorhood.</info>
+</item>
+
+<item>
+<title>S9 EP4 Halloween on Spooner Street</title>
+<link>https://od.lk/s/OTdfMzU0NTMyM18/S09E04.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3M18/s9.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Halloween on Spooner Street
+Peter and Joe team up to execute a series of painful and humiliating Halloween pranks on unsuspecting family, friends and neighbors. While Brian shows Stewie the ropes of trick-or-treating, Meg sets out to attend her first high school Halloween party with high hopes for the evening.</info>
+</item>
+
+<item>
+<title>S9 EP5 Baby, You Knock Me Out</title>
+<link>https://od.lk/s/OTdfMzU0NTMyNF8/S09E05%20.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3M18/s9.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Baby, You Knock Me Out
+Lois becomes a champion foxy boxer, and Peter acts as her manager.</info>
+</item>
+
+<item>
+<title>S9 EP6 Brian Writes a Bestseller</title>
+<link>https://od.lk/s/OTdfMzU0NTMyNV8/S09E06.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3M18/s9.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Brian Writes a Bestseller
+Feeling discouraged with the progress of his writing career, Brian decides to throw in the towel until Stewie becomes his manager and one of his books hits the bestseller list. But when the fame goes to his head, Brian gets a wake-up call from Bill Maher. Meanwhile, Lois decides that she and Peter need separate beds, a decision that leaves Peter looking for a new cuddle buddy.</info>
+</item>
+
+<item>
+<title>S9 EP7 Road to the North Pole</title>
+<link>https://od.lk/s/OTdfMzU0NTMyNl8/S09E07.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3M18/s9.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Road to the North Pole
+When Stewie's trip to the mall to see Santa ends on a very bad note, he and Brian decide to go up to the North Pole to teach Santa a lesson in Christmas cheer, "Stewie Griffin" style.</info>
+</item>
+
+<item>
+<title>S9 EP8 New Kidney in Town</title>
+<link>https://od.lk/s/OTdfMzU0NTMyN18/S09E08.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3M18/s9.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>New Kidney in Town
+Peter needs a new kidney after he destroys his own by making his own energy drink, and Chris gets to introduce President Obama at his high school after he plagiarizes Meg's poem about hope.</info>
+</item>
+
+<item>
+<title>S9 EP9 And I'm Joyce Kinney</title>
+<link>https://od.lk/s/OTdfMzU0NTMyOF8/S09E09.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3M18/s9.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>And I'm Joyce Kinney
+Lois becomes friends with the new television anchor, only to have her reveal Lois's most embarrassing secret on the air.</info>
+</item>
+
+<item>
+<title>S9 EP10 Friends of Peter G.</title>
+<link>https://od.lk/s/OTdfMzU0NTMyOV8/S09E10.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3M18/s9.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Friends of Peter G.
+After a public disturbance, Peter and Brian are forced to attend a 12-step meeting to help kick their drinking problems. Unable to recognize his issue, Peter gets a visit from Death, who gives him a glimpse of what life would be like with and without "Mr. Booze" in his bloodstream.</info>
+</item>
+
+<item>
+<title>S9 EP11 German Guy</title>
+<link>https://od.lk/s/OTdfMzU0NTMzMF8/S09E11.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3M18/s9.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>German Guy
+A jealous Mr. Herbert tries to tell Chris that the elderly German puppeteer that he is hanging out with is actually a notorious Nazi war criminal.</info>
+</item>
+
+<item>
+<title>S9 EP12 The Hand That Rocks the Wheelchair</title>
+<link>https://od.lk/s/OTdfMzU0NTMzMV8/S09E12.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3M18/s9.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>The Hand That Rocks the Wheelchair
+Meg takes care of Joe while Bonnie is away, and she develops a crush. Meanwhile, Stewie creates an evil clone who escapes the house, and he and Brian try to find and stop him.</info>
+</item>
+
+<item>
+<title>S9 EP13 Trading Places</title>
+<link>https://od.lk/s/OTdfMzU0NTMzMl8/S09E13.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3M18/s9.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Trading Places
+Chris and Meg think their parents have it easy, and Peter and Lois beg to differ, so in order to teach them a lesson, they all trade roles. Chris goes to work at the brewery while Meg runs the house. While things start off well, it's not long until the stress of running a household and being the sole breadwinner break down Chris and Meg.</info>
+</item>
+
+<item>
+<title>S9 EP14 Tiegs for Two</title>
+<link>https://od.lk/s/OTdfMzU0NTMzM18/S09E14.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3M18/s9.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Tiegs for Two
+When the local dry cleaner loses Peter's favorite white shirt, he goes ballistic. Meanwhile, Brian tries to score on a date with a new friend, Denise, but ends up striking out. Instead of calling it quits on love, he decides to enlist Quagmire's help, but things get nasty when they start to compete for the affections of each other's old flames, Cheryl Tiegs and Jillian.</info>
+</item>
+
+<item>
+<title>S9 EP15 Brothers & Sisters</title>
+<link>https://od.lk/s/OTdfMzU0NTMzNV8/S09E15.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3M18/s9.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Brothers & Sisters
+Lois's sister comes to town after yet another failed marriage, and quickly becomes engaged to mayor Adam West.</info>
+</item>
+
+<item>
+<title>S9 EP16 The Big Bang Theory</title>
+<link>https://od.lk/s/OTdfMzU0NTMzOF8/S09E16.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3M18/s9.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>The Big Bang Theory
+Stewie and Brian go back in time to stop Bertram from killing Leonardo da Vinci.</info>
+</item>
+
+<item>
+<title>S9 EP17 Foreign Affairs</title>
+<link>https://od.lk/s/OTdfMzU0NTMzOV8/S09E17.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3M18/s9.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Foreign Affairs
+Lois goes on a vacation with Bonnie to Paris, not knowing that Bonnie's intentions are to cheat on Joe. Back at home, Peter decides to homeschool the kids.</info>
+</item>
+
+<item>
+<title>S9 EP18 Episode VI: It's a Trap</title>
+<link>https://od.lk/s/OTdfMzU0NTM0Ml8/S09E18.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3M18/s9.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Episode VI: It's a Trap
+Clear some space for the third chapter of the funniest freakin' trilogy in the galaxy!</info>
+</item>
+

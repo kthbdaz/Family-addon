@@ -1,0 +1,55 @@
+﻿
+
+
+
+
+
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+<channel>
+<name>TV Series</name>
+<thumbnail>https://od.lk/s/OTdfMzQyODA3OV8/tv%20shows..jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQyODAwM18/TV%20Series.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQyODA1OF8/tv%20shows.jpg</fanart>
+<info>All your favourite tv shows</info>
+</channel>
+
+<channel>
+<name>Movies</name>
+<thumbnail>https://od.lk/s/OTdfMzQyODA3N18/the_movies.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQxODE5MV8/All%20Movies.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQyODA3Nl8/movies%20f.jpg</fanart>
+<info>All your favourite Movies from past to present</info>
+</channel>
+
+<channel>
+<name>Boxsets</name>
+<thumbnail>https://od.lk/s/OTdfMzQyODA3NF8/boxsets.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQxODE1OV8/Boxsets.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQyODA3NV8/boxsets%20f.jpg</fanart>
+<info>All your favourite all time boxsets</info>
+</channel>
+
+<channel>
+<name>Music</name>
+<thumbnail>https://www.dropbox.com/s/7c2dh4srnkwtwbp/music.png?dl=1</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQzNTIzN18/albums.txt</externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+
+</channels>
+
+
+
+
+
+
+
+
+
+
+
+

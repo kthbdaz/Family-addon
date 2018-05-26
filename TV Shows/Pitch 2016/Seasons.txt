@@ -1,0 +1,15 @@
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+<channel>
+<name>Season 1</name>
+<thumbnail>https://od.lk/s/OTdfMzQyNzk3Nl8/pitch.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQyNzk3OF8/S1.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQyNzk3N18/pitch.f.jpg</fanart>
+<info>A young pitcher adjusts to life in the spotlight after making history as the first woman to play Major League Baseball. </info>
+</channel>
+
+
+
+

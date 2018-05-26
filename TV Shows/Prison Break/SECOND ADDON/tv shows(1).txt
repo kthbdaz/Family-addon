@@ -1,0 +1,67 @@
+<layouttype>thumbnail</layouttype>
+
+<channels>
+<channel>
+<name>Dark Matter</name>
+<thumbnail>https://od.lk/s/OTdfMzQxMTcyM18/dm1f.jpg</thumbnail>
+<externallink>https://goo.gl/QCzkfP</externallink>
+<fanart>https://od.lk/s/OTdfMzQxMTcyM18/dm1f.jpg</fanart>
+<info>Dark Matter is a Canadian science fiction series created by Joseph Mallozzi and Paul Mullie, based on the comic book of the same name and developed by Prodigy Pictures in association with Space channel.It was acquired by Syfy for U.S. and Syfy Universal distribution.An order for 13 episodes was placed for the first season of the series,which premiered on June 12, 2015, and concluded on August 28, 2015.The series was renewed for a 13-episode second season on September 1, 2015.</info>
+</channel>
+
+<channel>
+<name>Fear the walking dead</name>
+<thumbnail>https://www.dropbox.com/s/tvwn12logy512gb/Cover.jpg?dl=1</thumbnail>
+<externallink>https://goo.gl/864cGs</externallink>
+<fanart></fanart>
+<info>Lightning Entertainment</info>
+</channel>
+
+<channel>
+<name>The Walking Dead</name>
+<thumbnail>https://www.dropbox.com/s/fm3hgr70q08vufr/the%20walking%20dead.png?dl=1</thumbnail>
+<externallink>https://goo.gl/zIs7KF</externallink>
+<fanart>https://www.dropbox.com/s/8jfwjgk7lwjlhw1/the%20walking%20dead.jpg?dl=1</fanart>
+<info>Lightning Entertainment</info>
+</channel>
+
+<channel>
+<name>Vikings</name>
+<thumbnail>https://www.dropbox.com/s/yyh3s40tz3fsbf2/vikings%20s1.png?dl=1</thumbnail>
+<externallink>https://goo.gl/oCnmdS</externallink>
+<fanart>https://www.dropbox.com/s/kei5gmvb8ptfn81/vikings.jpg?dl=1</fanart>
+<info>Lightning Entertainment</info>
+</channel>
+
+<channel>
+<name>Criminal.Minds</name>
+<thumbnail>https://www.dropbox.com/s/szt6sjy0331vco9/criminal%20minds%20season%208.png?dl=1</thumbnail>
+<externallink>https://goo.gl/R6x6W4</externallink>
+<fanart>https://www.dropbox.com/s/t1r0qveztr0pk8q/criminal%20minds.jpg?dl=1</fanart>
+<info>Lightning Entertainment</info>
+</channel>
+
+
+<channel>
+<name>Lucifer</name>
+<thumbnail>https://od.lk/s/OTdfMzQxMTkwOF8/Lucifer%20icon.jpg</thumbnail>
+<externallink>https://goo.gl/4c75Wd</externallink>
+<fanart>https://od.lk/s/OTdfMzQxMTkwN18/Lucifer%20fanart.jpg</fanart>
+<info>Based on characters created by Neil Gaiman, Sam Kieth and Mike Dringenberg, this series follows Lucifer, the original fallen angel, who has become dissatisfied with his life in hell. After abandoning his throne and retiring to Los Angeles, Lucifer indulges in his favorite things (women, wine and song) -- until a murder takes place outside of his upscale nightclub. For the first time in billions of years, the murder awakens something unfamiliar in Lucifier's soul that is eerily similar to compassion and sympathy. Lucifer is faced with another surprise when he meets an intriguing homicide detective named Chloe, who appears to possess an inherent goodness -- unlike the worst of humanity, to which he is accustomed. Suddenly, Lucifer starts to wonder if there is hope for his soul.</info>
+</channel>
+
+<channel>
+<name>Prison Break</name>
+<thumbnail></thumbnail>
+<externallink>https://goo.gl/rw9gVu</externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>Limitless</name>
+<thumbnail></thumbnail>
+<externallink>https://goo.gl/JvQPbh</externallink>
+<fanart></fanart>
+<info></info>
+</channel>

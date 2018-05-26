@@ -1,0 +1,37 @@
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+<channel>
+<name>Computer Basics</name>
+<thumbnail>https://od.lk/s/OTdfMzU2MTUxMF8/computer-logo.jpg</thumbnail>
+<externallink>https://goo.gl/BfqA5y</externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>Understanding Computers and the Internet</name>
+<thumbnail>https://od.lk/s/OTdfMzU2MTUxMF8/computer-logo.jpg</thumbnail>
+<externallink>https://goo.gl/XXVUcR</externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>Building Dynamic Websites</name>
+<thumbnail>https://od.lk/s/OTdfMzU2MTUxMV8/internet.jpg</thumbnail>
+<externallink>https://goo.gl/Ga1Kkc</externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>Programming courses</name>
+<thumbnail>https://od.lk/s/OTdfMzU3NjIxM18/Programming.png</thumbnail>
+<externallink>https://goo.gl/iR7yvS</externallink>
+<fanart>https://od.lk/s/OTdfMzU3NjIxNF8/Programming-Languages.jpg</fanart>
+<info></info>
+</channel>
+
+</channels>

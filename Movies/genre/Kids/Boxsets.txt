@@ -1,0 +1,215 @@
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+<channel>
+<name>Honey Collection</name>
+<thumbnail>https://od.lk/s/OTdfMzM1NjQ1N18/Honey.2003.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQzNDY2Ml8/Honey%20Collection.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQzNDY0MF8/Honey-2-2011%20f.jpg</fanart>
+<info>Honey Collection 1,2 and 3</info>
+</channel>
+
+<channel>
+<name> Cars Collection</name>
+<thumbnail>https://www.dropbox.com/s/8fto7w90nq4oc1u/cars2.jpg?dl=1</thumbnail>
+<externallink>https://goo.gl/Mav6By</externallink>
+<fanart>https://www.dropbox.com/s/gxcquvvbq804w43/cars.2.jpg?dl=1</fanart>
+<info>Cars: Hit the road with the high-octane adventure comedy that shows life is about the journey, not the finish line. Hotshot rookie race car Lightning McQueen is living life in the fast lane </info>
+</channel>
+
+<channel>
+<name>Lion King Collection</name>
+<thumbnail>https://od.lk/s/OTdfMzIwOTA3M18/Lion%20King%20Collection.jpg</thumbnail>
+<externallink>https://goo.gl/aoOktP</externallink>
+<fanart>https://www.dropbox.com/s/htnrfd1v9mensdj/lion%20king%202.png?dl=1</fanart>
+<info>Triple bill of Disney animated features following a naive and curious lion cub as he struggles to find his place in nature's great 'circle of life'.</info>
+</channel>
+
+<channel>
+<name>Shrek Collection</name>
+<thumbnail>https://od.lk/s/OTdfMzIwOTA2NF8/Shrek%20Collection.jpg</thumbnail>
+<externallink>https://goo.gl/GHOmq4</externallink>
+<fanart>https://www.dropbox.com/s/y4e1ib21jtlkggu/shrek.2.png?dl=1</fanart>
+<info>kthbdaz.netau.net</info>
+</channel>
+
+<channel>
+<name>Toy Story Collection</name>
+<thumbnail>https://www.dropbox.com/s/b823a7sjvl9h9ni/toy%20story.jpg?dl=1</thumbnail>
+<externallink>https://goo.gl/RLTouj</externallink>
+<fanart>https://www.dropbox.com/s/4fmwo9mcftbw09f/toy.story.png?dl=1</fanart>
+<info>There is greatness in a film that can be discussed, dissected, and talked about late into the night. Then there is genius that is right in front of our faces--you smile at the spell it puts you into and are refreshed, and not a word needs to be spoken. This kind of entertainment is what they used to call "movie magic" and there is loads of it in this irresistible computer animation feature. Just a picture of these bright toys on the cover of Toy Story looks intriguing as it reawakens the kid in us</info>
+</channel>
+
+<channel>
+<name>Kung Fu Panda Collection</name>
+<thumbnail>https://od.lk/s/OTdfMzIwOTA3Ml8/Kung%20Fu%20Panda%20Collection.jpg</thumbnail>
+<externallink>https://goo.gl/u2WlUa</externallink>
+<fanart>https://www.dropbox.com/s/evttjsgwf5mx9ue/The.Adventures.Of_.Panda_.Warrior%20fanart.jpg?dl=1</fanart>
+<info>Kung Fu Panda 1 & 2: Animated family adventures about a panda named Po</info>
+</channel>
+
+<channel>
+<name>Ice Age Collection</name>
+<thumbnail>https://www.dropbox.com/s/aq8kw867te6ircj/ice%20age%202.jpg?dl=1</thumbnail>
+<externallink>https://goo.gl/tbVeV2</externallink>
+<fanart>https://www.dropbox.com/s/t70ys980dnp83xj/ice%20age.4.png?dl=1</fanart>
+<info>
+    Ice Age
+    Ice Age 2: The Meltdown
+    Ice Age 3: Dawn of the Dinosaurs
+    Ice Age 4: Continental Drift
+    Ice Age: A Mammoth Christmas
+</info>
+</channel>
+
+<channel>
+<name>Despicable Me Collection</name>
+<thumbnail>https://www.dropbox.com/s/iaa1cw92jvhkflx/dm2.jpg?dl=1</thumbnail>
+<externallink>https://goo.gl/0DXGK9</externallink>
+<fanart>https://www.dropbox.com/s/ia36fxswt9s39ni/dm.2.png?dl=0</fanart>
+<info>Movie Collection: Despicable Me, Despicable Me 2,</info>
+</channel>
+
+<channel>
+<name>Iron Man Collection</name>
+<thumbnail>https://od.lk/d/OTdfMzE1MzQyOV8/Iron-Man-600x862.jpg</thumbnail>
+<externallink>https://goo.gl/QBkFdq</externallink>
+<fanart>https://od.lk/d/OTdfMzE1MzQyN18/Iron-Man-2-Wallpaper-HD-Widescreen-Desktop-1.jpg</fanart>
+<info>he big screen adaptations of the popular Marvel comic superhero. Robert Downey Jr stars as Tony Stark, the billionaire owner of Stark Industries, a corporation that specialises in weapons development. </info>
+</channel>
+
+<channel>
+<name>Transformers Collection</name>
+<thumbnail>https://od.lk/s/OTdfMzIwOTA2OF8/Transformers%20Collection.jpg</thumbnail>
+<externallink>https://goo.gl/vxDte1</externallink>
+<fanart>https://od.lk/d/OTdfMzE1NzY0OV8/transformers%20-age-of-extinction.jpg</fanart>
+<info>Includes: Transformers; Transformers: Revenge of the Fallen; Transformers: Dark of the Moon; Transformers: Age of Extinction </info>
+</channel>
+
+<channel>
+<name>How To Train Your Dragon Collection</name>
+<thumbnail>https://od.lk/s/OTdfMzIwOTA3MF8/How%20To%20Train%20Your%20Dragon%20Collection.jpg</thumbnail>
+<externallink>https://goo.gl/z20MI2</externallink>
+<fanart>https://od.lk/d/OTdfMzE1MTgwM18/How-to-Train-Your-Dragon-2-First-Five-Minutes.jpg</fanart>
+<info>Double bill of animated comedy adventures based on the children's novel by Cressida Cowell. In 'How to Train Your Dragon' (2010), teenaged Viking Hiccup (voice of Jay Baruchel), who lives on the windswept island of Berk where his father Stoic the Vast (Gerard Butler) is the tribe's feared chief, is busy fighting dragons as part of his warrior training. Hiccup's destiny of becoming a prized dragon fighter takes an unexpected diversion however when he saves and befriends an injured dragon named Toothless. Fed up with the old ways, Hiccup embarks on a mission of his own to convince his tribe to abandon its barbaric tradition of ruthless dragon-slaying. In 'How to Train Your Dragon 2', five years after having brought together dragons and Vikings on the island of Berk, Hiccup and Toothless are spending their days soaring through the clouds searching for unchartered lands. But after discovering a previously unknown cave where a large colony of wild dragons live, the pair soon find themselves at the heart of a new adventure as they try to keep the peace and attempt to change the future of humans and dragons forever.</info>
+</channel>
+
+<channel>
+<name>Lord Of The Rings Collection</name>
+<thumbnail>https://od.lk/s/OTdfMzIwOTA3NF8/Lord%20Of%20The%20Rings%20Collection.jpg</thumbnail>
+<externallink>https://goo.gl/zivdqC</externallink>
+<fanart>https://od.lk/d/OTdfMzE1MzA5OV8/lord-of-the-rings-two-towers-1.jpg</fanart>
+<info>The Lord of the Rings Trilogy tells the story of Frodo Baggins (Elijah Wood), a hobbit who battles against the Dark Lord Sauron to save his world, Middle-earth, from the grip of evil. In the films, Frodo and his fellowship of friends and allies embark on a desperate journey to rid Middle-earth of the source of Sauron's greatest strength, the One Ring--a ring that has the power to enslave the inhabitants of Middle-earth. The trilogy tells tales of extraordinary adventures across the treacherous landscape of Middle-earth and reveals how the power of friendship, love and courage can hold the forces of darkness at bay. Beside Wood, the films star Ian McKellen, Liv Tyler, Viggo Mortensen, Sean Astin, Cate Blanchett, John Rhys-Davies, Billy Boyd, Dominic Monaghan, Orlando Bloom, Christopher Lee, Hugo Weaving, featuring Sean Bean, and Ian Holm, with Andy Serkis as Gollum. </info>
+</channel>
+
+<channel>
+<name>Step Up Collection</name>
+<thumbnail>https://od.lk/s/OTdfMzIwOTA2Nl8/Step%20Up%20Collection.jpg</thumbnail>
+<externallink>https://goo.gl/V3QBWg</externallink>
+<fanart>https://od.lk/d/OTdfMzE1NzY1MV8/Step-Up-wallpaper-step-up-584723_1280_1024.jpg</fanart>
+<info>includes: Step Up, Step Up 2: The Streets, Step Up 3, Step Up 4: Miami Heat, Step Up 5: All In </info>
+</channel>
+
+<channel>
+<name>Home Alone Collection</name>
+<thumbnail>https://od.lk/s/OTdfMzIwOTA2OV8/home%20alone%20box%20set.jpg</thumbnail>
+<externallink>https://goo.gl/reXryq</externallink>
+<fanart>https://od.lk/d/OTdfMzE1NzcyNF8/home%20alone%202.jpg</fanart>
+<info>The first four films from the 'Home Alone' series. In 'Home Alone' (1990) ten-year-old Kevin McCallister (Macaulay Culkin) is banished to his room while his family prepare for a Christmas trip to Europe. He wakes up to find they have inadvertently left without him. Kevin must cope not only with life on his own but also with the threat of two persistent, albeit incompetent, burglars. Meanwhile, his parents try to find a way to get back home to their forgotten son. 'Home Alone 2' (1992) sees Kevin get separated from his family at Christmas time again. This time, they're in Florida and he's in New York, and the two bumbling gangsters from the first film (Joe Pesci and Daniel Stern) are out of jail and on Kevin's trail. In 'Home Alone 3' (1997) a band of hi-tech thieves have stolen a top-secret computer chip, and placed it inside a toy car. However, through a series of mishaps the car finds its way to Alex Pruitt (Alex D. Linz), who is alone at home with the chicken pox. The thieves track Alex down, but their attempts to retrieve the chip are all thwarted by the young whiz-kid. Finally, 'Home Alone 4' (2002) sees the return of Kevin McAllister (this time played by Mike Weinberg) who once again finds himself left alone in an empty house; this time it is a hi-tech safe-house, owned by the girlfriend of his recently divorced father. The house is being used by a royal heir and Kevin (in his usual style) manages to see off potential kidnappers whilst also making sure his parents get back together.</info>
+</channel>
+
+<channel>
+<name>Harry Potter Collection</name>
+<thumbnail></thumbnail>
+<externallink>https://goo.gl/Jl6Nkn</externallink>
+<fanart></fanart>
+<info>Year 1: Harry Potter and the Philosopher's Stone - The magical adventure begins when Harry Potter is to attend Hogwarts School of Witchcraft and Wizardry.
+
+Harry Potter and the Chamber of Secrets - Cars fly, trees attack and a mysterious house-elf warns Harry of great danger as he returns for his second year.
+
+Harry Potter and the Prisoner of Azkaban - Harry must confront soul-sucking Dementors, outsmart a werewolf and learn the truth about the escaped prisoner of Azkaban - Sirius Black.
+
+Harry Potter and the Goblet of Fire - Harry must overcome a deadly dragon, fierce water demons and an enchanted maze only to find himself in the cruel grasp of He Who Must Not Be Named.
+
+Harry Potter and the Order of the Phoenix - When few believe that Lord Voldemort has returned, Harry must secretly train his friends for the wizarding war ahead.
+
+Harry Potter and the Half-Blood Prince - As Lord Voldemort tightens his grip on both Muggle and wizarding worlds, Harry and Dumbledore work to find the key to unlock Voldemort's defenses.
+
+Harry Potter and the Deathly Hallows, Part 1 - Harry, Ron and Hermione set out to track down and destroy the secret to Voldemort's power - the Horcruxes. On their own and on the run, the three must rely on one another more than ever...but Dark Forces threaten to tear them apart.
+
+Harry Potter and the Deathly Hallows, Part 2 - In the epic finale, the battle between the good and evil forces of the wizarding world escalates into all-out war. The stakes have never been higher and no one is safe. But it is Harry who may be called upon to make the ultimate sacrifice as he draws closer to the climactic showdown with Lord Voldemort. It all ends here.</info>
+</channel>
+
+<channel>
+<name>Back To The Future Collection</name>
+<thumbnail>https://od.lk/s/OTdfMzQwNDE4OF8/btf.jpg</thumbnail>
+<externallink>https://goo.gl/7WrsGa</externallink>
+<fanart>https://od.lk/s/OTdfMzQwOTk2MF8/BTFT.jpg</fanart>
+<info>Features the popular film trilogy</info>
+</channel>
+
+<channel>
+<name> Collection</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info>kthbdaz.netau.net</info>
+</channel>
+
+<channel>
+<name> Collection</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info>kthbdaz.netau.net</info>
+</channel>
+
+<channel>
+<name> Collection</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info>kthbdaz.netau.net</info>
+</channel>
+
+<channel>
+<name> Collection</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info>kthbdaz.netau.net</info>
+</channel>
+
+<channel>
+<name> Collection</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info>kthbdaz.netau.net</info>
+</channel>
+
+<channel>
+<name> Collection</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info>kthbdaz.netau.net</info>
+</channel>
+
+<channel>
+<name> Collection</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info>kthbdaz.netau.net</info>
+</channel>
+
+<channel>
+<name> Collection</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info>kthbdaz.netau.net</info>
+</channel>

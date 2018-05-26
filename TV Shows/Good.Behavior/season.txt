@@ -1,0 +1,30 @@
+﻿
+
+
+
+
+
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+<channel>
+<name>Season 1</name>
+<thumbnail>https://od.lk/s/OTdfMzQzOTI4OV8/Good.Behavior.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQzOTI4OF8/S1.txt</externallink>
+<fanart></fanart>
+<info>Letty Dobesh is a thief and con artist whose life is always one wrong turn, one bad decision, from implosion. Which is just how she likes it. Fresh out of prison, she's attempting to stay afloat. But when she overhears a hit man being hired to kill a man's wife, she sets out to derail the job, sending her on a wild collision course with the charming killer, and entangling them in dangerous, seductive relationship.</info>
+</channel>
+</channels>
+
+
+
+
+
+
+
+
+
+
+
+

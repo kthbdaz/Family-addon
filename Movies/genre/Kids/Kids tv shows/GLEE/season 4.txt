@@ -1,0 +1,222 @@
+<item>
+<title>S4 EP1 The New Rachel</title>
+<link>https://od.lk/s/OTdfMzQxMDczMV8/S04E01.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQ3Ml8/glee%204.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMjQ3OF8/glee%204%20f.jpg</fanart>
+<genre> Comedy, Drama, Music</genre>
+<info>The New Rachel
+The members of New Directions compete to become the next star of the Glee Club, and a fresh crop of students is introduced.</info>
+</item>
+
+<item>
+<title>S4 EP2 Britney 2.0</title>
+<link>https://od.lk/s/OTdfMzQxMDgxNV8/S04E02.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQ3Ml8/glee%204.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMjQ3OF8/glee%204%20f.jpg</fanart>
+<genre> Comedy, Drama, Music</genre>
+<info>Britney 2.0
+Brittany, in a funk, turns to the music of Britney Spears for inspiration. Rachel struggles to adjust to life in New York City.</info>
+</item>
+
+<item>
+<title>S4 EP3 Makeover</title>
+<link>https://od.lk/s/OTdfMzQxMDgxNl8/S04E03.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQ3Ml8/glee%204.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMjQ3OF8/glee%204%20f.jpg</fanart>
+<genre> Comedy, Drama, Music</genre>
+<info>Makeover
+The campaign showdown begins when Brittany and Blaine go head-to-head for student council president. Meanwhile, Kurt lands his dream internship.</info>
+</item>
+
+<item>
+<title>S4 EP4 The Break-Up</title>
+<link>https://od.lk/s/OTdfMzQxMDg3MF8/S04E04.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQ3Ml8/glee%204.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMjQ3OF8/glee%204%20f.jpg</fanart>
+<genre> Comedy, Drama, Music</genre>
+<info>The Break-Up
+In New York City, Rachel and Kurt are caught off guard by unexpected visitors. Meanwhile, Santana and Brittany adjust to their long-distance relationship</info>
+</item>
+
+<item>
+<title>S4 EP5 The Role You Were Born to Play</title>
+<link>https://od.lk/s/OTdfMzQxMDg3M18/S04E05.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQ3Ml8/glee%204.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMjQ3OF8/glee%204%20f.jpg</fanart>
+<genre> Comedy, Drama, Music</genre>
+<info>The Role You Were Born to Play
+As auditions for the school production of "Grease" get under way, Marley, Jake, Kitty and Ryder compete for the lead roles.</info>
+</item>
+
+<item>
+<title>S4 EP6 Glease</title>
+<link>https://od.lk/s/OTdfMzQxMDg3NF8/S04E06.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQ3Ml8/glee%204.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMjQ3OF8/glee%204%20f.jpg</fanart>
+<genre> Comedy, Drama, Music</genre>
+<info>Glease
+Rachel and Kurt pay a visit to Lima as the Glee Club launches its production of "Grease." Meanwhile, Santana returns to lend a helping hand.</info>
+</item>
+
+<item>
+<title>S4 EP7 Dynamic Duets</title>
+<link>https://od.lk/s/OTdfMzQxMDg3Nl8/S04E07.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQ3Ml8/glee%204.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMjQ3OF8/glee%204%20f.jpg</fanart>
+<genre> Comedy, Drama, Music</genre>
+<info>Dynamic Duets
+Marley, Jake, and Ryder find themselves in the midst of a love triangle. Meanwhile, Blaine has a run-in with the Warblers.</info>
+</item>
+
+<item>
+<title>S4 EP8 Thanksgiving</title>
+<link>https://od.lk/s/OTdfMzQxMDg3N18/S04E08.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQ3Ml8/glee%204.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMjQ3OF8/glee%204%20f.jpg</fanart>
+<genre> Comedy, Drama, Music</genre>
+<info>Thanksgiving
+Some McKinley alumni give New Directions advice about Sectionals. Elsewhere, Rachel and Kurt have a nontraditional Thanksgiving dinner.</info>
+</item>
+
+<item>
+<title>S4 EP9 Swan Song</title>
+<link>https://od.lk/s/OTdfMzQxMDg3OV8/S04E09.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQ3Ml8/glee%204.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMjQ3OF8/glee%204%20f.jpg</fanart>
+<genre> Comedy, Drama, Music</genre>
+<info>Swan Song
+As New Directions regroups after Sectionals, Finn ponders his future with the club. Meanwhile, Kurt gets a shot at redemption with a second audition.</info>
+</item>
+
+<item>
+<title>S4 EP10 Glee, Actually</title>
+<link>https://od.lk/s/OTdfMzQxMDg4MV8/S04E10.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQ3Ml8/glee%204.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMjQ3OF8/glee%204%20f.jpg</fanart>
+<genre> Comedy, Drama, Music</genre>
+<info>Glee, Actually
+As 2012 draws to a close, Sam and Brittany live life to the fullest before the Mayan apocalypse. Meanwhile, Kurt has a Christmas he'll never forget.</info>
+</item>
+
+<item>
+<title>S4 EP11 Sadie Hawkins</title>
+<link>https://od.lk/s/OTdfMzQxMDg4Ml8/S04E11.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQ3Ml8/glee%204.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMjQ3OF8/glee%204%20f.jpg</fanart>
+<genre> Comedy, Drama, Music</genre>
+<info>Sadie Hawkins
+The Glee Club girls organize a Sadie Hawkins dance at McKinley High. Sam looks for evidence that the Warblers cheated at Sectionals.</info>
+</item>
+
+<item>
+<title>S4 EP12 Naked</title>
+<link>https://od.lk/s/OTdfMzQxMDg4NF8/S04E12.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQ3Ml8/glee%204.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMjQ3OF8/glee%204%20f.jpg</fanart>
+<genre> Comedy, Drama, Music</genre>
+<info>Naked
+The Glee Club puts together a calendar photo shoot for a fundraiser. Meanwhile, a part in a student art film poses a moral dilemma for Rachel.</info>
+</item>
+
+<item>
+<title>S4 EP13 Diva</title>
+<link>https://od.lk/s/OTdfMzQxMDkwNV8/S04E13.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQ3Ml8/glee%204.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMjQ3OF8/glee%204%20f.jpg</fanart>
+<genre> Comedy, Drama, Music</genre>
+<info>Diva
+Finn challenges the Glee Club members to find their inner powerhouses for "Diva Week." Emma prepares for her upcoming wedding.</info>
+</item>
+
+<item>
+<title>S4 EP14 I Do</title>
+<link>https://od.lk/s/OTdfMzQxMDkwNl8/S04E14.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQ3Ml8/glee%204.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMjQ3OF8/glee%204%20f.jpg</fanart>
+<genre> Comedy, Drama, Music</genre>
+<info>I Do
+Will and Emma tie the knot on Valentine's Day, with current and former members of New Directions reuniting in Lima to celebrate.</info>
+</item>
+
+<item>
+<title>S4 EP15 Girls (and Boys) on Film</title>
+<link>https://od.lk/s/OTdfMzQxMDkwOF8/S04E15.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQ3Ml8/glee%204.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMjQ3OF8/glee%204%20f.jpg</fanart>
+<genre> Comedy, Drama, Music</genre>
+<info>Girls (and Boys) on Film
+As everyone recovers from Will and Emma's wedding, the Glee Club members are tasked with performing their favorite movie songs.</info>
+</item>
+
+<item>
+<title>S4 EP16 Feud</title>
+<link>https://od.lk/s/OTdfMzQxMDkxNV8/S04E16.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQ3Ml8/glee%204.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMjQ3OF8/glee%204%20f.jpg</fanart>
+<genre> Comedy, Drama, Music</genre>
+<info>Feud
+The students give Will and Finn an assignment to work out the tension between them. Meanwhile, Santana is suspicious about Brody's side job.</info>
+</item>
+
+<item>
+<title>S4 EP17 Guilty Pleasures</title>
+<link>https://od.lk/s/OTdfMzQxMDkxN18/S04E17.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQ3Ml8/glee%204.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMjQ3OF8/glee%204%20f.jpg</fanart>
+<genre> Comedy, Drama, Music</genre>
+<info>Guilty Pleasures
+The members of New Directions perform songs that they're ordinarily too embarrassed to admit that they love.</info>
+</item>
+
+<item>
+<title>S4 EP18 Shooting Star</title>
+<link>https://od.lk/s/OTdfMzQxMDkxOF8/S04E18.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQ3Ml8/glee%204.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMjQ3OF8/glee%204%20f.jpg</fanart>
+<genre> Comedy, Drama, Music</genre>
+<info>Shooting Star
+As the members of New Directions prepare for Regionals, an unthinkable event occurs and puts matters into perspective.</info>
+</item>
+
+<item>
+<title>S4 EP19 Sweet Dreams</title>
+<link>https://od.lk/s/OTdfMzQxMDkyMF8/S04E19.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQ3Ml8/glee%204.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMjQ3OF8/glee%204%20f.jpg</fanart>
+<genre> Comedy, Drama, Music</genre>
+<info>Sweet Dreams
+New Directions gets ready for Regionals, where "Dreams" will be the theme. Rachel auditions for a Broadway revival of "Funny Girl."</info>
+</item>
+
+<item>
+<title>S4 EP20 Lights Out</title>
+<link>https://od.lk/s/OTdfMzQxMDk3OV8/S04E20.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQ3Ml8/glee%204.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMjQ3OF8/glee%204%20f.jpg</fanart>
+<genre> Comedy, Drama, Music</genre>
+<info>Lights Out
+When the power goes out at McKinley High, the Glee Club members go back to the basics and perform acoustic numbers.</info>
+</item>
+
+<item>
+<title>S4 EP21 Wonder-ful</title>
+<link>https://od.lk/s/OTdfMzQxMDk4MV8/S04E21.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQ3Ml8/glee%204.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMjQ3OF8/glee%204%20f.jpg</fanart>
+<genre> Comedy, Drama, Music</genre>
+<info>Wonder-ful
+The Glee Club performs Stevie Wonder's greatest hits. Meanwhile, Artie receives news that could affect his future.</info>
+</item>
+
+<item>
+<title>S4 EP22 All or Nothing</title>
+<link>https://od.lk/s/OTdfMzQxMDk4Ml8/S04E22.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQ3Ml8/glee%204.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMjQ3OF8/glee%204%20f.jpg</fanart>
+<genre> Comedy, Drama, Music</genre>
+<info>All or Nothing
+It's time for Regionals, and the Glee Club is more determined than ever to advance to Nationals. Meanwhile, Brittany returns with a new attitude.</info>
+</item>
+
+
+

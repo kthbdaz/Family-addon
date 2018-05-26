@@ -1,0 +1,62 @@
+<item>
+<title>S2 EP1</title>
+<link>https://od.lk/s/OTdfMzUyOTkyNl8/still.open.all.hours.s02e01.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMDMxOV8/still%20open%202.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUyOTgwM18/Still-Open-All-Hours-%20f.jpg</fanart>
+<genre>Comedy</genre>
+<info>Granville gets more than he bargained for with a cheap Christmas tree. Later, the shopkeeper holds a cozy drinks party where he and Gastric try to get Madge into the festive spirit.</info>
+</item>
+
+<item>
+<title>S2 EP2</title>
+<link>https://od.lk/s/OTdfMzUzMDMxOF8/still.open.all.hours.s02e02.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMDMxOV8/still%20open%202.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUyOTgwM18/Still-Open-All-Hours-%20f.jpg</fanart>
+<genre>Comedy</genre>
+<info>Granville is having a sale, but only on old stock. Mrs Featherstone takes a fancy to a new resident in the street. Mavis comes up with a plan to invite Granville to her home for coffee. </info>
+</item>
+
+<item>
+<title>S2 EP3</title>
+<link>https://od.lk/s/OTdfMzUyOTkyNF8/still.open.all.hours.s02e03.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMDMxOV8/still%20open%202.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUyOTgwM18/Still-Open-All-Hours-%20f.jpg</fanart>
+<genre>Comedy</genre>
+<info>Granville discovers a flaw in the shop's security. Granville's plan to get Gastric and Madge together is hampered by Gastric's fondness for the home cooking of a near neighbour.</info>
+</item>
+
+<item>
+<title>S2 EP4</title>
+<link>https://od.lk/s/OTdfMzUyOTk1NF8/still.open.all.hours.s02e04.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMDMxOV8/still%20open%202.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUyOTgwM18/Still-Open-All-Hours-%20f.jpg</fanart>
+<genre>Comedy</genre>
+<info>Love is in the air as Granville gets Gastric ready for a double date with Mavis and Madge. Mrs Featherstone has her heart set on a new husband and Nurse Gladys is wooed by a former patient.</info>
+</item>
+
+<item>
+<title>S2 EP5</title>
+<link>https://od.lk/s/OTdfMzUzMDU2MF8/still.open.all.hours.s02e05.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMDMxOV8/still%20open%202.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUyOTgwM18/Still-Open-All-Hours-%20f.jpg</fanart>
+<genre>Comedy</genre>
+<info>It is the day of Kevin's wedding, but he is the world's most reluctant bridegroom. Can Granville make sure he makes it to the church on time? The nuptials get Mrs Featherstone in the mood to find a 4th husband. </info>
+</item>
+
+<item>
+<title>S2 EP6</title>
+<link>https://od.lk/s/OTdfMzUzMDIzMF8/still.open.all.hours.s02e06.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMDMxOV8/still%20open%202.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUyOTgwM18/Still-Open-All-Hours-%20f.jpg</fanart>
+<genre>Comedy</genre>
+<info>Granville plans to sell salami as an erotically charged new product - Yaggis. Cyril and Eric need some advice on how to impress their wives. Mrs Featherstone's search for a 4th husband is not going well.</info>
+</item>
+
+
+
+
+
+
+
+
+

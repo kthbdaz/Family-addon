@@ -1,0 +1,29 @@
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+<channel>
+<name>Elvis Presley - The Wonder of You 2016</name>
+<thumbnail>https://od.lk/s/OTdfMzQzNTIzMl8/cover.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQzNTIzNF8/track%20list.txt</externallink>
+<fanart></fanart>
+<info>Elvis Presley - The Wonder of You </info>
+</channel>
+
+<channel>
+<name>UK TO 40 2016</name>
+<thumbnail>https://od.lk/s/OTdfMzQzNTc2MV8/Cover.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQzNTc2M18/top%2040%20list.txt</externallink>
+<fanart></fanart>
+<info>Top 40 hits from the uk and usa</info>
+</channel>
+
+<channel>
+<name>VA - Punk.London 40 Years of Sub-Versive Culture (2016)</name>
+<thumbnail>https://od.lk/s/OTdfMzQzNTkxNV8/Folder.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQzNTkxNl8/track%20list.txt</externallink>
+<fanart></fanart>
+<info>VA - Punk.London 40 Years of Sub-Versive Culture (2016)</info>
+</channel>
+
+</channels>

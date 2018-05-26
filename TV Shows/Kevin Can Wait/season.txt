@@ -1,0 +1,31 @@
+﻿
+
+
+
+
+
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+<channel>
+<name>Season 1</name>
+<thumbnail>https://od.lk/s/OTdfMzQ0MTE3OF8/Kevin.Can.Wait..jpg</thumbnail>
+<externallink>https://goo.gl/RKB4Lu</externallink>
+<fanart>https://od.lk/s/OTdfMzQ0MTE3OV8/Kevin.Can.Wait.f.jpg</fanart>
+<genre> Comedy</genre>
+<info>KEVIN CAN WAIT stars Kevin James as a newly retired police officer looking forward to spending carefree quality time with his wife and three kids, only to discover he faces tougher challenges at home than he ever did on the streets. Kevin's retirement plans consist of chilling with his family and having epic adventures with fellow retirees Goody, his former partner and close friend, and Duffy, his oldest pal, as well as his brother, Kyle, a firefighter whose closest encounter with a blaze would be a grease fire in the firehouse kitchen. However, Kevin's dream is jeopardized when he discovers that Donna, his wonderful wife of 20 years, has shielded him from key family info while he worked overtime protecting the community. Their usually reliable eldest, Kendra, is dropping out of college so she can support her unemployed fiancé, Chale, while he designs the next "big app"; his teenage daughter, Sara, has budding anger-management issues; and their youngest, Jack, is a bit of a ...</info>
+</channel>
+</channels>
+
+
+
+
+
+
+
+
+
+
+
+

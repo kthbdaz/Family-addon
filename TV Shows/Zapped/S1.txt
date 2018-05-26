@@ -1,0 +1,214 @@
+<item>
+<title>S1 EP1 Mr Weaver</title>
+<link>https://od.lk/s/OTdfMzQzODQ4OV8/zapped.s01e01.hdtv.x264-tla%5Bettv%5D.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQzODQ5NV8/zapped.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQzODQ5NF8/zapped%20f.jpg</fanart>
+<info>Mr Weaver
+When Brian finds a magical amulet it transports him to Munty, a strange land peopled by even stranger creatures. Before he can use the amulet to return home a wizard called Howell sells it to a criminal mastermind - Slasher Morgan.</info>
+</item>
+
+<item>
+<title>S1 EP2 Mr Charisma</title>
+<link>https://od.lk/s/OTdfMzQzODQ5MF8/zapped.s01e02.hdtv.x264-tla%5Bettv%5D.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQzODQ5NV8/zapped.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQzODQ5NF8/zapped%20f.jpg</fanart>
+<info>Mr Charisma
+Howell has concocted a charisma potion that can charm people into giving you whatever you want. Brian could use it to retrieve the amulet, but Steg wants to woo a lonely Demi-Fin with it and Barbara needs it to enter the elite Seers Guild.</info>
+</item>
+
+<item>
+<title>S1 EP3</title>
+<link>https://od.lk/s/OTdfMzQzODQ5MV8/zapped.s01e03.hdtv.x264-tla%5Bettv%5D.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQzODQ5NV8/zapped.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQzODQ5NF8/zapped%20f.jpg</fanart>
+<info>With the amulet seemingly out of reach, Brian finds another way home when a fire sprite grants him a wish. But now Brian has met Effandra, a woman who actually thinks he is cool and interesting. Should he return home or stay in Munty?</info>
+</item>
+
+<item>
+<title>S1 EP4</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP5</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP6</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP7</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP8</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP9</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP10</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP11</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP12</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP13</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP14</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP15</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP16</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>S1 EP17</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP18</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP19</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>S1 EP20</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP21</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP22</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>S1 EP23</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP24</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP25</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP26</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP27</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>

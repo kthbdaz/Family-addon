@@ -1,0 +1,56 @@
+<item>
+<title>01 - Space Dabs.</title>
+<link>https://od.lk/s/OTdfMzQzOTAyMF8/01%20-%20Space%20Dabs.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQzOTAwMV8/Front.jpg</thumbnail>
+<fanart></fanart>
+<info>01 - Space Dabs.</info>
+</item>
+
+<item>
+<title>02 - My Four Walls</title>
+<link>https://od.lk/s/OTdfMzQzOTAwMF8/02%20-%20My%20Four%20Walls.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQzOTAwMV8/Front.jpg</thumbnail>
+<fanart></fanart>
+<info>02 - My Four Walls</info>
+</item>
+
+<item>
+<title>03 - Bad Trip</title>
+<link>https://od.lk/s/OTdfMzQzODk4MF8/03%20-%20Bad%20Trip.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQzOTAwMV8/Front.jpg</thumbnail>
+<fanart></fanart>
+<info>03 - Bad Trip</info>
+</item>
+
+<item>
+<title>04 - Empty</title>
+<link>https://od.lk/s/OTdfMzQzOTAyOF8/04%20-%20Empty.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQzOTAwMV8/Front.jpg</thumbnail>
+<fanart></fanart>
+<info>04 - Empty</info>
+</item>
+
+<item>
+<title>05 - Bake Cruiser</title>
+<link>https://od.lk/s/OTdfMzQzODk4M18/05%20-%20Bake%20Cruiser.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQzOTAwMV8/Front.jpg</thumbnail>
+<fanart></fanart>
+<info>05 - Bake Cruiser</info>
+</item>
+
+<item>
+<title>06 - Gold.</title>
+<link>https://od.lk/s/OTdfMzQzODk4NV8/06%20-%20Gold.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQzOTAwMV8/Front.jpg</thumbnail>
+<fanart></fanart>
+<info>06 - Gold.</info>
+</item>
+
+<item>
+<title>07 - Open Wound</title>
+<link>https://od.lk/s/OTdfMzQzOTAxN18/07%20-%20Open%20Wound.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQzOTAwMV8/Front.jpg</thumbnail>
+<fanart></fanart>
+<info>07 - Open Wound</info>
+</item>
+

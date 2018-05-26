@@ -1,0 +1,210 @@
+<item>
+<title>S8 EP1 Road to the Multiverse</title>
+<link>https://od.lk/s/OTdfMzU0MzAyNV8/S08E01%20-%20Road%20To%20The%20Multiverse%20.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3Ml8/s8.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Road to the Multiverse
+Stewie and Brian explore a series of alternate universes.</info>
+</item>
+
+<item>
+<title>S8 EP2 Family Goy</title>
+<link>https://od.lk/s/OTdfMzU0MzAyNl8/S08E02%20-%20Family%20Goy.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3Ml8/s8.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Family Goy
+When Peter and Lois find out that Lois' mother was a Holocaust survivor, Peter decides that the Griffins will adopt the Jewish faith, until a vision of his dead father changes his mind.</info>
+</item>
+
+<item>
+<title>S8 EP3 Spies Reminiscent of Us</title>
+<link>https://od.lk/s/OTdfMzU0MzAyN18/S08E03%20-%20Spies%20Reminiscent%20Of%20Us%20.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3Ml8/s8.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Spies Reminiscent of Us
+With the help of Chevy Chase and Dan Aykroyd, Stewie and Brian discover that mayor Adam West is a Cold War sleeper agent. Meanwhile, Peter, Quagmire, and Joe start an improv comedy group.</info>
+</item>
+
+<item>
+<title>S8 EP4 Brian's Got a Brand New Bag</title>
+<link>https://od.lk/s/OTdfMzU0MzAyOF8/S08E04%20-%20Brian%27s%20Got%20A%20Brand%20New%20Bag.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3Ml8/s8.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Brian's Got a Brand New Bag
+When Brian snags an older woman, he becomes the laughingstock of the family, but things go from bad to worse when she breaks her hip and Brian has to be her errand-boy.</info>
+</item>
+
+<item>
+<title>S8 EP5 Hannah Banana</title>
+<link>https://od.lk/s/OTdfMzU0MzAyOV8/S08E05%20-%20Hannah%20Banana.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3Ml8/s8.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Hannah Banana
+Brian helps Stewie meet Miley Cyrus before her concert in Quahog, and they discover a secret about her identity. Meanwhile, the family discovers that the evil monkey in Chris's closet isn't actually evil.</info>
+</item>
+
+<item>
+<title>S8 EP6 Quagmire's Baby</title>
+<link>https://od.lk/s/OTdfMzU0MzAzMF8/S08E06%20-%20Quagmire%27s%20Baby%20.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3Ml8/s8.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Quagmire's Baby
+Quagmire is forced to take care of a baby he fathered when she is left on his doorstep, while Stewie creates clones of himself and Brian.</info>
+</item>
+
+<item>
+<title>S8 EP7 Jerome Is the New Black</title>
+<link>https://od.lk/s/OTdfMzU0MzA4MF8/S08E07%20-%20Jerome%20Is%20The%20New%20Black.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3Ml8/s8.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Jerome Is the New Black
+The guys find a new black friend to join their group, until Peter finds out that he slept with Lois. Meanwhile, Brian tries to find out why Quagmire hates him and tries to make amends.</info>
+</item>
+
+<item>
+<title>S8 EP8 Dog Gone</title>
+<link>https://od.lk/s/OTdfMzU0MzAxMV8/S08E08%20-%20Dog%20Gone.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3Ml8/s8.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Dog Gone
+When Brian accidentally kills another dog he is surprised to see that no one cares so he tries to convince everyone that the life of a dog should have the same value as a human one. Meanwhile, Lois hires a maid who doesn't listen to Peter.</info>
+</item>
+
+<item>
+<title>S8 EP9 Business Guy</title>
+<link>https://od.lk/s/OTdfMzU0MzAxMl8/S08E09%20-%20Business%20Guy.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3Ml8/s8.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Business Guy
+Peter takes over Pewterschmidt Industries when his father-in-law has a heart attack and goes into a coma.</info>
+</item>
+
+<item>
+<title>S8 EP10 Big Man on Hippocampus</title>
+<link>https://od.lk/s/OTdfMzU0MzAxM18/S08E10%20-%20Big%20Man%20On%20Hippocampus.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3Ml8/s8.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Big Man on Hippocampus
+The Griffins are invited to be contestants on the game show "Family Feud." After winning the game and advancing to the show's bonus round (called Fast Money), Lois puts the Griffins in prime position to win the game, but Peter bungles the opportunity when he stubbornly refuses to change his answer to the first question. Host Richard Dawson tries to remind Peter of the rules, but when Peter continues to argue and grabs Dawson, he gets pushed through a podium on the set and is knocked unconscious. At the hospital, Dr. Hartman tells Lois that Peter has amnesia. At home, .</info>
+</item>
+
+<item>
+<title>S8 EP11 Dial Meg for Murder</title>
+<link>https://od.lk/s/OTdfMzU0MzAxNF8/S08E11%20-%20Dial%20Meg%20For%20Murder.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3Ml8/s8.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Dial Meg for Murder
+Meg goes to prison after her boyfriend escapes from jail, and returns as a frightening, hardened sociopath.</info>
+</item>
+
+<item>
+<title>S8 EP12 Extra Large Medium</title>
+<link>https://od.lk/s/OTdfMzU0MzAxNV8/S08E12%20-%20Extra%20Large%20Medium.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3Ml8/s8.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Extra Large Medium
+After they are saved after being lost in the wilderness, Stewie helps Chris muster up the courage to ask a girl with Down Syndrome out on a date, while Peter pretends to be a psychic.</info>
+</item>
+
+<item>
+<title>S8 EP13 Go, Stewie, Go!</title>
+<link>https://od.lk/s/OTdfMzU0MzAxNl8/S08E13%20-%20Go%2C%20Stewie%2C%20Go%21.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3Ml8/s8.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Go, Stewie, Go!
+Stewie poses as a girl so that he can appear on a children's show, but trouble arises when he falls for a female co-star. Meanwhile, Meg gets a new boyfriend, but Lois tries to make a move on him</info>
+</item>
+
+<item>
+<title>S8 EP14 Peter-assment</title>
+<link>https://od.lk/s/OTdfMzU0MzAxN18/S08E14%20-%20Peter-assment.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3Ml8/s8.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Peter-assment
+Peter is sexually harassed by his unattractive female boss, but will he follow through with her advances and keep his job?</info>
+</item>
+
+<item>
+<title>S8 EP15 Brian Griffin's House of Payne</title>
+<link>https://od.lk/s/OTdfMzU0MzAxOF8/S08E15%20-%20Brian%20Griffin%27s%20House%20Of%20Payne.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3Ml8/s8.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Brian Griffin's House of Payne
+Brian sells his pilot for a heartwarming family drama to CBS, who then turns it into a lame, formulaic sitcom starring James Woods. Meanwhile, Meg and Chris try to hide Stewie's accidental injury they caused from their parents.</info>
+</item>
+
+<item>
+<title>S8 EP16 April in Quahog</title>
+<link>https://od.lk/s/OTdfMzU0MzAxOV8/S08E16%20-%20April%20In%20Quahog.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3Ml8/s8.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>April in Quahog
+Peter makes an embarrassing confession about his kids as everyone thinks the world is about to come to an end.</info>
+</item>
+
+<item>
+<title>S8 EP17 Brian & Stewie</title>
+<link>https://od.lk/s/OTdfMzU0MzAyMF8/S08E17%20-%20Brian%20%26amp%3B%20Stewie.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3Ml8/s8.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Brian & Stewie
+Brian and Stewie get locked in a bank vault where they are forced to deal with each other on a whole new level.</info>
+</item>
+
+<item>
+<title>S8 EP18 Quagmire's Dad</title>
+<link>https://od.lk/s/OTdfMzU0MzAyMV8/S08E18%20-%20Quagmire%27s%20Dad.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3Ml8/s8.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Quagmire's Dad
+Quagmire's dad comes to Quahog and announces that he's undergoing a sex change. And when Brian returns to town after a seminar, he accidentally makes the situation even more awkward.</info>
+</item>
+
+<item>
+<title>S8 EP19 The Splendid Source</title>
+<link>https://od.lk/s/OTdfMzU0MzAyMl8/S08E19%20-%20The%20Splendid%20Source.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3Ml8/s8.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>The Splendid Source
+With Cleveland's help, Peter, Joe and Quagmire blow off a couples getaway to Maine to search for the origin of the worlds funniest dirty joke.</info>
+</item>
+
+<item>
+<title>S8 EP20 Something, Something, Something, Dark Side</title>
+<link>https://od.lk/s/OTdfMzU0MzAyM18/S08E20%20-%20Something%2C%20Something%2C%20Something%2C%20Dark%20Side.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3Ml8/s8.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Something, Something, Something, Dark Side
+The Family Guy empire strikes back with another hilarious parody of your favorite sci-fi saga! Download this special extended trailer for a sneak peek at the laughs! Coming to a galaxy near you on December 22, 2009.</info>
+</item>
+
+<item>
+<title>S8 EP21 Partial Terms of Endearment</title>
+<link>https://od.lk/s/OTdfMzU0MzAyNF8/S08E21%20-%20Partial%20Terms%20Of%20Enderment.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3Ml8/s8.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Partial Terms of Endearment
+Lois agrees to become a surrogate mother for a friend who is unable to conceive a child of her own. But when the friend and her husband are killed in a car accident, Lois and Peter consider whether to terminate the pregnancy.</info>
+</item>
+

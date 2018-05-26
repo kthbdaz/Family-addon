@@ -1,0 +1,17 @@
+<item>
+<title>Episode #1.1</title>
+<link>https://od.lk/s/OTdfMzQ0MjQwMF8/dark.angel.2016.s01e01.hdtv.x264-tla%5Bettv%5D.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQ0MjQxN18/dark%20angel%20c.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0MjQxOF8/DARK%20ANGEL.jpg</fanart>
+<info>Episode #1.1
+24-year-old Mary Ann Cotton returns home to Seaham, County Durham having eloped to Cornwall with Billy Mowbray. A terrible cycle of births and deaths has haunted the pair but as Mary's circumstances worsen she finds a deadly solution.</info>
+</item>
+
+<item>
+<title>Episode #1.2</title>
+<link>https://od.lk/s/OTdfMzQ0MjM1OF8/dark.angel.2016.s01e02.hdtv.x264-river%5Bettv%5D.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQ0MjQxN18/dark%20angel%20c.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0MjQxOF8/DARK%20ANGEL.jpg</fanart>
+<info>Episode #1.2
+Returning to Sunderland, Mary Ann discovers that James Robinson has had a change of heart over his relationship with her. Furious, she sets out to get rid of the impediments to their potential marriage - the children.</info>
+</item>

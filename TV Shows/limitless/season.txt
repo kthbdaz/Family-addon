@@ -1,0 +1,29 @@
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+<channel>
+<name>Season 1</name>
+<thumbnail>https://od.lk/s/OTdfMzQyODAyMl8/limitless.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQyNzk2NV8/S1.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQyODAyMV8/limitless%20f.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>Season 2</name>
+<thumbnail>https://od.lk/s/OTdfMzQyODAyMl8/limitless.jpg</thumbnail>
+<externallink></externallink>
+<fanart>https://od.lk/s/OTdfMzQyODAyMV8/limitless%20f.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>Season 3</name>
+<thumbnail>https://od.lk/s/OTdfMzQyODAyMl8/limitless.jpg</thumbnail>
+<externallink></externallink>
+<fanart>https://od.lk/s/OTdfMzQyODAyMV8/limitless%20f.jpg</fanart>
+<info></info>
+</channel>
+
+</channels>

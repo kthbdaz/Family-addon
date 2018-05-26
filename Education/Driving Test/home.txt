@@ -1,0 +1,45 @@
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+<channel>
+<name>Theory test</name>
+<thumbnail>https://od.lk/s/OTdfMzU2MTQ5N18/driving_test.jpg</thumbnail>
+<externallink>https://goo.gl/OvuhNN</externallink>
+<fanart>https://od.lk/s/OTdfMzU2MTQ5OF8/Driving-test%20f.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>Road signs</name>
+<thumbnail>https://od.lk/s/OTdfMzU2MTQ5N18/driving_test.jpg</thumbnail>
+<externallink>https://goo.gl/VdYaJ1</externallink>
+<fanart>https://od.lk/s/OTdfMzU2MTQ5OF8/Driving-test%20f.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>Practical</name>
+<thumbnail>https://od.lk/s/OTdfMzU2MTQ5N18/driving_test.jpg</thumbnail>
+<externallink>https://goo.gl/Rx5FMF</externallink>
+<fanart>https://od.lk/s/OTdfMzU2MTQ5OF8/Driving-test%20f.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>official DVSA guide</name>
+<thumbnail>https://od.lk/s/OTdfMzU2MTQ5N18/driving_test.jpg</thumbnail>
+<externallink>https://goo.gl/5PtN2v</externallink>
+<fanart>https://od.lk/s/OTdfMzU2MTQ5OF8/Driving-test%20f.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>Theory Test Questions</name>
+<thumbnail>https://od.lk/s/OTdfMzU2MTQ5N18/driving_test.jpg</thumbnail>
+<externallink>https://goo.gl/As2Ztu</externallink>
+<fanart>https://od.lk/s/OTdfMzU2MTQ5OF8/Driving-test%20f.jpg</fanart>
+<info></info>
+</channel>
+
+</channels>

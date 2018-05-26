@@ -1,0 +1,160 @@
+<item>
+<title>S7 EP1 Love Blactually</title>
+<link>https://od.lk/s/OTdfMzUzNjkwOV8/S07E01%20-%20Love%20Blactually.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3MV8/s7.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Love Blactually
+Stewie convinces Brian to take it slow with his new girlfriend, but she becomes impatient and hooks up with Cleveland. Brian then tries to get Cleveland back together with his ex-wife Loretta to get him out of the picture.</info>
+</item>
+
+<item>
+<title>S7 EP2 I Dream of Jesus</title>
+<link>https://od.lk/s/OTdfMzUzNjkxMF8/S07E02%20-%20I%20Dream%20Of%20Jesus.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3MV8/s7.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>I Dream of Jesus
+Peter discovers that Jesus Christ is working at a used record store and Quahog, and sets out to let everyone know that he has come back.</info>
+</item>
+
+<item>
+<title>S7 EP3 Road to Germany</title>
+<link>https://od.lk/s/OTdfMzUzNjkxMV8/S07E03%20-%20Road%20To%20Germany.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3MV8/s7.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Road to Germany
+Stewie and Brian use a time machine to go back to Nazi-era Poland and rescue Mort.</info>
+</item>
+
+<item>
+<title>S7 EP4 Baby Not on Board</title>
+<link>https://od.lk/s/OTdfMzUzNjkxM18/S07E04%20-%20Baby%20Not%20On%20Board.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3MV8/s7.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Baby Not on Board
+The Griffins go on vacation but accidentally leave Stewie at home.</info>
+</item>
+
+<item>
+<title>S7 EP5 The Man with Two Brians</title>
+<link>https://od.lk/s/OTdfMzUzNjkxNF8/S07E05%20-%20The%20Man%20With%20Two%20Brians.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3MV8/s7.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>The Man with Two Brians
+Peter gets the Griffins a new, younger dog to eventually replace an aging Brian.</info>
+</item>
+
+<item>
+<title>S7 EP6 Tales of a Third Grade Nothing</title>
+<link>https://od.lk/s/OTdfMzUzNjkxNV8/S07E06%20-%20Tales%20Of%20A%20Third%20Grade%20Nothing.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3MV8/s7.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Tales of a Third Grade Nothing
+Peter must pass the third grade in order to get a promotion at the brewery. Brian and Frank Sinatra Jr. buy the nightclub, and Stewie turns it into a trendy hotspot.</info>
+</item>
+
+<item>
+<title>S7 EP7 Ocean's Three and a Half</title>
+<link>https://od.lk/s/OTdfMzUzNjkxNl8/S07E07%20-%20Ocean%27s%20Three%20And%20A%20Half.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3MV8/s7.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Ocean's Three and a Half
+The guys try to find a way to help Joe and Bonnie get money to pay their hospital bills after their baby is born, a baby that Stewie has a crush on</info>
+</item>
+
+<item>
+<title>S7 EP8 Family Gay</title>
+<link>https://od.lk/s/OTdfMzUzNjkxN18/S07E08%20-%20Family%20Gay.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3MV8/s7.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Family Gay
+Peter becomes temporarily gay after participating in a medical study.</info>
+</item>
+
+<item>
+<title>S7 EP9 The Juice Is Loose!</title>
+<link>https://od.lk/s/OTdfMzUzNjg5NF8/S07E09%20-%20The%20Juice%20Is%20Loose.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3MV8/s7.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>The Juice Is Loose!
+Everyone is up in arms after Peter becomes friends with O.J. Simpson.</info>
+</item>
+
+<item>
+<title>S7 EP10 FOX-y Lady</title>
+<link>https://od.lk/s/OTdfMzUzNjg5Nl8/S07E10%20-%20Fox-y%20Lady.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3MV8/s7.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>FOX-y Lady
+Lois gets a job as an anchor at Fox News, while Peter and Chris try to sell a cartoon pilot to the Fox network.</info>
+</item>
+
+<item>
+<title>S7 EP11 Not All Dogs Go to Heaven</title>
+<link>https://od.lk/s/OTdfMzUzNjkwMF8/S07E11%20-%20Not%20All%20Dogs%20Go%20To%20Heaven.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3MV8/s7.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Not All Dogs Go to Heaven
+Meg finds religion while in bed with the mumps, and reveals to the community that Brian is an Atheist. Meanwhile, Stewie builds a transporter to bring the cast of "Star Trek: The Next Generation" to Quahog where he later find out he made a awful mistake.</info>
+</item>
+
+<item>
+<title>S7 EP12 420</title>
+<link>https://od.lk/s/OTdfMzUzNjkwM18/S07E12%20-%20Episode%20420.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3MV8/s7.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>420
+Brian becomes the leading proponent for legalization of marijuana in Quahog.</info>
+</item>
+
+<item>
+<title>S7 EP13 Stew-Roids</title>
+<link>https://od.lk/s/OTdfMzUzNjkwNF8/S07E13%20-%20Stew-Roids.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3MV8/s7.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Stew-Roids
+Stewie begins taking steroids after he is beat up by a baby girl, and Chris begins dating one of the most popular girls in the school.</info>
+</item>
+
+<item>
+<title>S7 EP14 We Love You Conrad</title>
+<link>https://od.lk/s/OTdfMzUzNjkwNV8/S07E14%20-%20We%20Love%20You%2C%20Conrad.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3MV8/s7.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>We Love You Conrad
+Brian dates "Hills" star Lauren Conrad while trying to hide the fact that he is in love with someone else.</info>
+</item>
+
+<item>
+<title>S7 EP15 Three Kings</title>
+<link>https://od.lk/s/OTdfMzUzNjkwNl8/S07E15%20-%20Three%20Kings.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3MV8/s7.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Three Kings
+A series of parodies based on the Stephen King movies "Stand by Me," "Misery," and "The Shawshank Redemption."</info>
+</item>
+
+<item>
+<title>S7 EP16 Peter's Progress</title>
+<link>https://od.lk/s/OTdfMzUzNjkwN18/S07E16%20-%20Peter%27s%20Progress.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3MV8/s7.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Peter's Progress
+The story of Griffin Peterson and the founding of Quahog.</info>
+</item>
+

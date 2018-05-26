@@ -1,0 +1,1440 @@
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<genre></genre>
+<info></info>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<genre></genre>
+<info></info>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<genre></genre>
+<info></info>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<genre></genre>
+<info></info>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<genre></genre>
+<info></info>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<genre></genre>
+<info></info>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<genre></genre>
+<info></info>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<genre></genre>
+<info></info>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<genre></genre>
+<info></info>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<genre></genre>
+<info></info>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<genre></genre>
+<info></info>
+</item>
+
+<item>
+<title>Get the Girl (2017)</title>
+<link>https://od.lk/s/OTdfMzU0Nzk2NF8/Get.the.Girl.2017.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU0Nzk3MF8/Get%20the%20Girl%20%282017%29.jpg</thumbnail>
+<fanart></fanart>
+<genre> Action, Comedy, Crime</genre>
+<info>A wealthy young man is conned into staging a fake kidnapping in order to be a hero and win the affection of a girl he's madly in love with. But when one of the hired kidnappers is accidentally killed during the charade, he's forced to actually save her life while not revealing that it's been a ruse all along.</info>
+</item>
+
+<item>
+<title>Monster Trucks (2016)</title>
+<link>https://od.lk/s/OTdfMzU0Nzk2MV8/Monster.Trucks.2016.CAM.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU0Nzk2OF8/Monster%20Trucks%20%282016%29.jpg</thumbnail>
+<fanart></fanart>
+<genre> Animation, Action, Adventure</genre>
+<info>Looking for any way to get away from the life and town he was born into, Tripp (Lucas Till), a high school senior, builds a Monster Truck from bits and pieces of scrapped cars. After an accident at a nearby oil-drilling site displaces a strange and subterranean creature with a taste and a talent for speed, Tripp may have just found the key to getting out of town and a most unlikely friend.</info>
+</item>
+
+<item>
+<title>The Edge of Seventeen (2016)</title>
+<link>https://od.lk/s/OTdfMzU0Nzk2M18/Edge.of.Seventeen.2016.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU0Nzk2OV8/Edge.of.Seventeen.2016.jpg</thumbnail>
+<fanart></fanart>
+<genre>Comedy, Drama </genre>
+<info>Everyone knows that growing up is hard, and life is no easier for high school junior Nadine (Hailee Steinfeld), who is already at peak awkwardness when her all-star older brother Darian (Blake Jenner) starts dating her best friend Krista (Haley Lu Richardson). All at once, Nadine feels more alone than ever, until the unexpected friendship of a thoughtful boy (Hayden Szeto) gives her a glimmer of hope that things just might not be so terrible after all.</info>
+</item>
+
+<item>
+<title>Lost in Florence (2017)</title>
+<link>https://od.lk/s/OTdfMzU0Nzk2MF8/Lost.in.Florence.2017.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU0Nzk2Nl8/Lost%20in%20Florence.jpg</thumbnail>
+<fanart></fanart>
+<genre>Adventure, Drama, Romance</genre>
+<info>Eric Lazard is a heartbroken former college football star who gets involved in a dangerous Florentine sport and a local woman, Stephanie, while visiting his cousin Anna, who lives in Italy and teaches the Italian language to foreigners.</info>
+</item>
+
+<item>
+<title>Lion (2016)</title>
+<link>https://od.lk/s/OTdfMzU0Nzk1OV8/Lion.2016.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU0Nzk2N18/Lion%20%282016%29.jpg</thumbnail>
+<fanart></fanart>
+<genre>Drama</genre>
+<info>In 1986, Saroo was a five-year-old child in India of a poor but happy rural family. On a trip with his brother, Saroo soon finds himself alone and trapped in a moving decommissioned passenger train that takes him to Calcutta, 1500 miles away from home. Now totally lost in an alien urban environment and too young to identify either himself or his home to the authorities, Saroo struggles to survive as a street child until he is sent to an orphanage. Soon, Saroo is selected to be adapted to the Brierley family in Tasmania, where he grows up in a loving prosperous home. However, for all his material good fortune, Saroo finds himself plagued by his memories of his lost family in his adulthood and tries to search for them even as his guilt drives him to hide this quest from his adoptive parents and his girlfriend. Only when he has an epiphany does he realize not only the answers he needs, but also the steadfast love he has always had with all his loved ones in both worlds.</info>
+</item>
+
+<item>
+<title>iBoy (2017)</title>
+<link>https://od.lk/s/OTdfMzU0Nzk1OF8/iBoy.2017.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU0Nzk2NV8/iBoy%20%282017%29.jpg</thumbnail>
+<fanart></fanart>
+<genre> Action, Crime, Sci-Fi</genre>
+<info>After being shot while calling for help trying to stop a violent attack on his high school girl, a 16 year old boy awakens from a coma to discover that fragments of his smart phone have embedded in his brain, giving him superhero powers. He uses this knowledge and technology to exact revenge on the gang responsible for the attack.</info>
+</item>
+
+<item>
+<title>Gorenos (2016)</title>
+<link>https://od.lk/s/OTdfMzU0Nzk1N18/Gorenos.2016.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU0Nzk2Ml8/Gorenos%20%282016%29.jpg</thumbnail>
+<fanart></fanart>
+<genre>Horror</genre>
+<info>Miles is haunted by a supernatural entity in the wake of his 18th birthday.</info>
+</item>
+
+<item>
+<title>xXx: Return of Xander Cage (2017) CAM</title>
+<link>https://od.lk/s/OTdfMzU0NzgwNV8/xXx.Return.of.Xander.Cage.2017%20cam.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU0NzkwNl8/xXx.jpg</thumbnail>
+<fanart></fanart>
+<genre> Action, Adventure, Thriller</genre>
+<info>Extreme athlete turned government operative Xander Cage (Vin Diesel) comes out of self-imposed exile, thought to be long dead, and is set on a collision course with deadly alpha warrior Xiang (Donnie Yen) and his team in a race to recover a sinister and seemingly unstoppable weapon known as Pandora's Box. Recruiting an all-new group of thrill-seeking cohorts, Xander finds himself enmeshed in a deadly conspiracy that points to collusion at the highest levels of world governments.</info>
+</item>
+
+<item>
+<title>Allied (2016)</title>
+<link>https://od.lk/s/OTdfMzU0Nzg3NF8/Allied.2016.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU0Nzg3OV8/Allied%20%282016%29.jpg</thumbnail>
+<fanart></fanart>
+<genre> Action, Drama, Romance </genre>
+<info>In the middle of World War II, in turbulent 1942, a plane flies over Morocco and drops a Royal Canadian Air Force paratrooper who comes in to land on a drop zone, somewhere in the desert dunes outside Casablanca. Just in time before anyone notices him, the fearless Wing Commander Max Vatan gets in a car and heads to the town with orders to meet Parisian Marianne Beauséjour, a skillful member of the French Resistance. On a mission to assassinate the German Ambassador in Casablanca, the two operatives must convince every one of their true feelings as a married couple, while in the background, they need to make the necessary preparations for the critical soirée. Without delay, after the success of this suicide mission, Max and Marianne flee together to England with plans on marrying and making a family, regardless of the war. Instead, heavy clouds of distrust and suspicion threaten their relationship, when Max receives a call from the Secret Service Division to inform him that his ...</info>
+</item>
+
+<item>
+<title>Split 2017</title>
+<link>https://od.lk/s/OTdfMzU0NzgwMV8/Split%202017.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU0Nzg3OF8/Split%202017.jpg</thumbnail>
+<fanart></fanart>
+<genre> Horror, Thriller</genre>
+<info>When three girls are kidnapped by a man with 24 different personalities they have work out which of those personalities will help them escape and which of those personalities will will try to stop them. James McAvoy produces a master class performence playing the psychotic kidnapper and 24 roles.</info>
+</item>
+
+<item>
+<title>Joker's Wild (2016)</title>
+<link>https://od.lk/s/OTdfMzU0Nzg3M18/Jokers.Wild.2016.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzU0Nzg3N18/Joker%27s%20Wild.jpg</thumbnail>
+<fanart></fanart>
+<genre>Horror, Thriller</genre>
+<info>After a clown-masked assailant guns down Aurora's Place, the resident theater owner fights to re-open her business.</info>
+</item>
+
+<item>
+<title>Billy Lynn's Long Halftime Walk (2016)</title>
+<link>https://od.lk/s/OTdfMzU0Nzg3NV8/Billy%20Lynn%27s%20Long%20Halftime%20Walk%20%282016%29.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU0Nzg3Nl8/Billy%20Lynn%27s.jpg</thumbnail>
+<fanart></fanart>
+<genre>Drama, War</genre>
+<info>Two-time Academy Award® winner Ang Lee brings his extraordinary vision to Billy Lynn's Long Halftime Walk, based on the widely-acclaimed, bestselling novel. The film is told from the point of view of 19-year-old private Billy Lynn (newcomer Joe Alwyn) who, along with his fellow soldiers in Bravo Squad, becomes a hero after a harrowing Iraq battle and is brought home temporarily for a victory tour. Through flashbacks, culminating at the spectacular halftime show of the Thanksgiving Day football game, the film reveals what really happened to the squad - contrasting the realities of the war with America's perceptions. The film also stars Kristen Stewart, Chris Tucker, Garrett Hedlund, with Vin Diesel, and Steve Martin. Lee used new technology, shooting at an ultra-high frame rate for the first time in film history, to create an immersive digital experience helping him dramatize war in a way never seen before. Lee directed and produced the film, from a screenplay by Jean-Christophe ...</info>
+</item>
+
+<item>
+<title>Beaches (2017)</title>
+<link>https://od.lk/s/OTdfMzU0NzgwMl8/beaches.2017.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU0NzgxMl8/beaches.jpg</thumbnail>
+<fanart></fanart>
+<genre>Drama</genre>
+<info>The friendship between two women from childhood onwards.</info>
+</item>
+
+<item>
+<title>Essex Heist (2017)</title>
+<link>https://od.lk/s/OTdfMzU0Nzc5N18/Essex.Heist.2017.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzU0NzgxM18/Essex%20Heist%20%282017%29.jpg</thumbnail>
+<fanart></fanart>
+<genre>Action</genre>
+<info>ESSEX HEIST evolves around JEZ (Glenn Salvage) who runs a garage with employees Andy (Adam Collins) his right hand man, Clive (Dean Leon Finlan) who's not the brightest spark but is great with engines and Daveyboy (Marcus Langford) a junkie who's got himself in drug money debt. While all the goings-on at the garage come under the careful scrutiny of local crime boss Terry Slade (Steven Dolton) and Jez has had enough of being treated like a Joey...</info>
+</item>
+
+<item>
+<title>Miss Sloane (2016)</title>
+<link>https://od.lk/s/OTdfMzU0NzY5MF8/Miss%20Sloane.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU0NzY5MV8/Miss%20Sloane.jpg</thumbnail>
+<fanart></fanart>
+<genre> Drama, Thriller</genre>
+<info>In the high-stakes world of political power-brokers, Elizabeth Sloane (Jessica Chastain) is the most sought after and formidable lobbyist in D.C. Known equally for her cunning and her track record of success, she has always done whatever is required to win. But when she takes on the most powerful opponent of her career, she finds that winning may come at too high a price.</info>
+</item>
+
+<item>
+<title>Justice League Dark (2017)</title>
+<link>https://od.lk/s/OTdfMzU0NzY3OF8/Justice.League.Dark.2017.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU0NzY3OV8/Justice%20League%20Dark%20%282017%29.jpg</thumbnail>
+<fanart></fanart>
+<genre> Animation, Action, Fantasy</genre>
+<info>Justice League Dark is what it sounds like. It's the dark side of justice. A group of supernatural heroes who band together loosely to take on occult threats, supernatural threats - threats that the real Justice League may be powerless against.</info>
+</item>
+
+<item>
+<title>Massacre on Aisle 12</title>
+<link>https://od.lk/s/OTdfMzU0NzY3Nl8/Massacre%20on%20Aisle%2012%202016.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU0NzY3N18/Massacre%20on%20Aisle%2012.jpg</thumbnail>
+<fanart></fanart>
+<genre> Comedy, Horror</genre>
+<info>A hardware store employee's first night on the job is disrupted by the discovery of a dead body and a duffel bag full of cash.</info>
+</item>
+
+<item>
+<title>A Room to Die For.2017</title>
+<link>https://od.lk/s/OTdfMzU0NzUwM18/A.Room.To.Die.For.2017.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU0NzI0MF8/A%20Room%20to%20Die%20For.jpg</thumbnail>
+<fanart></fanart>
+<genre> Horror, Thriller </genre>
+<info>When a broke young couple rent a room in an elderly couples London house it becomes apparent no one is what they really seem.</info>
+</item>
+
+<item>
+<title>Dead Story (2017)</title>
+<link>https://od.lk/s/OTdfMzU0NzIyOV8/Dead.Story.2017.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU0NzIzOV8/Dead%20Story%20%282017%29.jpg</thumbnail>
+<fanart></fanart>
+<genre> Horror </genre>
+<info>Young couple Anne and Harold moves to a new home without knowing it was a site of horrific murders, Anne's loneliness and strange behavior makes their relationship complicated, when Anne finds out about a dark presence of Mary, she has no escape from Mary.</info>
+</item>
+
+<item>
+<title>Detour.2016</title>
+<link>https://od.lk/s/OTdfMzU0NzI2MV8/Detour.2016.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzU0NzIzOF8/Detour.2016.jpg</thumbnail>
+<fanart></fanart>
+<genre> Thriller</genre>
+<info>Law student and all round good guy, Harper, suspects that his scheming step-father, Vincent, is responsible for the car crash that sent his mother into a coma. Drowning his sorrows one evening in a seedy L.A whiskey bar, Harper is interrupted by a tough looking redneck called Johnny Ray who offers to 'take care' of his step-dad for the cool sum of US$20,000. Angry, intent on revenge and fuelled by alcohol, Harper agrees to the deal and spends the rest of his evening downing shots with Johnny Ray. The next morning, Harper awakes to the mother of all hangovers with hazy memory of the previous night's events. Answering a knock at the front door, he is surprised to find Johnny Ray and his beautiful but distant girlfriend, Cherry, ready and waiting to drive to Vegas to kill Vincent. Harper's claims that he was drunk and didn't know what he was doing mean nothing to Johnny Ray who is more threatening than ever in the cold light of day. Harper quickly realises that there is no easy way out; ...</info>
+</item>
+
+<item>
+<title>My.Father.Die.2016</title>
+<link>https://od.lk/s/OTdfMzU0NzI2MF8/My.Father.Die.2016.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzU0NzIzN18/My%20Father%20Die.jpg</thumbnail>
+<fanart></fanart>
+<genre> Action, Drama</genre>
+<info>Deaf and mute since having his hearing knocked out at the age of 12, Asher has been training for almost two decades to avenge himself on Ivan, the man that killed his older brother, 21 years ago. And now that his nemesis is out of prison, he gets his chance. But Asher's target also happens to be his father.</info>
+</item>
+
+<item>
+<title>Silence (2016)</title>
+<link>https://od.lk/s/OTdfMzU0NzUyMl8/Silence.2016..mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU0NzIzNl8/Silence.jpg</thumbnail>
+<fanart></fanart>
+<genre> Drama, History</genre>
+<info>The story of two Catholic missionaries (Andrew Garfield and Adam Driver) who face the ultimate test of faith when they travel to Japan in search of their missing mentor (Liam Neeson) - at a time when Catholicism was outlawed and their presence forbidden.</info>
+</item>
+
+<item>
+<title>Sinbad.and.the.War.of.the.Furies.2016</title>
+<link>https://od.lk/s/OTdfMzU0NzUwNl8/Sinbad.and.the.War.of.the.Furies.2016.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU0NzIzNV8/Sinbad%20and%20the%20War%20of%20the%20Furies.jpg</thumbnail>
+<fanart></fanart>
+<genre> Action </genre>
+<info>On a treasure hunt gone wrong, modern-day adventurer Sinbad accidentally releases the Furies, three beautiful but terrible ancient beings powerful enough to threaten life on Earth.</info>
+</item>
+
+<item>
+<title>Take the 10 (2016)</title>
+<link>https://od.lk/s/OTdfMzU0NzI0OV8/Take.the.10.2016.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzU0NzIzNF8/Take%20the%2010.jpg</thumbnail>
+<fanart></fanart>
+<genre>Comedy</genre>
+<info>A day in the life of two best friends, a drug dealer, and a store manager collide at a hip-hop concert in the Inland Empire.</info>
+</item>
+
+<item>
+<title>The Axe Murders of Villisca (2016)</title>
+<link>https://od.lk/s/OTdfMzU0NzUxMl8/The.Axe.Murders.Of.Villisca.2016.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU0NzIzMV8/The%20Axe%20Murders%20of%20Villisca.jpg</thumbnail>
+<fanart></fanart>
+<genre> Horror</genre>
+<info>'Villisca' is a ghost story based on the house where the notorious and still unsolved 1912 ax murders took place. Three outcast teenagers break into the house in search of answers, but discover something far beyond their worst fears.</info>
+</item>
+
+<item>
+<title>Trespass Against Us (2016)</title>
+<link>https://od.lk/s/OTdfMzU0NzI1N18/Trespass.Against.Us.2016.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzU0NzIzMF8/Trespass%20Against%20Us.jpg</thumbnail>
+<fanart></fanart>
+<genre> Action, Crime, Drama</genre>
+<info>A man looks to find a way to escape the criminal ways of his outlaw family.</info>
+</item>
+
+<item>
+<title>Tower (2016)</title>
+<link>https://od.lk/s/OTdfMzU0NzE3OV8/Tower%202016.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU0NzE3N18/Tower%202016.jpg</thumbnail>
+<fanart></fanart>
+<genre> Documentary, Animation, Crime</genre>
+<info>Nearly fifty years ago, a gunman rode the elevator to the twenty-seventh floor of the University of Texas Tower and opened fire. TOWER, an animated and action-packed documentary, shares the untold story of that day - when the worst in one man brought out the best in so many others.</info>
+</item>
+
+<item>
+<title>The Man in the Iron Mask (1998)</title>
+<link>https://od.lk/s/OTdfMzU0NzE3Nl8/The.Man.in.the.Iron.Mask.1998.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzU0NzE3NV8/The%20Man%20in%20the%20Iron%20Mask%20%281998%29.jpg</thumbnail>
+<fanart></fanart>
+<genre> Action, Adventure</genre>
+<info>Paris is starving, but the King of France is more interested in money and bedding women. When a young soldier dies for the sake of a shag, Aramis, Athos and Porthos band together with a plan to replace the king. Unknown to many, there is a 2nd king, a twin, hidden at birth, then imprisoned for 6 years behind an iron mask. All that remains now is D'Artagnan, will he stand against his long time friends, or do what is best for his country?</info>
+</item>
+
+<item>
+<title>The Free World (2016)</title>
+<link>https://od.lk/s/OTdfMzU0NzE3NF8/The.Free.World.2016.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzU0NzE3M18/The%20Free%20World.jpg</thumbnail>
+<fanart></fanart>
+<genre>Drama, Romance</genre>
+<info>Following his release from a brutal stretch in prison for crimes he didn't commit, Mo is struggling to adapt to life on the outside. When his world collides with Doris, a mysterious woman with a violent past, he decides to risk his newfound freedom to keep her in his life.</info>
+</item>
+
+<item>
+<title>The 9th Life of Louis Drax (2016)</title>
+<link>https://od.lk/s/OTdfMzU0NzUxMF8/The%209th%20Life%20of%20Louis%20Drax%202016.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU0NzE3OF8/The%209th%20Life%20of%20Louis%20Drax.jpg</thumbnail>
+<fanart></fanart>
+<genre>Mystery, Thriller</genre>
+<info>The story begins on Louis Drax's 9th birthday, when a lifetime of curious mishaps culminates in the boy's near-fatal fall. Desperate to reveal the strange circumstances behind the young boy's accident and dark coincidences that have plagued his entire life, Dr. Allan Pascal (Dornan) is drawn into a thrilling mystery that explores the nature of the sixth sense, testing the boundaries of fantasy and reality.</info>
+</item>
+
+<item>
+<title>Shepherds and Butchers (2016)</title>
+<link>https://od.lk/s/OTdfMzU0NzE3MV8/Shepherds%20and%20Butchers%202016.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<genre>Drama</genre>
+<info>SHEPHERDS AND BUTCHERS follows a jaded lawyer, John Weber (Steve Coogan), who takes on a seemingly hopeless multiple murder case and uncovers scandalous shortcomings in South Africa's capital punishment system as he mounts a defense for a prison guard traumatized by the executions he took part in.</info>
+</item>
+
+<item>
+<title>A.Monster.Calls.2016</title>
+<link>https://od.lk/s/OTdfMzU0NzE2OV8/A.Monster.Calls.2016.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzU0NzE3MF8/A%20Monster%20Calls.jpg</thumbnail>
+<fanart></fanart>
+<genre> Drama, Fantasy</genre>
+<info>The monster does not come walking often. This time it comes to Connor, and it asks for the one thing Connor cannot bring himself to do. Tell the truth. This is a very touching story about a boy who feels very damaged, guilty and mostly angry. He struggles at school with bullies, and pity looks from everyone, and at home with his mother's sickness. Will Connor overcome his problems? Will everything be okay? Will Connor be able to speak the truth?</info>
+</item>
+
+<item>
+<title>Tom and Jerry Blast Off to Mars 2005</title>
+<link>https://od.lk/s/OTdfMzUzNjI1MF8/Tom.and.Jerry.Blast.Off.to.Mars.2005.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU0NzEyNF8/Tom%20and%20Jerry%20Blast%20Off%20to%20Mars%202005.jpg</thumbnail>
+<fanart></fanart>
+<genre> Animation, Comedy, Family </genre>
+<info>While carrying on their usual hi-jinks, they inadvertantly stow-away on a spaceship bound for Mars. They meet up with the local Martian residents and cause them to invade the Earth, aided by the "Invincitron", a vacuum-wielding giant robot. Tom, Jerry and their Martian ally, Peep, save the day.</info>
+</item>
+
+<item>
+<title>Operation Chromite (2016)</title>
+<link>https://od.lk/s/OTdfMzU0NzExM18/Operation.Chromite.2016.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzU0NzExNl8/Operation%20Chromite%20%282016%29.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU0NzEyMF8/Operation%20Chromite%20f%20%282016%29.jpg</fanart>
+<genre> Action, Drama, History</genre>
+<info>American General Douglas MacArthur (Liam Neeson) sends eight members of the Korean Liaison Office, led by a South Korean Navy Lieutenant (Lee Jung-Jae) on a secret mission far behind North Korean lines to carry out Operation "X-ray". This covert operation must succeed so that MacArthur can launch the daring Incheon Landing Operation.This is a fictionalized version of the historical CIA/military intelligence operation "Trudy Jackson", part of Operation Chromite.</info>
+</item>
+
+<item>
+<title>Bling 2016</title>
+<link>https://od.lk/s/OTdfMzU0NzExMl8/Bling%202016.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU0NzExNF8/Bling%202016.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU0NzExNV8/bling-2016%20f.jpg</fanart>
+<genre> Animation</genre>
+<info>Lowly theme park mechanic Sam dreams about his childhood sweetheart Sue. With the misguided belief that only a bling ring can win the girl of his dreams, Sam plans the most perfect night to propose to his one true love. But when supervillain Oscar shows up with an evil scheme involving a ring of his own, Sam's plans are thrown into utter disarray. After mistaking each other's rings for their own, Sam teams up with his robot superheroes to track down his engagement ring and save the city... learning that it's not about the size of the bling, but the size of your heart.</info>
+</item>
+
+<item>
+<title>The Jungle Book 2 (2003)</title>
+<link>https://od.lk/s/OTdfMzU0NTg0Nl8/The.Jungle.Book.2.2003.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU0NzExMV8/The%20Jungle%20Book%202%20%282003%29.jpg</thumbnail>
+<fanart></fanart>
+<genre> Animation, Adventure, Family</genre>
+<info>Jungle boy Mowgli (voiced by Osment) decides to forsake civilized village life for the "bare necessities" of the wild with his old friends. However, the evil tiger Shere Khan is looking for a little payback after Mowgli's last adventure. Trouble's a-brewing!</info>
+</item>
+
+<item>
+<title>The Jungle Book (1967)</title>
+<link>https://od.lk/s/OTdfMzU0NTgxN18/The.Jungle.Book.1967.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU0NzExMF8/The%20Jungle%20Book%20%281967%29.jpg</thumbnail>
+<fanart></fanart>
+<genre> Animation, Adventure, Family </genre>
+<info>Abandoned after an accident, baby Mowgli is taken and raised by a family of wolves. As the boy grows older, the wise panther Bagheera realizes he must be returned to his own kind in the nearby man-village. Baloo the bear however thinks differently taking the young Mowgli under his wing and teaching that living in the jungle is the best life there is. Bagheera realizes that Mowgli is in danger, particularly from Shere Khan the tiger who hates all people. When Baloo finally comes around, Mowgli runs off into the jungle where he survives a second encounter with Kaa the snake and finally, with Shere Khan. It's the sight of a pretty girl however that gets Mowgli to go the nearby man-village</info>
+</item>
+
+<item>
+<title>Magicians Life in the Impossible 2016</title>
+<link>https://od.lk/s/OTdfMzU0NzEwMV8/Magicians.Life.in.the.Impossible.2016.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU0NzEwOV8/Magicians%20Life%20in%20the%20Impossible%202016.jpg</thumbnail>
+<fanart></fanart>
+<genre> Documentary</genre>
+<info>"MAGICIANS follows four world-class magicians on stage and off, exploring how and why these characters so passionately dedicate their lives to the craft of illusion. Their journey takes us from the most humbling of road gigs to grand performances on the biggest of stages, from finding love to terrible personal loss; and to the prospect of losing everything for a dream others don't understand. As we come to understand why each is obsessively chasing his own dream, we'll discover the unhidden secret: far more fascinating than the magic are the magicians themselves."</info>
+</item>
+
+<item>
+<title>Mad Families (2017)</title>
+<link>https://od.lk/s/OTdfMzU0NzEwM18/Mad.Families.2017.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzU0NzEwOF8/Mad.Families.2017.jpg</thumbnail>
+<fanart></fanart>
+<genre>Comedy </genre>
+<info>Three families compete for a camping spot during a busy Fourth of July holiday weekend.</info>
+</item>
+
+<item>
+<title>Barbie Video Game Hero (2017)</title>
+<link>https://od.lk/s/OTdfMzU0NzEwNF8/Barbie.Video.Game.Hero.2017.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU0NzEwN18/Barbie%20Video%20Game%20Hero%20%282017%29.jpg</thumbnail>
+<fanart></fanart>
+<genre> Animation</genre>
+<info>Get ready to power up! When BarbieTM magically gets pulled into her favorite video game, she is excited to see she's transformed into a fun roller-skating character. In the game, she meets Cutie, the lovable cloud-shaped friend, and Bella, the roller-skating princess. Together, they soon discover a mischievous emoji is trying to take control of the game. As they travel from level to level, BarbieTM must rely on her amazing gaming skills and out-of-the box thinking to save her team and beat the game!</info>
+</item>
+
+<item>
+<title>Hacksaw Ridge 2016</title>
+<link>https://od.lk/s/OTdfMzU0NjU4OV8/Hacksaw%20Ridge%202016.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU0NjU5Ml8/Hacksaw%20Ridge%202016.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU0NjU5M18/hacksaw_ridge%20f.jpg</fanart>
+<genre> Drama, History, War</genre>
+<info>The true story of Desmond Doss, the conscientious objector who, at the Battle of Okinawa, won the Medal of Honor for his incredible bravery and regard for his fellow soldiers. We see his upbringing and how this shaped his views, especially his religious view and anti-killing stance. We see Doss's trials and tribulations after enlisting in the US Army and trying to become a medic. Finally, we see the hell on Earth that was Hacksaw Ridge.</info>
+</item>
+
+<item>
+<title>Teenage Cocktail (2016)</title>
+<link>https://od.lk/s/OTdfMzU0NTU1MF8/Teenage.Cocktail.2016.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU0NTU4OF8/Teenage%20Cocktail%20%282016%29.jpg</thumbnail>
+<fanart></fanart>
+<genre> Drama, Thriller</genre>
+<info>Feeling confined by their small town and overbearing parents, Annie and Jules hatch a scheme of running away. But as the girls soon find out, consequences can blindside you. Sometimes violently.</info>
+</item>
+
+<item>
+<title>Moana (2016) cam</title>
+<link>https://od.lk/s/OTdfMzU0NTU0OV8/Moana%20-%202016.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU0NTU4N18/Moana%20%282016%29.jpg</thumbnail>
+<fanart></fanart>
+<genre> Animation, Adventure, Comedy</genre>
+<info>Moana Waialiki is a sea voyaging enthusiast and the only daughter of a chief in a long line of navigators. When her island's fishermen can't catch any fish and the crops fail, she learns that the demigod Maui caused the blight by stealing the heart of the goddess, Te Whiti. The only way to heal the island is to persuade Maui to return Te Whiti's heart, so Moana sets off on an epic journey across the Pacific. The film is based on stories from Polynesian mythology.</info>
+</item>
+
+<item>
+<title>Little Sister (2016)</title>
+<link>https://od.lk/s/OTdfMzU0NTU1NF8/Little.Sister.2016.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU0NTU4Nl8/Little%20Sister%20%282016%29.jpg</thumbnail>
+<fanart></fanart>
+<genre> Comedy, Drama</genre>
+<info>Young nun Colleen is avoiding all contact from her family, returning to her childhood home in Asheville NC, she finds her old room exactly how she left it: painted black and covered in goth/metal posters.</info>
+</item>
+
+<item>
+<title>48 Hours to Live (2016)</title>
+<link>https://od.lk/s/OTdfMzU0NTU3MV8/48.Hours.to.Live.2016.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU0NTU4OV8/48%20Hours%20to%20Live%20%282016%29.jpg</thumbnail>
+<fanart></fanart>
+<genre> Crime, Music, Thriller</genre>
+<info>A 3D hybrid merging the genres of film noir, dance, and mystery. A loner fresh out of rehab and hunted by both sides of the law returns home to solve the murder of his sister, and finds himself entangled in a game of revenge on the LA club circuit.</info>
+</item>
+
+<item>
+<title>Open Marriage (2017)</title>
+<link>https://od.lk/s/OTdfMzU0Mjk5N18/open.marriage.2017.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU0MzAwMV8/Open%20Marriage%20%282017%29.jpg</thumbnail>
+<fanart></fanart>
+<genre>Thriller</genre>
+<info>A young, disenchanted couple agree to engage in an open relationship with their two friends in hopes of rekindling their love life, but none of those involved anticipate the jealousy, heartbreak and betrayal that soon follow.</info>
+</item>
+
+<item>
+<title>Alabama Dirt (2016)</title>
+<link>https://od.lk/s/OTdfMzU0Mjk5NV8/Alabama%20Dirt%202016.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzU0Mjk5Nl8/Alabama%20Dirt%20%282016%29.jpg</thumbnail>
+<fanart></fanart>
+<genre> Action, Drama, Family</genre>
+<info>Ty Hargrove is a young country boy living in poverty with his father at the edge of a clay pit in Bay Minette, Alabama. In spite of his disadvantages Ty is bull-headed to succeed and make something of himself. During the week he's a manager at his uncle's telephone pole plant. On the weekend he pursues his passion, racing on the dirt track. Ty and his sidekick, Lurvy Wilson, have spent countless hours building their race car in the evenings. Their dream is to beat the local champion, Snake Turner, and go all the way to the state championship. When Snake's girlfriend falls for Ty, things get heated. Then a sudden death in Ty's family leaves him broken and without a sponsor. Now, with the whole town finally believing in him, Ty finds it hard to believe in himself</info>
+</item>
+
+<item>
+<title>Alone in Berlin (2017)</title>
+<link>https://od.lk/s/OTdfMzU0Mjk5M18/Alone.in.Berlin.2017.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzU0Mjk5NF8/Alone%20in%20Berlin.jpg</thumbnail>
+<fanart></fanart>
+<genre> Drama </genre>
+<info>Berlin, 1940. Working class couple Otto and Anna Quangel receive the news that their only son has lost his life in the battlefield and decide to resist the Nazi regime in their very own way. Soon the Gestapo is hunting "the threat".</info>
+</item>
+
+<item>
+<title>Bad Kids of Crestview Academy (2017)</title>
+<link>https://od.lk/s/OTdfMzU0Mjk5MF8/Bad.Kids.of.Crestview.Academy.2017.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzU0Mjk5MV8/Bad%20Kids%20of%20Crestview%20Academy%20%282017%29.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU0Mjk5Ml8/bad-kids-crestview%20f.jpg</fanart>
+<genre> Action, Comedy, Thriller</genre>
+<info>DETENTION SUCKS BUT IT'S KILLER FUN: It's four years later, and a new group of students has been placed in Saturday detention at the infamous and prestigious Crestview Academy. When Siouxsie, sophomore 'undercrust,' crashes the party to avenge her sister's death, a Saturday detention reserved for the privileged seniors of Crestview Academy turns into a date in hell. It's not long before a naïve pussycat lover, gay drug dealer, smokin' hot preacher's daughter, squeaky-clean senator's son, and the uninvited younger outsider find themselves locked-up in school with no way out, wondering who (or what) has set them up. Hilarity and suspense ensue while each 'bad kid' pits one against the other, and one by one each falls victim to absurdly gruesome 'accidents' while trying to escape. (Based on the best-selling graphic novel sequel 'Bad Kids Go 2 Hell.') </info>
+</item>
+
+<item>
+<title>Boo! A Madea Halloween (2017)</title>
+<link>https://od.lk/s/OTdfMzU0MzAwNF8/Boo.A.Madea.Halloween.2017.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU0Mjk4OF8/Boo%21%20A%20Madea%20Halloween.jpg</thumbnail>
+<fanart></fanart>
+<genre> Comedy, Horror</genre>
+<info>In BOO! A MADEA HALLOWEEN, Tyler Perry returns as Madea to set the neighborhood straight on Halloween night. While trying to keep an eye on a few misbehaving teens who are planning a wild Halloween night party she is spooked by ghosts, killers, paranormal poltergeists, zombies and frightening spirits. Giving them all a piece of her mind and fists, Madea must maintain order and sanity as she spends this hilarious, haunted Halloween night fighting off goons and goblins.</info>
+</item>
+
+<item>
+<title>Cashback (2006)</title>
+<link>https://od.lk/s/OTdfMzU0Mjk4Nl8/Cashback.2006.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzU0Mjk4OV8/Cashback%20%282006%29.jpg</thumbnail>
+<fanart></fanart>
+<genre> Comedy, Drama, Romance</genre>
+<info>When art student Ben Willis is dumped by his girlfriend Suzy, he develops chronic insomnia after finding out how quickly she moved on. To pass the long hours of the night, he starts working the late night shift at the local supermarket. There he meets a colorful cast of characters, all of whom have their own 'art' in dealing with the boredom of an eight-hour-shift. Ben's art is that he imagines himself stopping time. This way, he can appreciate the artistic beauty of the frozen world and the people inside it - especially Sharon, the pretty and quiet checkout girl, who perhaps holds the answer to solving the problem of Ben's insomnia.</info>
+</item>
+
+<item>
+<title>Gernika.2016</title>
+<link>https://od.lk/s/OTdfMzU0MzAwMF8/Gernika%202016.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU0Mjk4NF8/Gernika.2016.jpg</thumbnail>
+<fanart></fanart>
+<genre>Romance, War</genre>
+<info>The fates of Henry - a cynical American correspondent who has lost his soul - and Teresa, one of the Republic's censors and in charge of overseeing the news that journalists can send abroad, cross in Gernika.</info>
+</item>
+
+<item>
+<title>Clinical (2017)</title>
+<link>https://od.lk/s/OTdfMzU0MzAwMl8/Clinical.2017.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU0Mjk4NV8/Clinical.2017.jpg</thumbnail>
+<fanart></fanart>
+<genre> Thriller</genre>
+<info>A psychiatrist tries to put her life back together after a violent attack by seeking to repair the life of a new patient, but he has his own terrifying history.</info>
+</item>
+
+<item>
+<title>Claire in Motion (2016)</title>
+<link>https://od.lk/s/OTdfMzU0MzAwM18/Claire%20in%20Motion%202016.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU0Mjk4M18/Claire%20in%20Motion%20%282016%29.jpg</thumbnail>
+<fanart></fanart>
+<genre> Drama </genre>
+<info>Claire is sure of herself, her work and family, until - like a bad dream - her husband disappears, leaving a trail of puzzling secrets that shatter her certainty.</info>
+</item>
+
+<item>
+<title>Patriots Day (2016)</title>
+<link>https://od.lk/s/OTdfMzU0MjkyOV8/Patriots.Day.2016.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzU0Mjk3OF8/Patriots.Day.2016.jpg</thumbnail>
+<fanart></fanart>
+<genre> Drama, History, Thriller</genre>
+<info>An account of the 2013 Boston Marathon bombing and the aftermath, which includes the city-wide manhunt to find the terrorists responsible.</info>
+</item>
+
+<item>
+<title>Mythica: The Godslayer (2016)</title>
+<link>https://od.lk/s/OTdfMzU0MjkzMF8/Mythica.The.Godslayer.2016.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzU0MjkzNF8/Mythica%20The%20Godslayer%20%282016%29.jpg</thumbnail>
+<fanart></fanart>
+<genre>Fantasy </genre>
+<info>As the Lich King's zombie legions ravage the world, Marek, a cursed young sorceress, embarks on a quest to obtain a weapon from the gods, with her friend Dagen, a self-serving half-elf rogue. But when she joins her sworn enemy in a desperate attempt to save the world, she must recover the good in herself before her friends are all dead, and defeat the Lich King before the gods are destroyed and the world forever enslaved.</info>
+</item>
+
+<item>
+<title>Go North (2017)</title>
+<link>https://od.lk/s/OTdfMzU0Mjk5OV8/Go.North.2017.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU0MjkzM18/Go%20North%20%282017%29.jpg</thumbnail>
+<fanart></fanart>
+<genre>Adventure, Drama, Romance </genre>
+<info>In the aftermath of an unknown catastrophe, a community left with zero living adults has descended into a modern-day Lord of the Flies, run by a small cabal of what had been the jocks occupying the athletic and social upper crust of the local high school, headed by Caleb (Patrick Schwarzenegger, SCOUTS GUIDE TO THE ZOMBIE APOCALYPSE). Faced with the bleak despair of their situation, Josh (Jacob Lofland, MUD) and Jessie (Sophie Kennedy Clark, PHILOMENA) strike out on a dangerous journey into the unknown to find family and hope for the future, with Caleb and his vicious underling Gentry (James Bloor, LEATHERFACE) in hot pursuit.</info>
+</item>
+
+<item>
+<title>The Summoning.2017</title>
+<link>https://od.lk/s/OTdfMzU0MjkyNV8/The%20Summoning.2017.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzU0MjkyNl8/The%20Summoning.2017.jpg</thumbnail>
+<fanart></fanart>
+<genre>Drama, Mystery, Thriller</genre>
+<info>When a law student uncovers chilling secrets and places her life at risk, a bitter, rough-around-the-edges detective gets assigned to her case.</info>
+</item>
+
+<item>
+<title>The Crash (2017)</title>
+<link>https://od.lk/s/OTdfMzU0MjkyMV8/The.Crash.2017.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzU0MjkyMl8/The%20Crash%20%282017%29.jpg</thumbnail>
+<fanart></fanart>
+<genre>Crime, Thriller</genre>
+<info>Set in the future when the US economy is on the brink of yet another massive financial crisis, The Crash tells the story of Guy Clifton (Frank Grillo), a federally-indicted stock trader, who is secretly enlisted by the federal government to help thwart a cyber-attack aimed at the US stock markets - an attack that could permanently cripple the economy. Our 'richer than God' protagonist is charged with assembling a team capable of running the government's top secret 'shadow stock exchange' in an attempt to keep the markets from mass panic in the event the cyber-hijack is successful. Having only ever been fueled by his love of money, Guy fully intends to use his insider knowledge of this world catastrophe for personal gain until he unearths the organization behind the attack and discovers its motives. For the first time in his life, Guy is challenged to make decisions not only for himself, but also for the good of his country - decisions that are rooted in morality rather than dollar ...</info>
+</item>
+
+<item>
+<title>A Street Cat Named Bob (2016)</title>
+<link>https://od.lk/s/OTdfMzU0MjkxOV8/A.Street.Cat.Named.Bob.2016.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzU0MjkyM18/A%20Street%20Cat%20Named%20Bob%20%282016%29.jpg</thumbnail>
+<fanart></fanart>
+<genre>Biography, Comedy, Drama</genre>
+<info>Based on the international best selling book. The true feel good story of how James Bowen, a busker and recovering drug addict, had his life transformed when he met a stray ginger cat.</info>
+</item>
+
+<item>
+<title>La La Land (2016)</title>
+<link>https://od.lk/s/OTdfMzU0MjkxNF8/La.La.Land.2016.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzU0MjkxN18/La.La.Land.2016.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU0MjkxOF8/La.La.Land.2016%20f.jpg</fanart>
+<genre>Comedy, Drama, Musical</genre>
+<info>Mia, an aspiring actress, serves lattes to movie stars in between auditions and Sebastian, a jazz musician, scrapes by playing cocktail party gigs in dingy bars, but as success mounts they are faced with decisions that begin to fray the fragile fabric of their love affair, and the dreams they worked so hard to maintain in each other threaten to rip them apart.</info>
+</item>
+
+<item>
+<title>FANTASTIC BEASTS AND WHERE TO FIND THEM 2016</title>
+<link>https://od.lk/s/OTdfMzQ0NDQwOV8/Fantastic%20Beast%20and%20Where%20To%20Find%20Them%202016.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQ0NDQxM18/Fantastic%20Beast%20and%20Where%20To%20Find%20Them%202016.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0NDQxMl8/Fantastic%20Beast%20and%20Where%20To%20Find%20Them%202016%20f.jpg</fanart>
+<genre>Action & Adventure, Kids & Family, Science Fiction & Fantasy</genre>
+<info>The magic of Harry Potter lives on in this Warner Bros. spin-off penned by {J.K. Rowling}, and intended as the first chapter in a whole new fantasy film franchise. ~ Jason Buchanan, Rovi</info>
+</item>
+
+<item>
+<title>The Young Offenders (2016)</title>
+<link>https://od.lk/s/OTdfMzUzNzY0N18/The.Young.Offenders.2016.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzU0MjkxMV8/The%20Young%20Offenders%20%282016%29.jpg</thumbnail>
+<fanart></fanart>
+<genre>Comedy</genre>
+<info>Inspired by the true story of Ireland's biggest cocaine seizure in 2007, The Young Offenders is a comedy road movie about best friends Conor and Jock, two inner-city teenagers from Cork who dress the same, act the same, and even have the same bum-fluff mustaches. Jock is a legendary bike thief who plays a daily game of cat-and-mouse with the bike-theft-obsessed Garda Sergeant Healy. When a drug-trafficking boat capsizes off the coast of West Cork and 61 bales of cocaine, each worth 7 million euro, are seized, word gets out that there is a bale missing. The boys steal two bikes and go on a road trip hoping to find a missing bale which they can sell so as to escape their troubled home lives....But Sergeant Healy is in hot pursuit.</info>
+</item>
+
+<item>
+<title>The Last King (2016)</title>
+<link>https://od.lk/s/OTdfMzU0Mjg3OF8/The.Last.King.2016.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzU0MjkxMl8/the-last-king.jpg</thumbnail>
+<fanart></fanart>
+<genre>Action & Adventure, Art House & International, Drama</genre>
+<info>Based on true events, THE LAST KING is set in civil war-ravaged Norway. Aided by rebel group the Birch Legs, the Norwegian King fights for survival against the Church's Bishopsmen, who seek to supplant the throne. On his deathbed after falling ill, the King soon welcomes a son, born in secrecy, as half the Kingdom wants him dead. Tasked with guarding the only remaining heir to the throne, two Birch Legs warriors, Skjervald and Torstein, escape with the infant and must traverse treacherous landscapes to protect their future King.</info>
+</item>
+
+<item>
+<title>Mostly Sunny 2016</title>
+<link>https://od.lk/s/OTdfMzUzNzY1Ml8/Mostly%20Sunny%202016.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU0MjkxMF8/Mostly%20Sunny%202016.jpg</thumbnail>
+<fanart></fanart>
+<genre>Documentary</genre>
+<info>Mostly Sunny is a documentary that tells the remarkable story of Sunny Leone, the Canadian-born, American-bred adult film star who is pursuing her dreams of Bollywood stardom.</info>
+</item>
+
+<item>
+<title>Lost & Found (2016)</title>
+<link>https://od.lk/s/OTdfMzUzNzY1M18/Lost.And.Found.2016.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU0MjkwOV8/lost-found-2016.jpg</thumbnail>
+<fanart></fanart>
+<genre>Adventure, Family, Mystery</genre>
+<info>Sent to spend the summer on a remote and mysterious island, teenage brothers embark on a thrilling treasure hunt to restore their family's lost fortune.</info>
+</item>
+
+<item>
+<title>Hidden Figures (2016)</title>
+<link>https://od.lk/s/OTdfMzUzNzY1NF8/Hidden.Figures.2016.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzU0MjkwOF8/Hidden.Figures.2016.jpg</thumbnail>
+<fanart></fanart>
+<genre>Drama</genre>
+<info>As the United States raced against Russia to put a man in space, NASA found untapped talent in a group of African-American female mathematicians that served as the brains behind one of the greatest operations in U.S. history. Based on the unbelievably true life stories of three of these women, known as "human computers", we follow these women as they quickly rose the ranks of NASA alongside many of history's greatest minds specifically tasked with calculating the momentous launch of astronaut John Glenn into orbit, and guaranteeing his safe return. Dorothy Vaughn, Mary Jackson, and Katherine Johnson crossed all gender, race, and professional lines while their brilliance and desire to dream big, beyond anything ever accomplished before by the human race, firmly cemented them in U.S. history as true American heroes.</info>
+</item>
+
+<item>
+<title>Operation Avalanche (2016)</title>
+<link>https://od.lk/s/OTdfMzUzNzY1MV8/Operation.Avalanche.2016.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzU0Mjg4MV8/Operation.Avalanche.2016.jpg</thumbnail>
+<fanart></fanart>
+<genre>Thriller</genre>
+<info>1967: the height of the Cold War. The CIA suspects there is a Russian mole inside of NASA, sabotaging the Apollo program. They send two young agents on a mission to go undercover, posing as documentary filmmakers to capture NASA's race to the moon. The real mission - use their access and technology to hunt down the leak. But what they discover is far more shocking than soviet spies - Their government may be hiding a secret about Apollo that could define the decade, and the White House will stop at nothing to silence anyone who learns it.</info>
+</item>
+
+<item>
+<title>Assassins Creed 2016 cam</title>
+<link>https://od.lk/s/OTdfMzUzNzY0Nl8/Assassins%20Creed%202016%20cam.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNzY0OV8/Assassins%20Creed%202016.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNzY1MF8/Assassins%20Creed%20f%202016.jpg</fanart>
+<genre>Action, Adventure, Fantasy</genre>
+<info>Through Abstergo a company that creates a revolutionary technology that unlocks his genetic memories, Callum Lynch (Michael Fassbender) experiences the memories of his ancestor, Aguilar de Nerha (Aguilar Of Nerha), in 15th Century Spain. Callum discovers he is descended from a mysterious secret society, the Assassins and Templars, and amasses incredible knowledge and skills to take on the oppressive and powerful Templar organization in the present day.</info>
+</item>
+
+<item>
+<title>Surf's Up 2: WaveMania (2017)</title>
+<link>https://od.lk/s/OTdfMzUzNjU3OF8/Surfs.Up.2.WaveMania.2017.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjU3N18/Surf%27s%20Up%202.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjU3OV8/Surf%27s%20Up%202%20f%20%282017%29.jpg</fanart>
+<genre> Animation, Comedy, Family</genre>
+<info>An animated comedy that features WWE Superstars, providing their own voices while matching up against talking animals.</info>
+</item>
+
+<item>
+<title>Sold (2016)</title>
+<link>https://od.lk/s/OTdfMzUzNjU4Ml8/Sold.2016.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjU3Nl8/Sold%20%282016%29.jpg</thumbnail>
+<fanart></fanart>
+<genre> Drama</genre>
+<info>A girl risks everything for freedom after being trafficked from her mountain village in Nepal to a brothel in India.</info>
+</item>
+
+<item>
+<title>Queen of Katwe (2016)</title>
+<link>https://od.lk/s/OTdfMzUzNjU4M18/Queen.of.Katwe.2016.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjU3NV8/Queen%20of%20Katwe%20%282016%29.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjU4MV8/Queen%20of%20Katwe%20f%20%282016%29.jpg</fanart>
+<genre> Biography, Drama, Sport</genre>
+<info>A Ugandan girl sees her world rapidly change after being introduced to the game of chess.</info>
+</item>
+
+<item>
+<title>I'm Not Ashamed (2016)</title>
+<link>https://od.lk/s/OTdfMzUzNjU4NF8/Im.Not.Ashamed.2016.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjU3NF8/I%27m%20Not%20Ashamed%20%282016%29.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjU4MF8/I%27m%20Not%20Ashamed%20f%20%282016%29.jpg</fanart>
+<genre> Biography, Drama</genre>
+<info>The Columbine Massacre of April 20, 1999 completely redefined America's view of the lives of high school students. Drawn straight from Columbine victim Rachel Joy Scott's words and journal entries, through the insight of her mother, Beth Nimmo, it is the true story of a high school student whose compassionate, caring faith caused her to reach out to fellow students including her killers who made her a target of their murderous plan.</info>
+</item>
+
+<item>
+<title>Christine (2016)</title>
+<link>https://od.lk/s/OTdfMzUzNjU4NV8/Christine.2016.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjU3M18/Christine%20%282016%29.jpg</thumbnail>
+<fanart></fanart>
+<genre> Biography, Drama</genre>
+<info>The story of Christine Chubbuck, a 1970s TV reporter struggling with depression and professional frustrations as she tries to advance her career.</info>
+</item>
+
+<item>
+<title>Hunting Grounds (2015)
+Valley of the Sasquatch (original title)</title>
+<link>https://od.lk/s/OTdfMzUzNjI5M18/Valley%20of%20the%20Sasquatch%202015.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjMwMl8/Hunting%20Grounds%20%282015%29.jpg</thumbnail>
+<fanart></fanart>
+<genre> Horror, Thriller</genre>
+<info>After losing their home following a devastating tragedy, a father and son are forced to move to an old family cabin. Neither reacts well to being thrown into this new world. The son's attempts to relate to his father are complicated when two old friends arrive for a weekend of hunting. This trip into the forest will unearth not only buried feelings of guilt and betrayal, but also a tribe of Sasquatch that are determined to protect their land.</info>
+</item>
+
+<item>
+<title>The Sector (2016)</title>
+<link>https://od.lk/s/OTdfMzUzNjI5NF8/The.Sector.2016.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjI5OV8/The%20Sector%20%282016%29.jpg</thumbnail>
+<fanart></fanart>
+<genre>Sci-Fi</genre>
+<info>In a dystopian world, a bounty hunter sets out to capture a ruthless band of outlaws who have kidnapped an important father and daughter through a world of multiverses. Unbeknownst to the Outlaws and the Bounty Hunter is that another, more powerful man known only as The Finisher has plans of his own.</info>
+</item>
+
+<item>
+<title>Shock (2016)</title>
+<link>https://od.lk/s/OTdfMzUzNjI5NV8/Shock.2016.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjMwMV8/Shock%20%282016%29.jpg</thumbnail>
+<fanart></fanart>
+<genre>Horror</genre>
+<info>When a gruesome killer targets the staff of a Psychiatric facility, its up to ex-cop turned Private investigator David Evans to find the killer and put his own life back into perspective.</info>
+</item>
+
+<item>
+<title>Lost in the Pacific (2016)</title>
+<link>https://od.lk/s/OTdfMzUzNjI5Nl8/Lost.in.the.Pacific.2016.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjMwMF8/Lost%20in%20the%20Pacific%20%282016%29.jpg</thumbnail>
+<fanart></fanart>
+<genre>Adventure, Sci-Fi, Thriller</genre>
+<info>A group of VIP elite passengers become stranded on a remote mysterious island after their luxury airliner makes an emergency landing. As they await and plan their rescue, they soon realize that the island may have an even darker deadlier secret that none of them will survive. Stars Brandon Routh "Superman Returns" Russell Wong "Romeo must die" and Zhang Yu Qi "The Mermaid"</info>
+</item>
+
+<item>
+<title>Hoodlum (1997)</title>
+<link>https://od.lk/s/OTdfMzUzNjI1Nl8/Hoodlum.1997.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjMwM18/Hoodlum%20%281997%29.jpg</thumbnail>
+<fanart></fanart>
+<genre>Crime, Drama</genre>
+<info>The film focuses on the war of two gangs in 1930s Harlem for the control of illegal gaming - one headed by black strategic godfather Bumpy Johnson and another by white ruthless hothead Dutch Schultz. Negotiations proposed by white syndicate boss Lucky Luciano never get under way, blood flows and Johnson gets jailed. When Johnson is paroled, he gets the work of enforcer for mighty Stephanie "The Queen" St. Clair. She is also jailed for racketeering and when she leaves she makes him promise "no violence".</info>
+</item>
+
+<item>
+<title>War on Everyone (2016)</title>
+<link>https://od.lk/s/OTdfMzUzNjIzNV8/War.on.Everyone.2016.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjI0MV8/War.on.Everyone.2016..jpg</thumbnail>
+<fanart></fanart>
+<genre>Comedy </genre>
+<info>Two corrupt cops set out to blackmail and frame every criminal unfortunate enough to cross their path. Events, however, are complicated by the arrival of someone who appears to be even more dangerous than they are.</info>
+</item>
+
+<item>
+<title>Turnabout (2016)</title>
+<link>https://od.lk/s/OTdfMzUzNjIzMF8/Turnabout.2016.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjI0MF8/Turnabout.2016..jpg</thumbnail>
+<fanart></fanart>
+<genre>Drama </genre>
+<info>A troubled man survives a suicide attempt. He calls an old friend to rescue him in the middle of the night. Their journey is just beginning, and by daybreak, a tragedy will surface.</info>
+</item>
+
+<item>
+<title>The Sessions (2012)</title>
+<link>https://od.lk/s/OTdfMzUzNjIyNF8/The.Sessions.2012.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjI0M18/The.Sessions.2012.jpg</thumbnail>
+<fanart></fanart>
+<genre>Biography | Comedy | Drama | Romance</genre>
+<info>At the age of 38, Mark O'Brien, a man who uses an iron lung, decides he no longer wishes to be a virgin. With the help of his therapist and his priest, he contacts Cheryl Cohen-Greene, a professional sex surrogate and a typical soccer mom with a house, a mortgage and a husband. Inspired by a true story, The Sessions, follows the fascinating relationship which evolves between Cheryl and Mark as she takes him on his journey to manhood.</info>
+</item>
+
+<item>
+<title>The Snare (2017)</title>
+<link>https://od.lk/s/OTdfMzUzNjIyNl8/The.Snare.2017.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjI0NF8/The%20Snare%20%282017%29.jpg</thumbnail>
+<fanart></fanart>
+<genre>Horror, Thriller</genre>
+<info>Three friends head to the seafront for a drunken weekend, only to be imprisoned on the top floor of their holiday apartment by a malevolent paranormal force.</info>
+</item>
+
+<item>
+<title>Pitchfork (2016)</title>
+<link>https://od.lk/s/OTdfMzUzNjIwMF8/Pitchfork.2016.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjIwMV8/Pitchfork%20%282016%29.jpg</thumbnail>
+<fanart></fanart>
+<genre>Horror</genre>
+<info>A group of friends return home with a friend to help him share a secret only to learn that sometimes older secrets are even more deadly.</info>
+</item>
+
+<item>
+<title>Night of the Living Deb (2015)</title>
+<link>https://od.lk/s/OTdfMzUzNjE5OV8/Night.of.the.Living.Deb.2015.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjIwMl8/Night.of.the.Living.Deb.2015.jpg</thumbnail>
+<fanart></fanart>
+<genre>Comedy, Horror, Romance </genre>
+<info>After a girls' night out, endearingly awkward Deb wakes up in the apartment of the most attractive guy in Portland, Maine. She's thrilled, but she can't remember much of what got her there. Pretty boy Ryan only knows it was a mistake and ushers her out the door... into a full-scale zombie apocalypse. Now, a walk of shame becomes a fight for survival as the mismatched pair discovers that the only thing scarier than trusting someone with your life... is trusting them with your heart. </info>
+</item>
+
+<item>
+<title>Death Race 2050 (2017)</title>
+<link>https://od.lk/s/OTdfMzUzNjE5Nl8/Death.Race.2050.2017.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjIwM18/Death.Race.2050.2017.jpg</thumbnail>
+<fanart></fanart>
+<genre>Action, Comedy, Sci-Fi</genre>
+<info>The year 2050 the planet has become overpopulated, to help control population the government develops a race. The Death Race. Annually competitors race across the country scoring points for killing people with their vehicles.</info>
+</item>
+
+<item>
+<title>Coin Heist (2017)</title>
+<link>https://od.lk/s/OTdfMzUzNjE5NV8/Coin.Heist.2017.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjIwNF8/Coin%20Heist%20%282017%29.jpg</thumbnail>
+<fanart></fanart>
+<genre>Drama</genre>
+<info>United by dire circumstances, four unlikely allies from a Philadelphia prep school - the hacker, the slacker, the athlete, and the perfect student - band together to attempt the impossible: steal from the U.S. Mint.</info>
+</item>
+
+<item>
+<title>Bleeding Heart (2015)</title>
+<link>https://od.lk/s/OTdfMzUzNjE5M18/Bleeding.Heart.2015.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjE5NF8/Bleeding.Heart.2015.jpg</thumbnail>
+<fanart></fanart>
+<genre> Drama</genre>
+<info>A yoga instructor looks to protect her sex-worker sister from her deadbeat boyfriend.</info>
+</item>
+
+<item>
+<title>Between Us (2016)</title>
+<link>https://od.lk/s/OTdfMzUzNjE4OV8/Between.Us.2016.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjE5Ml8/Between%20Us%20%282016%29.jpg</thumbnail>
+<fanart></fanart>
+<genre>Comedy, Drama, Romance</genre>
+<info>Thirlby and Feldman play a couple confronted by the fear that settling down and getting married means their carefree days as city-dwelling young adults coming to an abrupt and depressing end. Both are tempted by the allure of another life before ultimately realizing why they fell in love in the first place.</info>
+</item>
+
+<item>
+<title>Southern Fury (2017)
+Arsenal (original title)</title>
+<link>https://od.lk/s/OTdfMzUzNjE4OF8/Arsenal.2017.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjE5MV8/Southern%20Fury%20%282017%29.jpg</thumbnail>
+<fanart></fanart>
+<genre>Thriller</genre>
+<info>A powerful action thriller, ARSENAL tells the intertwining stories of the Lindel brothers, Mikey (Johnathon Schaech) and JP (Adrian Grenier), who had only each other to rely on growing up. As adults, JP found success as the owner of a construction company, while Mikey became a small-time mobster, mired in a life of petty crime. When Mikey is kidnapped and held for a ransom by ruthless crime boss Eddie King (Nicolas Cage), JP turns to the brothers' old pal Sal (John Cusack), a plain clothes detective for help. In order to rescue his brother, JP must risk everything and unleash his vengeance against King's relentless army of gangsters.</info>
+</item>
+
+<item>
+<title>Rubber.2010</title>
+<link>https://od.lk/s/OTdfMzUzNjE0MV8/Rubber.2010.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjE4N18/Rubber.2010.jpg</thumbnail>
+<fanart></fanart>
+<genre>Comedy, Fantasy, Horror</genre>
+<info>As film spectators watch, a killer car tire comes to life in a desert dump site. Flexing its... rubber... and ready to roll, it soon discovers its telekinetic ability to make small animals and people's heads explode. Lt. Chad hopes to end this movie by fatally poisoning every last spectators, but failing that, the show must go on, and the tire goes on a three-day rampage. With few left alive, a lure is constructed to draw the tire from its motel room, where hopes are to end it and this movie once and for all.</info>
+</item>
+
+<item>
+<title>Maggie's.Plan.2015</title>
+<link>https://od.lk/s/OTdfMzUzNjE0MF8/Maggie%27s.Plan.2015.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjE4Nl8/Maggie%27s.Plan.2015.jpg</thumbnail>
+<fanart></fanart>
+<genre>Comedy, Drama, Romance</genre>
+<info>Maggie's plan to have a baby on her own is derailed when she falls in love with John, a married man, destroying his volatile marriage to the brilliant and impossible Georgette. But one daughter and three years later, Maggie is out of love and in a quandary: what do you do when you suspect your man and his ex wife are actually perfect for each other?</info>
+</item>
+
+<item>
+<title>Lego.DC.Gotham.City.Breakout.2016</title>
+<link>https://od.lk/s/OTdfMzUzNjEzOV8/Lego.DC.Gotham.City.Breakout.2016.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjE4NV8/Lego.DC.Gotham.jpg</thumbnail>
+<fanart></fanart>
+<genre>Animation, Action, Adventure</genre>
+<info>Fighting crime is a full-time job and Batman NEVER takes a vacation. That is until he finally agrees to let Batgirl and Nightwing take him on a long overdue trip - leaving Gotham City under the watchful eye of the Justice League in LEGO® DC Comics Super Heroes - Justice League: Gotham City Breakout. When Batgirl and Nightwing take Batman on a trip down memory lane - literally - to visit one of the key mentors from his formative years, it's up to the Justice League to keep Gotham City crime-free. But neither situation proves to be a "vacation" as the Bat trio encounters old nemeses on their adventure, and the Justice League discovers just how busy Batman is on a regular basis. It's a brick-tastic battle on two fronts as Batman, Batgirl and Nightwing take on Bane and Deathstroke, while the Justice League - with some help from a few Teen Titans - fends off an assault by many of Batman's infamous adversaries to ensure Gotham City's safety.</info>
+</item>
+
+<item>
+<title>How.to.Plan.an.Orgy.in.a.Small.Town.2015</title>
+<link>https://od.lk/s/OTdfMzUzNjEzOF8/How.to.Plan.an.Orgy.in.a.Small.Town.2015.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjE4NF8/How.to.Plan.jpg</thumbnail>
+<fanart></fanart>
+<genre>Comedy</genre>
+<info>How to Plan an Orgy in a Small Town is about a group of friends who live in the picturesque town of Beaver's Ridge-the epitome of wholesomeness and strong family values. Their orderly life is interrupted by the homecoming of Cassie Cranston, whom they slut-shamed into leaving town when she was a teenager. Now a big-city sex writer, Cassie returns home to face an unwelcome reception by her former friends, and finds an opportunity to seek revenge by writing a book about them when they ask her if she'll help them plan an orgy.</info>
+</item>
+
+<item>
+<title>Hall.Pass.2011</title>
+<link>https://od.lk/s/OTdfMzUzNjEzM18/Hall.Pass.2011.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjE4M18/Hall.Pass.2011.jpg</thumbnail>
+<fanart></fanart>
+<genre>Comedy, Romance </genre>
+<info>A couple of married guys are always looking at other women. Their wives are fed up with their behavior, and grant them a 'hall pass': a week off their marriage allowing them to do anything. But the guys take their time and their week is almost up. What they don't realize is that at the same time their wives make connections of their own.</info>
+</item>
+
+<item>
+<title>Bite 2015</title>
+<link>https://od.lk/s/OTdfMzUzNjEyOV8/Bite.2015.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjEzMV8/Bite%202015.jpg</thumbnail>
+<fanart></fanart>
+<genre>Horror</genre>
+<info>While on her bachelorette party getaway, Casey, the bride to be, gets a seemingly harmless bite from an unknown insect. After returning home with cold feet, Casey tries to call off her wedding but before she's able to, she starts exhibiting insect like traits. Between her physical transformation and her wedding anxiety, Casey succumbs to her new instincts and begins creating a hive that not only houses her translucent eggs, but feeds on the flesh of others. As her transformation becomes complete, Casey discovers that everything can change with a single bite</info>
+</item>
+
+<item>
+<title>A Love Song for Bobby Long (2004)</title>
+<link>https://od.lk/s/OTdfMzUzNjEyMl8/A.Love.Song.for.Bobby.Long.2004.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjEyM18/A.Love.Song.for.Bobby.Long.2004.jpg</thumbnail>
+<fanart></fanart>
+<genre> Drama</genre>
+<info>A young woman, Pursy (played by Scarlett Johansson), learns that her estranged mother has died in New Orleans. She returns to her mother's house to discover that it is inhabited by two men, one an aging alcoholic, Bobby Long (John Travolta).</info>
+</item>
+
+<item>
+<title>A Home of Our Own 1993</title>
+<link>https://od.lk/s/OTdfMzUzNjEyMV8/A.Home.of.Our.Own.1993.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjEyNF8/A%20Home%20of%20Our%20Own%201993.jpg</thumbnail>
+<fanart></fanart>
+<genre>Drama, Kids & Family</genre>
+<info>The story begins in Los Angeles when Frances Lacey (Kathy Bates) takes her six children and drives north to find a home of their own away from the bad influences of the big city.</info>
+</item>
+
+<item>
+<title>The Squid and the Whale 2005</title>
+<link>https://od.lk/s/OTdfMzUzNDAzNV8/The.Squid.and.the.Whale.2005.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNTQzNV8/The%20Squid%20and%20the%20Whale%202005.jpg</thumbnail>
+<fanart></fanart>
+<genre>Comedy, Drama</genre>
+<info>In 1986, In Brooklyn, New York, the dysfunctional family of pseudo intellectuals composed by the university professor Bernard and the prominent writer Joan split. Bernard is a selfish, cheap and jealous decadent writer that rationalizes every attitude in his family and life and does not accept "philistines" - people that do not read books or watch movies, while the unfaithful Joan is growing as a writer and has no problems with "philistines". Their sons, the teenager Walt and the boy Frank, feel the separation and take side: Walt stays with Bernard, and Frank with Joan, and both are affected with abnormal behaviors. Frank drinks booze and smears with sperm the books in the library and a locker in the dress room of his school. The messed-up and insecure Walt uses Roger Water's song "Hey You" in a festival as if it was of his own, and breaks up with his girlfriend Sophie. Meanwhile Joan has an affair with Frank's tennis teacher Ivan and Bernard with his student Lili.</info>
+</item>
+
+<item>
+<title>The Borderland 2014</title>
+<link>https://od.lk/s/OTdfMzUzMzY2OF8/The.Borderland.2014.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNTQzNl8/The.Borderland.2014.jpg</thumbnail>
+<fanart></fanart>
+<genre>Action, Thriller</genre>
+<info>Gabriel is promised his freedom in return for his service in a rescue operation to save a missing British operative. When Gabriel is captured and taken to the compound where his target and several others are being held, he must devise a plan to take on the entire North Korean military installation and get everyone to safety.</info>
+</item>
+
+<item>
+<title>Riot 2015</title>
+<link>https://od.lk/s/OTdfMzUzMzUzOF8/Riot.2015.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNTQzOF8/Riot.2015.jpg</thumbnail>
+<fanart></fanart>
+<genre>Action</genre>
+<info>Copper Jack Stone purposefully orchestrates a bank robbery in order to be thrown into prison with the notorious Russian kingpin Balam. Balam is more than just a mob criminal; he's a very cunning and dangerous lord who controls the police force from behind bars. Balam lives in prison as a cover for his real power, which is King of the city. His cell is a lavish private room built specifically for him, inaccessible to most in the depths of the prison structure. Even the warden fears venturing into his area of the prison. However, even surrounded by his loyal henchmen and guards in his sectioned off fortress, Balam doesn't know Jack is coming for him to avenge his family, who Balam murdered in cold blood. Balam is tough... but Jack is tougher.</info>
+</item>
+
+<item>
+<title>Preggoland 2014</title>
+<link>https://od.lk/s/OTdfMzUzMzI1Ml8/Preggoland.2014.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNTQzN18/Preggoland%202014.jpg</thumbnail>
+<fanart></fanart>
+<genre> Comedy, Drama</genre>
+<info>Preggoland tells the story of Ruth, a 35-year-old woman who pretends to be pregnant to fit in with her friends. Although Ruth initially tries to come clean, the perks of pregnancy are too seductive to ignore and she soon finds herself living a lie. Starring Sonja Bennett (who also wrote the script), James Caan and Danny Trejo and directed by Jacob Tierney (The Trotsky), Preggoland is a comedy that looks at the lengths we will go just to feel special.</info>
+</item>
+
+<item>
+<title>Hillsong Let Hope Rise 2016</title>
+<link>https://od.lk/s/OTdfMzUzNTQzM18/Hillsong.Let.Hope.Rise.2016.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNTQzOV8/Hillsong%20Let%20Hope%20Rise%202016.jpg</thumbnail>
+<fanart></fanart>
+<genre>Documentary, Family, Music</genre>
+<info>Capturing the on-stage energy and off-stage hearts of the Australia-based band Hillsong UNITED, HILLSONG - LET HOPE RISE is a new motion-picture genre: the theatrical worship experience. The film explores Hillsong's humble beginnings and astonishing rise to prominence as an international church whose songs are sung every Sunday by more than 50 million people worldwide.</info>
+</item>
+
+<item>
+<title>Swallows and Amazons (2016)</title>
+<link>https://od.lk/s/OTdfMzUzMjg5N18/Swallows.and.Amazons.2016.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjg5OF8/Swallows.jpg</thumbnail>
+<fanart></fanart>
+<genre>Family</genre>
+<info>About two different groups of children who encounter one another on a small piece of land in a lake which they both live by. Both groups try to claim the land as theirs and do so role playing as two sets of enemy pirates. Whilst this happens they encounter another boat and a stranger, they must now work together to work out who he is and why he is there, but have they got themselves involved in something much bigger?</info>
+</item>
+
+<item>
+<title>Being.Charlie.2015</title>
+<link>https://od.lk/s/OTdfMzUzMjg4NV8/Being.Charlie.2015.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjg5Nl8/Being.Charlie.2015.jpg</thumbnail>
+<fanart></fanart>
+<genre> Drama, Romance</genre>
+<info>Charlie is a troublesome 18-year-old who breaks out of a youth drug treatment clinic, but when he returns home to Los Angeles, he's given an intervention by his parents and forced to go to an adult rehab. There, he meets a beautiful but troubled girl, Eva, and is forced to battle with drugs, elusive love and divided parents.</info>
+</item>
+
+<item>
+<title>I Am Bolt (2016)</title>
+<link>https://od.lk/s/OTdfMzUzMjg5Ml8/I.Am.Bolt.2016.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjg5NV8/I%20Am%20Bolt%20%282016%29.jpg</thumbnail>
+<fanart></fanart>
+<genre> Sport</genre>
+<info>The legacy of the fastest man in history, Usain Bolt.</info>
+</item>
+
+<item>
+<title>Fugitive at 17 (2012)</title>
+<link>https://od.lk/s/OTdfMzUzMjg3OV8/Fugitive.at.17.2012.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjg4M18/Fugitive%20at%2017%20%282012%29.jpg</thumbnail>
+<fanart></fanart>
+<genre> Crime, Mystery, Thriller</genre>
+<info>Holly Hamilton is a fearsomely independent teenage girl who is always helping the people she cares about, often using her expert computer hacking skills to do so: whether it's hacking into a college database to see if her best friend Blake got an early acceptance, or by defrauding a health insurance corporation to help her very sick grandmother get a kidney transplant. She's not afraid to break the law a little, as long as it means helping someone she loves. But her luck takes an incredibly bad turn when she and Blake go to a rave to celebrate Blake getting into college, and Blake meets a mysterious older man who kills her by slipping her an overdose of a date rape drug. What's even worse is that this man then attacks Holly and frames her for the crime! And because of Holly's less than lawful behavior in the past, the cops are convinced that she is responsible for her best friend's death. But then one day, while she is getting transferred to juvenile hall, a breakout attempt happens ... </info>
+</item>
+
+<item>
+<title>For the Love of Spock (2016)</title>
+<link>https://od.lk/s/OTdfMzUzMjg3OF8/For.the.Love.of.Spock.2016.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjg4MF8/For%20the%20Love%20of%20Spock%20%282016%29.jpg</thumbnail>
+<fanart></fanart>
+<genre> Documentary, Biography</genre>
+<info>An examination of the enduring appeal of Leonard Nimoy and his portrayal of Spock in Star Trek (1966).</info>
+</item>
+
+<item>
+<title>Bunny.the.Killer.Thing.2015</title>
+<link>https://od.lk/s/OTdfMzUzMjg3NV8/Bunny.the.Killer.Thing.2015.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjg4MV8/Bunny%20the%20Killer%20Thing%20%282015%29.jpg</thumbnail>
+<fanart></fanart>
+<genre> Action, Comedy, Horror</genre>
+<info>A group of Finnish and British people get stuck at a cabin when they are attacked by a creature that is a half human, half rabbit.</info>
+</item>
+
+<item>
+<title>Anger.of.the.Dead.2015</title>
+<link>https://od.lk/s/OTdfMzUzMjg3NF8/Anger.of.the.Dead.2015.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjg4Ml8/Anger.of.the.Dead.2015.jpg</thumbnail>
+<fanart></fanart>
+<genre> Drama, Horror</genre>
+<info>In a world ravaged by a virus that turns people into cannibals, a pregnant woman (Alice) manages to survive. Alice, in the company of two other men, strives to reach an island untouched by the plague. Meanwhile, a dangerous individual is on the trail of a mysterious girl, which causes Alice to realize that the Zombies are not her biggest and only threat.</info>
+</item>
+
+<item>
+<title>We.Love.You.2016</title>
+<link>https://od.lk/s/OTdfMzUzMjc3N18/We.Love.You.2016.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjc4OF8/We.Love.You.2016.jpg</thumbnail>
+<fanart></fanart>
+<genre> Comedy</genre>
+<info>Best friends Ford and Noah both fall for Callie, potentially spelling the end of their friendship. But then the besties come up with an idea that Callie just might be cool enough to date both of them at the same time.</info>
+</item>
+
+<item>
+<title>USS.Indianapolis.Men.of.Courage.2016</title>
+<link>https://od.lk/s/OTdfMzUzMjg3Ml8/USS%20Indianapolis%20Men%20of%20Courage%202016.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjc4N18/USS.Indianapolis.jpg</thumbnail>
+<fanart></fanart>
+<genre> Action, War</genre>
+<info>The harrowing true story of the crew of the USS Indianapolis, who were stranded in the Philippine Sea for five days after delivering the atomic weapons that would eventually end WWII. As they awaited rescue, they endured extreme thirst, hunger, and relentless shark attacks.</info>
+</item>
+
+<item>
+<title>The.Light.Between.Oceans.2016</title>
+<link>https://od.lk/s/OTdfMzUzMjc3NV8/The.Light.Between.Oceans.2016.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjc4Nl8/The.Light.Between.jpg</thumbnail>
+<fanart></fanart>
+<genre> Drama, Romance</genre>
+<info>A lighthouse keeper and his wife living off the coast of Western Australia raise a baby they rescue from a drifting rowing boat.</info>
+</item>
+
+<item>
+<title>The.Hollars.2016</title>
+<link>https://od.lk/s/OTdfMzUzMjcyOF8/The.Hollars.2016.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjc4NV8/The.Hollars.2016.jpg</thumbnail>
+<fanart></fanart>
+<genre> Comedy, Drama, Romance</genre>
+<info>Aspiring NYC artist John Hollar returns to his middle America hometown on the eve of his mother's brain surgery. Joined by his girlfriend, eight months pregnant with their first child, John is forced to navigate the crazy world he left behind as his dysfunctional family, high school pals, and over-eager ex flood back into his life ahead of his mother's operation.</info>
+</item>
+
+<item>
+<title>The.Disappointments.Room.2016</title>
+<link>https://od.lk/s/OTdfMzUzMjcyNl8/The.Disappointments.Room.2016.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjc5NF8/The.Disappointments.jpg</thumbnail>
+<fanart></fanart>
+<genre>Drama, Horror, Thriller </genre>
+<info>The architect Dana, her husband David and their son Lucas move to an isolated manor in the countryside seeking a restart of their lives after the death of their baby daughter in a tragic accident. Dana overhears noises in the attic and finds a hidden locked room. Soon she finds the keys and is haunted by the evil spirit of an old man. She researches and learns that old rural houses had disappointments room where retarded and deformed children were locked to avoid embarrassment to the traditional families. Further, the spirits of the original owner of the house, Judge Blacker, and his daughter are still trapped in the house. However, only Dana is capable to see and contact them and David believes she is delusional. When Judge Blacker threatens the life of Lucas, Dana tries to protect him but she is not sure of what is reality or daydream. </info>
+</item>
+
+<item>
+<title>Stevie.D.2016</title>
+<link>https://od.lk/s/OTdfMzUzMjcyMV8/Stevie.D.2016.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjc5M18/Stevie.D.2016.jpg</thumbnail>
+<fanart></fanart>
+<genre> Comedy, Crime, Drama</genre>
+<info>STEVIE D is a humorous crime drama about a Los Angeles construction magnate whose only son has accidentally killed a connected man. A sinister plan is hatched that sends the son into hiding while an unsuccessful actor is hired to fill his shoes and unknowingly take the hit.</info>
+</item>
+
+<item>
+<title>Nocturnal.Animals.2016</title>
+<link>https://od.lk/s/OTdfMzUzMjcxNF8/Nocturnal.Animals.2016.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjc5Ml8/Nocturnal.Animals.2016.jpg</thumbnail>
+<fanart></fanart>
+<genre> Drama, Thriller </genre>
+<info>A "story inside a story," in which the first part follows a woman named Susan who receives a book manuscript from her ex-husband, a man whom she left 20 years earlier, asking for her opinion. The second element follows the actual manuscript, called "Nocturnal Animals," which revolves around a man whose family vacation turns violent and deadly. It also continues to follow the story of Susan, who finds herself recalling her first marriage and confronting some dark truths about herself.</info>
+</item>
+
+<item>
+<title>Little.Miss.Perfect.2016</title>
+<link>https://od.lk/s/OTdfMzUzMjc4NF8/Little.Miss.Perfect.2016.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzQ1MjE5OF8/Little%20Miss%20Perfect%202016.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ1MjE5N18/Little%20Miss%20Perfect%202016%20f.png</fanart>
+<genre> Drama </genre>
+<info>Little Miss Perfect is a feature-length drama that chronicles the life of BELLE (14) an overambitious straight-A freshman. Her newest accomplishment? Class President. Belle seems to have it altogether but as family trouble and daily social academic pressures grow, she seeks a way to control an otherwise chaotic world. Triggered by a blog promoting anorexia and other eating disorders, Belle drops down to an unhealthy weight, a number that wouldn't even make for a good grade.</info>
+</item>
+
+<item>
+<title>It Had to Be You.2016</title>
+<link>https://od.lk/s/OTdfMzUzMjY4MV8/It%20Had%20to%20Be%20You.2016.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjc5MF8/It%20Had%20to%20Be%20You.2016.jpg</thumbnail>
+<fanart></fanart>
+<genre> Comedy, Music, Romance</genre>
+<info>Sonia is a neurotic jingle writer who's always dreamt of a big and exciting life. Surprised by a sudden proposal and subsequent ultimatum from her easy-going boyfriend, Chris, Sonia has to decide whether she'll join the ranks of her married friends or take a leap and pursue her fantasies. A whimsical romantic comedy that's raunchy and yet gentle, 'It Had To Be You' explores the choices women face today while satirizing cultural expectations of gender and romance.</info>
+</item>
+
+<item>
+<title>Good.Tidings.2016</title>
+<link>https://od.lk/s/OTdfMzUzMjY2N18/Good.Tidings.2016.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjc4OV8/Good.Tidings.2016.jpg</thumbnail>
+<fanart></fanart>
+<genre> Horror, Thriller</genre>
+<info>A homeless war-veteran with a chequered past must rely on a side of himself once thought buried when he and his companions are targeted by three vicious psychopaths wearing Santa suits on Christmas Day.</info>
+</item>
+
+<item>
+<title>Frank.And.Lola.2016</title>
+<link>https://od.lk/s/OTdfMzUzMjY1NV8/Frank.And.Lola.2016.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjY2NF8/Frank.And.Lola.2016.jpg</thumbnail>
+<fanart></fanart>
+<genre> Crime, Drama, Mystery</genre>
+<info>A psychosexual noir love story, set in Las Vegas and Paris, about love, obsession, sex, betrayal, revenge and, ultimately, the search for redemption.</info>
+</item>
+
+<item>
+<title>City.of.Sin 2016</title>
+<link>https://od.lk/s/OTdfMzUzMjY1M18/City.of.Sin.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjY2Ml8/City.of.Sin.jpg</thumbnail>
+<fanart></fanart>
+<genre> Crime, Drama, Thriller</genre>
+<info>A hardened detective lays low in a darkened downtown Los Angeles hotel room, biding his time as he patiently awaits a gang of vengeful hitmen that are on his tail. Throughout the course of this one fateful night the detective becomes entangled in a web of girls, guns, and money, as he enlists the help of the many intriguing hotel guests that he encounters in an effort to evade the grave fate that lies in store.</info>
+</item>
+
+<item>
+<title>Amexico.2016</title>
+<link>https://od.lk/s/OTdfMzUzMjY0OV8/Amexico.2016.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjY2MV8/Amexico.2016.jpg</thumbnail>
+<fanart></fanart>
+<genre> Drama</genre>
+<info>Inspired by a true story, Evelia, a Mexican migrant, becomes the only witness to the murders of the mysterious family she works for. She must make the decision of her life if she is to survive.</info>
+</item>
+
+<item>
+<title>All.We.Had.2016</title>
+<link>https://od.lk/s/OTdfMzUzMjY0NF8/All.We.Had.2016.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjY0Nl8/All.We.Had.2016.jpg</thumbnail>
+<fanart></fanart>
+<genre> Drama</genre>
+<info>Thirteen-year-old Ruthie Carmichael and her mother, Rita teeter on the edge of poverty, despite Rita working multiple jobs. When their landlord kicks them out, Rita uses her looks to instantly reel in a boyfriend, who takes them in. Before long, Ruthie convinces her mother to leave and they head East in search of a better life. When money runs out and their car breaks down, they find themselves stranded in a small town called Fat River where their luck finally takes a turn. Rita lands a steady job waitressing at the local diner. With enough money to pay their bills, they rent a house and Fat River becomes the first place they call home. Peter Pam, a transgender waitress, becomes Ruthie's closest friend. Arlene, the no-nonsense head waitress, takes Rita under her wing. The townspeople become Ruthie and Rita's family. Into this quirky utopia comes smooth-talking mortgage broker Vick Ward, who entices Rita with a subprime loan. Almost as soon as Rita buys a house their fortunes change. </info>
+</item>
+
+<item>
+<title>Sick of it All 2017</title>
+<link>https://od.lk/s/OTdfMzUzMjYxMV8/Sick.of.it.All.2017.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjYwN18/Sick%20of%20it%20All%202017.jpg</thumbnail>
+<fanart></fanart>
+<genre> Comedy, Drama, Mystery </genre>
+<info>Sick of it All, a black and white noir style comedy which speaks to the child in all of us. The dark comedy is at once a memorable adult fable about one's lost youth, while in essence paying respect to the wisdom contained within the mind of a child. At its core, Sick of it All, is a magical and surprising tale about the strangeness and troubles that face adulthood.</info>
+</item>
+
+<item>
+<title>Frat Star 2017</title>
+<link>https://od.lk/s/OTdfMzUzMjYxMF8/Frat.Star.2017.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjYwNl8/Frat%20Star%202017.jpg</thumbnail>
+<fanart></fanart>
+<genre> Comedy, Drama</genre>
+<info>"Frat Star" explores the alluring, superficial, manipulative, and dark world of Ivy League fraternity culture. An insecure, poor, and broken-hearted Nick enters freshman year with no interest in fraternities. This all changes when his old money roommate Billy convinces him to pledge.</info>
+</item>
+
+<item>
+<title>Amityville Exorcism 2017</title>
+<link>https://od.lk/s/OTdfMzUzMjYwOV8/Amityville.Exorcism.2017.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjYwOF8/Amityville%20Exorcism%202017.jpg</thumbnail>
+<fanart></fanart>
+<genre>Horror</genre>
+<info>A family must put faith in a mysterious priest when an demonic force, connected to a decades-old murders in their home, possesses their daughter.</info>
+</item>
+
+<item>
+<title>Onus.2016</title>
+<link>https://od.lk/s/OTdfMzUzMjYxOF8/Onus.2016.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjYyMF8/onus.jpg</thumbnail>
+<fanart></fanart>
+<genre>Drama, Mystery, Thriller</genre>
+<info>A boy wakes up below a cliff, bloodied, with a gun in his hand, and chained to a man who lies beside him… He stresses hard to remember what happened, and soon the puzzle of the days events come back to him. The story begins.</info>
+</item>
+
+<item>
+<title>I Am Gangster.2015</title>
+<link>https://od.lk/s/OTdfMzUzMjYxN18/I%20Am%20Gangster.2015.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjYyNF8/I%20Am%20Gangster%20%282015%29.jpg</thumbnail>
+<fanart></fanart>
+<genre> Action, Crime, Drama</genre>
+<info>David is an idealistic rookie officer able to maintain a decent urban lifestyle for him and his family until his moral code is challenged. At the same time up-and-coming gang member Lito steps into dangerous territory when he defies matriarch Tia in seeking more power and wealth on his own. Rebellious teenager Rio is flirting with gang life until he has to deal with his own guilt over a tragic death.</info>
+</item>
+
+<item>
+<title>Fences 2017</title>
+<link>https://od.lk/s/OTdfMzUzMjYxNl8/Fences%202017.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjYyM18/Fences%202016.jpg</thumbnail>
+<fanart></fanart>
+<genre> Drama</genre>
+<info>A working-class African-American father tries to raise his family in the 1950s, while coming to terms with the events of his life.</info>
+</item>
+
+<item>
+<title>Charlie.Charlie.2016</title>
+<link>https://od.lk/s/OTdfMzUzMjYxNF8/Charlie.Charlie.2016.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjYyMV8/Charlie.Charlie.2016.jpg</thumbnail>
+<fanart></fanart>
+<genre>Horror</genre>
+<info>An Eccentric haunted house owner invites a group of hapless teens to play the terrifying game known as Charlie Charlie, overnight in the many attractions his house has to offer. While the game is meant to be a mere spectacle of spooky fun, it soon turns into a true nightmare leaving the teenagers, and the owner, battling for their lives.</info>
+</item>
+
+<item>
+<title>The Girl With All The Gifts 2016</title>
+<link>https://od.lk/s/OTdfMzUzMjQwM18/The.Girl.With.All.The.Gifts.2016.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQwNl8/The%20Girl%20with%20All%20the%20Gifts%20%282016%29.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMjQwN18/the-girl-with-all-the-gifts.f.jpg</fanart>
+<genre> Drama, Horror, Thriller</genre>
+<info>In a dystopian near future, humanity has been ravaged by a mysterious fungal disease. The afflicted are robbed of all free will and turned into flesh-eating 'hungries'. Humankind's only hope is a small group of hybrid children who crave human flesh but retain the ability to think and feel. The children go to school at an army base in rural Britain, where they're subjected to cruel experiments by Dr. Caroline Caldwell (Glenn Close). School teacher Helen Justineau (Gemma Arterton) grows particularly close to an exceptional girl named Melanie (Sennia Nanua), thus forming a special bond. But when the base is invaded, the trio escape with the assistance of Sgt. Eddie Parks (Paddy Considine) and embark on a perilous journey of survival, during which Melanie must come to terms with who she is.</info>
+</item>
+
+<item>
+<title>Phantasm Ravager 2016</title>
+<link>https://od.lk/s/OTdfMzUzMjQwMl8/Phantasm.Ravager.2016.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQwNF8/Phantasm.Ravager.2016.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMjQwNV8/PHANTASM-RAVAGER%20f.jpg</fanart>
+<genre> Fantasy, Horror</genre>
+<info>Reggie is wandering through the desert seeking out his friend Mike and the evil The Tall Man. Along his journey, he is hunted down by the dangerous spheres and stumbles upon the gorgeous Dawn. Out of the blue, he finds himself in an institution with Mike explaining that he has dementia and then in another dimension. Where is Mike?</info>
+</item>
+
+<item>
+<title>Another Cinderella Story (2008)</title>
+<link>https://od.lk/s/OTdfMzUzMjM5OF8/Another%20Cinderella%20Story%20%282008%29.mP4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQwMV8/anothercindersstory2d.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMjQwMF8/another-cinderella-story%20F.jpg</fanart>
+<genre>Comedy, Kids & Family, Musical & Performing Arts</genre>
+<info>Prepare for plenty of music, lots of dancing, and even a little magic in this reworking of the Cinderella legend featuring High School Musical star Drew Seeley as a young Prince Charming in search of the ideal girl. It's never easy being the new kid in school, but young Joey (Seeley) is determined to make the most of his new surroundings. If only he were to find a pretty girl who was willing to teach him the ropes around his new high school, Joey could finally stop fretting about fitting in. Perhaps Mary (Selena Gomez) is just such a girl, though this Cinderella is more likely to waltz in a new pair of dancing shoes than a pair of glass slipper. </info>
+</item>
+
+<item>
+<title> Kevin.Hart.What.Now.2016</title>
+<link>https://od.lk/s/OTdfMzUzMTcyNF8/Kevin.Hart.What.Now.2016.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMTczMF8/Kevin.Hart.What.Now.2016.jpg</thumbnail>
+<fanart></fanart>
+<genre>Documentary | Comedy</genre>
+<info>Comedian Kevin Hart performs in front of a crowd of 50,000 people at Philadelphia's outdoor venue, Lincoln Financial Field.</info>
+</item>
+
+<item>
+<title>Red.Billabong.2016</title>
+<link>https://od.lk/s/OTdfMzUzMTcyNV8/Red.Billabong.2016.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMTczMV8/Red.Billabong.2016.jpg</thumbnail>
+<fanart></fanart>
+<genre>Action, Adventure, Thriller</genre>
+<info>In the Australian Outback, two brothers discover old secrets and family lies. As their friends start to go missing they fear they are being stalked by someone or something from their worst nightmares - But is it just - A story? A legend? A hoax? Or is it real?</info>
+</item>
+
+<item>
+<title>Keeping.Up.With.The.Joneses.2016</title>
+<link>https://od.lk/s/OTdfMzUzMTcyMV8/Keeping.Up.With.The.Joneses.2016.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMTcyOV8/Keeping.Up.With.The.Joneses.2016.jpg</thumbnail>
+<fanart></fanart>
+<genre>Action, Comedy</genre>
+<info>A suburban couple becomes embroiled in an international espionage plot when they discover that their seemingly perfect new neighbors are government spies.</info>
+</item>
+
+<item>
+<title>Jack.Reacher.Never.Go.Back.2016</title>
+<link>https://od.lk/s/OTdfMzUzMTY3NF8/Jack.Reacher.Never.Go.Back.2016.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMTcyOF8/Jack.Reacher.2016.jpg</thumbnail>
+<fanart></fanart>
+<genre>Action, Adventure, Crime </genre>
+<info>Jack Reacher must uncover the truth behind a major government conspiracy in order to clear his name. On the run as a fugitive from the law, Reacher uncovers a potential secret from his past that could change his life forever.</info>
+</item>
+
+<item>
+<title>Down.Under.2016</title>
+<link>https://od.lk/s/OTdfMzUzMTY1N18/Down.Under.2016.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMTY3Ml8/Down.Under.2016.jpg</thumbnail>
+<fanart></fanart>
+<genre> Comedy</genre>
+<info>A black comedy set during the aftermath of the Cronulla riots, it is the story of two carloads of hotheads from both sides of the fight destined to collide.</info>
+</item>
+
+<item>
+<title>Dark Space 2013</title>
+<link>https://od.lk/s/OTdfMzUzMTQ5OF8/Dark.Space.2013.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMTUwMl8/Dark%20Space%202013.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMTUwM18/Dark%20Space%202013%20F.jpg</fanart>
+<genre>SIFI</genre>
+<info>When their shuttle is damaged on the way to Centari Five, six friends are forced to crash land on the surface of a mysterious alien planet. Stranded with little hope of rescue, it soon becomes clear that they are not alone. Hunted by the planet's ferocious inhabitants and targeted by heavily-armed forces, they will have to struggle just to survive.</info>
+</item>
+
+<item>
+<title>Alien.Armageddon.2011</title>
+<link>https://od.lk/s/OTdfMzUzMTQ4NV8/Alien.Armageddon.2011.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMTQ4OF8/Alien.Armageddon.2011.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMTQ4N18/Alien.Armageddon%20f.jpg</fanart>
+<genre> Sci-Fi</genre>
+<info>The story of Jodie Elliot, a young woman who is trying to find her daughter in a city controlled by an invading alien army.</info>
+</item>
+
+<item>
+<title>Whats.the.Matter.with.Gerald.2016</title>
+<link>https://od.lk/s/OTdfMzUzMDQwMl8/Whats.the.Matter.with.Gerald.2016.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMDU3Nl8/Whats.the.Matter.with.Gerald.2016.jpg</thumbnail>
+<fanart></fanart>
+<genre> Comedy, Drama, Fantasy </genre>
+<info>A hypochondriac irks his partner by embracing the advice of an eccentric healer.</info>
+</item>
+
+<item>
+<title>Warriors.Gate.2016</title>
+<link>https://od.lk/s/OTdfMzUzMDM5OV8/Warriors.Gate.2016.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMDU3NV8/Warriors.Gate.2016.jpg</thumbnail>
+<fanart></fanart>
+<genre> Action | Adventure</genre>
+<info>A teenager is magically transported to China and learns to convert his video game skills into those of a Kung Fu warrior.</info>
+</item>
+
+<item>
+<title>The.Accountant.2016.</title>
+<link>https://od.lk/s/OTdfMzUyOTE4MV8/The.Accountant.2016.1080p.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMDU3NF8/The.Accountant.2016.jpg</thumbnail>
+<fanart></fanart>
+<genre> Action, Crime, Drama </genre>
+<info>Christian Wolff is a math savant with more affinity for numbers than people. Behind the cover of a small-town CPA office, he works as a freelance accountant for some of the world's most dangerous criminal organizations. With the Treasury Department's Crime Enforcement Division, run by Ray King, starting to close in, Christian takes on a legitimate client: a state-of-the-art robotics company where an accounting clerk has discovered a discrepancy involving millions of dollars. But as Christian uncooks the books and gets closer to the truth, it is the body count that starts to rise.</info>
+</item>
+
+<item>
+<title>Murder.In.Mississippi.2016</title>
+<link>https://od.lk/s/OTdfMzUyOTE4Ml8/Murder.In.Mississippi.2016.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMDU3M18/Murder.In.Mississippi.2016.jpg</thumbnail>
+<fanart></fanart>
+<genre> Mystery</genre>
+<info>An amazing murder mystery taking place in a setting that no one would expect the coast of Mississippi. A young woman tried to live a normal life despite a horrible upbringing. But she will learn her past will haunt her once more.</info>
+</item>
+
+<item>
+<title>Lovesick.Get.Over.It.2016.</title>
+<link>https://od.lk/s/OTdfMzUyOTI0N18/Lovesick.Get.Over.It.2016.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMDU3Ml8/Lovesick%20Get%20Over%20It%202016.jpg</thumbnail>
+<fanart></fanart>
+<genre> Drama</genre>
+<info>Dash is 33, broke, depressed and still in love with his ex, Lauren, who suddenly gets engaged. It all seems hopeless until he meets Nora – a spontaneous and unforgettable woman. But timing is everything, and Nora’s not going to wait around.</info>
+</item>
+
+<item>
+<title>Green.is.Gold.2016</title>
+<link>https://od.lk/s/OTdfMzUzMDM2M18/Green.is.Gold.2016.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMDU3MV8/Green.is.Gold.2016.jpg</thumbnail>
+<fanart></fanart>
+<genre> Crime, Drama </genre>
+<info>After a teenage boy's father goes to prison, he is forced to live with his older brother who has a compromising trade.</info>
+</item>
+
+<item>
+<title>First Born.2016</title>
+<link>https://od.lk/s/OTdfMzUzMDM4MV8/First%20Born.2016.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMDU3OF8/First%20Born.2016.jpg</thumbnail>
+<fanart></fanart>
+<genre> Horror</genre>
+<info>A young couples lives are turned upside down when the birth of their first child is accompanied by terrifying entities that threaten their newly formed family.</info>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>

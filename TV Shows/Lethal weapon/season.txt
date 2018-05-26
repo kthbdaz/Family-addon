@@ -1,0 +1,52 @@
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+<channel>
+<name>Season 1</name>
+<thumbnail>https://od.lk/s/OTdfMzQyNzkzNF8/lethal.weapon%20logo.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQyODU1MF8/S1.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQyNzkzM18/lethal.weapon%20f.jpg</fanart>
+<genre> Action, Crime, Drama | TV Series (2016– )</genre>
+<info>TV show based on the popular 'Lethal Weapon' films in which a slightly unhinged cop is partnered with a veteran detective trying to maintain a low stress level in his life.</info>
+</channel>
+
+<channel>
+<name>Season 2</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>Season 3</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>Season 4</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>Season 5</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>Season 6</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info>
+</channel>

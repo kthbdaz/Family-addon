@@ -1,0 +1,218 @@
+<item>
+<title>S1 EP1 Pilot</title>
+<link>https://od.lk/s/OTdfMzQ0MjQ5NF8/Frontier.2016.S01E01.HDTV.x264-KILLERS%5Bettv%5D.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQ0MjUxMV8/Frontier.2016.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0MjUxM18/frontier%20f.jpg</fanart>
+<info>Pilot
+The fur trade of the late 1700s was a time of greed, violence and ambition -- Part Game of Thrones (HBO), part Turn (AMC), the story is one of a vicious and violent struggle for control of the fur trade.</info>
+</item>
+
+<item>
+<title>S1 EP2 Little Brother War</title>
+<link>https://od.lk/s/OTdfMzQ1MjI1NV8/Frontier.2016.S01E02.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQ0MjUxMV8/Frontier.2016.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0MjUxM18/frontier%20f.jpg</fanart>
+<info>Little Brother War
+When a Cree boy is taken hostage by Lord Benton, the tribe allows Declan Harp the chance to find him. Meanwhile, Grace Emberly drums herself up a deal with Captain Chesterfield behind closed doors.</info>
+</item>
+
+<item>
+<title>S1 EP3 Mushkegowuk Esquewu</title>
+<link>https://od.lk/s/OTdfMzQ1MjI1Nl8/Frontier.2016.S01E03.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQ0MjUxMV8/Frontier.2016.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0MjUxM18/frontier%20f.jpg</fanart>
+<info>Mushkegowuk Esquewu
+After an unprovoked attack on their camp, Machk leads the Lake Walkers to retaliate against the Brown Brothers; Harp sets out to find the truth while tensions increase.
+</info>
+</item>
+
+<item>
+<title>S1 EP4 Wolves</title>
+<link>https://od.lk/s/OTdfMzQ1MjI1N18/Frontier.2016.S01E04.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQ0MjUxMV8/Frontier.2016.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0MjUxM18/frontier%20f.jpg</fanart>
+<info>Wolves
+An unexpected arrival to Fort James puts Lord Benton and Chesterfield on edge; Emberly conspires to rid herself of a problem; Michael is shocked when he sees someone from his past.</info>
+</item>
+
+<item>
+<title>S1 EP5 The Disciple</title>
+<link>https://od.lk/s/OTdfMzQ1MzUxOF8/Frontier.2016.S01E05.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQ0MjUxMV8/Frontier.2016.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0MjUxM18/frontier%20f.jpg</fanart>
+<info>The Disciple
+Captain Johnson closes in on Benton; and the fort is reinforced with soldiers as Harp and Benton come face to face. Meanwhile, Emberly makes a move to control Chesterfield.</info>
+</item>
+
+<item>
+<title>S1 EP6</title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzQ0MjUxMV8/Frontier.2016.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0MjUxM18/frontier%20f.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP7</title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzQ0MjUxMV8/Frontier.2016.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0MjUxM18/frontier%20f.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP8</title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzQ0MjUxMV8/Frontier.2016.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0MjUxM18/frontier%20f.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP9</title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzQ0MjUxMV8/Frontier.2016.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0MjUxM18/frontier%20f.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP10</title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzQ0MjUxMV8/Frontier.2016.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0MjUxM18/frontier%20f.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP11</title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzQ0MjUxMV8/Frontier.2016.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0MjUxM18/frontier%20f.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP12</title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzQ0MjUxMV8/Frontier.2016.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0MjUxM18/frontier%20f.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP13</title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzQ0MjUxMV8/Frontier.2016.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0MjUxM18/frontier%20f.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP14</title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzQ0MjUxMV8/Frontier.2016.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0MjUxM18/frontier%20f.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP15</title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzQ0MjUxMV8/Frontier.2016.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0MjUxM18/frontier%20f.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP16</title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzQ0MjUxMV8/Frontier.2016.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0MjUxM18/frontier%20f.jpg</fanart>
+</item>
+
+<item>
+<title>S1 EP17</title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzQ0MjUxMV8/Frontier.2016.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0MjUxM18/frontier%20f.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP18</title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzQ0MjUxMV8/Frontier.2016.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0MjUxM18/frontier%20f.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP19</title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzQ0MjUxMV8/Frontier.2016.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0MjUxM18/frontier%20f.jpg</fanart>
+</item>
+
+<item>
+<title>S1 EP20</title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzQ0MjUxMV8/Frontier.2016.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0MjUxM18/frontier%20f.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP21</title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzQ0MjUxMV8/Frontier.2016.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0MjUxM18/frontier%20f.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP22</title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzQ0MjUxMV8/Frontier.2016.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0MjUxM18/frontier%20f.jpg</fanart>
+</item>
+
+<item>
+<title>S1 EP23</title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzQ0MjUxMV8/Frontier.2016.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0MjUxM18/frontier%20f.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP24</title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzQ0MjUxMV8/Frontier.2016.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0MjUxM18/frontier%20f.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP25</title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzQ0MjUxMV8/Frontier.2016.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0MjUxM18/frontier%20f.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP26</title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzQ0MjUxMV8/Frontier.2016.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0MjUxM18/frontier%20f.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP27</title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzQ0MjUxMV8/Frontier.2016.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0MjUxM18/frontier%20f.jpg</fanart>
+<info></info>
+</item>

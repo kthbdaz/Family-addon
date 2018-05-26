@@ -1,0 +1,168 @@
+<item>
+<title>01 - Welcome To Jamrock</title>
+<link>https://od.lk/s/OTdfMzQzOTM1N18/01%20-%20Welcome%20To%20Jamrock.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQzOTM4M18/front.jpg</thumbnail>
+<fanart></fanart>
+<info>01 - Welcome To Jamrock</info>
+</item>
+
+<item>
+<title>02 - Pon De Floor</title>
+<link>https://od.lk/s/OTdfMzQzOTM1OF8/02%20-%20Pon%20De%20Floor.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQzOTM4M18/front.jpg</thumbnail>
+<fanart></fanart>
+<info>02 - Pon De Floor</info>
+</item>
+
+<item>
+<title>03 - Dude</title>
+<link>https://od.lk/s/OTdfMzQzOTM1OV8/03%20-%20Dude.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQzOTM4M18/front.jpg</thumbnail>
+<fanart></fanart>
+<info>03 - Dude</info>
+</item>
+
+<item>
+<title>04 - Gunshot (Fiesta Rhythm)</title>
+<link>https://od.lk/s/OTdfMzQzOTM2MF8/04%20-%20Gunshot%20%28Fiesta%20Rhythm%29.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQzOTM4M18/front.jpg</thumbnail>
+<fanart></fanart>
+<info>04 - Gunshot (Fiesta Rhythm)</info>
+</item>
+
+<item>
+<title>05 - Ghetto Story</title>
+<link>https://od.lk/s/OTdfMzQzOTM2MV8/05%20-%20Ghetto%20Story.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQzOTM4M18/front.jpg</thumbnail>
+<fanart></fanart>
+<info>05 - Ghetto Story</info>
+</item>
+
+<item>
+<title>06 - The Traffic Jam</title>
+<link>https://od.lk/s/OTdfMzQzOTM2Ml8/06%20-%20The%20Traffic%20Jam.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQzOTM4M18/front.jpg</thumbnail>
+<fanart></fanart>
+<info>06 - The Traffic Jam</info>
+</item>
+
+<item>
+<title>07 - Wild 2Nite</title>
+<link>https://od.lk/s/OTdfMzQzOTM2M18/07%20-%20Wild%202Nite.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQzOTM4M18/front.jpg</thumbnail>
+<fanart></fanart>
+<info>07 - Wild 2Nite</info>
+</item>
+
+<item>
+<title>08 - Wine.</title>
+<link>https://od.lk/s/OTdfMzQzOTM2NF8/08%20-%20Wine.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQzOTM4M18/front.jpg</thumbnail>
+<fanart></fanart>
+<info>08 - Wine.</info>
+</item>
+
+<item>
+<title>09 - Nothing But Love</title>
+<link>https://od.lk/s/OTdfMzQzOTM0NF8/09%20-%20Nothing%20But%20Love.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQzOTM4M18/front.jpg</thumbnail>
+<fanart></fanart>
+<info>09 - Nothing But Love</info>
+</item>
+
+<item>
+<title>10 - Wah Dat Fah</title>
+<link>https://od.lk/s/OTdfMzQzOTM0NV8/10%20-%20Wah%20Dat%20Fah.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQzOTM4M18/front.jpg</thumbnail>
+<fanart></fanart>
+<info>10 - Wah Dat Fah</info>
+</item>
+
+<item>
+<title>11 - Come Around.</title>
+<link>https://od.lk/s/OTdfMzQzOTM0Nl8/11%20-%20Come%20Around.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQzOTM4M18/front.jpg</thumbnail>
+<fanart></fanart>
+<info>11 - Come Around.</info>
+</item>
+
+<item>
+<title>12 - Oh Yeah.</title>
+<link>https://od.lk/s/OTdfMzQzOTM0N18/12%20-%20Oh%20Yeah.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQzOTM4M18/front.jpg</thumbnail>
+<fanart></fanart>
+<info>12 - Oh Yeah.</info>
+</item>
+
+<item>
+<title>13 - Badder Than Them.</title>
+<link>https://od.lk/s/OTdfMzQzOTM0OF8/13%20-%20Badder%20Than%20Them.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQzOTM4M18/front.jpg</thumbnail>
+<fanart></fanart>
+<info>13 - Badder Than Them.</info>
+</item>
+
+<item>
+<title>14 - Mad Love.</title>
+<link>https://od.lk/s/OTdfMzQzOTM0OV8/14%20-%20Mad%20Love.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQzOTM4M18/front.jpg</thumbnail>
+<fanart></fanart>
+<info>14 - Mad Love.</info>
+</item>
+
+<item>
+<title>15 - Numba 1 (Tide Is High)</title>
+<link>https://od.lk/s/OTdfMzQzOTM1MF8/15%20-%20Numba%201%20%28Tide%20Is%20High%29.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQzOTM4M18/front.jpg</thumbnail>
+<fanart></fanart>
+<info>15 - Numba 1 (Tide Is High)</info>
+</item>
+
+<item>
+<title>16 - Sort Out Yourself.</title>
+<link>https://od.lk/s/OTdfMzQzOTM1MV8/16%20-%20Sort%20Out%20Yourself.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQzOTM4M18/front.jpg</thumbnail>
+<fanart></fanart>
+<info>16 - Sort Out Yourself.</info>
+</item>
+
+<item>
+<title>17 - Irie</title>
+<link>https://od.lk/s/OTdfMzQzOTM1Ml8/17%20-%20Irie.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQzOTM4M18/front.jpg</thumbnail>
+<fanart></fanart>
+<info>17 - Irie</info>
+</item>
+
+<item>
+<title>18 - Move Ya Body</title>
+<link>https://od.lk/s/OTdfMzQzOTM1M18/18%20-%20Move%20Ya%20Body.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQzOTM4M18/front.jpg</thumbnail>
+<fanart></fanart>
+<info>18 - Move Ya Body</info>
+</item>
+
+<item>
+<title>19 - Never Leave You - Uh Ooh, Uh Oooh!</title>
+<link>https://od.lk/s/OTdfMzQzOTM1NF8/19%20-%20Never%20Leave%20You%20-%20Uh%20Ooh%2C%20Uh%20Oooh%21.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQzOTM4M18/front.jpg</thumbnail>
+<fanart></fanart>
+<info>19 - Never Leave You - Uh Ooh, Uh Oooh!</info>
+</item>
+
+<item>
+<title>20 - Dy-Na-Mi-Tee</title>
+<link>https://od.lk/s/OTdfMzQzOTM1NV8/20%20-%20Dy-Na-Mi-Tee.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQzOTM4M18/front.jpg</thumbnail>
+<fanart></fanart>
+<info>20 - Dy-Na-Mi-Tee</info>
+</item>
+
+<item>
+<title>21 - No Cigarette Smoking (In My Room)</title>
+<link>https://od.lk/s/OTdfMzQzOTM1Nl8/21%20-%20No%20Cigarette%20Smoking%20%28In%20My%20Room%29.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQzOTM4M18/front.jpg</thumbnail>
+<fanart></fanart>
+<info>21 - No Cigarette Smoking (In My Room)</info>
+</item>
+

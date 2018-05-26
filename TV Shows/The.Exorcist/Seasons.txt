@@ -1,0 +1,13 @@
+<channels>
+<channel>
+<name>Season 1</name>
+<thumbnail>https://od.lk/s/OTdfMzQyODA2OF8/exorcist.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQyNzkyMF8/S1.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQyODA2N18/The-Exorcist%20f.jpg</fanart>
+<genre> Horror, Thriller | TV Series (2016– )</genre>
+<info>TV show based on William Blatty's 1971 novel about a priest who performs exorcisms on demonic spirits.</info>
+</channel>
+
+
+
+

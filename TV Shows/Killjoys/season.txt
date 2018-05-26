@@ -1,0 +1,23 @@
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+<channel>
+<name>Season 1</name>
+<thumbnail>https://od.lk/s/OTdfMzQyODAxNl8/killjoys.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQyNzk2M18/S1.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQyODAxN18/killjoys%20f.jpg</fanart>
+<gere>Action, Adventure, Sci-Fi</genre>
+<info>Killjoys is a fast paced space adventure about a trio of hard-living, party-loving bounty hunters working for the R.A.C (Recovery and Apprehension Coalition). An Independent interplanetary organization of assassins and retrieval experts, who are known across the J cluster as Killjoys. The show centers on their lives and activities in the Quad, a heavily populated solar system, ruled by a tyrannical class based corporation known as the company. With the whole system verging on revolutionary war and their own bloody pasts finally catching up with them. The three struggle daily to maintain their R.A.C neutrality by focusing on the only law a Killjoy won't break "The Warrant is all".</info>
+</channel>
+
+<channel>
+<name>Season 2</name>
+<thumbnail>https://od.lk/s/OTdfMzQyODAxNl8/killjoys.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzUyNzM5M18/S2.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQyODAxN18/killjoys%20f.jpg</fanart>
+<gere>Action, Adventure, Sci-Fi</genre>
+<info>Killjoys is a fast paced space adventure about a trio of hard-living, party-loving bounty hunters working for the R.A.C (Recovery and Apprehension Coalition). An Independent interplanetary organization of assassins and retrieval experts, who are known across the J cluster as Killjoys. The show centers on their lives and activities in the Quad, a heavily populated solar system, ruled by a tyrannical class based corporation known as the company. With the whole system verging on revolutionary war and their own bloody pasts finally catching up with them. The three struggle daily to maintain their R.A.C neutrality by focusing on the only law a Killjoy won't break "The Warrant is all".</info>
+</channel>
+
+</channels>

@@ -1,0 +1,24 @@
+<item>
+<title>Back.to.the.Future.1985</title>
+<link>https://od.lk/s/OTdfMzQwNDQ1OF8/Back.to.the.Future.1985.1080p.Brrip.x264.Deceit.YIFY.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQwOTQzOF8/BTF1..jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQwOTQ0MV8/BTF1F.jpg</fanart>
+<info>Marty McFly, a typical American teenager of the Eighties, is accidentally sent back to 1955 in a plutonium-powered DeLorean "time machine" invented by a slightly mad scientist. During his often hysterical, always amazing trip back in time, Marty must make certain his teenage parents-to-be meet and fall in love - so he can get back to the future</info>
+</item>
+
+<item>
+<title>Back.to.the.Future.2.1989</title>
+<link>https://od.lk/s/OTdfMzQwNjc5Nl8/Back.to.the.Future.Part.2.1989.1080p.Brrip.x264.Deceit.YIFY.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQwOTQzOV8/BTF2.png</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQwOTQ2NF8/BTF2F.jpg</fanart>
+<info>Marty McFly has only just gotten back from the past, when he is once again picked up by Dr. Emmett Brown and sent through time to the future. Marty's job in the future is to pose as his own son to prevent him from being thrown in prison. Unfortunately, things get worse when the future changes the present.</info>
+</item>
+
+<item>
+<title>Back.to.the.Future.3.1990</title>
+<link>https://od.lk/s/OTdfMzQwNjU1M18/Back.to.the.Future.Part.3.1990.1080p.Brrip.x264.Deceit.YIFY.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQwOTQ0MF8/BTF3.png</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQwOTQ5OV8/BTF3F.jpg</fanart>
+<info>Stranded in 1955, Marty McFly receives written word from his friend, Doctor Emmett Brown, as to where can be found the DeLorean time machine. However, an unfortunate discovery prompts Marty to go to his friend's aid. Using the time machine, Marty travels to the old west where his friend has run afoul of a gang of thugs and has fallen in love with a local schoolteacher. Using the technology from the time, Marty and Emmett devise one last chance to send the two of them back to the future.</info>
+</item>
+

@@ -1,0 +1,285 @@
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>Chuka (1967)</title>
+<link>https://od.lk/s/OTdfMzU3Mzc5NV8/Chuka.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3NTQyNl8/Chuka%20%281967%29.jpg</thumbnail>
+<fanart></fanart>
+<genre> Western</genre>
+<info>While Indians besiege a U.S. Army fort in 1876, residents of the fort a gunfighter, a stagecoach driver, two Mexican women, and a motley company of soldiers try to come to terms with their pasts.</info>
+</item>
+
+<item>
+<title>The Jungle Book (1967)</title>
+<link>https://od.lk/s/OTdfMzU0NTgxN18/The.Jungle.Book.1967.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU0NzExMF8/The%20Jungle%20Book%20%281967%29.jpg</thumbnail>
+<fanart></fanart>
+<genre> Animation, Adventure, Family </genre>
+<info>Abandoned after an accident, baby Mowgli is taken and raised by a family of wolves. As the boy grows older, the wise panther Bagheera realizes he must be returned to his own kind in the nearby man-village. Baloo the bear however thinks differently taking the young Mowgli under his wing and teaching that living in the jungle is the best life there is. Bagheera realizes that Mowgli is in danger, particularly from Shere Khan the tiger who hates all people. When Baloo finally comes around, Mowgli runs off into the jungle where he survives a second encounter with Kaa the snake and finally, with Shere Khan. It's the sight of a pretty girl however that gets Mowgli to go the nearby man-village</info>
+</item>
+
+<item>
+<title>Frankenstein.Created.Woman.1967</title>
+<link>https://od.lk/s/OTdfMzQ0MzAzMF8/Frankenstein.Created.Woman.1967.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQ0NDQyN18/Frankenstein.Created.Woman.1967.jpg</thumbnail>
+<fanart></fanart>
+<info> Horror
+A dead and frozen Baron Frankenstein is re-animated by his colleague Dr. Hertz proving to him that the soul does not leave the body on the instant of death. His lab assistant, young Hans, is found guilty of murdering the local pub owner with whom he had an argument where he foolishly swore to kill the man and Frankenstein acquires his body immediately after the execution. Hans had been quite friendly with the dead man's daughter Christina who returns just in time to see him guillotined. Distraught, she commits suicide and is brought back to life by the good Doctor but with Hans' brain replacing her own. As memories return to her - Hans' memories in fact - she sets out to pursue and kill those responsible for having sent him to his death</info>
+</item>
+
+<item>
+<title>The.Devils.Brigade.1968</title>
+<link>https://od.lk/s/OTdfMzQ0NDY3OV8/The.Devils.Brigade.1968.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQ1MjEwMF8/The.Devils.Brigade.1968.jpg</thumbnail>
+<fanart></fanart>
+<info>Rating:NR
+Genre: Action & Adventure , Classics , Drama 
+Directed By:Andrew V. McLaglen 
+In Theaters:Jan 1, 1968  Wide 
+On DVD:May 7, 2002 
+Runtime: 130 minutes Studio: MGM
+During the early days of World War II, while the United States was massing its forces for the war, England hastily plans commando raids against the German forces to keep them at bay until America's troops enter the war. As a part of this plan, the Allies create the 1st Special Service Force to plan and carry out an attack on Norway in order to tie up the German forces. This commando force of Canadian soldiers and American GIs is headed by Lt. Col. Robert T. Frederick (William Holden), a paper-pusher given his first field command. Antagonism immediately erupts between Canadian Maj. Alan Crown (Cliff Robertson) and American Maj. Cliff Bricker (Vince Edwards). But Frederick utilizes their mutual dislike as a basis for a rivalry that turns this rag-tag group of misfits into a disciplined fighting force. But now that Frederick's men are ready to fight, Frederick receives word that the Norway mission has been canceled. After appealing to Washington for another assignment for the commandos, the brigade is sent on a patrol near the German lines in southern Italy. The brigade captures an enemy-held village and is then given the seemingly impossible task of taking Mt. La Difensa.</info>
+</item>
+
+<item>
+<title>Please.Dont.Eat.The.Daisies.1960</title>
+<link>https://od.lk/s/OTdfMzQ0OTgwM18/Please.Dont.Eat.The.Daisies.1960.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQ1MjA5OV8/Please.Dont.Eat.The.Daisies.1960.jpg</thumbnail>
+<fanart></fanart>
+<info>Rating:PG
+Genre: Classics , Comedy , Kids & Family , Musical & Performing Arts 
+Directed By:Charles Walters 
+Written By:Isobel Lennart 
+In Theaters:Mar 31, 1960  Wide 
+On DVD:Apr 26, 2005 
+Runtime: 111 minutes Studio: MGM
+In this entertaining comedy by Charles Walters, everyone seems to get in on the act, even the dog and especially the four overactive kids in a wildly challenging family. David Niven co-stars with Doris Day as Lawrence and Kate Mackay, distinctive parents struggling with home, life, and family. Lawrence opts for leaving his job teaching at Columbia University in New York for a post as a drama critic for a Gotham newspaper, bringing new problems to the pile the family already owns. First, they are forced to move out -- far out -- to the countryside with their brood and canine. And next, while Kate handles home, hearth, and hellions, Lawrence proceeds to alienate one of his best friends with a shattering review. That unhappy beginning to his new career also brings in one of the actresses damaged by his cutting remarks (Janis Paige), who wreaks her own form of havoc on poor Lawrence. In the meantime, Day gets to sing some songs which add to the light-hearted attitude of it all. ~ Eleanor Mannikka, Rovi</info>
+</item>
+
+<item>
+<title>A.Bullet.For.The.General.1966</title>
+<link>https://od.lk/s/OTdfMzQ0NDU1OF8/A.Bullet.For.The.General.1966.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQ1MjA5OF8/A.Bullet.For.The.General.1966.jpg</thumbnail>
+<fanart></fanart>
+<info>Genres: Western
+Country: Italy
+Language: Italian | Spanish | English
+Release Date: September 1968 (USA)
+Runtime: 118 min
+El Chuncho's bandits rob arms from a train, intending to sell the weapons to Elias' revolutionaries. They are helped by one of the passengers, Bill Tate, and allow him to join them, unaware he is an assassin working for the Mexican government.</info>
+</item>
+
+<item>
+<title>The.Chase.1966.</title>
+<link>https://od.lk/s/OTdfMzQ0MTU3MV8/The.Chase.1966.1080p.BluRay.H264.AAC-RARBG.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQ0MTk1OF8/The%20Chase.jpg</thumbnail>
+<fanart></fanart>
+<info>Most everyone in town thinks that Sheriff Calder is merely a puppet of rich oil-man Val Rogers. When it is learned that local baddie Bubber Reeves has escaped prison, Rogers' son is concerned because he is having an affair with Reeves' wife. It seems many others in town feel they may have reasons to fear Reeves. Calder's aim is to bring Reeves in alive, unharmed. Calder will have to oppose the powerful Rogers on one hand and mob violence on the other, in his quest for justice.</info>
+</item>
+
+<item>
+<title>One-Eyed.Jacks.1961</title>
+<link>https://od.lk/s/OTdfMzQyNjgwNl8/One-Eyed.Jacks.1961.1080p.BluRay.H264.AAC-RARBG.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQ0MTE1Nl8/One-Eyed.Jacks.1961.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0MTE1N18/One-Eyed.Jacks.1961%20f.jpg</fanart>
+<info>Running from the law after a bank robbery in Mexico, Dad Longworth finds an opportunity to take the stolen gold and leave his partner Rio to be captured. Years later, Rio escapes from the prison where he has been since, and hunts down Dad for revenge. Dad is now a respectable sheriff in California, and has been living in fear of Rio's return.</info>
+</item>
+
+<item>
+<title>Operation.Crossbow.1965</title>
+<link>https://od.lk/s/OTdfMzQyMjU1OV8/Operation.Crossbow.1965.WEBRip.x264-RARBG.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQyMjY0M18/Operation%20Crossbow.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQyMjY0NF8/Operation.Crossbow.1965.jpg</fanart>
+<info>This is the story of the methods used to defeat Hitler's V1 (doodlebug) and V2 (rocket) "revenge weapons" towards the end of the second world war. Even though the Nazis were in retreat these weapons could have turned their defeat into victory. The film includes references to Hannah Reich, who in real life was a German test pilot. </info>
+</item>
+
+<item>
+<title>Journey.to.the.Far.Side.of.the.Sun.1969</title>
+<link>https://od.lk/s/OTdfMzQyMjU2MV8/Journey.to.the.Far.Side.of.the.Sun.1969.720p.BluRay.x264.YIFY.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQyMjY0NV8/Journey%20to%20the%20Far%20Side.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQyMjY0Nl8/Journey.to.the.Far.Side.of.the.Sun.1969.jpg</fanart>
+<info>A planet is discovered in the same orbit as Earth's but is located on the exact opposite side of the sun, making it not visible from Earth. The European Space Exploration Council decide to send American astronaut Glenn Ross and British scientist John Kane via spaceship to explore the other planet. After a disastrous crash-landing Ross awakes to learn that Kane lies near death and that they apparently have returned to Earth, as evidenced by the presence of the Council director and his staff. Released to the custody of his wife, he soon learns things are not as they seem.</info>
+</item>
+
+<item>
+<title>The Curse of the Werewolf 1961 </title>
+<link>https://od.lk/s/OTdfMzE3MTcyNl8/The.Curse.of.the.Werewolf.1961.720p.BluRay.x264.YIFY.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzIyMTc4NV8/The.Curse.of.the.Werewolf.1961.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzM1NjQ2Nl8/curse_of_werewolf.jpg</fanart>
+<info>In Spain, Leon is born on Christmas day to a mute servant girl who was raped by a beggar. His mother dies giving birth and he is looked after by Don Alfredo. As a child Leon becomes a werewolf after having been taken hunting. As a young man, he works in a wine cellar and falls in love with the owner's daughter Cristina. One full moon, he again turns into a werewolf and terrifies the town.</info>
+</item>
+
+<item>
+<title>Dr.Goldfoot.And.The.Bikini.Machine.1965</title>
+<link>https://od.lk/s/OTdfMzI1NDU1N18/Dr.Goldfoot.And.The.Bikini.Machine.1965.1080p.BluRay.H264.AAC-RARBG.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzI3NjYzOV8/Dr.Goldfoot.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzM1NjQ2N18/Dr.Goldfoot..jpg</fanart>
+<info>Dr. Goldfoot plans on taking over the world with his beautiful female robots, who seduce rich and powerful men. Robot #11/Diane is sent after millionaire Todd Armstrong. Secret agent Craig Gamble tries to stop the plot but ends up in the torture chamber with Armstrong. The parody of "The Pit and the Pendulium" is the highlight of the film which also includes bits by Annette Funicello, Harvey Lembeck and Deborah Walley. </info>
+</item>
+
+<item>
+<title>The.300.Spartans.1962</title>
+<link>https://od.lk/s/OTdfMzI2MTc5OF8/The.300.Spartans.1962.1080p.BluRay.H264.AAC-RARBG.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzI3NjgwOV8/The%20300%20Spartans%20%281962%29.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzI3NjgxMF8/The.300.Spartans.1962.jpg</fanart>
+<info>Essentially true story of how Spartan king Leonidas led an extremely small army of Greek Soldiers (300 of them his personal body guards from Sparta) to hold off an invading Persian army now thought to have numbered 250,000. The actual heroism of those who stood (and ultimately died) with Leonidas helped shape the course of Western Civilization, allowing the Greek city states time to organize an army which repelled the Persians. Set in 480 BC. </info>
+</item>
+
+<item>
+<title>Flaming.Star.1960</title>
+<link>https://od.lk/s/OTdfMzI4NTUyNV8/Flaming.Star.1960.1080p.BluRay.x264.YIFY.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzI4NjcyNV8/Flaming%20Star.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzM1NjQ2OF8/Flaming.Star.1960.jpg</fanart>
+<info>Sam Burton's second wife Neddy is Indian, their son Pacer a half-breed. As struggle starts between the whites and the Kiowas, the Burton family is split between loyalties. Neddy and Sam are killed; Pacer sides with the Indians, his half-brother Clint with the whites.</info>
+</item>
+
+<item>
+<title>Follow.That.Dream.1962</title>
+<link>https://od.lk/s/OTdfMzI4NDQ3OV8/Follow.That.Dream.1962.1080p.BluRay.x264.YIFY.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzI4NjcyN18/Follow%20That%20Dream.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzM1NjQ2OV8/Follow.That.Dream.1962.jpg</fanart>
+<info>When the Kwimper family car runs out of gas on a new Florida highway and an officous state supervisor tries to run them off, Pop Kwimper digs in his heels and decides to do a little homesteading. He and his son Toby and their "adopted" children - Holly, Ariadne and the twins - start their own little community along a strip of the roadside. The fishing is good and the living is easy until the mob sets up a gambling operation and the state supervisor sics a sexy social worker on the Kwimpers in an effort to take away Ariadne and the twins.</info>
+</item>
+
+<item>
+<title>Change.of.Habit.1969</title>
+<link>https://od.lk/s/OTdfMzI4NjczNV8/Change.of.Habit.1969.WEBRip.x264-RARBG.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzI4NzQzOV8/Change%20of%20Habit.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzM1NjQ3MV8/Change.of.Habit.1969.jpg</fanart>
+<info>Elvis in an uncommon dramatic role playing Dr John Carpenter, an inner city Doctor working in a free clinic. Mary Tyler Moore plays a nurse and a catholic Nun who is sent by the catholic action committee with two others dressed as nurses to help him. It about how they make a difference. </info>
+</item>
+
+<item>
+<title>Tickle.Me.1965</title>
+<link>https://od.lk/s/OTdfMzI4NzQ0MF8/Tickle.Me.1965.1080p.BluRay.H264.AAC-RARBG.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzI5NDk3OV8/Tickle%20Me.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzM1NjQ3Ml8/Tickle.Me.1965.jpg</fanart>
+<info>Elvis is a singing rodeo rider who drifts into an expensive dude ranch patronized by wealthy glamour girls. The owner, Vera Radford, hires Elvis as a stable man. Pretty physical fitness trainer Pam Merritt has a letter from her late grandfather directing her to a cache of gold in the ghost town of Silverado. The sheriff and his gang learn of the letter and plot to take it away from her</info>
+</item>
+
+<item>
+<title>Viva.Las.Vegas.1964</title>
+<link>https://od.lk/s/OTdfMzI5MTE1MV8/Viva.Las.Vegas.1964.1080p.BluRay.H264.AAC-RARBG.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzI5NDk3OF8/Viva%20Las%20Vegas.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzM1NjQ3M18/Viva.Las.Vegas.1964.jpg</fanart>
+<info>Lucky Jackson arrives in town with his car literally in tow ready for the first Las Vegas Grand Prix - once he has the money to buy an engine. He gets the cash easily enough but mislays it when the pretty swimming pool manageress takes his mind off things. It seems he will lose both race and girl, problems made more difficult by rivalry from Elmo Mancini, fellow racer and womaniser. Perhaps some singing will help. </info>
+</item>
+
+<item>
+<title>G.I. Blues 1960</title>
+<link>https://od.lk/s/OTdfMzM5NjQyMl8/G.I.%20Blues%20%281960%29%20DVDRip%20XviD%20AC3%20peaSoup.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzQwMzE3MF8/g-i-blues.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQwMzE2Nl8/g-i-blues-2.jpg</fanart>
+<info>Tulsa is a specialist in the US Army stationed in Germany. He loves to sing and has dreams to run his own nightclub when he leaves the army....but dreams don't come cheap. Tulsa places a bet with his friend Dynamite that he can spend the night with a club dancer named Lili, who is rumored to be hard to get. When Dynamite gets transferred, Tulsa is brought in to take his place. He is not looking forward to it, but in order to keep his money, he must go through with it. </info>
+</item>
+
+
+<item>
+<title>Easy.Come.Easy.Go.1967</title>
+<link>https://od.lk/s/OTdfMzQwNDE2M18/Easy.Come.Easy.Go.1967.WEBRip.x264-RARBG.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQwNDE2N18/Easy%20Come%2C%20Easy%20Go.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQwNDE2OF8/Easy.Come.Easy.Go.1967.jpg</fanart>
+<info>A frogman working for the U.S. Navy dives for buried treasure.</info>
+</item>
+
+<item>
+<title>Donovan's Reef 1963</title>
+<link>https://od.lk/s/OTdfMzQwNDQ1N18/Donovans.Reef.1963.WEBRip.x264-RARBG.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQwNDQ1NV8/Donovan%27s%20Reef.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQwNDQ1Nl8/Donovan%27s%20Reef..jpg</fanart>
+<info>'Guns' Donovan prefers carousing with his pals Doc Dedham and 'Boats' Gilhooley, until Dedham's high-society daughter Amelia shows up in their South Seas paradise</info>
+</item>
+
+<item>
+<title>Two.Rode.Together.1961</title>
+<link>https://od.lk/s/OTdfMzQxOTE4Ml8/Two.Rode.Together.1961.1080p.BluRay.H264.AAC-RARBG.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQxOTQzNF8/Two%20Rode%20Together.jpg</thumbnail>
+<fanart></fanart>
+<info>The US Army is under pressure from the desperate relatives of white prisoners of the Comanches to secure their rescue. A cynical and corrupt marshal, Guthrie McCabe, is persuaded by an army lieutenant to assist in the negotiations with the Comanches; however, just two captives are released, and their reintegration into white society proves highly problematic.</info>
+</item>
+
+<item>
+<title>Navajo.Joe.1966</title>
+<link>https://od.lk/s/OTdfMzQ1MjgyMF8/Navajo.Joe.1966.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQ1Mjk5N18/Navajo.Joe.1966.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ1Mjk5OF8/Navajo.Joe.1966%20f.jpg</fanart>
+<info>Genres: Western
+Certificate: Not Rated
+Director: Sergio Corbucci
+Writers: Ugo Pirro (story), Piero Regnoli (screenplay) (as Dean Craig)
+Stars: Burt Reynolds, Aldo Sambrell, Nicoletta Machiavelli
+Language: Italian
+Release Date: 25 November 1966
+
+A Native American warrior called Navajo Joe seeks revenge on a gang of sadistic outlaws who has massacred the people of his tribe.</info>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>

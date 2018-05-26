@@ -1,0 +1,82 @@
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>Quarries (2017)</title>
+<link>https://od.lk/s/OTdfMzY0NDU1Nl8/Quarries.2016.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzY0NDY0NF8/Quarries%20%282017%29.jpg</thumbnail>
+<fanart></fanart>
+<genre>Drama, Horror, Thriller</genre>
+<info>To escape her abusive boyfriend, Kat joins a wilderness expedition with a group of women, all of whom are struggling with the uncertainty of life. What was supposed to be an opportunity for personal discovery quickly becomes a fight for survival, forcing each one to discover the strength within themselves that they didn't even know they possessed. While being brazenly chased by a pack of predators, the strong quickly set themselves apart from the weak. In a battle of will, stamina, and heart, these very virtues present themselves at the most crucial moment. With death looming, each is left with what is truly important - the strength within oneself.</info>
+</item>
+
+<item>
+<title>Queen of Katwe (2016)</title>
+<link>https://od.lk/s/OTdfMzUzNjU4M18/Queen.of.Katwe.2016.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjU3NV8/Queen%20of%20Katwe%20%282016%29.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjU4MV8/Queen%20of%20Katwe%20f%20%282016%29.jpg</fanart>
+<genre> Biography, Drama, Sport</genre>
+<info>A Ugandan girl sees her world rapidly change after being introduced to the game of chess.</info>
+</item>
+
+<item>
+<title>Quackerz.2016</title>
+<link>https://od.lk/s/OTdfMzUyNzI0NF8/Quackerz%202016.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUyNzIzNl8/Quackerz.2016.png</thumbnail>
+<fanart></fanart>
+<genre> Animation, Adventure, Comedy </genre>
+<info>On the little island lost in far sunny China the regular life of mandarin ducks in
+an instant turns into chaos: the flock of the military mallards are making a cruise
+to Hawaii, by mistake lands on the mandarine's island. The chief of mallards,
+Duckmus doesn't want to reckon with the local traditions, as well the mandarin's
+Emperor doesn't like uninvited guests. The Cold War breaks out between two clans .
+The heir of the of mandarin's Emperor, Longway is falling in love with charming Erica,
+the daughter of the mallards chief and kids don't care about the war between their dads.
+While leaders are trying to sort out their relationships, Longway gets into a trouble.
+Two stupid thieves from the human town, on the instructions of the Old Witch, start
+to hunt for Longway. It turns out, that Longway is the magic "Sun Duck", which,
+according to the legend, is endowed with superhuman abilities, and it allows
+him to get power from the sun.
+</info>
+</item>
+
+<item>
+<title>Queen.of.the.Desert.2016</title>
+<link>https://www.dropbox.com/s/bfubhx3ukfj7618/Queen.of.the.Desert.2016.avi?dl=1</link>
+<thumbnail>https://od.lk/s/OTdfMzI5NDk4NV8/Queen.of.the.Desert.2016.jpg</thumbnail>
+<fanart></fanart>
+<info>A chronicle of Gertrude Bell's life, a traveler, writer, archaeologist, explorer, cartographer, and political attaché for the British Empire at the dawn of the twentieth century. </info>
+</item>
+
+<item>
+<title>Quantum.Apocalypse.2010</title>
+<link>https://od.lk/s/OTdfMzQ0MjM4NV8/Quantum.Apocalypse.2010.1080p.BluRay.H264.AAC-RARBG.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQ0MjQxMl8/Quantum%20Apocalypse%20%282010%29.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0MjQxM18/Quantum.Apocalypse.2010%20f.png</fanart>
+<info> Sci-Fi 
+A group of talented but rebellious 'rock-star scientists' find themselves in a race against time to save Earth when a comet makes an unexpected turn towards our blue planet where all life may cease to exist within days if our small town heroes fail to find a solution.</info>
+</item>
+
+<item>
+<title>Quadrophenia.1979</title>
+<link>https://od.lk/s/OTdfMzE2NzI4Ml8/Quadrophenia.1979.REMASTERED.1080p.BluRay.H264.AAC-RARBG.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzE2OTUwM18/quadrophenia.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzE2OTUwMV8/Quadrophenia.1979..jpg</fanart>
+<info>London, 1965: Like many other youths, Jimmy hates the philistine life, especially his parents and his job in a company's mailing division. Only when he's together with his friends, a 'Mod' clique, cruising London on his motor-scooter and hearing music such as that of 'The Who' and 'The High Numbers', does he feel free and accepted. However, it's a flight into an illusionary world. </info>
+</item>
+
+<item>
+<title>Quatermass.II.Enemy.from.Space.1957</title>
+<link>https://od.lk/s/OTdfMzQyMjU1N18/Quatermass.II.Enemy.from.Space.1957.720p.BluRay.x264.YIFY.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQ1MjA5N18/Quatermass.II.Enemy.from.Space.1957.jpg</thumbnail>
+<fanart></fanart>
+<info>Genres: Sci-Fi | Horror
+Release Date: September 1957 (USA)
+Runtime: 85 min
+Professor Quatermass, trying to gather support for Moon colonisation his project to colonize the Moon, is intrigued by the mysterious traces that have been showing up on his radar - meteorites crashing down?. Following them to the place where they should be landing he finds a destroyed village, a mysterious factory too close to his designs for the Moon colony for comfort, and some strange, aerodynamic objects containing a mysterious, ammonia-based gas that infects one of his assistants. Officially, the factory is producing synthetic food; but despite the veil of secrecy surrounding it Quatermass succeeds in finding out it harbours aliens with deadly designs on the Earth... Second in Hammer Films' trio of screen versions for Nigel Kneale's classic 1950s BBC serials, with the same director and star as 1955's "The Quatermass Experiment".</info>
+</item>

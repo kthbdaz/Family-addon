@@ -1,0 +1,120 @@
+<item>
+<title>01. Elvis Presley - A Big Hunk o' Love.</title>
+<link>https://od.lk/s/OTdfMzQzNTIyMF8/01.%20Elvis%20Presley%20-%20A%20Big%20Hunk%20o%27%20Love.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQzNTIzMl8/cover.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>02. Elvis Presley - I've Got a Thing About You Baby</title>
+<link>https://od.lk/s/OTdfMzQzNTIyMV8/02.%20Elvis%20Presley%20-%20I%27ve%20Got%20a%20Thing%20About%20You%20Baby.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQzNTIzMl8/cover.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>03. Elvis Presley - Suspicious Minds</title>
+<link>https://od.lk/s/OTdfMzQzNTIyMl8/03.%20Elvis%20Presley%20-%20Suspicious%20Minds.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQzNTIzMl8/cover.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>04. Elvis Presley - Don't</title>
+<link>https://od.lk/s/OTdfMzQzNTIyM18/04.%20Elvis%20Presley%20-%20Don%27t.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQzNTIzMl8/cover.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>05. Elvis Presley - I Just Can't Help Believin'</title>
+<link>https://od.lk/s/OTdfMzQzNTIyNF8/05.%20Elvis%20Presley%20-%20I%20Just%20Can%27t%20Help%20Believin%27.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQzNTIzMl8/cover.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>06. Elvis Presley - Just Pretend</title>
+<link>https://od.lk/s/OTdfMzQzNTIyNV8/06.%20Elvis%20Presley%20-%20Just%20Pretend.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQzNTIzMl8/cover.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>07. Elvis Presley - Love Letters</title>
+<link>https://od.lk/s/OTdfMzQzNTIyNl8/07.%20Elvis%20Presley%20-%20Love%20Letters.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQzNTIzMl8/cover.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>08. Elvis Presley - Amazing Grace</title>
+<link>https://od.lk/s/OTdfMzQzNTIyN18/08.%20Elvis%20Presley%20-%20Amazing%20Grace.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQzNTIzMl8/cover.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>09. Elvis Presley - Starting Today.</title>
+<link>https://od.lk/s/OTdfMzQzNTIzMF8/09.%20Elvis%20Presley%20-%20Starting%20Today.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQzNTIzMl8/cover.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>10. Elvis Presley - Kentucky Rain</title>
+<link>https://od.lk/s/OTdfMzQzNTIzMV8/10.%20Elvis%20Presley%20-%20Kentucky%20Rain.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQzNTIzMl8/cover.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>11. Elvis Presley - Memories</title>
+<link>https://od.lk/s/OTdfMzQzNTIyOF8/11.%20Elvis%20Presley%20-%20Memories.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQzNTIzMl8/cover.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>12. Elvis Presley - Let It Be Me.</title>
+<link>https://od.lk/s/OTdfMzQzNTIyOV8/12.%20Elvis%20Presley%20-%20Let%20It%20Be%20Me.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQzNTIzMl8/cover.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>13. Elvis Presley - Always on My Mind.</title>
+<link>https://od.lk/s/OTdfMzQzNTIxN18/13.%20Elvis%20Presley%20-%20Always%20on%20My%20Mind.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQzNTIzMl8/cover.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>14. Elvis Presley - The Wonder of You</title>
+<link>https://od.lk/s/OTdfMzQzNTIxOF8/14.%20Elvis%20Presley%20-%20The%20Wonder%20of%20You.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQzNTIzMl8/cover.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>15. Elvis Presley with Helene Fischer - Just Pretend</title>
+<link>https://od.lk/s/OTdfMzQzNTIxOV8/15.%20Elvis%20Presley%20with%20Helene%20Fischer%20-%20Just%20Pretend.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQzNTIzMl8/cover.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+

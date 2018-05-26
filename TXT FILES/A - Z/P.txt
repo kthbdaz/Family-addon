@@ -1,0 +1,13 @@
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+<channel>
+<name>Peppa pig</name>
+<thumbnail>https://od.lk/s/OTdfMzUyNTY2OV8/peppa.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzUyNTY3OF8/peppa%20pig.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzUyNTY3Nl8/peppa%20f.jpg</fanart>
+<info></info>
+</channel>
+
+</channels>

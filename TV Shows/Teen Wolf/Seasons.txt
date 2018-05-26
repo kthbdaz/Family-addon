@@ -1,0 +1,50 @@
+<channels>
+<channel>
+<name>Season 1</name>
+<thumbnail>https://od.lk/s/OTdfMzQyMTcwMV8/teen-wolf%20s1.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQyNzk4Nl8/S1.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQyMTcwNF8/-Teen-Wolf%20f.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>Season 2</name>
+<thumbnail>https://od.lk/s/OTdfMzQyMTcwMl8/teen-wolf%20s2.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQyNzk4N18/S2.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQyMTcwM18/teen-wolf%20f.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>Season 3</name>
+<thumbnail>https://od.lk/s/OTdfMzQyMTY5OF8/teen-wolf%20s3.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQyNzk4OF8/S3.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQyMTcwNV8/Teen-Wolf%20f.png</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>Season 4</name>
+<thumbnail>https://od.lk/s/OTdfMzQyMTY5OV8/teen-wolf%20s4.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQyNzk4OV8/S4.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQyMTcwNF8/-Teen-Wolf%20f.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>Season 5</name>
+<thumbnail>https://od.lk/s/OTdfMzQyMTcwMF8/teen-wolf%20s5.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQyNzk5MF8/S5.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQyMTcwM18/teen-wolf%20f.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>Season 6</name>
+<thumbnail></thumbnail>
+<externallink>https://od.lk/s/OTdfMzQyNzk5MV8/S6.txt</externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+
+

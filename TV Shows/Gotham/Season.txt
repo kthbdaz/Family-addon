@@ -1,0 +1,31 @@
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+<channel>
+<name>Season 1</name>
+<thumbnail>https://od.lk/s/OTdfMzQyNzg5OV8/gotham.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQyNzg5OF8/S1.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQyNzkwMF8/Gotham-TV.jpg</fanart>
+<genre> Action, Crime, Drama</genre>
+<info>In crime ridden Gotham City, Thomas and Martha Wayne are murdered before young Bruce Wayne's eyes. Although the idealistic Gotham City Police Dept. detective James Gordon, and his cynical partner, Harvey Bullock, seem to solve the case quickly, things are not so simple. Inspired by Bruce's traumatized desire for justice, Gordon vows to find it amid Gotham's corruption. Thus begins Gordon's lonely quest that would set him against his own comrades and the underworld with their own deadly rivalries and mysteries. In the coming wars, innocence will be lost and compromises will be made as some criminals will fall as casualties while others will rise as supervillains. All the while, young Bruce observes this war with a growing obsession that would one day drive him to seek his own revenge as The Batman.</info>
+</channel>
+
+<channel>
+<name>Season 2</name>
+<thumbnail>https://od.lk/s/OTdfMzQyNzg5OV8/gotham.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQyNzg5NV8/S2.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQyNzkwMF8/Gotham-TV.jpg</fanart>
+<genre> Action, Crime, Drama</genre>
+<info>In crime ridden Gotham City, Thomas and Martha Wayne are murdered before young Bruce Wayne's eyes. Although the idealistic Gotham City Police Dept. detective James Gordon, and his cynical partner, Harvey Bullock, seem to solve the case quickly, things are not so simple. Inspired by Bruce's traumatized desire for justice, Gordon vows to find it amid Gotham's corruption. Thus begins Gordon's lonely quest that would set him against his own comrades and the underworld with their own deadly rivalries and mysteries. In the coming wars, innocence will be lost and compromises will be made as some criminals will fall as casualties while others will rise as supervillains. All the while, young Bruce observes this war with a growing obsession that would one day drive him to seek his own revenge as The Batman.</info>
+</channel>
+
+<channel>
+<name>Season 3</name>
+<thumbnail>https://od.lk/s/OTdfMzQyNzg5OV8/gotham.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQyNzg5Nl8/S3.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQyNzkwMF8/Gotham-TV.jpg</fanart>
+<genre> Action, Crime, Drama</genre>
+<info>In crime ridden Gotham City, Thomas and Martha Wayne are murdered before young Bruce Wayne's eyes. Although the idealistic Gotham City Police Dept. detective James Gordon, and his cynical partner, Harvey Bullock, seem to solve the case quickly, things are not so simple. Inspired by Bruce's traumatized desire for justice, Gordon vows to find it amid Gotham's corruption. Thus begins Gordon's lonely quest that would set him against his own comrades and the underworld with their own deadly rivalries and mysteries. In the coming wars, innocence will be lost and compromises will be made as some criminals will fall as casualties while others will rise as supervillains. All the while, young Bruce observes this war with a growing obsession that would one day drive him to seek his own revenge as The Batman.</info>
+</channel>
+

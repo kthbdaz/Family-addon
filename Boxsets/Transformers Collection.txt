@@ -1,0 +1,41 @@
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Transformers.2007.</title>
+<link>https://od.lk/d/OTdfMzE0MDYyN18/Transformers.2007.720p.BrRip.x264.YIFY.mp4</link>
+<thumbnail>https://od.lk/d/OTdfMzE1NzY0NF8/transformers_2007_8.jpg</thumbnail>
+<fanart>https://od.lk/d/OTdfMzE1NzY0OF8/transformers%202007.jpg</fanart>
+<info>A live-action version of the original Transformers TV series involves an alien race of robots called the Autobots and the Decepticon s crash landing on Earth where they battle for the ultimate power source: Energon.</info>
+</item>
+
+<item>
+<title>Transformers.Revenge.of.the.Fallen.IMAX.EDITION.2009</title>
+<link>https://od.lk/d/OTdfMzE0OTU0Ml8/Transformers.Revenge.of.the.Fallen.IMAX.EDITION.2009.720p.BrRip.x264.YIFY.mp4</link>
+<thumbnail>https://od.lk/d/OTdfMzE1NzY0M18/transformers%20-revenge-of-the-fallen-%282009%29.jpg</thumbnail>
+<fanart>https://od.lk/d/OTdfMzE1NzY0Ml8/Transformers%20Revenge%20of%20the%20Fallen%202.jpg</fanart>
+<info>Michael Bay follows up his 2007 big-screen adaptation of the Transformers cartoon/toy franchise with the 2009 sequel TRANSFORMERS ? REVENGE OF THE FALLEN. The epic battle for supremacy between the Autobots and the Decepticons rages on, and as usual, it's the humans who are caught in the crossfire.
+The Decepticons continue to spearhead a destructive campaign against the earthlings and their Autobot protectors. But the main villain of the piece is The Fallen (voiced by Tony Todd), a centuries-old Giger-esque baddie who emerges from the scrap heap hungry for power. Having lain dormant for so long, his batteries are in serious need of recharging, and the only energy source in the galaxy powerful enough to restore him to his former titanic glory is the Earth's sun. The Fallen realises that draining the sun of its energy has the added benefit of wiping out the entire human race; something he has been plotting ever since his last attempt at harvesting the sun's energy was foiled.
+Several characters from the first film return, including Sam (Shia LaBeouf), an all-American college freshman who enjoys a vague 'chosen one' status among the Autobots, and Mikaela (Megan Fox), his girlfriend, who's not only beautiful but handy with a wrench. However, the real star of the show is Optimus Prime (voiced by original voice actor Peter Cullen). The legendary head Autobot is given a lot more screen time in this outing, and features prominently in many of the manic action sequences. You don't even have to be an old-school Transformers fan to pick up on the mythos--he speaks in nothing but searing quips and infinite wisdoms, and can turn into a turbo-charged Mack truck at will. So even if Optimus Prime isn't your mental template for the warrior-king archetype</info>
+</item>
+
+<item>
+<title>Transformer.3.2011</title>
+<link>https://od.lk/d/OTdfMzE0ODQxM18/Transformer.3.2011.1080p.BrRip.x264.YIFY.mp4</link>
+<thumbnail>https://od.lk/d/OTdfMzE1NzY0NV8/Transformers-3.jpg</thumbnail>
+<fanart>https://od.lk/d/OTdfMzE1NzY0Nl8/Transformers-3-transformers-3-34552001-1920-1200.jpg</fanart>
+<info>The interstellar war between the Autobots and Decepticons shifts onto overdrive following the discovery of Sentinel Prime (voice of Leonard Nemoy) in this sequel from director Michael Bay. Only a precious handful of officials in the government and military realize that the 1969 moon mission was the result of an event that threatened profound repercussions for the entire human race. When the Apollo 11 astronauts discover the wrecked remains of Sentinel Prime on the surface of our natural satellite, they bring him back to planet Earth. But Sentinel Prime wasn't the only alien object on the moon, and when a malevolent new enemy makes its presence known, only the Autobots can save mankind from certain destruction</info>
+</item>
+
+<item>
+<title>Transformers.Age.of.Extinction.2014</title>
+<link>https://od.lk/d/OTdfMzE0NTM0MF8/Transformers.Age.of.Extinction.2014.1080p.3D.HSBS.BluRay.x264.YIFY.mp4</link>
+<thumbnail>https://od.lk/d/OTdfMzE1NzY0N18/transformers-age-of-extinction.jpg</thumbnail>
+<fanart>https://od.lk/d/OTdfMzE1NzY0OV8/transformers%20-age-of-extinction.jpg</fanart>
+<info>After the battle between the Autobots and Decepticons that leveled Chicago, humanity thinks that all alien robots are a threat. So Harold Attinger, a CIA agent, establishes a unit whose sole purpose is to hunt down all of them. But it turns out that they are aided by another alien robot who is searching for Optimus Prime. Cade Yeager, a "robotics expert", buys an old truck and upon examining it, he thinks it's a Transformer. When he powers it up, he discovers it's Optimus Prime. Later, men from the unit show up looking for Optimus. He helps Yeager and his daughter Tessa escape but are pursued by the hunter. They escape and Yeager learns from technology he took from the men that a technology magnate and defense contractor named Joshua Joyce is part of what's going on, so they go to find out what's going on. </info>
+</item>
+

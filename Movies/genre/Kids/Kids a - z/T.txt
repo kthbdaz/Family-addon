@@ -1,0 +1,22 @@
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+<channel>
+<name></name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+
+<item>
+<title>The Jetsons & WWE Robo WrestleMania (2017)</title>
+<link>https://od.lk/s/OTdfMzU4OTM3OV8/The.Jetsons.And.WWE.Robo.WrestleMania.2017.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzU4OTQ2Ml8/The%20Jetsons.jpg</thumbnail>
+<fanart></fanart>
+<genre>Animation, Comedy, Family</genre>
+<info>Blast o to adventure in this animated feature where our favorite space-age family, The Jetsons, meet the superstars of WWE! When George unearths WWE's Big Show, who has been frozen for 100 years, the futuristic face-o begins! Once thawed, Big Show wastes no time in taking the WWE belt from the current robot champ as well as taking total control of Orbit City. It's up to The Jetsons to travel back in time and enlist help from WWE's brightest stars: Sheamus, Alicia Fox, Roman Reigns, Seth Rollins and the Uso brothers. Can this cosmic tag-team prevail and set this twisted time-warp straight? Tune in and see with The Jetsons and WWE!</info>
+</item>
+
+</channels>

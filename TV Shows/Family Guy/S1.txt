@@ -1,0 +1,70 @@
+<item>
+<title>S1 EP1 Death Has a Shadow</title>
+<link>https://od.lk/s/OTdfMzUzNjY5NV8/Family%20Guy%20-%20S01E01%20-%20Death%20Has%20A%20Shadow%20.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY2NV8/s1.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Death Has a Shadow
+Peter loses his job, but ends up getting rich off welfare.</info>
+</item>
+
+<item>
+<title>S1 EP2 I Never Met the Dead Man</title>
+<link>https://od.lk/s/OTdfMzUzNjY5Nl8/Family%20Guy%20-%20S01E02%20-%20I%20Never%20Met%20The%20Dead%20Man.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY2NV8/s1.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>I Never Met the Dead Man
+After crashing into the town's TV transmitter, Peter discovers life without television.</info>
+</item>
+
+<item>
+<title>S1 EP3 Chitty Chitty Death Bang</title>
+<link>https://od.lk/s/OTdfMzUzNjY5N18/Family%20Guy%20-%20S01E03%20-%20Chitty%20Chitty%20Death%20Bang%20.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY2NV8/s1.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Chitty Chitty Death Bang
+Stewie has his first birthday, while Meg makes a new friend.</info>
+</item>
+
+<item>
+<title>S1 EP4 Mind Over Murder</title>
+<link>https://od.lk/s/OTdfMzUzNjY5OF8/Family%20Guy%20-%20S01E04%20-%20Mind%20Over%20Murder.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY2NV8/s1.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Mind Over Murder
+Confined to house arrest, Peter opens a bar in the basement.</info>
+</item>
+
+<item>
+<title>S1 EP5 A Hero Sits Next Door</title>
+<link>https://od.lk/s/OTdfMzUzNjY5OV8/Family%20Guy%20-%20S01E05%20-%20A%20Hero%20Sits%20Next%20Door.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY2NV8/s1.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>A Hero Sits Next Door
+Peter gets jealous when the new neighbor starts stealing the spotlight.</info>
+</item>
+
+<item>
+<title>S1 EP6 The Son Also Draws</title>
+<link>https://od.lk/s/OTdfMzUzNjcwMF8/Family%20Guy%20-%20S01E06%20-%20The%20Son%20Also%20Draws.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY2NV8/s1.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>The Son Also Draws
+The Griffins head to New York to get Chris back into Boy Scouts, which he doesn't want do to. Along the way, they stop at a Indian casino, where Lois loses all of the family's money and the car.</info>
+</item>
+
+<item>
+<title>S1 EP7 Brian: Portrait of a Dog</title>
+<link>https://od.lk/s/OTdfMzUzNjcwMV8/Family%20Guy%20-%20S01E07%20-%20Brian%3B%20Portrait%20Of%20A%20Dog.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY2NV8/s1.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Brian: Portrait of a Dog
+Brian's life is on the line after he refuses to be treated like a dog.</info>
+</item>
+

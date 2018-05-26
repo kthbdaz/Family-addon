@@ -1,0 +1,14 @@
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+<channel>
+<name>S1</name>
+<thumbnail>https://od.lk/s/OTdfMzQ1MzkyOV8/pacific%20h.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQ1MzkzMV8/S1.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQ1MzkzMF8/Pacific%20Heat.jpg</fanart>
+<genre>Animation | TV Series (2016– )</genre>
+<info>A group of ragtag Australian agents working hard to recover their reputation in order to prevent having their team shut down.</info>
+</channel>
+
+</channels>

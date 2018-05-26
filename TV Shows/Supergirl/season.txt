@@ -1,0 +1,23 @@
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+<channel>
+<name>Season 1</name>
+<thumbnail>https://od.lk/s/OTdfMzQzMDQwMF8/supergirl.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQzMDM5NV8/S1.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQzMDQwMV8/supergirl%20f.jpg</fanart>
+<genre> Action, Adventure, Drama</genre>
+<info></info>
+</channel>
+
+<channel>
+<name>Season 2</name>
+<thumbnail>https://od.lk/s/OTdfMzQzMDQwMF8/supergirl.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQzMDM5Nl8/S2.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQzMDQwMV8/supergirl%20f.jpg</fanart>
+<genre> Action, Adventure, Drama</genre>
+<info></info>
+</channel>
+
+</channels>

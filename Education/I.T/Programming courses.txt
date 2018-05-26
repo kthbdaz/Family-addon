@@ -1,0 +1,77 @@
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+<channel>
+<name>Programming Course in C for Beginners</name>
+<thumbnail>https://od.lk/s/OTdfMzU3MTQ5OF8/C_Programming.svg.png</thumbnail>
+<externallink>https://goo.gl/7D7EFc</externallink>
+<fanart>https://od.lk/s/OTdfMzU3MTQ5OV8/Computer-Programming.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>Learning to Program and Solve Problems with C++</name>
+<thumbnail>https://od.lk/s/OTdfMzU3MzcxOV8/cpp1.jpg</thumbnail>
+<externallink>https://goo.gl/8Yog6b</externallink>
+<fanart>https://od.lk/s/OTdfMzU3MzcxN18/c-computer%20f.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>Python Beginner Tutorials</name>
+<thumbnail>https://od.lk/s/OTdfMzU3NTc3Ml8/Python.svg.png</thumbnail>
+<externallink>https://goo.gl/Lwdc4y</externallink>
+<fanart>https://od.lk/s/OTdfMzU3NTc3MV8/Python%20Programming.png</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>Google Python Classes</name>
+<thumbnail>https://od.lk/s/OTdfMzU3NTc3Ml8/Python.svg.png</thumbnail>
+<externallink>https://goo.gl/cVnSzy</externallink>
+<fanart>https://od.lk/s/OTdfMzU3NTc3MV8/Python%20Programming.png</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>Java Tutorial for Beginners</name>
+<thumbnail>https://od.lk/s/OTdfMzU3NTc5OF8/java-logo.jpg</thumbnail>
+<externallink>https://goo.gl/1SgkHT</externallink>
+<fanart>https://od.lk/s/OTdfMzU3NTc5N18/javacode.jpeg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>HTML and CSS Tutorial For Beginner</name>
+<thumbnail>https://od.lk/s/OTdfMzU3NjIwOF8/HTML-and-CSS.png</thumbnail>
+<externallink>https://goo.gl/AUd4Jh</externallink>
+<fanart>https://od.lk/s/OTdfMzU3NjIwOV8/HTML-and-CSS%20F.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>Javascript Tutorial For Beginners</name>
+<thumbnail>https://od.lk/s/OTdfMzU3NjIzMl8/Javascript-geospatial.jpg</thumbnail>
+<externallink>https://goo.gl/NKVj1U</externallink>
+<fanart>https://od.lk/s/OTdfMzU3NjIzMl8/Javascript-geospatial.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>Learn PHP backend programming</name>
+<thumbnail>https://od.lk/s/OTdfMzU3NjUyMF8/php.png</thumbnail>
+<externallink>https://goo.gl/W9Yog4</externallink>
+<fanart>https://od.lk/s/OTdfMzU3NjUxOV8/php-56.png</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>PHP Tutorial for Beginners</name>
+<thumbnail>https://od.lk/s/OTdfMzU3NjUyMF8/php.png</thumbnail>
+<externallink>https://goo.gl/PClJUy</externallink>
+<fanart>https://od.lk/s/OTdfMzU3NjUxOV8/php-56.png</fanart>
+<info></info>
+</channel>
+
+</channels>

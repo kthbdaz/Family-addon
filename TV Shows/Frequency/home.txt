@@ -1,0 +1,34 @@
+﻿
+
+
+
+
+
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+<channel>
+<name>Season 1</name>
+<thumbnail>https://od.lk/s/OTdfMzQzODUwMl8/Frequency.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQzODUwMF8/S1.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQzODUwM18/Frequency%20f.jpg</fanart>
+<genre>Drama, Fantasy, Mystery </genre>
+<info>A police detective in 2016 discovers that she is able to speak via a ham radio with her estranged father; Frank Sullivan, a detective who died in 1996 and the two must work together to change the history of tragic events to come while also getting the chance to heal their complicated relationship. </info>
+</channel>
+
+
+
+</channels>
+
+
+
+
+
+
+
+
+
+
+
+

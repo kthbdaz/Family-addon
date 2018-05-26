@@ -1,0 +1,38 @@
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+
+<channel>
+<name>All episodes to date</name>
+<thumbnail>https://od.lk/s/OTdfMzQzMDU5M18/BA..jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQzMDYyMV8/all.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQzMDU5NF8/BA.%20f.jpg</fanart>
+<info>all available episodes to date that are available</info>
+</channel>
+
+<channel>
+<name>Season 3</name>
+<thumbnail>https://od.lk/s/OTdfMzQzMDU5M18/BA..jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQ0MTU2OF8/S3.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQzMDU5NF8/BA.%20f.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>Season 4</name>
+<thumbnail>https://od.lk/s/OTdfMzQzMDU5M18/BA..jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQzMDU4OF8/S4.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQzMDU5NF8/BA.%20f.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>Season 5</name>
+<thumbnail>https://od.lk/s/OTdfMzQzMDU5M18/BA..jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQzMDU4N18/S5.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQzMDU5NF8/BA.%20f.jpg</fanart>
+<info></info>
+</channel>
+
+</channels>

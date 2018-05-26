@@ -1,0 +1,23 @@
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+<channel>
+<name>Peppa pig</name>
+<thumbnail>https://od.lk/s/OTdfMzUyNTY2OV8/peppa.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzUyNTY3OF8/peppa%20pig.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzUyNTY3Nl8/peppa%20f.jpg</fanart>
+<genre> Animation, Family </genre>
+<info>Peppa is a loveable, cheeky little piggy who lives with her little brother George, Mummy Pig and Daddy Pig. Peppa's favourite things include playing games, dressing up, days out and jumping in muddy puddles. Her adventures always end happily with loud snorts of laughter.</info>
+</channel>
+
+<channel>
+<name>Powerpuff Girls</name>
+<thumbnail>https://od.lk/s/OTdfMzUyNjAwMV8/ppg.jpeg.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzUyNjAwM18/powerpuff%20girls.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzUyNjAwMl8/The_Powerpuff_Girls%20f.jpg</fanart>
+<genre> Animation, Action, Comedy </genre>
+<info>The straight-laced Prof. Utonium's attempt to create perfect little girls accidentally includes "Chemical X", resulting in take-charge red-head Blossom, blonde sweety-pie Bubbles and ready-to-fight brunette Buttercup. These flying, super-strong, karate-chopping girls with the occasional heat vision race into action to save the city of Townsville (and, we're told, the world) from all sorts of crimes and creatures. </info>
+</channel>
+
+</channels>

@@ -1,0 +1,32 @@
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>XX (2017)</title>
+<link>https://od.lk/s/OTdfMzU3Njc0OV8/XX.2017.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzU3Njc3M18/XX%20%282017%29.jpg</thumbnail>
+<fanart></fanart>
+<genre>Horror </genre>
+<info>XX is a new horror anthology with a gender twist - all segments will be helmed by female directors and will star female leads. The directors have been given free creative rein within budget and time constraints, but all of the segments themselves will involve the horror genre.</info>
+</item>
+
+<item>
+<title>X-Men Apocalypse 2016</title>
+<link>https://www.dropbox.com/s/okgzrtmpfb0ytdn/X-Men%20Apocalypse%202016%20720p%20HC%20HD-TC%201%20GB%20-%20iExTV.mp4?dl=1</link>
+<thumbnail>https://www.dropbox.com/s/bxt9kjr9pd3nsfc/X-Men%20Apocalypse%202016.png?dl=1</thumbnail>
+<fanart>https://www.dropbox.com/s/ger9tx1azl0exvz/X-Men%20Apocalypse%202016.jpg?dl=1</fanart>
+<info></info>
+</item>
+
+<item>
+<title>Xtinction: Predator X</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>When her father seemingly goes missing, Laura LeCrois is forced to return home and face a terrifying creature living in the Louisiana wetlands: Alligator X, the "T-Rex of the ocean!"</info>
+</item>

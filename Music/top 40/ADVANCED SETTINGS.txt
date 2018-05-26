@@ -1,0 +1,17 @@
+Easy advance sttings
+edit settings
+network settings
+network
+
+curlclienttimeout  15
+curllowspeedtime   15
+
+cachememorybuffering size value  104857600       x3=*x1024x1024 =
+buffermode     1
+readbufferfactor (4.0)
+
+
+write xml file
+
+
+http://eyecandytv.uk/repo

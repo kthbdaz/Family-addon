@@ -1,0 +1,130 @@
+<item>
+<title>S6 EP1 Loser Like Me</title>
+<link>https://od.lk/s/OTdfMzU0Njc4NF8/S06E01.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQ3NF8/glee%206.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMjQ4MF8/glee%206%20f.jpeg</fanart>
+<genre>Comedy, Drama, Music</genre>
+<info>Loser Like Me
+After a failed attempt to make it as an actress, Rachel comes to Lima, only to find out that the arts are completely vanished from McKinley. Now she finds herself in the position of taking over the Glee club, because Mr. Schue is leading Vocal Adrenaline now and Blaine is leading The Warblers.</info>
+</item>
+
+<item>
+<title>S6 EP2 Homecoming</title>
+<link>https://od.lk/s/OTdfMzU0Njc4NV8/S06E02.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQ3NF8/glee%206.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMjQ4MF8/glee%206%20f.jpeg</fanart>
+<genre>Comedy, Drama, Music</genre>
+<info>Homecoming
+Quinn, Puck, Brittany, Santana, Artie, Mercedes and Tina are back in Lima to help the Glee Club.</info>
+</item>
+
+<item>
+<title>S6 EP3 Jagged Little Tapestry</title>
+<link>https://od.lk/s/OTdfMzU0Njc5MV8/S06E03.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQ3NF8/glee%206.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMjQ4MF8/glee%206%20f.jpeg</fanart>
+<genre>Comedy, Drama, Music</genre>
+<info>Jagged Little Tapestry
+Sue becomes concerned when Becky brings a surprise guest to town. Rebuilding the glee club proves difficult for Rachel and Kurt.</info>
+</item>
+
+<item>
+<title>S6 EP4 The Hurt Locker: Part 1</title>
+<link>https://od.lk/s/OTdfMzU0Njc5N18/S06E04.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQ3NF8/glee%206.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMjQ4MF8/glee%206%20f.jpeg</fanart>
+<genre>Comedy, Drama, Music</genre>
+<info>The Hurt Locker: Part 1
+Rachel proposes an idea to Mr. Shuester in order to improve the club's chance at the invitational. Meanwhile, Sue conjures up a plan (with the unintentional help of Sam) to destroy the Glee club once again.</info>
+</item>
+
+<item>
+<title>S6 EP5 The Hurt Locker: Part 2</title>
+<link>https://od.lk/s/OTdfMzU0NjU4MV8/S06E05.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQ3NF8/glee%206.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMjQ4MF8/glee%206%20f.jpeg</fanart>
+<genre>Comedy, Drama, Music</genre>
+<info>The Hurt Locker: Part 2
+The final of the competition between Warblers, Vocal Adrenaline and New Directions is here. Meanwhile, Kurt and Blain are trapped in an elevator with a Sue-Saw-Marionette.</info>
+</item>
+
+<item>
+<title>S6 EP6 What the World Needs Now</title>
+<link>https://od.lk/s/OTdfMzU0NjU5MF8/S06E06.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQ3NF8/glee%206.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMjQ4MF8/glee%206%20f.jpeg</fanart>
+<genre>Comedy, Drama, Music</genre>
+<info>What the World Needs Now
+Brittany and Santana have to do some convincing; Mercedes encourages Rachel to go for her Broadway dreams.</info>
+</item>
+
+<item>
+<title>S6 EP7 Transitioning</title>
+<link>https://od.lk/s/OTdfMzU0NjU5NF8/S06E07.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQ3NF8/glee%206.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMjQ4MF8/glee%206%20f.jpeg</fanart>
+<genre>Comedy, Drama, Music</genre>
+<info>Transitioning
+Will takes desperate measures to teach the bullies of Vocal Adrenaline about tolerance. Meanwhile, New Directions rallies to help Rachel transition into her new life when she finds out her childhood home has been sold.</info>
+</item>
+
+<item>
+<title>S6 EP8 A Wedding</title>
+<link>https://od.lk/s/OTdfMzU0NjYxNF8/S06E08.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQ3NF8/glee%206.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMjQ4MF8/glee%206%20f.jpeg</fanart>
+<genre>Comedy, Drama, Music</genre>
+<info>A Wedding
+The New Directions are busy working and planning, while, with a wedding upcoming, Sue has a change of heart and encourages everyone to follow their own.</info>
+</item>
+
+<item>
+<title>S6 EP9 Child Star</title>
+<link>https://od.lk/s/OTdfMzU0NzEyM18/S06E09.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQ3NF8/glee%206.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMjQ4MF8/glee%206%20f.jpeg</fanart>
+<genre>Comedy, Drama, Music</genre>
+<info>Child Star
+The members of New Directions must come together to prepare for their first public performance.</info>
+</item>
+
+<item>
+<title>S6 EP10 The Rise and Fall of Sue Sylvester</title>
+<link>https://od.lk/s/OTdfMzU0NjYxNV8/S06E010.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQ3NF8/glee%206.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMjQ4MF8/glee%206%20f.jpeg</fanart>
+<genre>Comedy, Drama, Music</genre>
+<info>The Rise and Fall of Sue Sylvester
+When Dalton Academy burns to the ground, the Warblers must combine with New Directions.</info>
+</item>
+
+<item>
+<title>S6 EP11 We Built This Glee Club</title>
+<link>https://od.lk/s/OTdfMzU0NjY0N18/S06E011.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQ3NF8/glee%206.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMjQ4MF8/glee%206%20f.jpeg</fanart>
+<genre>Comedy, Drama, Music</genre>
+<info>We Built This Glee Club
+New Directions and the Warblers face off Rachel must choose between NYADA and Broadway.</info>
+</item>
+
+<item>
+<title>S6 EP12 2009</title>
+<link>https://od.lk/s/OTdfMzU0NjcyNV8/S06E012.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQ3NF8/glee%206.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMjQ4MF8/glee%206%20f.jpeg</fanart>
+<genre>Comedy, Drama, Music</genre>
+<info>2009
+Flashbacks to the original New Directions members joining the club.</info>
+</item>
+
+<item>
+<title>S6 EP13 Dreams Come True</title>
+<link>https://od.lk/s/OTdfMzU0Njc0Nl8/S06E013.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQ3NF8/glee%206.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMjQ4MF8/glee%206%20f.jpeg</fanart>
+<genre>Comedy, Drama, Music</genre>
+<info>Dreams Come True
+The glee club members realize their dreams.</info>
+</item>
+

@@ -1,0 +1,233 @@
+<item>
+<title>S2 EP1 Dutch and the Real Girl</title>
+<link>https://od.lk/s/OTdfMzQxNTA4N18/Killjoys%20S02E01%20Dutch%20and%20the%20Real%20Girl.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQyODAxNl8/killjoys.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQyODAxN18/killjoys%20f.jpg</fanart>
+<gere>Action, Adventure, Sci-Fi</genre>
+<info>Dutch and the Real Girl
+Lucy helps then to get into secure place on Eulogy. This is an outlaw only barter mysterious high-tech shielded town.</info>
+</item>
+
+<item>
+<title>S2 EP2 Wild, Wild Westerly</title>
+<link>https://od.lk/s/OTdfMzQxNDg5MF8/Killjoys%20S02E02%20Wild%2C%20Wild%20Westerly.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQyODAxNl8/killjoys.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQyODAxN18/killjoys%20f.jpg</fanart>
+<gere>Action, Adventure, Sci-Fi</genre>
+<info>Wild, Wild Westerly
+With Davin (Luke Macfarlane) back on the team, the Killjoys return to the ruins of Old Town to hunt eight escaped convicts but soon discover their most dangerous nemesis is the company fixer who issued the warrant.</info>
+</item>
+
+<item>
+<title>S2 EP3 Shaft</title>
+<link>https://od.lk/s/OTdfMzQxNDg5NF8/Killjoys%20S02E03%20Shaft.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQyODAxNl8/killjoys.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQyODAxN18/killjoys%20f.jpg</fanart>
+<gere>Action, Adventure, Sci-Fi</genre>
+<info>Shaft
+A rescue mission to the Badlands goes wrong when the Killjoys encounter an unexpected enemy in an abandoned mine.</info>
+</item>
+
+<item>
+<title>S2 EP4 Schooled</title>
+<link>https://od.lk/s/OTdfMzQxNDg5N18/Killjoys%20S02E04%20Schooled.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQyODAxNl8/killjoys.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQyODAxN18/killjoys%20f.jpg</fanart>
+<gere>Action, Adventure, Sci-Fi</genre>
+<info>Schooled
+A simple mission to escort children to a school for talented kids goes terribly wrong, when the killjoys discover that the students have gone missing.</info>
+</item>
+
+<item>
+<title>S2 EP5 Meet the Parents</title>
+<link>https://od.lk/s/OTdfMzQxNDg5OV8/Killjoys%20S02E05%20Meet%20the%20Parents.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQyODAxNl8/killjoys.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQyODAxN18/killjoys%20f.jpg</fanart>
+<gere>Action, Adventure, Sci-Fi</genre>
+<info>Meet the Parents
+Johnny escorts Pawter home for a chilly family reunion while D'avin experiences surprising side effects from Khlyen's Red 17 experiments.</info>
+</item>
+
+<item>
+<title>S2 EP6  I Love Lucy</title>
+<link>https://od.lk/s/OTdfMzQxNDkwMV8/Killjoys%20S02E06%20I%20Love%20Lucy.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQyODAxNl8/killjoys.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQyODAxN18/killjoys%20f.jpg</fanart>
+<gere>Action, Adventure, Sci-Fi</genre>
+<info>I Love Lucy
+In order to anticipate the coming danger that's been foretold, Dutch goes on the hunt for green plasma. Her journey takes the team onto the ship of an intergalactic trader who might know more about the impending doom than they originally thought.</info>
+</item>
+
+<item>
+<title>S2 EP7 Heart-Shaped Box.</title>
+<link>https://od.lk/s/OTdfMzQxNDkwM18/Killjoys%20S02E07%20Heart-Shaped%20Box.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQyODAxNl8/killjoys.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQyODAxN18/killjoys%20f.jpg</fanart>
+<gere>Action, Adventure, Sci-Fi</genre>
+<info>Heart-Shaped Box.
+The team are tested to the core as tensions rise while Dutch interrogates a lethal Level Six agent he captured and Johnny secretly investigates Jelco's wall for Pawter.</info>
+</item>
+
+<item>
+<title>S2 EP8 Full Metal Monk</title>
+<link>https://od.lk/s/OTdfMzQxNDkwNl8/Killjoys%20S02E08%20Full%20Metal%20Monk.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQyODAxNl8/killjoys.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQyODAxN18/killjoys%20f.jpg</fanart>
+<gere>Action, Adventure, Sci-Fi</genre>
+<info>Full Metal Monk
+Khlyen's Red 17 transmission leads Dutch, D'avin and Alvis to a research facility on Arkyn; Johnny and Pawter try to rally support for the impending war for Westerly.</info>
+</item>
+
+<item>
+<title>S2 EP9 Johnny Be Good</title>
+<link>https://od.lk/s/OTdfMzQxNTA4MV8/Killjoys%20S02E09%20Johnny%20Be%20Good.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQyODAxNl8/killjoys.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQyODAxN18/killjoys%20f.jpg</fanart>
+<gere>Action, Adventure, Sci-Fi</genre>
+<info>Johnny Be Good
+Pawter's plans to free Old Town from Jelco's control get Dutch seized by an angry mob.</info>
+</item>
+
+<item>
+<title>S2 EP10 How to Kill Friends and Influence People</title>
+<link>https://od.lk/s/OTdfMzQxNTA4Nl8/Killjoys%20S02E10%20How%20to%20Kill%20Friends%20and%20Influence%20People.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQyODAxNl8/killjoys.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQyODAxN18/killjoys%20f.jpg</fanart>
+<gere>Action, Adventure, Sci-Fi</genre>
+<info>How to Kill Friends and Influence People
+The team joins forces with an old enemy in a desperate bid to thwart the Level Six plan for The Quad.</info>
+</item>
+
+<item>
+<title>S2 EP11</title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzQyODAxNl8/killjoys.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQyODAxN18/killjoys%20f.jpg</fanart>
+<gere>Action, Adventure, Sci-Fi</genre>
+<info></info>
+</item>
+
+<item>
+<title>S2 EP12</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S2 EP13</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S2 EP14</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S2 EP15</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S2 EP16</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>S2 EP17</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S2 EP18</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S2 EP19</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>S2 EP20</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S2 EP21</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S2 EP22</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>S2 EP23</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S2 EP24</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S2 EP25</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S2 EP26</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S2 EP27</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>

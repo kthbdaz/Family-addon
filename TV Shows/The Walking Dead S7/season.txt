@@ -1,0 +1,85 @@
+﻿
+
+
+
+
+
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+<channel>
+<name>S1</name>
+<thumbnail>https://www.dropbox.com/s/fm3hgr70q08vufr/the%20walking%20dead.png?dl=1</thumbnail>
+<externallink>https://goo.gl/jKCC3b</externallink>
+<fanart>https://www.dropbox.com/s/8jfwjgk7lwjlhw1/the%20walking%20dead.jpg?dl=1</fanart>
+<genre>Horror Tv series</genre>
+<info>Lightning Entertainment</info>
+</channel>
+
+<channel>
+<name>S2</name>
+<thumbnail>https://www.dropbox.com/s/fm3hgr70q08vufr/the%20walking%20dead.png?dl=1</thumbnail>
+<externallink>https://goo.gl/Sq04S3</externallink>
+<fanart>https://www.dropbox.com/s/8jfwjgk7lwjlhw1/the%20walking%20dead.jpg?dl=1</fanart>
+<genre>Horror Tv series</genre>
+<info>Lightning Entertainment</info>
+</channel>
+
+<channel>
+<name>S3</name>
+<thumbnail>https://www.dropbox.com/s/fm3hgr70q08vufr/the%20walking%20dead.png?dl=1</thumbnail>
+<externallink>https://goo.gl/FC8cpd</externallink>
+<fanart>https://www.dropbox.com/s/8jfwjgk7lwjlhw1/the%20walking%20dead.jpg?dl=1</fanart>
+<genre>Horror Tv series</genre>
+<info>Lightning Entertainment</info>
+</channel>
+
+<channel>
+<name>S4</name>
+<thumbnail>https://www.dropbox.com/s/fm3hgr70q08vufr/the%20walking%20dead.png?dl=1</thumbnail>
+<externallink>https://goo.gl/4X9ike</externallink>
+<fanart>https://od.lk/s/OTdfMzQzNjAwMl8/The-Walking%20f.jpg</fanart>
+<genre>Horror Tv series</genre>
+<info>Lightning Entertainment</info>
+</channel>
+
+<channel>
+<name>S5</name>
+<thumbnail>https://www.dropbox.com/s/fm3hgr70q08vufr/the%20walking%20dead.png?dl=1</thumbnail>
+<externallink>https://goo.gl/N5Q0mu</externallink>
+<fanart>https://www.dropbox.com/s/8jfwjgk7lwjlhw1/the%20walking%20dead.jpg?dl=1</fanart>
+<genre>Horror Tv series</genre>
+<info>Lightning Entertainment</info>
+</channel>
+
+<channel>
+<name>S6</name>
+<thumbnail>https://www.dropbox.com/s/fm3hgr70q08vufr/the%20walking%20dead.png?dl=1</thumbnail>
+<externallink>https://goo.gl/AGvw0P</externallink>
+<fanart>https://www.dropbox.com/s/8jfwjgk7lwjlhw1/the%20walking%20dead.jpg?dl=1</fanart>
+<genre>Horror Tv series</genre>
+<info>Lightning Entertainment</info>
+</channel>
+
+<channel>
+<name>Season 7</name>
+<thumbnail>https://od.lk/s/OTdfMzQzNjAwM18/The_Walking_Dead.jpg</thumbnail>
+<externallink>https://goo.gl/5lSqSJ</externallink>
+<fanart>https://od.lk/s/OTdfMzQzNjAwMl8/The-Walking%20f.jpg</fanart>
+<genre>Horror Tv series</genre>
+<info>Rick Grimes is a former Sheriff's deputy who has been in a coma for several months after being shot while on duty. When he awakens he discovers that the world has been ravished by a zombie epidemic of apocalyptic proportions, and that he seems to be the only person still alive. After returning home to discover his wife and son missing, he runs into survivors Morgan and his son; who teach him the ropes of the new world. He then heads for Atlanta to search for his family. Narrowly escaping death at the hands of the zombies on arrival in Atlanta he is aided by another survivor, Glenn, who takes Rick to a camp outside the town. There Rick finds his wife Lori and his son, Carl, along with his partner/best friend Shane and a small group of survivors who struggle to fend off the zombie hordes; as well as competing with other surviving groups who are prepared to do whatever it takes to survive in this harsh new world.</info>
+</channel>
+</channels>
+
+
+
+
+
+
+
+
+
+
+
+

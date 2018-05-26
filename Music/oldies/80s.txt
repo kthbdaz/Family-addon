@@ -1,0 +1,41 @@
+<item>
+<title>The Very Best Of 80s Music</title>
+<utube>PLahKLy8pQdCM0SiXNn3EfGIXX19QGzUG3</utube>
+<thumbnail>https://od.lk/s/OTdfMzQ0MzMyMV8/60%27s%2070%27s.gif</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Best 80's rock</title>
+<utube>PL90b28qTMGqIle4NmUvaAUtj20lAPETzE</utube>
+<thumbnail>https://od.lk/s/OTdfMzQ0MzMyMV8/60%27s%2070%27s.gif</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Best of 80s Mix - Hits & Dance</title>
+<utube>GkisicWhoyA</utube>
+<thumbnail>https://od.lk/s/OTdfMzQ0MzMyMV8/60%27s%2070%27s.gif</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Unforgettable 80s Hits</title>
+<utube>2KBmFQP7clw</utube>
+<thumbnail>https://od.lk/s/OTdfMzQ0MzMyMV8/60%27s%2070%27s.gif</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title></title>
+<utube></utube>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title></title>
+<utube></utube>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>

@@ -1,0 +1,230 @@
+<item>
+<title>S1 EP1 Point of Impact</title>
+<link>https://od.lk/s/OTdfMzQ1MTMxN18/Shooter.S01E01.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzQ1MjA5Ml8/shooter.jpg</thumbnail>
+<fanart></fanart>
+<genre> Action, Drama | TV Series </genre>
+<info>Point of Impact
+Bob Lee Swager ex military sniper is framed for an assassination attempt on the United States President. He must overcome all odds and prove himself not guilty.</info>
+</item>
+
+<item>
+<title>S1 EP2 Exfil</title>
+<link>https://od.lk/s/OTdfMzQ1MTMxOF8/Shooter.S01E02.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzQ1MjA5Ml8/shooter.jpg</thumbnail>
+<fanart></fanart>
+<genre> Action, Drama | TV Series </genre>
+<info>Exfil
+Bob Lee tries to protect his family while incarcerated; and Isaac aims to silence him. In other events, Nadine contacts Bob Lee's wife, Julie, who's dealing with the backlash against her family.</info>
+</item>
+
+<item>
+<title>S1 EP3 Musa Qala</title>
+<link>https://od.lk/s/OTdfMzUyNTYyOF8/Shooter.S01E03.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzQ1MjA5Ml8/shooter.jpg</thumbnail>
+<fanart></fanart>
+<genre> Action, Drama | TV Series </genre>
+<info>Musa Qala
+Bob Lee reaches out to Nadine as he evades his pursuers, putting her on to the cop who took credit for his capture. Isaac juggles his double life as he tries to find Bob Lee</info>
+</item>
+
+<item>
+<title>S1 EP4 Overwatch</title>
+<link>https://od.lk/s/OTdfMzQ1MzUxOV8/Shooter.S01E04.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQ1MjA5Ml8/shooter.jpg</thumbnail>
+<fanart></fanart>
+<genre> Action, Drama | TV Series </genre>
+<info>Overwatch
+In a flashback to their time serving in Afghanistan, Bob Lee and Isaac clash with opposing ideologies. Nadine investigates the Ukrainian connection, putting herself on the conspirators' radar.</info>
+</item>
+
+<item>
+<title>S1 EP5 Recon by Fire</title>
+<link>https://od.lk/s/OTdfMzUyNTYzMl8/Shooter.S01E05.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQ1MjA5Ml8/shooter.jpg</thumbnail>
+<fanart></fanart>
+<genre> Action, Drama | TV Series </genre>
+<info>Recon by Fire 
+Bob Lee finds the bullet from the assassination, leading him to a radical militia group and a reckoning with Isaac while Nadine is locked in a deadly game of cat and mouse with Payne. </info>
+</item>
+
+<item>
+<title>S1 EP6 Killing Zone</title>
+<link>https://od.lk/s/OTdfMzUyNzM3Ml8/Shooter.S01E06.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQ1MjA5Ml8/shooter.jpg</thumbnail>
+<fanart></fanart>
+<genre> Action, Drama | TV Series </genre>
+<info>Killing Zone
+Bob Lee tracks down his former instructor Rathford O'Brien to help him find the shooter. Nadine interrogates Payne and a reporter approaches Julie with a deal.</info>
+</item>
+
+<item>
+<title>S1 EP7 Danger Close</title>
+<link>https://od.lk/s/OTdfMzU0NTU4M18/Shooter.S01E07.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzQ1MjA5Ml8/shooter.jpg</thumbnail>
+<fanart></fanart>
+<genre> Action, Drama | TV Series </genre>
+<info>Danger Close
+Bob Lee crosses the country to find the shooter while Julie deals with a family betrayal. Nadine contacts a Ukrainian reporter who can explain the conspiracy. Isaac questions his allegiance.</info>
+</item>
+
+<item>
+<title>S1 EP8 Red on Red</title>
+<link>https://od.lk/s/OTdfMzU0NTU4MF8/Shooter.S01E08.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzQ1MjA5Ml8/shooter.jpg</thumbnail>
+<fanart></fanart>
+<genre> Action, Drama | TV Series </genre>
+<info>Red on Red
+Bob Lee and Nadine weave a plan to secure the evidence that could expose the conspiracy. Meanwhile, Isaac gropes for an exit strategy, Payne tries to flee, and Julie and Mary face grave danger.</info>
+</item>
+
+<item>
+<title>S1 EP9 Ballistic Advantage</title>
+<link>https://od.lk/s/OTdfMzU0NTU3OF8/Shooter.S01E09.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzQ1MjA5Ml8/shooter.jpg</thumbnail>
+<fanart></fanart>
+<genre> Action, Drama | TV Series </genre>
+<info>Ballistic Advantage
+Bob Lee must broker a dangerous exchange in order to save his family. Nadine struggles to balance her allegiances to Bob Lee and the FBI. Isaac strikes a tenuous deal for his freedom.</info>
+</item>
+
+<item>
+<title>S1 EP10</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP11</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP12</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP13</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP14</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP15</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP16</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>S1 EP17</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP18</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP19</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>S1 EP20</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP21</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP22</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>S1 EP23</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP24</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP25</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP26</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP27</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>

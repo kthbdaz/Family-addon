@@ -1,0 +1,51 @@
+<item>
+<title>S6 EP1 The Virus (Part 1)</title>
+<link>https://od.lk/s/OTdfMzQyMTUyOF8/s06e01%20-%20The%20Virus%20%28Part%201%29.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQyMTQ2OV8/SP6.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQyMTQ1Ml8/SP9F.jpg</fanart>
+<info>The Virus (Part 1)
+The team race to stop a rogue member of Iranian intelligence who may be planning to unleash a bio-weapon in the UK. </info>
+</item>
+
+<item>
+<title>S6 EP2  The Virus (part 2)</title>
+<link>https://od.lk/s/OTdfMzQyMTU0N18/s06e02%20-%20The%20Virus%20%28part%202%29.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQyMTQ2OV8/SP6.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQyMTQ1Ml8/SP9F.jpg</fanart>
+<info> The Virus (part 2)
+A plague-like virus is unleashed in London. Facing the prospect of half a million dead, Harry orders the team to take extreme measures in an attempt to obtain the antidote from allies who may be keeping it a secret.</info>
+</item>
+
+<item>
+<title>S6 EP3 The Kidnap</title>
+<link>https://od.lk/s/OTdfMzQyMTYwMV8/s06e03%20-%20The%20Kidnap.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQyMTQ2OV8/SP6.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQyMTQ1Ml8/SP9F.jpg</fanart>
+<info>The Kidnap
+The team investigates a suspicious plane crash near an American airbase in the UK and uncover a link to the mysterious "Copenhagen". Ros's captors subject her to mental torture and reveal some disturbing news about Zaf. </info>
+</item>
+
+<item>
+<title>S6 EP4 The Extremist</title>
+<link>https://od.lk/s/OTdfMzQyMTYwM18/s06e04%20-%20The%20Extremist.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQyMTQ2OV8/SP6.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQyMTQ1Ml8/SP9F.jpg</fanart>
+<info>The Extremist
+Abdul Kharami is a suspected terrorist who is under constant surveillance but manages to evade his watchers just as MI-5 receives reliable information that he may be ready to stage an attack. Kharami specializes US targets and given the Americans set them up with the Tehran explosion, Ros for one thinks they should just ignore him. Harry Pearce thinks otherwise and brings his American counterpart, Bob Hogan, up to date. He also authorizes the launch of Operation Zebra, MI-5's plan to infiltrate the CIA. When Kharami's plan is traced to the Iranian Special Consul, Adam... </info>
+</item>
+
+<item>
+<title>S6 EP</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S6 EP</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>

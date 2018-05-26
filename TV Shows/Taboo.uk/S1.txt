@@ -1,0 +1,221 @@
+<item>
+<title>S1 EP1 Shovels and Keys</title>
+<link>https://od.lk/s/OTdfMzUzNjIyMV8/S01E01.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjIwOF8/TABOO.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU0NjU5NV8/Taboo%20f.jpg</fanart>
+<genre>Drama</genre>
+<info>Shovels and Keys
+After being presumed dead, adventurer James Delaney reappears in London seeking vengeance for the death of his father. He inherits the family's shipping empire threatening the ambitions of his half-sister and the East India Company.</info>
+</item>
+
+<item>
+<title>S1 EP2</title>
+<link>https://od.lk/s/OTdfMzU0NjU5Nl8/S01E02.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjIwOF8/TABOO.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU0NjU5NV8/Taboo%20f.jpg</fanart>
+<genre>Drama</genre>
+<info>Despite Delaney's return to London society setting tongues wagging, he enlists allies in his quest to reclaim his legacy. An unexpected arrival at the reading of the will disrupts his plans and reveals the nature of his inheritance.</info>
+</item>
+
+<item>
+<title>S1 EP3</title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjIwOF8/TABOO.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU0NjU5NV8/Taboo%20f.jpg</fanart>
+<genre>Drama</genre>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP4</title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjIwOF8/TABOO.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU0NjU5NV8/Taboo%20f.jpg</fanart>
+<genre>Drama</genre>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP5</title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjIwOF8/TABOO.jpg</thumbnail>
+<fanart></fanart>
+<genre>Drama</genre>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP6</title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjIwOF8/TABOO.jpg</thumbnail>
+<fanart></fanart>
+<genre>Drama</genre>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP7</title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjIwOF8/TABOO.jpg</thumbnail>
+<fanart></fanart>
+<genre>Drama</genre>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP8</title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjIwOF8/TABOO.jpg</thumbnail>
+<fanart></fanart>
+<genre>Drama</genre>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP9</title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjIwOF8/TABOO.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP10</title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjIwOF8/TABOO.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP11</title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjIwOF8/TABOO.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP12</title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjIwOF8/TABOO.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP13</title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjIwOF8/TABOO.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP14</title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjIwOF8/TABOO.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP15</title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjIwOF8/TABOO.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP16</title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjIwOF8/TABOO.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>S1 EP17</title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjIwOF8/TABOO.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP18</title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjIwOF8/TABOO.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP19</title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjIwOF8/TABOO.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>S1 EP20</title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjIwOF8/TABOO.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP21</title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjIwOF8/TABOO.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP22</title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjIwOF8/TABOO.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>S1 EP23</title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjIwOF8/TABOO.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP24</title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjIwOF8/TABOO.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP25</title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjIwOF8/TABOO.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP26</title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjIwOF8/TABOO.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP27</title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjIwOF8/TABOO.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>

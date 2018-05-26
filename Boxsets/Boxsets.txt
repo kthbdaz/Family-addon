@@ -1,0 +1,439 @@
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+
+<channel>
+<name>The Marine Collection</name>
+<thumbnail>https://od.lk/s/OTdfNDc5NDA0MV8/The%20Marine%20%282006%29.jpg</thumbnail>
+<externallink>https://goo.gl/9vwZPR</externallink>
+<fanart></fanart>
+<info>The Marine Collection</info>
+</channel>
+
+<channel>
+<name>Zombie Movie Collection</name>
+<thumbnail>https://od.lk/s/OTdfMzQ0MzkyOF8/zombie-attack.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQ0MzkyOV8/Zombie%20Movies.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQ0MzkyN18/zombie%20wallpaper.jpg</fanart>
+<info>Zombie Movie Collection</info>
+</channel>
+
+<channel>
+<name>Resident Evil Collection</name>
+<thumbnail>https://od.lk/s/OTdfMzQ0NDE0MV8/res%20col.JPG</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQ0NDE0NV8/resident%20evil%20collection.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQ0NDEzM18/Resident.Evil.2002%20f.jpg</fanart>
+<info>The Resident Evil film series is loosely based upon the Capcom video games of the same name. The film series is written by Paul W.S. Anderson featuring the protagonist Alice, played by Milla Jovovich. The Umbrella Corporation acts as the main antagonist in the series, a bioengineering pharmaceutical company responsible for the zombie apocalypse as a result of founding the T-virus.</info>
+</channel>
+
+
+<channel>
+<name>Honey Collection</name>
+<thumbnail>https://od.lk/s/OTdfMzM1NjQ1N18/Honey.2003.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQzNDY2Ml8/Honey%20Collection.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQzNDY0MF8/Honey-2-2011%20f.jpg</fanart>
+<info>Honey Collection 1,2 and 3</info>
+</channel>
+
+<channel>
+<name>The Bourne Collection</name>
+<thumbnail>https://www.dropbox.com/s/mykelf8etytc5y6/Bourne%20collection.jpg?dl=1</thumbnail>
+<externallink>https://goo.gl/tupJn3</externallink>
+<fanart>https://www.dropbox.com/s/fd2eze5r1pa73kb/Matt-Damon-Bourne-5-Snowden-570x285.jpg?dl=1</fanart>
+<info>Features the action-packed Jason Bourne thrillers THE BOURNE IDENTITY, THE BOURNE SUPREMACY, THE BOURNE ULTIMATUM, and THE BOURNE LEGACY.</info>
+</channel>
+
+<channel>
+<name>Cabin Fever Collection</name>
+<thumbnail>https://www.dropbox.com/s/9l53hb38uadvtov/CabinFever.jpg?dl=1</thumbnail>
+<externallink>https://goo.gl/vguGrz</externallink>
+<fanart>https://www.dropbox.com/s/s21yger5ta533kl/cabin_fever_ver3_xlg.jpg?dl=1</fanart>
+<info>A movie collection comprising of Eli Roth's 2003 film "Cabin Fever" and Ti West's 2009 film "Cabin Fever 2: Spring Fever"and the new remake of the first cabin fever</info>
+</channel>
+
+<channel>
+<name>The Conjuring Collection</name>
+<thumbnail>https://www.dropbox.com/s/v2lv4sguchzsni3/The.Conjuring.2013.1080p.jpg?dl=1</thumbnail>
+<externallink>https://goo.gl/iPvbos</externallink>
+<fanart>https://www.dropbox.com/s/q2jebx69j17cp7a/The-Conjuring-Poster.jpg?dl=1</fanart>
+<info>The Conjuring is a collection of supernatural horror films directed by James Wan. Patrick Wilson and Vera Farmiga star as Ed and Lorraine Warren, who were American paranormal investigators and authors associated with prominent cases of haunting. Their reports inspired the Amityville Horror.</info>
+</channel>
+
+<channel>
+<name>The Starwars Collection</name>
+<thumbnail></thumbnail>
+<externallink>https://goo.gl/CcQhRc</externallink>
+<fanart></fanart>
+<info>EPISODE 1 ..THE PHANTOM MENACE 
+EPISODE 2 .. ATTACK OF THE CLONES 
+EPISODE 3 .. REVENGE OF THE SITH 
+EPISODE 4 .. A NEW HOPE 
+EPISODE 5 .. THE EMPIRE STRIKES BACK 
+EPISODE 6.. RETURN OF THE JEDI </info>
+</channel>
+
+<channel>
+<name>Blue Brothers Collection</name>
+<thumbnail>https://www.dropbox.com/s/dvb8wf56vs0bwbr/blues%20brothers.jpg?dl=1</thumbnail>
+<externallink>https://goo.gl/Z4hj6p</externallink>
+<fanart>https://www.dropbox.com/s/7ub0n0qckkhn78y/bluesbrothers1.jpg?dl=1</fanart>
+<info>kthbdaz.netau.net</info>
+</channel>
+
+<channel>
+<name> Rambo Collection</name>
+<thumbnail></thumbnail>
+<externallink>https://goo.gl/54SgUw</externallink>
+<fanart></fanart>
+<info>John Rambo takes out his enemies with extreme prejudice in FIRST BLOOD, RAMBO - FIRST BLOOD PART 2, RAMBO 3, and RAMBO</info>
+</channel>
+
+<channel>
+<name> Cars Collection</name>
+<thumbnail>https://www.dropbox.com/s/8fto7w90nq4oc1u/cars2.jpg?dl=1</thumbnail>
+<externallink>https://goo.gl/Mav6By</externallink>
+<fanart>https://www.dropbox.com/s/gxcquvvbq804w43/cars.2.jpg?dl=1</fanart>
+<info>Cars: Hit the road with the high-octane adventure comedy that shows life is about the journey, not the finish line. Hotshot rookie race car Lightning McQueen is living life in the fast lane </info>
+</channel>
+
+<channel>
+<name>Lion King Collection</name>
+<thumbnail>https://od.lk/s/OTdfMzIwOTA3M18/Lion%20King%20Collection.jpg</thumbnail>
+<externallink>https://goo.gl/aoOktP</externallink>
+<fanart>https://www.dropbox.com/s/htnrfd1v9mensdj/lion%20king%202.png?dl=1</fanart>
+<info>Triple bill of Disney animated features following a naive and curious lion cub as he struggles to find his place in nature's great 'circle of life'.</info>
+</channel>
+
+<channel>
+<name>Shrek Collection</name>
+<thumbnail>https://od.lk/s/OTdfMzIwOTA2NF8/Shrek%20Collection.jpg</thumbnail>
+<externallink>https://goo.gl/GHOmq4</externallink>
+<fanart>https://www.dropbox.com/s/y4e1ib21jtlkggu/shrek.2.png?dl=1</fanart>
+<info>kthbdaz.netau.net</info>
+</channel>
+
+<channel>
+<name>Toy Story Collection</name>
+<thumbnail>https://www.dropbox.com/s/b823a7sjvl9h9ni/toy%20story.jpg?dl=1</thumbnail>
+<externallink>https://goo.gl/RLTouj</externallink>
+<fanart>https://www.dropbox.com/s/4fmwo9mcftbw09f/toy.story.png?dl=1</fanart>
+<info>There is greatness in a film that can be discussed, dissected, and talked about late into the night. Then there is genius that is right in front of our faces--you smile at the spell it puts you into and are refreshed, and not a word needs to be spoken. This kind of entertainment is what they used to call "movie magic" and there is loads of it in this irresistible computer animation feature. Just a picture of these bright toys on the cover of Toy Story looks intriguing as it reawakens the kid in us</info>
+</channel>
+
+<channel>
+<name>Kung Fu Panda Collection</name>
+<thumbnail>https://od.lk/s/OTdfMzIwOTA3Ml8/Kung%20Fu%20Panda%20Collection.jpg</thumbnail>
+<externallink>https://goo.gl/u2WlUa</externallink>
+<fanart>https://www.dropbox.com/s/evttjsgwf5mx9ue/The.Adventures.Of_.Panda_.Warrior%20fanart.jpg?dl=1</fanart>
+<info>Kung Fu Panda 1 & 2: Animated family adventures about a panda named Po</info>
+</channel>
+
+<channel>
+<name>Ice Age Collection</name>
+<thumbnail>https://www.dropbox.com/s/aq8kw867te6ircj/ice%20age%202.jpg?dl=1</thumbnail>
+<externallink>https://goo.gl/tbVeV2</externallink>
+<fanart>https://www.dropbox.com/s/t70ys980dnp83xj/ice%20age.4.png?dl=1</fanart>
+<info>
+    Ice Age
+    Ice Age 2: The Meltdown
+    Ice Age 3: Dawn of the Dinosaurs
+    Ice Age 4: Continental Drift
+    Ice Age: A Mammoth Christmas
+</info>
+</channel>
+
+<channel>
+<name>Despicable Me Collection</name>
+<thumbnail>https://www.dropbox.com/s/iaa1cw92jvhkflx/dm2.jpg?dl=1</thumbnail>
+<externallink>https://goo.gl/0DXGK9</externallink>
+<fanart>https://www.dropbox.com/s/ia36fxswt9s39ni/dm.2.png?dl=0</fanart>
+<info>Movie Collection: Despicable Me, Despicable Me 2,</info>
+</channel>
+
+<channel>
+<name>God's Not Dead Collection</name>
+<thumbnail>https://od.lk/d/OTdfMzE1MzkwM18/Gods-Not-Dead-2014-movie-poster.jpg</thumbnail>
+<externallink>https://goo.gl/D6dlbv</externallink>
+<fanart>https://od.lk/d/OTdfMzE1MzkwNl8/gods%20not%20dead%20fanart.jpg</fanart>
+<info>As an exciting new year begins we meet dedicated history teacher, Grace Wesley, and her grieving student, Brooke, who has just lost her brother. Upon learning of Brooke s recent tragedy, Grace offers her condolences and in the hope of relieving her pain, shares her faith in Christianity. However, when Brooke later asks a question of religion in her history class, another student reports the incident to the school board. Interpreted as a breach of school and state policy</info>
+</channel>
+
+<channel>
+<name>Iron Man Collection</name>
+<thumbnail>https://od.lk/d/OTdfMzE1MzQyOV8/Iron-Man-600x862.jpg</thumbnail>
+<externallink>https://goo.gl/QBkFdq</externallink>
+<fanart>https://od.lk/d/OTdfMzE1MzQyN18/Iron-Man-2-Wallpaper-HD-Widescreen-Desktop-1.jpg</fanart>
+<info>he big screen adaptations of the popular Marvel comic superhero. Robert Downey Jr stars as Tony Stark, the billionaire owner of Stark Industries, a corporation that specialises in weapons development. </info>
+</channel>
+
+<channel>
+<name>The Hunger Games Collection</name>
+<thumbnail>https://od.lk/d/OTdfMzE1NjczOV8/hunger%20games%20catchin%20fire.jpg</thumbnail>
+<externallink>https://goo.gl/q70pTL</externallink>
+<fanart>https://od.lk/d/OTdfMzE1Njc0MV8/morking-j-2-review.jpg</fanart>
+<info>Now watch the epic Hunger Games franchise from start to finish.
+All four films now available in one Complete Collection boxset</info>
+</channel>
+
+<channel>
+<name>Transformers Collection</name>
+<thumbnail>https://od.lk/s/OTdfMzIwOTA2OF8/Transformers%20Collection.jpg</thumbnail>
+<externallink>https://goo.gl/vxDte1</externallink>
+<fanart>https://od.lk/d/OTdfMzE1NzY0OV8/transformers%20-age-of-extinction.jpg</fanart>
+<info>Includes: Transformers; Transformers: Revenge of the Fallen; Transformers: Dark of the Moon; Transformers: Age of Extinction </info>
+</channel>
+
+<channel>
+<name>How To Train Your Dragon Collection</name>
+<thumbnail>https://od.lk/s/OTdfMzIwOTA3MF8/How%20To%20Train%20Your%20Dragon%20Collection.jpg</thumbnail>
+<externallink>https://goo.gl/z20MI2</externallink>
+<fanart>https://od.lk/d/OTdfMzE1MTgwM18/How-to-Train-Your-Dragon-2-First-Five-Minutes.jpg</fanart>
+<info>Double bill of animated comedy adventures based on the children's novel by Cressida Cowell. In 'How to Train Your Dragon' (2010), teenaged Viking Hiccup (voice of Jay Baruchel), who lives on the windswept island of Berk where his father Stoic the Vast (Gerard Butler) is the tribe's feared chief, is busy fighting dragons as part of his warrior training. Hiccup's destiny of becoming a prized dragon fighter takes an unexpected diversion however when he saves and befriends an injured dragon named Toothless. Fed up with the old ways, Hiccup embarks on a mission of his own to convince his tribe to abandon its barbaric tradition of ruthless dragon-slaying. In 'How to Train Your Dragon 2', five years after having brought together dragons and Vikings on the island of Berk, Hiccup and Toothless are spending their days soaring through the clouds searching for unchartered lands. But after discovering a previously unknown cave where a large colony of wild dragons live, the pair soon find themselves at the heart of a new adventure as they try to keep the peace and attempt to change the future of humans and dragons forever.</info>
+</channel>
+
+<channel>
+<name>Lord Of The Rings Collection</name>
+<thumbnail>https://od.lk/s/OTdfMzIwOTA3NF8/Lord%20Of%20The%20Rings%20Collection.jpg</thumbnail>
+<externallink>https://goo.gl/zivdqC</externallink>
+<fanart>https://od.lk/d/OTdfMzE1MzA5OV8/lord-of-the-rings-two-towers-1.jpg</fanart>
+<info>The Lord of the Rings Trilogy tells the story of Frodo Baggins (Elijah Wood), a hobbit who battles against the Dark Lord Sauron to save his world, Middle-earth, from the grip of evil. In the films, Frodo and his fellowship of friends and allies embark on a desperate journey to rid Middle-earth of the source of Sauron's greatest strength, the One Ring--a ring that has the power to enslave the inhabitants of Middle-earth. The trilogy tells tales of extraordinary adventures across the treacherous landscape of Middle-earth and reveals how the power of friendship, love and courage can hold the forces of darkness at bay. Beside Wood, the films star Ian McKellen, Liv Tyler, Viggo Mortensen, Sean Astin, Cate Blanchett, John Rhys-Davies, Billy Boyd, Dominic Monaghan, Orlando Bloom, Christopher Lee, Hugo Weaving, featuring Sean Bean, and Ian Holm, with Andy Serkis as Gollum. </info>
+</channel>
+
+<channel>
+<name>Step Up Collection</name>
+<thumbnail>https://od.lk/s/OTdfMzIwOTA2Nl8/Step%20Up%20Collection.jpg</thumbnail>
+<externallink>https://goo.gl/V3QBWg</externallink>
+<fanart>https://od.lk/d/OTdfMzE1NzY1MV8/Step-Up-wallpaper-step-up-584723_1280_1024.jpg</fanart>
+<info>includes: Step Up, Step Up 2: The Streets, Step Up 3, Step Up 4: Miami Heat, Step Up 5: All In </info>
+</channel>
+
+<channel>
+<name>Home Alone Collection</name>
+<thumbnail>https://od.lk/s/OTdfMzIwOTA2OV8/home%20alone%20box%20set.jpg</thumbnail>
+<externallink>https://goo.gl/reXryq</externallink>
+<fanart>https://od.lk/d/OTdfMzE1NzcyNF8/home%20alone%202.jpg</fanart>
+<info>The first four films from the 'Home Alone' series. In 'Home Alone' (1990) ten-year-old Kevin McCallister (Macaulay Culkin) is banished to his room while his family prepare for a Christmas trip to Europe. He wakes up to find they have inadvertently left without him. Kevin must cope not only with life on his own but also with the threat of two persistent, albeit incompetent, burglars. Meanwhile, his parents try to find a way to get back home to their forgotten son. 'Home Alone 2' (1992) sees Kevin get separated from his family at Christmas time again. This time, they're in Florida and he's in New York, and the two bumbling gangsters from the first film (Joe Pesci and Daniel Stern) are out of jail and on Kevin's trail. In 'Home Alone 3' (1997) a band of hi-tech thieves have stolen a top-secret computer chip, and placed it inside a toy car. However, through a series of mishaps the car finds its way to Alex Pruitt (Alex D. Linz), who is alone at home with the chicken pox. The thieves track Alex down, but their attempts to retrieve the chip are all thwarted by the young whiz-kid. Finally, 'Home Alone 4' (2002) sees the return of Kevin McAllister (this time played by Mike Weinberg) who once again finds himself left alone in an empty house; this time it is a hi-tech safe-house, owned by the girlfriend of his recently divorced father. The house is being used by a royal heir and Kevin (in his usual style) manages to see off potential kidnappers whilst also making sure his parents get back together.</info>
+</channel>
+
+<channel>
+<name>Hangover Collection</name>
+<thumbnail>https://od.lk/d/OTdfMzE1ODY4NV8/the-hangover-movie-poster.jpg</thumbnail>
+<externallink>https://goo.gl/asMyFS</externallink>
+<fanart>https://od.lk/d/OTdfMzE1ODY4NF8/the-hangover-3.jpg</fanart>
+<info>Comedy trilogy from director Todd Phillips. In 'The Hangover' (2009) Ed Helms, Bradley Cooper and Zach Galifianakis star as three friends who lose their best friend, Doug (Justin Bartha), just 40 hours before his wedding during the various drunken misadventures that occur at his Las Vegas bachelor party. The trio must attempt to retrace all the bad decisions they made the night before and figure out where things went wrong. Heather Graham co-stars. In 'The Hangover: Part 2' (2011), Alan, Doug, Phil and Stu jet out to Bangkok for Stu's wedding to his Thai girlfriend (Jamie Chung). With the mortifying memories of Doug's bachelor party in Las Vegas forever etched in everyone's minds, Stu decides to play things safe. Surely nothing can go wrong with a sedate pre-wedding brunch... or can it? The supporting cast includes Liam Neeson and Juliette Lewis, while former president Bill Clinton makes a cameo appearance. In 'The Hangover: Part 3' (2013), following the death of Alan's father, he, Phil and Stu, aka the Wolfpack, head out on a road trip on which they get caught up in another misadventure, encountering a number of eccentric characters on the way and ending up back in Las Vegas. Bartha, Graham, Ken Jeong and John Goodman co-star, with Mike Tyson also making an appearance</info>
+</channel>
+
+<channel>
+<name>The Twilight Saga Collection</name>
+<thumbnail>https://od.lk/d/OTdfMzE1ODY5M18/new_moon_poster02.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQzMDEzMl8/The%20Twilight%20Saga.txt</externallink>
+<fanart>https://od.lk/d/OTdfMzE1ODY5Ml8/The%20Twilight%20Saga%20New%20Moon%20%288%29.jpg</fanart>
+<info>The Complete Twilight Movies 1 - 5 DVD Collection: Twilight / New Moon / Eclipse / Breaking Dawn Part 1 / Breaking Dawn Part 2 </info>
+</channel>
+
+<channel>
+<name>Neighbors Collection</name>
+<thumbnail>https://od.lk/s/OTdfMzE2OTE3OV8/Neighbors-2014.jpg</thumbnail>
+<externallink>https://goo.gl/R4DqCu</externallink>
+<fanart>https://od.lk/s/OTdfMzE2OTE3OF8/neighbors_2014.jpg</fanart>
+<info>After they are forced to live next to a fraternity house, a couple with a newborn baby do whatever they can to take them down. / After a sorority moves in next door, which is even more debaucherous than the fraternity before it, Mac and Kelly have to ask for help from their former enemy, Teddy.</info>
+</channel>
+
+<channel>
+<name>Grown Ups Collection</name>
+<thumbnail>https://od.lk/d/OTdfMzE1ODY3Ml8/grown%20ups.jpg</thumbnail>
+<externallink>https://goo.gl/YLGofN</externallink>
+<fanart>https://od.lk/d/OTdfMzE1ODY3NV8/grown-ups-wallpaper-3.jpg</fanart>
+<info>kthbdaz.netau.net</info>
+</channel>
+
+<channel>
+<name>Adam Sandler Collection</name>
+<thumbnail>https://od.lk/d/OTdfMzE1ODY3OV8/Sandler.jpg</thumbnail>
+<externallink>https://goo.gl/AUGxyH</externallink>
+<fanart>https://od.lk/d/OTdfMzE1ODY4MF8/Sandler-in-Funny-People-adam-sandler-19282889-900-506.jpg</fanart>
+<info>kthbdaz.netau.net</info>
+</channel>
+
+<channel>
+<name>Taken Collection</name>
+<thumbnail>https://od.lk/d/OTdfMzE1ODcwMF8/taken.jpg</thumbnail>
+<externallink>https://goo.gl/BWUmcA</externallink>
+<fanart>https://od.lk/d/OTdfMzE1ODY5N18/Taken-3-Wallpaper.jpg</fanart>
+<info>starring Liam Neeson as retired CIA operative Bryan Mills. In 'Taken' (2008), Mills is forced to resurrect the skills he learned in his old job after his 17-year-old daughter Kim (Maggie Grace) is kidnapped by Albanian sex slave traffickers while travelling with a friend in Europe. As Mills consults his former colleagues for advice on the situation, statistics show that the Albanian criminals rarely keep their prisoners alive for more than four days, giving Mills a tight timeframe in which to save his daughter's life. In 'Taken 2' (2012), Murad (Rade Serbedzija), the father of a kidnapper killed by Mills in the first film, makes a bid for retribution by taking Mills and his wife Lenny (Famke Janssen) hostage in Istanbul. Now their daughter, Kim, must swing into action and act swiftly to save her parents. In 'Taken 3' (2015), Mills discovers his wife's dead body in their bedroom and quickly realises that he is being framed for her murder. As he works to clear his name and battles against relentless police inspector Franck Dotzler (Forest Whitaker) he must fight to protect the one last thing he has left in the world: his daughter.</info>
+</channel>
+
+<channel>
+<name>Harry Potter Collection</name>
+<thumbnail></thumbnail>
+<externallink>https://goo.gl/Jl6Nkn</externallink>
+<fanart></fanart>
+<info>Year 1: Harry Potter and the Philosopher's Stone - The magical adventure begins when Harry Potter is to attend Hogwarts School of Witchcraft and Wizardry.
+
+Harry Potter and the Chamber of Secrets - Cars fly, trees attack and a mysterious house-elf warns Harry of great danger as he returns for his second year.
+
+Harry Potter and the Prisoner of Azkaban - Harry must confront soul-sucking Dementors, outsmart a werewolf and learn the truth about the escaped prisoner of Azkaban - Sirius Black.
+
+Harry Potter and the Goblet of Fire - Harry must overcome a deadly dragon, fierce water demons and an enchanted maze only to find himself in the cruel grasp of He Who Must Not Be Named.
+
+Harry Potter and the Order of the Phoenix - When few believe that Lord Voldemort has returned, Harry must secretly train his friends for the wizarding war ahead.
+
+Harry Potter and the Half-Blood Prince - As Lord Voldemort tightens his grip on both Muggle and wizarding worlds, Harry and Dumbledore work to find the key to unlock Voldemort's defenses.
+
+Harry Potter and the Deathly Hallows, Part 1 - Harry, Ron and Hermione set out to track down and destroy the secret to Voldemort's power - the Horcruxes. On their own and on the run, the three must rely on one another more than ever...but Dark Forces threaten to tear them apart.
+
+Harry Potter and the Deathly Hallows, Part 2 - In the epic finale, the battle between the good and evil forces of the wizarding world escalates into all-out war. The stakes have never been higher and no one is safe. But it is Harry who may be called upon to make the ultimate sacrifice as he draws closer to the climactic showdown with Lord Voldemort. It all ends here.</info>
+</channel>
+
+<channel>
+<name>Starship Troopers Collection</name>
+<thumbnail>https://od.lk/d/OTdfMzE2MjU2NV8/starshiptrooperstrilogybd2d.jpg</thumbnail>
+<externallink>https://goo.gl/TpQkp6</externallink>
+<fanart>https://od.lk/d/OTdfMzE2MjU2OF8/tankerbuggos.jpg</fanart>
+<info>Starship Troopers is set in the future and follows a group of friends who join Earth's military forces after high school graduation. Their mission: to battle the insectoid Klendathu. One fights for the chance to be a renowned pilot (Denise Richards), one for revenge (Casper Van Dien), and one for the love of a good man (Dina Meyer), but interpersonal relationships take a back seat to the firepower leveled against (and returned from) the chitinous aliens. In Starship Troopers 2 - Hero of the Federation, the alien Bug horde is still the number one enemy. This time, directed by Phil Tippett, the visual effects wizard from the original movie (and also Star Wars and Indiana Jones), Hero of the Federation finds the mobile infantry unit of the Federation isolated light years away from reinforcements. They must seek the help of a Federation traitor if they are to have any hope of saving themselves and the human race. Casper Van Dien (star of the original) returns after over a decade for Starship Troopers 3 - Marauder, the second sequel to the alien-bug-battling, action-packed splatter-fest satire. After the celebrated Johnny Rico (Van Dien), now a colonel, attempts to defend the planet Roku San from some nasty arachnids, he finds himself put on death row for acting inappropriately during battle. But when a Federation starship piloted by tough soldier babe Lola Beck (Jolene Blalock, Enterprise) crashes on a far-away alien planet, only the bug-squashing Rico can save the day--the authorities have no choice but to release him for the mission. Armed with an impossibly advanced weapon known as the Marauder, Rico and his crew are prepared to exterminate by any means necessary. Starship Troopers: Invasion is the fourth movie in the Trooper franchise and the first to be animated just using CGI</info>
+</channel>
+
+<channel>
+<name>Night At The Museum Collection</name>
+<thumbnail>https://od.lk/s/OTdfMzIwOTA3NV8/Night%20At%20The%20Museum%20Collection.jpg</thumbnail>
+<externallink>https://goo.gl/IzeMdO</externallink>
+<fanart>https://od.lk/d/OTdfMzE1ODcxNl8/night_at_the_museum_3-1920x1080.jpg</fanart>
+<info>NIGHT AT THE MUSEUM: Good-hearted dreamer, Larry Daley [Ben Stiller], despite being perpetually down on his luck, thinks he's destined for something big. But even he could never have imagined how big when he accepts what appears to be a menial job at a museum of natural history. During Larry's watch extraordinary things begin to occur: Mayans, Roman gladiators and cowboys emerge from their diorama to wage epic battles. In his quest for fire, a Neanderthal burns down his own display; Attila the Hun pillages his neighbouring exhibits and a T-Rex reminds everyone why he's history's fiercest predator. Amidst the chaos, the only person Larry can turn to for advice is a wax figure of President Teddy Roosevelt [Robin Williams] who helps our hero harness the bedlam, stop a nefarious plot and save the museum. NIGHT AT THE MUSEUM: BATTLE OF THE SMITHSONIAN: In addition to Ben Stiller, the cast will be rounded out by many from the original film as well as several new characters from history. The centrepiece of the film will be bringing to life the Smithsonian Institution, which houses the world's largest museum complex with more than 136 million items in its collections, ranging from the plane Amelia Earhart flew on her nonstop solo flight across the Atlantic and Al Capone's rap sheet and mug shot to Dorothy's ruby red slippers and Archie Bunker's lounge chair. No major film has ever shot inside the Smithsonian in Washington...until Night at the Museum: Battle of the Smithsonian. NIGHT AT THE MUSEUM: SECRET OF THE TOMB: If it's laughter you're after, get ready for the most hilarious night ever! Ben Stiller leads an all-star comedy cast, including Robin Williams, Owen Wilson, Rebel Wilson and Ricky Gervais, for one final, fun-filled Night at the Museum. This time, Larry Daley and his heroic friends embark on their greatest adventure yet as they travel to London in order to save the magic that brings the museum exhibits to life! </info>
+</channel>
+
+<channel>
+<name>The Expendables Collection</name>
+<thumbnail>https://od.lk/d/OTdfMzE2MDU2MV8/The%20Expendables.jpg</thumbnail>
+<externallink>https://goo.gl/jQVZ7e</externallink>
+<fanart>https://od.lk/d/OTdfMzE2MDU2M18/the-expendables-2-cast-wallpaper-2.jpg</fanart>
+<info>The first three films from the action series featuring an ensemble cast which includes Sylvester Stallone, Jason Statham, Jet Li and Dolph Lundgren. 'The Expendables' (2010), directed by Stallone, follows a group of professional killers as they join forces to bring down a South American dictator. With cameo appearances from Arnold Schwarzenegger and Bruce Willis, the film also sees Stallone and Schwarzenegger sharing a screen for the first time ever. In 'The Expendables 2' (2012) Mr Church (Willis) reunites the formidable Expendables team, plus new member Billy the Kid (Liam Hemsworth), for what should be a straightforward job. But when one of their number is murdered by adversary Jean Vilain (Jean-Claude Van Damme), the team's quest for revenge finds them pitted against an unexpected rival. In 'The Expendables 3' (2014) Barney Ross (Stallone) comes face-to-face with old nemesis Conrad Stonebanks (Mel Gibson), with whom he originally formed the group of mercenaries known as the Expendables. However, when Stonebanks turned into a dangerous arms trader, Barney had no choice but to take him out and believed him to be dead - until now. With some new, younger additions to his team, Barney once again confronts Stonebanks but will the mission be a success this time?</info>
+</channel>
+
+<channel>
+<name>Ted Collection</name>
+<thumbnail>https://od.lk/s/OTdfMzE2OTE4Ml8/Ted.jpg</thumbnail>
+<externallink>https://goo.gl/1ab4LS</externallink>
+<fanart>https://od.lk/s/OTdfMzE2OTE4M18/Ted-2012.jpg</fanart>
+<info>Family Guy creator Seth MacFarlane brings his boundary-pushing brand of humour to the big screen for the first time as writer, director and voice star of Ted. In the live action/CG-animated comedy, he tells the story of John Bennett (Mark Wahlberg), a grown man who must deal with the cherished teddy bear who came to life as the result of a childhood wish… and has refused to leave his side ever since.
+</info>
+</channel>
+
+<channel>
+<name>Dracula Collection</name>
+<thumbnail>https://od.lk/s/OTdfMzIwNzkzOV8/Dracula%20boxset%29.png</thumbnail>
+<externallink>https://goo.gl/mKezPB</externallink>
+<fanart>https://od.lk/s/OTdfMzIwNzkzOV8/Dracula%20boxset%29.png</fanart>
+<info>kthbdaz.netau.net</info>
+</channel>
+
+<channel>
+<name>Nightmare on Elmstreet Collection</name>
+<thumbnail>https://od.lk/s/OTdfMzIwODk5MV8/A.Nightmare.on.Elm.Street%20box.jpg</thumbnail>
+<externallink>https://goo.gl/ldzfQM</externallink>
+<fanart>https://od.lk/s/OTdfMzIwODk5MF8/A.Nightmare.on.Elm.Street%20box..jpg</fanart>
+<info>If you're a fan of the Nightmare On Elm Street series, then this is the best collection that you'll most probably EVER see. It provides everything you could ever possibly want as a fan of the series, and a whole lot more.</info>
+</channel>
+
+<channel>
+<name> Elvis Collection</name>
+<thumbnail>https://od.lk/s/OTdfMzI4NjcyMl8/Elvis%2BPresley.jpg</thumbnail>
+<externallink>https://goo.gl/LCgLVN</externallink>
+<fanart>https://od.lk/s/OTdfMzI4NjcyNF8/Elvis-Collection.jpg</fanart>
+<info>Showcasing the most celebrated entertainer of the 20th century, The Definitive Elvis explores Elvis’ life story, from his impoverished childhood to his meteoric rise to fame. This groundbreaking series consists of sixteen programmes containing rarely seen home movies, film clips, live performance footage and exclusive interviews. An essential collection piece for all Elvis fans, this is the definitive story of the life and career of the King of Rock ‘n’ Roll.</info>
+</channel>
+
+<channel>
+<name>Adulthood Collection</name>
+<thumbnail>https://od.lk/s/OTdfMzQwMzkzMF8/Adulthood%20%282008%29.jpg</thumbnail>
+<externallink>https://goo.gl/gU8Bbs</externallink>
+<fanart>https://od.lk/s/OTdfMzQwMzkzMl8/Adulthood.2008..jpg</fanart>
+<info>inc kidulthood and anuvahood</info>
+</channel>
+
+<channel>
+<name>Back To The Future Collection</name>
+<thumbnail>https://od.lk/s/OTdfMzQwNDE4OF8/btf.jpg</thumbnail>
+<externallink>https://goo.gl/7WrsGa</externallink>
+<fanart>https://od.lk/s/OTdfMzQwOTk2MF8/BTFT.jpg</fanart>
+<info>Features the popular film trilogy</info>
+</channel>
+
+<channel>
+<name>Glee Collection</name>
+<thumbnail></thumbnail>
+<externallink>https://goo.gl/bcXkQ3</externallink>
+<fanart></fanart>
+<info>Under Construction
+Contains
+Complete Season 1
+Complete Season 2
+Complete Season 3
+Complete Season 4
+Complete Season 5
+Complete Season 6</info>
+</channel>
+
+<channel>
+<name> Collection</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info>kthbdaz.netau.net</info>
+</channel>
+
+<channel>
+<name> Collection</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info>kthbdaz.netau.net</info>
+</channel>
+
+<channel>
+<name> Collection</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info>kthbdaz.netau.net</info>
+</channel>
+
+<channel>
+<name> Collection</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info>kthbdaz.netau.net</info>
+</channel>
+
+<channel>
+<name> Collection</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info>kthbdaz.netau.net</info>
+</channel>
+
+<channel>
+<name> Collection</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info>kthbdaz.netau.net</info>
+</channel>
+
+<channel>
+<name> Collection</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info>kthbdaz.netau.net</info>
+</channel>
+
+<channel>
+<name> Collection</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info>kthbdaz.netau.net</info>
+</channel>

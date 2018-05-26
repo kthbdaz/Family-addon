@@ -1,0 +1,230 @@
+
+
+<item>
+<title>Win It All (2017)</title>
+<link>https://od.lk/s/OTdfMzc3NTgyNF8/Win%20it%20All%202017.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzc5NTI2N18/icon.jpg</thumbnail>
+<fanart></fanart>
+<genre> Comedy </genre>
+<info>Eddie Garrett agrees to watch a duffel bag for an acquaintance who is heading to prison. When he discovers cash in the bag, he's unable to resist the temptation and winds up deeply in debt. When the prison release is shortened, Eddie suddenly has a small window of time to win all the money back.</info>
+</item>
+
+<item>
+<title>Walk of Fame (2017)</title>
+<link>https://od.lk/s/OTdfMzY0ODI2M18/Walk.of.Fame.2017.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzY0ODI3OF8/icon.jpg</thumbnail>
+<fanart></fanart>
+<genre>Comedy</genre>
+<info>Drew (Scott Eastwood) signs up for an acting class at the famous Star Academy in Hollywood after falling for aspiring actress Nikki. He gets more than he bargained for when he encounters an eccentric and volatile acting coach (Malcolm McDowell) and the cast of crazy characters looking for their big break in Tinsel Town. Can Drew survive the insanity of the Star Academy and win Nikki's heart?</info>
+</item>
+
+<item>
+<title>We Don't Belong Here (2017)</title>
+<link>https://od.lk/s/OTdfMzY0ODI2NF8/We.Dont.Belong.Here.2017.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzY0ODI3N18/icon.jpg</thumbnail>
+<fanart></fanart>
+<genre>Drama, Family</genre>
+<info>A matriarch of a dysfunctional family is pushed to her tipping point by the disappearance of her son.</info>
+</item>
+
+<item>
+<title>Why Him? (2016)</title>
+<link>https://od.lk/s/OTdfMzY0NDczNl8/Why.Him.2016.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzY0NDcyMV8/icon.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzY0NDcyMl8/fanart.jpg</fanart>
+<genre> Comedy</genre>
+<info>Over the holidays, Ned (Bryan Cranston), an overprotective but loving dad and his family visit his daughter at Stanford, where he meets his biggest nightmare: her well-meaning but socially awkward Silicon Valley billionaire boyfriend, Laird (James Franco). The rivalry develops,and Ned's panic level goes through the roof when he finds himself lost in this glamorous high-tech world and learns that Laird is about to pop the question. </info>
+</item>
+
+<item>
+<title>Wolves (2017)</title>
+<link>https://od.lk/s/OTdfMzU4OTcwMV8/Wolves.2016.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzU4OTcxMF8/Wolves%20%282017%29.jpg</thumbnail>
+<fanart></fanart>
+<genre>Drama </genre>
+<info>An 18-year-old basketball star who is being recruited by Cornell University seems to have it all figured out: captain of his team, a good student, has a longtime girlfriend and some good friends. But at home he's struggling with his troubled father who has a gambling addiction. His mother tries to keep the family afloat but does so with great emotional and financial sacrifice.</info>
+</item>
+
+<item>
+<title>We All Fall Down 2016</title>
+<link>https://od.lk/s/OTdfMzU3MDI4MV8/We.All.Fall.Down.2016.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MzI2NV8/We%20All%20Fall%20Down%202016.jpg</thumbnail>
+<fanart></fanart>
+<genre> Adventure, Drama, Horror </genre>
+<info>Todd, a haunted young man, struggles to protect the innocence of Benny, his mute kid brother, in a post apocalyptic world where all the adults turned to zombies by a recessive gene. The gene continues to activate in the remaining feral kids as they reach adulthood, causing a short and vicious life span.</info>
+</item>
+
+<item>
+<title>Wheeler (2017)</title>
+<link>https://od.lk/s/OTdfMzU2MTkzMF8/Wheeler.2017.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzU2MjAxN18/Wheeler%20%282017%29.jpg</thumbnail>
+<fanart></fanart>
+<genre> Drama</genre>
+<info>WHEELER is the story of an aspiring musician from Kaufman, Texas who travels to Nashville with the lifelong dream of trying his hand at country music. By embodying the title character under prosthetic make up, actor Stephen Dorff successfully infiltrates Music City and takes his character on an authentic singer / songwriter journey. With the help of key allies on the ground, "Wheeler" converses with real people in real locations, with every musical number performed live. The line between reality and fiction blurs as Wheeler chases his dream in this touching tribute to old school country legends.</info>
+</item>
+
+<item>
+<title>Whats.the.Matter.with.Gerald.2016</title>
+<link>https://od.lk/s/OTdfMzUzMDQwMl8/Whats.the.Matter.with.Gerald.2016.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMDU3Nl8/Whats.the.Matter.with.Gerald.2016.jpg</thumbnail>
+<fanart></fanart>
+<genre> Comedy, Drama, Fantasy </genre>
+<info>A hypochondriac irks his partner by embracing the advice of an eccentric healer.</info>
+</item>
+
+<item>
+<title>Warriors.Gate.2016</title>
+<link>https://od.lk/s/OTdfMzUzMDM5OV8/Warriors.Gate.2016.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMDU3NV8/Warriors.Gate.2016.jpg</thumbnail>
+<fanart></fanart>
+<genre> Action | Adventure</genre>
+<info>A teenager is magically transported to China and learns to convert his video game skills into those of a Kung Fu warrior.</info>
+</item>
+
+<item>
+<title>War on Everyone (2016)</title>
+<link>https://od.lk/s/OTdfMzUzNjIzNV8/War.on.Everyone.2016.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjI0MV8/War.on.Everyone.2016..jpg</thumbnail>
+<fanart></fanart>
+<genre> Comedy </genre>
+<info>Two corrupt cops set out to blackmail and frame every criminal unfortunate enough to cross their path. Events, however, are complicated by the arrival of someone who appears to be even more dangerous than they are.</info>
+</item>
+
+<item>
+<title>We.Love.You.2016</title>
+<link>https://od.lk/s/OTdfMzUzMjc3N18/We.Love.You.2016.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjc4OF8/We.Love.You.2016.jpg</thumbnail>
+<fanart></fanart>
+<genre> Comedy</genre>
+<info>Best friends Ford and Noah both fall for Callie, potentially spelling the end of their friendship. But then the besties come up with an idea that Callie just might be cool enough to date both of them at the same time.</info>
+</item>
+
+<item>
+<title>Walk.of.Fame.2016</title>
+<link>https://od.lk/s/OTdfMzQ0MjUxNV8/Walk.of.Fame.2016.DVDRip.XViD-ETRG.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzQ0MjUxOV8/Walk.of.Fame.2016.jpg</thumbnail>
+<fanart></fanart>
+<info>A motley crew of aspiring performers come under the guidance of an eccentric and volatile acting coach.</info>
+</item>
+
+<item>
+<title>War.Dogs.2016</title>
+<link>https://od.lk/s/OTdfMzQ0MjM3OV8/War.Dogs.2016.BRRip.XviD.AC3-EVO.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzQ0MjQxMF8/War.Dogs.2016.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0MjQxMV8/War.Dogs.2016%20f.jpg</fanart>
+<info> Comedy, Crime, Drama
+Two friends in their early 20s (Hill and Teller) living in Miami Beach during the Iraq War exploit a little-known government initiative that allows small businesses to bid on U.S. Military contracts. Starting small, they begin raking in big money and are living the high life. But the pair gets in over their heads when they land a 300 million dollar deal to arm the Afghan Military - a deal that puts them in business with some very shady people, not the least of which turns out to be the U.S. Government. Based on true events.</info>
+</item>
+
+<item>
+<title>Whiskey.Tango.Foxtrot.2016</title>
+<link>https://www.dropbox.com/s/vj6qadqfag5njts/Whiskey.Tango.Foxtrot.2016.1080p.WEB-DL.DD5.1.H264-RARBG.mkv?dl=1</link>
+<thumbnail>https://www.dropbox.com/s/cpon2z5wfzuwsuh/Whiskey.Tango.Foxtrot.2016.png?dl=1</thumbnail>
+<fanart>https://www.dropbox.com/s/3g6wa4idn0frcm1/Whiskey.Tango.Foxtrot.2016.jpg?dl=1</fanart>
+<info>A journalist recounts her wartime coverage in Afghanistan. </info>
+</item>
+
+<item>
+<title>Warcraft 2016</title>
+<link>https://www.dropbox.com/s/o3dnk3jjo26ap6n/Warcraft%202016%20HD-TC%20750%20MB%20-%20iExTV.mp4?dl=1</link>
+<thumbnail>https://www.dropbox.com/s/14u7eaf0qpbr4ul/Warcraft%202016.png?dl=1</thumbnail>
+<fanart>https://www.dropbox.com/s/edpu4qcmyscqrz7/Warcraft%202016.jpg?dl=1</fanart>
+<info>As an Orc horde invades the planet Azeroth using a magic portal, a few human heroes and dissenting Orcs must attempt to stop the true evil behind this war</info>
+</item>
+
+<item>
+<title>Wiener-Dog.2016</title>
+<link>https://od.lk/s/OTdfMzIwOTIyM18/Wiener-Dog.2016.1080p.BluRay.x264-%5BYTS.AG%5D.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzIwOTMyNF8/Wiener-Dog.2016.jpg</thumbnail>
+<fanart></fanart>
+<info>A dachshund passes from oddball owner to oddball owner, whose radically dysfunctional lives are all impacted by the pooch.</info>
+</item>
+
+<item>
+<title>White.Island.2016</title>
+<link>https://od.lk/s/OTdfMzQzNjk1M18/White.Island.2016.HDRip.XViD-ETRG.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzQzNzAxNV8/White.Island.2016.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQzNzAxNF8/WhiteIsland_600.jpg</fanart>
+<info>Comic thriller with dark undertones and a big heart, set on the island of Ibiza. When Connor's best friend becomes innocently embroiled in the plans of a gang in Ibiza, he is the only one who can help him, but it means returning to the island he has been avoiding since things for him became complicated. Once back, Connor is reunited with Leo, his former boss and mentor, only thing is, Leo is trying to kill himself. Amongst the mayhem of the party island , underwater drops and a gorgeous diving instructor, Connor's journey teaches Leo that every day is precious and Connor that his life in London is not as perfect as it seems and that if he deals with his past, there is only one place he'll ever be truly happy...Ibiza.</info>
+</item>
+
+<item>
+<title>Who.Gets.the.Dog.2016</title>
+<link>https://od.lk/s/OTdfMzQxODAyMl8/Who.Gets.the.Dog.2016.HDRip.XviD.AC3-EVO.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzQxODEwOV8/Who.Gets.the.Dog.2016.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQxODEwOF8/Who.Gets.the.Dog.2016%2C.jpg</fanart>
+<info>A couple going through a divorce squabble over custody of their beloved dog. </info>
+</item>
+
+<item>
+<title>Who Killed My Husband 2016 </title>
+<link>https://od.lk/s/OTdfMzQzMDcyMV8/Who%20Killed%20My%20Husband%202016%20%28LMN%29%20720p%20HDTV%20X264%20Solar.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQzMjQxMV8/Who%20Killed%20My%20Husband%202016.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQzMjQxMl8/Who%20Killed%20My%20Husband%202016%20f.jpg</fanart>
+<info>Sophie's husband is killed in the line of duty as a police officer, now she goes undercover to solve his last case as she deals with her gravely ill daughter.</info>
+</item>
+
+<item>
+<title>We Still Steal the Old Way 2016</title>
+<link>https://od.lk/s/OTdfMzQzMDA3Nl8/We%20Still%20Steal%20the%20Old%20Way%202016%20DvDRip%20-%20iExTV.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQzMDE0NV8/We%20Still%20Steal%20the%20Old%20Way%202016.jpg</thumbnail>
+<fanart></fanart>
+<info>The Archer Gang are back and doing a daring heist in London. Remanded in prison, they will try to break out their old friend Briggs.</info>
+</item>
+
+<item>
+<title>World.War.Z.2013</title>
+<link>https://od.lk/d/OTdfMzE2MDMwOF8/World.War.Z.2013.1080p.3D.HSBS.BluRay.x264.YIFY.mp4</link>
+<thumbnail>https://od.lk/d/OTdfMzE2MjE1MF8/world-war-z.jpg</thumbnail>
+<fanart>https://od.lk/d/OTdfMzE2MjE0OV8/world_war_z_2013.jpg</fanart>
+<info>Former United Nations employee Gerry Lane traverses the world in a race against time to stop the Zombie pandemic that is toppling armies and governments, and threatening to destroy humanity itself.</info>
+</item>
+
+<item>
+<title>Werewolf.The.Beast.Among.Us</title>
+<link>https://od.lk/s/OTdfMzE3MTE1N18/Werewolf.The.Beast.Among.Us.2012.1080p.BluRay.x264.VPPV.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzIxNjU2MV8/Werewolf.The.Beast.Among.Us.2012.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzIxNjU2M18/Werewolf-The-Beast-Among-Us-2012-.jpg</fanart>
+<info>In the Nineteenth Century, when a werewolf slaughters the dwellers of a small town, a group of bounty hunters commanded by Charles arrive in town and negotiate a higher reward. The apprentice of medicine Daniel, who is the protégé of the local doctor, joins the group and provides information about the beast that is intelligent and kills not only on the full moon, but also on the previous and the next days. Soon the gypsy leader invites Charles and Daniel and explains that in the solstice, the wolf-like creature will be able to control his transformation at will. Therefore they have only two days to discover who the beast among them is and destroy it. </info>
+</item>
+
+<item>
+<title>War.of.the.Worlds.Goliath</title>
+<link>https://od.lk/s/OTdfMzI5NzQyOV8/War.of.the.Worlds.Goliath.2012.1080p.BluRay.x264.YIFY.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzI5ODU4MF8/War.of.the.Worlds.Goliath.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzI5ODU3OV8/War.of.the.Worlds.Goliath..jpg</fanart>
+<info>A retro-futuristic epic of steampunk battle set in 1914. It has been 15 years since the original H.G. Wells Martian invasion. Fearing another attack, the human race has prepared itself. This is the story of the battle tripod 'Goliath' and its young crew. 'Goliath' is the vanguard of an army of steam-powered battle walkers, heat-ray biplanes, and armored zeppelins facing a Martian fleet of giant fighting machines and flying wings. Within the cockpit of 'Goliath', courage under fire, conflicted loyalties and the struggle to save earth, in this new War of the Worlds.</info>
+</item>
+
+<item>
+<title>War.Of.The.Dead.2011</title>
+<link>https://od.lk/s/OTdfMzE2ODM2OV8/War.Of.The.Dead.2011.1080p.BluRay.H264.AAC-RARBG.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzE2OTE4Nl8/War-of-the-Dead.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzE2OTE4NV8/War-of-the-Dead..jpg</fanart>
+<info>A platoon of American and Finnish soldiers is driven deep into a Russian forest where its Captain discovers a terrifying secret.</info>
+</item>
+
+<item>
+<title>Walk.the.Line.EXTENDED.2005</title>
+<link>https://od.lk/s/OTdfMzE2OTMyMV8/Walk.the.Line.EXTENDED.2005.1080p.BrRip.x264.YIFY.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzE2OTUwOF8/Walk.the.Line.2005.jpg</thumbnail>
+<fanart>While growing up in the Great Depression era, Johnny Cash takes an interest in music and eventually moves out of his Arkansas town to join the air force in Germany. While there, he buys his first guitar and writes his own music, and proposes to Vivian. When they got married, they settled in Tennessee and with a daughter, he supported the family by being a salesman. He discovers a man who can pursue his dreams and ends up getting a record with the boys. Shortly after that, he was on a short tour, promoting his songs, and meets the already famous and beautiful June Carter. Then as they get on the long-term tours with June, the boys, and Jerry Lee Lewis, they have this unspoken relationship that grows. But when June leaves the tour because of his behavior, he was a drug addict. His marriage was also falling apart, and when he sees June years later at an awards show, he forces June to tour with them again...</fanart>
+<info>A chronicle of country music legend Johnny Cash's life, from his early days on an Arkansas cotton farm to his rise to fame with Sun Records in Memphis, where he recorded alongside Elvis Presley, Jerry Lee Lewis, and Carl Perkins.</info>
+</item>
+
+<item>
+<title>Wild.Things.3</title>
+<link>https://od.lk/s/OTdfMzQxOTE4MF8/Wild.Things.3.2005.WEBRip.x264-RARBG.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQyMDAxNV8/wild-things-3.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQyMDAxNl8/Wild.Things.3.jpg</fanart>
+<info>Once again set in the oceanfront Florida city of Blue Bay, "Wild Things 3" tells the tale of snobby rich girl Marie Clifton. Although she lives the life of luxury, Marie's distraught over her stepfather not giving her a pair of diamonds, valued at over $4 million, that are entitled to her in her late mother's will. That is, until one of her classmates, the local bad girl Elena Sandoval, accuses her stepfather of rape. Soon, it's deja Vi all over again as Detective Michael Morrison and probation officer Kristen Richards investigate, but as with the first "Wild Things" everything is not what it seems to be, and everybody has secrets to hide. </fanart>
+</info>
+</item>
+
+<item>
+<title>Wild.Things.1998</title>
+<link>https://od.lk/s/OTdfMzQyMDA1MF8/Wild.Things.1998.720p.BluRay.x264.YIFY.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQyMTM1OV8/wild_things.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQyMTM2MF8/Wild.Things.1998..jpg</fanart>
+<info>In south Florida, a high school counselor is accused of rape by a manipulative rich girl and her trailer trash classmate. The cop on the case begins to suspect a conspiracy and dives into an elaborate and devious web of greed and betrayal to find the truth.</info>
+</item>

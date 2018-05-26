@@ -1,0 +1,29 @@
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+<channel>
+<name>NVQ Level 1</name>
+<thumbnail>https://od.lk/s/OTdfMzU2ODQ3OV8/bricklaying.jpg</thumbnail>
+<externallink>https://goo.gl/ayC8jY</externallink>
+<fanart>https://od.lk/s/OTdfMzU2ODQ3OF8/bricklaying%20f.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>NVQ Level 2</name>
+<thumbnail>https://od.lk/s/OTdfMzU2ODQ3OV8/bricklaying.jpg</thumbnail>
+<externallink>https://goo.gl/8cD3Ol</externallink>
+<fanart>https://od.lk/s/OTdfMzU2ODQ3OF8/bricklaying%20f.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>NVQ 3 BRICKLAYING (+ THEORY WORK)</name>
+<thumbnail>https://od.lk/s/OTdfMzU2ODQ3OV8/bricklaying.jpg</thumbnail>
+<externallink>https://goo.gl/FJW0dH</externallink>
+<fanart>https://od.lk/s/OTdfMzU2ODQ3OF8/bricklaying%20f.jpg</fanart>
+<info></info>
+</channel>
+
+</channels>

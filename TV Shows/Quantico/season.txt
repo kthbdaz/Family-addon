@@ -1,0 +1,23 @@
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+<channel>
+<name>Season 1</name>
+<thumbnail>https://od.lk/s/OTdfMzQzMTE0MV8/quantico.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQzMTEzN18/S1.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQzMTE0Ml8/quantico%20f.jpg</fanart>
+<genre> Crime, Drama, Mystery</genre>
+<info>A look at the lives of young FBI recruits training at the Quantico base in Virginia when one of them is suspected of being a sleeper terrorist.</info>
+</channel>
+
+<channel>
+<name>Season 2</name>
+<thumbnail>https://od.lk/s/OTdfMzQzMTE0MV8/quantico.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQzMTEzOF8/S2.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQzMTE0Ml8/quantico%20f.jpg</fanart>
+<genre> Crime, Drama, Mystery</genre>
+<info>A look at the lives of young FBI recruits training at the Quantico base in Virginia when one of them is suspected of being a sleeper terrorist.</info>
+</channel>
+
+</channels>

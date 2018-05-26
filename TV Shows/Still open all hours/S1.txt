@@ -1,0 +1,54 @@
+<item>
+<title>S1 EP1</title>
+<link>https://od.lk/s/OTdfMzUyOTg2NV8/still.open.all.hours.s01e01.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUyOTc5M18/still%20open%20all%20hours.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUyOTgwM18/Still-Open-All-Hours-%20f.jpg</fanart>
+<genre>Comedy</genre>
+<info>In the early hours of Valentine's Day Granville climbs a ladder to deliver a card to his beloved Mavis but falls off it, due to the intervention of her overprotective sister Madge. In order to get Madge out of the way Granville tries to pair her off with thick customer Gastric but unsurprisingly she is not impressed. Granville does however accidentally discover a way of doubling his customers when he drops his pants to take off his money belt and attracts a crowd.</info>
+</item>
+
+<item>
+<title>S1 EP2</title>
+<link>https://od.lk/s/OTdfMzUyOTc1N18/Still.Open.All.Hours.S01E02.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUyOTc5M18/still%20open%20all%20hours.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUyOTgwM18/Still-Open-All-Hours-%20f.jpg</fanart>
+<genre>Comedy</genre>
+<info>Granville is anxious to obtain the custom of Old Bentinck, who crosses the road rather than come into the shop and sends Leroy to find out about the man's shopping preferences. Learning that he likes a particular cereal Granville puts it on special offer but ends up out of pocket when other customers buy it instead. Efforts to make Gastric attractive to Madge with an ill-fitting wig are as disastrous as the sale of an umbrella to Wet Eric, proving that it really is bad luck to open one indoors.</info>
+</item>
+
+<item>
+<title>S1 EP3</title>
+<link>https://od.lk/s/OTdfMzUyOTc1Nl8/still.open.all.hours.s01e03.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUyOTc5M18/still%20open%20all%20hours.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUyOTgwM18/Still-Open-All-Hours-%20f.jpg</fanart>
+<genre>Comedy</genre>
+<info>After showing Leroy how to make out of date bacon look edible Granville tries to get Nurse Gladys to give him romantic tips he can pass onto Gastric in his reluctant efforts to woo Madge - though Madge does not want to be wooed, especially after Gastric's disastrous attempt to climb a ladder to her bedroom window. Leroy is embarrassed when Granville makes him pedal to rickshaw to publicize the shop though at least Granville saves him from a jealous boyfriend with a box of broken fruit pies.</info>
+</item>
+
+<item>
+<title>S1 EP4</title>
+<link>https://od.lk/s/OTdfMzUyOTkyM18/still.open.all.hours.s01e04.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUyOTc5M18/still%20open%20all%20hours.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUyOTgwM18/Still-Open-All-Hours-%20f.jpg</fanart>
+<genre>Comedy</genre>
+<info>As Granville prepares to open a coffee bar in the back yard of the shop and to sell unsuspecting customers out of date salami which he passes off as life-giving 'yaggis' Wet Eric is stuck with trying to cheer up visiting brother-in-law, the permanently depressed Lester. Needless to say the grand opening of the coffee bar leaves everybody feeling depressed due to faulty furniture and an exploding coffee machine.</info>
+</item>
+
+<item>
+<title>S1 EP5</title>
+<link>https://od.lk/s/OTdfMzUyOTkyN18/still.open.all.hours.s01e05.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUyOTc5M18/still%20open%20all%20hours.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUyOTgwM18/Still-Open-All-Hours-%20f.jpg</fanart>
+<genre>Comedy</genre>
+<info>Granville has bought a huge job lot of herbal remedies which he cannot shift but, taking his cue from a salesman who advocates the use of a gimmick, advertises them as Old Mother Hemlock's Ancient Remedies and persuades Gastric to drag up as the lady herself. The customers are unimpressed until Old Mother Hemlock appears to mend Madge's broken car, after which her healing hands cause an increase in sales of the previously unsellable commodity.</info>
+</item>
+
+<item>
+<title>S1 EP6</title>
+<link>https://od.lk/s/OTdfMzUzMDU2NF8/still.open.all.hours.s01e06.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUyOTc5M18/still%20open%20all%20hours.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUyOTgwM18/Still-Open-All-Hours-%20f.jpg</fanart>
+<genre>Comedy</genre>
+<info>Granville believes that the ghost of Arkwright is haunting the shop and he arranges a séance - actually to convince Madge to date Gastric, though of course it goes wrong. However he really does look as if he has seen a ghost when he gets a visit from the abrasive Linda - a face from the past who wants something that he has.</info>
+</item>
+

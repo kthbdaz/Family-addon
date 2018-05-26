@@ -1,0 +1,96 @@
+<item>
+<title>S1 EP1 Born in the Purple</title>
+<link>https://od.lk/s/OTdfMzUzMTQ4OV8/S01E01.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMTAxMF8/Roman.Empire.Reign.of.Blood.jpg</thumbnail>
+<fanart></fanart>
+<genre> Documentary, Drama</genre>
+<info>Born in the Purple
+Fighting an implacable enemy in Germania, Marcus Aurelius trains his decadent son Commodus to succeed him, while rumor and intrigues brew back in Rome.</info>
+</item>
+
+<item>
+<title>S1 EP2 The Making of an Emperor</title>
+<link>https://od.lk/s/OTdfMzUzMTQ4NF8/S01E02.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMTAxMF8/Roman.Empire.Reign.of.Blood.jpg</thumbnail>
+<fanart></fanart>
+<genre> Documentary, Drama</genre>
+<info>The Making of an Emperor
+The Germanic tribes strike as Marcus Aurelius succumbs to disease, leaving a skeptical Emperor Commodus to prosecute a war that doesn't interest him.</info>
+</item>
+
+<item>
+<title>S1 EP3 Enemy of the Senate</title>
+<link>https://od.lk/s/OTdfMzUzMTQ4Nl8/S01E03.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMTAxMF8/Roman.Empire.Reign.of.Blood.jpg</thumbnail>
+<fanart></fanart>
+<genre> Documentary, Drama</genre>
+<info>Enemy of the Senate
+Commodus rises to power as Rome's new emperor, but not everyone supports his ascent. Among those conspiring against him: his older sister Lucilla.</info>
+</item>
+
+<item>
+<title>S1 EP4 Rome Is Burning</title>
+<link>https://od.lk/s/OTdfMzUzMTA5NF8/S01E04.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMTAxMF8/Roman.Empire.Reign.of.Blood.jpg</thumbnail>
+<fanart></fanart>
+<genre> Documentary, Drama</genre>
+<info>Rome Is Burning
+Commodus defeats his sister's coup but withdraws from governing, allowing others to amass power while he engages in an affair and banishes his wife.</info>
+</item>
+
+<item>
+<title>S1 EP5 Fight for Glory</title>
+<link>https://od.lk/s/OTdfMzUzMTM1NV8/S01E05.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMTAxMF8/Roman.Empire.Reign.of.Blood.jpg</thumbnail>
+<fanart></fanart>
+<genre> Documentary, Drama</genre>
+<info>Fight for Glory
+A disastrous grain shortage reveals Cleander's treachery and leaves Commodus isolated, inspiring him to train as a gladiator in a bid to unite Rome.</info>
+</item>
+
+<item>
+<title>S1 EP6 14 Days of Blood</title>
+<link>https://od.lk/s/OTdfMzUzMTM3NV8/S01E06.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMTAxMF8/Roman.Empire.Reign.of.Blood.jpg</thumbnail>
+<fanart></fanart>
+<genre> Documentary, Drama</genre>
+<info>14 Days of Blood
+Lavish imperial games at the Colosseum are highlighted by the emperor's bloody victories, but his paranoid abuses of power lead to a final betrayal.</info>
+</item>
+
+<item>
+<title>S1 EP7</title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzUzMTAxMF8/Roman.Empire.Reign.of.Blood.jpg</thumbnail>
+<fanart></fanart>
+<genre> Documentary, Drama</genre>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP8</title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzUzMTAxMF8/Roman.Empire.Reign.of.Blood.jpg</thumbnail>
+<fanart></fanart>
+<genre> Documentary, Drama</genre>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP9</title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzUzMTAxMF8/Roman.Empire.Reign.of.Blood.jpg</thumbnail>
+<fanart></fanart>
+<genre> Documentary, Drama</genre>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP10</title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzUzMTAxMF8/Roman.Empire.Reign.of.Blood.jpg</thumbnail>
+<fanart></fanart>
+<genre> Documentary, Drama</genre>
+<info></info>
+</item>
+

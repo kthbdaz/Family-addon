@@ -1,0 +1,241 @@
+<item>
+<title>S1 EP1 The Holy Trinity</title>
+<link>https://od.lk/s/OTdfMzQ0NDAxNF8/The.Grand.Tour.S01E01.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQ0NDIyOV8/The.Grand.Tour.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0NDIzMF8/The.Grand.Tour%20f.png</fanart>
+<genre>Comedy | Talk-Show</genre>
+<info>The Holy Trinity
+The Grand Tour kicks off in California, USA, when Jeremy Clarkson, Richard Hammond and James May take their famous studio tent to Dry Rabbit Lake. Hundreds of fans from across the U.S. traveled to the desert, near Lucerne Valley, outside of Los Angeles, California to be part of the first ever episode of Jeremy, Richard and James new show for Amazon Prime.</info>
+</item>
+
+<item>
+<title>S1 EP2 Operation Desert Stumble</title>
+<link>https://od.lk/s/OTdfMzQ1NDE3MF8/The.Grand.Tour.S01E02.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQ0NDIyOV8/The.Grand.Tour.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0NDIzMF8/The.Grand.Tour%20f.png</fanart>
+<genre>Comedy | Talk-Show</genre>
+<info>Operation Desert Stumble
+Jeremy Clarkson, Richard Hammond and James May bring the traveling Grand Tour tent to The Cradle of Humankind near Johannesburg in South Africa. In this show, the three hosts are forced to become special forces soldiers with an all action challenge at a top secret training base, deep within Jordan. Also in this episode, Jeremy introduces the 800 horsepower Aston Martin Vulcan to the Grand Tour test track, and James is sent to investigate an unusual form of motorsport called spinning.</info>
+</item>
+
+<item>
+<title>S1 EP3 Opera, Arts and Donuts</title>
+<link>https://od.lk/s/OTdfMzQ1Mjk4NV8/The.Grand.Tour.S01E03.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQ0NDIyOV8/The.Grand.Tour.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0NDIzMF8/The.Grand.Tour%20f.png</fanart>
+<genre>Comedy | Talk-Show</genre>
+<info>Opera, Arts and Donuts
+The travelling tent lands on the quayside in Whisky, England where Jeremy Clarkson, Richard Hammond and James introduce a modern take on the traditional Italian grand tour featuring an Aston Martin DB11, a Rolls-Royce Dawn and an...</info>
+</item>
+
+<item>
+<title>S1 EP4</title>
+<link>https://od.lk/s/OTdfMzQ1Mzk3MF8/The.Grand.Tour.S01E04.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQ0NDIyOV8/The.Grand.Tour.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0NDIzMF8/The.Grand.Tour%20f.png</fanart>
+<genre>Comedy | Talk-Show</genre>
+<info>Enviro-mental
+The Grand Tour studio tent is back in Whitby, England for various complicated reasons, some of which are James's fault. In this show, Jeremy Clarkson tests the Porsche 911 GT3 RS, desperately trying to remain impartial despite knowing that Richard Hammond owns one, and then compares it to the track-focused BMW M4 GTS. Also in this programme, the hosts become unusually ecological as they attempt to create cars made of truly sustainable materials before taking part in what's billed as a green motorsport event. Meanwhile, back at the tent, comedian Jimmy Carr is the ...</info>
+</item>
+
+<item>
+<title>S1 EP5</title>
+<link>https://od.lk/s/OTdfMzUyNjA1Nl8/The.Grand.Tour.S01E05.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQ0NDIyOV8/The.Grand.Tour.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0NDIzMF8/The.Grand.Tour%20f.png</fanart>
+<genre>Comedy | Talk-Show</genre>
+<info>Episode #1.5
+The Grand Tour travelling tent is in the port of Rotterdam, Holland from where Richard Hammond and James May introduce a twin test between two lightweight sports cars, the civilised Mazda MX5 and the stripped-out Zenos E10, against the stunning backdrop of Morocco. Unfortunately, the pair's North African adventure is ruined by the arrival of the horribly dressed Jeremy Clarkson in the horribly expensive Alfa Romeo 4C Spider. Also in this show, Hammond and May attempt to reinvent a traditional board game by playing it with cars, and legendary Dutch band Golden Earring ...</info>
+</item>
+
+<item>
+<title>S1 EP6 Happy Finnish Christmas</title>
+<link>https://od.lk/s/OTdfMzUyNzQzNF8/The.Grand.Tour.S01E06.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQ0NDIyOV8/The.Grand.Tour.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0NDIzMF8/The.Grand.Tour%20f.png</fanart>
+<genre>Comedy | Talk-Show</genre>
+<info>Happy Finnish Christmas
+The Grand Tour pitches its travelling studio in Kakslauttanen, Finland, deep within the Arctic Circle. In this show, Richard Hammond is very excited by the UK arrival of the very first Ford Mustang to be made in right-hand-drive and then very annoyed when Jeremy Clarkson turns up with a Ford Focus RS loudly claiming that it's better. Meanwhile, James May recounts the epic battle between Ford and Ferrari for supremacy in the Le Mans endurance race of the 1960s. Plus, the presenters have some Christmas gift suggestions for the car enthusiast.</info>
+</item>
+
+<item>
+<title>S1 EP7 The Beach (Buggy) Boys - Part 1</title>
+<link>https://od.lk/s/OTdfMzUzMTcyNl8/The.Grand.Tour.S01E07.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQ0NDIyOV8/The.Grand.Tour.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0NDIzMF8/The.Grand.Tour%20f.png</fanart>
+<genre>Comedy | Talk-Show</genre>
+<info>The Beach (Buggy) Boys - Part 1
+In the first of two special shows, The Grand Tour abandons its usual travelling tent for a road trip across Namibia as Jeremy Clarkson, Richard Hammond and James May attempt to demonstrate the brilliance of that great '60s throwback, the beach buggy. Grand Tour boss man Mr Wilman has declared that beach buggies are terrible, and its up to the hosts to prove him wrong as they saddle up three examples built to their own specifications and set off on an epic journey across the deserts of south west Africa.</info>
+</item>
+
+<item>
+<title>S1 EP8 The Beach (Buggy) Boys - Part 2</title>
+<link>https://od.lk/s/OTdfMzUzMTg1M18/The.Grand.Tour.S01E08.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQ0NDIyOV8/The.Grand.Tour.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0NDIzMF8/The.Grand.Tour%20f.png</fanart>
+<genre>Comedy | Talk-Show</genre>
+<info>The Beach (Buggy) Boys - Part 2
+In the second show of a two-part special, Jeremy Clarkson, Richard Hammond and James May continue in their epic trip across Namibia as they attempt to prove that beach buggies are brilliant. Having escaped the challenging desert at last, the trio must now face the rough roads of the Namibian bush and the constant malfunction of Clarkson's V8-powered buggy. As their arduous journey nears its conclusion, the hosts camp out in style and embark on their own version of rhino conservation before coming up with an unusual and potentially perilous way to reach their finish ...</info>
+</item>
+
+<item>
+<title>S1 EP9 Berks to the Future</title>
+<link>https://od.lk/s/OTdfMzU0Mjk5OF8/The.Grand.Tour.S01E09.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQ0NDIyOV8/The.Grand.Tour.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0NDIzMF8/The.Grand.Tour%20f.png</fanart>
+<genre>Comedy | Talk-Show</genre>
+<info>Berks to the Future
+The Grand Tour travelling tent arrives Stuttgart, Germany, the home of Porsche and Mercedes-Benz. In this show, James May takes the new Honda NSX supercar to the Eboladrome to push its cutting-edge hybrid technology to the limit and Richard Hammond immerses himself in the world of doomsday preppers as he constructs a 'bugout' vehicle that will allow him to survive a bleak future of nuclear winters, alien invasions and massed herds of zombies. Meanwhile, in a less realistic attempt at engineering, Jeremy Clarkson invents a new kind of fashionable SUV. Also in this show...</info>
+</item>
+
+<item>
+<title>S1 EP10 Dumb Fight at the O.K. Coral</title>
+<link>https://od.lk/s/OTdfMzUzNzY1N18/The.Grand.Tour.S01E10.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQ0NDIyOV8/The.Grand.Tour.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0NDIzMF8/The.Grand.Tour%20f.png</fanart>
+<genre>Comedy | Talk-Show</genre>
+<info>Dumb Fight at the O.K. Coral
+The Grand Tour travelling tent arrives in Nashville, Tennessee from where Jeremy Clarkson, Richard Hammond and James May introduce their attempt to save the world's coral reefs. In the interests of conservation, the three travel to Barbados and begin an earnest attempt to establish a new reef using only some car bodyshells as a foundation. Their efforts start badly and then get worse, involving inept crane driving, useless boat steering, and an embarrassing moment with a local hotel. Also in this show, Jeremy finally indulges his series-long Alfa Romeo obsession with ...</info>
+</item>
+
+<item>
+<title>S1 EP11 Italian Lessons</title>
+<link>https://od.lk/s/OTdfMzU0NzE4MF8/The.Grand.Tour.S01E11.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQ0NDIyOV8/The.Grand.Tour.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0NDIzMF8/The.Grand.Tour%20f.png</fanart>
+<genre>Comedy | Talk-Show</genre>
+<info>Italian Lessons
+This week the Grand Tour tent is on the shores of Loch Ness in Scotland, from where Jeremy Clarkson, Richard Hammond and James May introduce their experiences of buying used Maseratis with their own money and then using them to tour the drizzle flecked landscapes of the North of France. Along the way, they encounter worrying noises, unusual electronics, a small engine fire, and the cruel delight of watching James trying to drive with a broken arm. Also in this programme, Richard is at the Eboladrome track trying out the Abarth 124 Spider as he discovers if it's a real...</info>
+</item>
+
+<item>
+<title>S1 EP12</title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzQ0NDIyOV8/The.Grand.Tour.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0NDIzMF8/The.Grand.Tour%20f.png</fanart>
+<genre>Comedy | Talk-Show</genre>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP13</title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzQ0NDIyOV8/The.Grand.Tour.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0NDIzMF8/The.Grand.Tour%20f.png</fanart>
+<genre>Comedy | Talk-Show</genre>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP14</title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzQ0NDIyOV8/The.Grand.Tour.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0NDIzMF8/The.Grand.Tour%20f.png</fanart>
+<genre>Comedy | Talk-Show</genre>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP15</title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzQ0NDIyOV8/The.Grand.Tour.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0NDIzMF8/The.Grand.Tour%20f.png</fanart>
+<genre>Comedy | Talk-Show</genre>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP16</title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzQ0NDIyOV8/The.Grand.Tour.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0NDIzMF8/The.Grand.Tour%20f.png</fanart>
+<genre>Comedy | Talk-Show</genre>
+</item>
+
+<item>
+<title>S1 EP17</title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzQ0NDIyOV8/The.Grand.Tour.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0NDIzMF8/The.Grand.Tour%20f.png</fanart>
+<genre>Comedy | Talk-Show</genre>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP18</title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzQ0NDIyOV8/The.Grand.Tour.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0NDIzMF8/The.Grand.Tour%20f.png</fanart>
+<genre>Comedy | Talk-Show</genre>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP19</title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzQ0NDIyOV8/The.Grand.Tour.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0NDIzMF8/The.Grand.Tour%20f.png</fanart>
+</item>
+
+<item>
+<title>S1 EP20</title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzQ0NDIyOV8/The.Grand.Tour.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0NDIzMF8/The.Grand.Tour%20f.png</fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP21</title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzQ0NDIyOV8/The.Grand.Tour.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0NDIzMF8/The.Grand.Tour%20f.png</fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP22</title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzQ0NDIyOV8/The.Grand.Tour.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0NDIzMF8/The.Grand.Tour%20f.png</fanart>
+</item>
+
+<item>
+<title>S1 EP23</title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzQ0NDIyOV8/The.Grand.Tour.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0NDIzMF8/The.Grand.Tour%20f.png</fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP24</title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzQ0NDIyOV8/The.Grand.Tour.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0NDIzMF8/The.Grand.Tour%20f.png</fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP25</title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzQ0NDIyOV8/The.Grand.Tour.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0NDIzMF8/The.Grand.Tour%20f.png</fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP26</title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzQ0NDIyOV8/The.Grand.Tour.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0NDIzMF8/The.Grand.Tour%20f.png</fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP27</title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzQ0NDIyOV8/The.Grand.Tour.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0NDIzMF8/The.Grand.Tour%20f.png</fanart>
+<info></info>
+</item>

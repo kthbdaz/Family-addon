@@ -1,0 +1,95 @@
+<item>
+<title>S1 EP1</title>
+<link>https://od.lk/s/OTdfMzQyMTY2Ml8/Teen.Wolf.S01E01.HDTV.XviD-FQM.Pilot.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzQyMTY3Nl8/teen-wolf%20s1.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQyMTY3N18/-Teen-Wolf%20f.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP2</title>
+<link>https://od.lk/s/OTdfMzQyMTY2OF8/Teen.Wolf.S01E02.HDTV.XviD-FQM.Second.Chance.at.First.Line.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzQyMTY3Nl8/teen-wolf%20s1.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQyMTY3N18/-Teen-Wolf%20f.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP3</title>
+<link>https://od.lk/s/OTdfMzQyMTY3MV8/Teen.Wolf.S01E03.HDTV.XviD-SYS.Pack.Mentality.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzQyMTY3Nl8/teen-wolf%20s1.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQyMTY3N18/-Teen-Wolf%20f.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP4</title>
+<link>https://od.lk/s/OTdfMzQyMTY3NV8/Teen.Wolf.S01E04.HDTV.XviD-FQM.Magic.Bullet.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzQyMTY3Nl8/teen-wolf%20s1.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQyMTY3N18/-Teen-Wolf%20f.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP5</title>
+<link>https://od.lk/s/OTdfMzQyMTYzNF8/Teen.Wolf.S01E05.HDTV.XviD-FQM.The.Tell.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzQyMTY3Nl8/teen-wolf%20s1.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQyMTY3N18/-Teen-Wolf%20f.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP6</title>
+<link>https://od.lk/s/OTdfMzQyMTYzNV8/Teen.Wolf.S01E06.HDTV.XviD-SYS.Heart.Monitor.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzQyMTY3Nl8/teen-wolf%20s1.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQyMTY3N18/-Teen-Wolf%20f.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP7</title>
+<link>https://od.lk/s/OTdfMzQyMTYzOV8/Teen.Wolf.S01E07.HDTV.XviD-FQM.Night.School.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzQyMTY3Nl8/teen-wolf%20s1.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQyMTY3N18/-Teen-Wolf%20f.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP8</title>
+<link>https://od.lk/s/OTdfMzQyMTY0MF8/Teen.Wolf.S01E08.HDTV.XviD-FQM.Lunatic.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzQyMTY3Nl8/teen-wolf%20s1.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQyMTY3N18/-Teen-Wolf%20f.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP9</title>
+<link>https://od.lk/s/OTdfMzQyMTY0Ml8/Teen.Wolf.S01E09.HDTV.XviD-ASAP.Wolf%27s.Bane.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzQyMTY3Nl8/teen-wolf%20s1.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQyMTY3N18/-Teen-Wolf%20f.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP10</title>
+<link>https://od.lk/s/OTdfMzQyMTY0M18/Teen.Wolf.S01E10.HDTV.XviD-SYS.Co-Captain.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzQyMTY3Nl8/teen-wolf%20s1.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQyMTY3N18/-Teen-Wolf%20f.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP11</title>
+<link>https://od.lk/s/OTdfMzQyMTY2MF8/Teen.Wolf.S01E11.HDTV.XviD-SYS.Formality.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzQyMTY3Nl8/teen-wolf%20s1.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQyMTY3N18/-Teen-Wolf%20f.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP12</title>
+<link>https://od.lk/s/OTdfMzQyMTY2MV8/Teen.Wolf.S01E12.HDTV.XviD-SYS.Code.Breaker.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzQyMTY3Nl8/teen-wolf%20s1.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQyMTY3N18/-Teen-Wolf%20f.jpg</fanart>
+<info></info>
+</item>

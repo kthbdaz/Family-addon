@@ -1,0 +1,12 @@
+<channels>
+<channel>
+<name>Season 1</name>
+<thumbnail>https://od.lk/s/OTdfMzQyODgyMV8/queen%20sugar.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQyNzk4NF8/S1.txt</externallink>
+<fanart></fanart>
+<info>The series follows the life of three siblings--brother Ralph-Angel (trying to rebuild his life after jail) and sisters, Nova Bordelon (social activist, root woman, and herbalist) and Charley Bordelon (L.A. basketball wife), who, with her teenage son Micah, moves to the heart of Louisiana to claim an inheritance from their recently departed father - an 800-acre sugarcane farm.</info>
+</channel>
+</channels>
+
+
+

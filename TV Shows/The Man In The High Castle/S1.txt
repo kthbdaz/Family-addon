@@ -1,0 +1,100 @@
+<item>
+<title>S1 EP1 The New World</title>
+<link>https://od.lk/s/OTdfMzUzMTAwOF8/S01E01.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMDk4MV8/The%20Man%20In%20The%20High%20Castle.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMDk4Ml8/The%20Man%20in%20the%20High%20Castle%20f.jpg</fanart>
+<genre> Drama, Sci-Fi, Thriller </genre>
+<info>The New World
+Joe Blake, a resistance fighter, leaves German New York with cargo for neutral Colorado. In Japanese San Francisco, Juliana Crane receives footage of the Allies winning the war and a bus ticket to Colorado from her sister. There, she meets Joe. Joe reveals a dark secret.</info>
+</item>
+
+<item>
+<title>S1 EP2 Sunrise</title>
+<link>https://od.lk/s/OTdfMzUzMTAxNl8/S01E02.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMDk4MV8/The%20Man%20In%20The%20High%20Castle.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMDk4Ml8/The%20Man%20in%20the%20High%20Castle%20f.jpg</fanart>
+<genre> Drama, Sci-Fi, Thriller </genre>
+<info>Sunrise
+Frank's fate hangs in the balance as he is held captive by the Kempeitai. Meanwhile, Juliana makes contact with a mysterious man who gives her a clue about the films, and Obergruppenführer Smith is surprised by an unfortunate turn of events.</info>
+</item>
+
+<item>
+<title>S1 EP3 The Illustrated Woman</title>
+<link>https://od.lk/s/OTdfMzUzMTAxN18/S01E03.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMDk4MV8/The%20Man%20In%20The%20High%20Castle.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMDk4Ml8/The%20Man%20in%20the%20High%20Castle%20f.jpg</fanart>
+<genre> Drama, Sci-Fi, Thriller </genre>
+<info>The Illustrated Woman
+Joe and Juliana must act quickly as a vicious bounty hunter known as The Marshal arrives in Canon City. Tagomi makes plans with Wegener to pass valuable secrets from the Reich, and Frank plots his revenge against the Japanese.</info>
+</item>
+
+<item>
+<title>S1 EP4 Revelations</title>
+<link>https://od.lk/s/OTdfMzUzMTA1MF8/S01E04.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMDk4MV8/The%20Man%20In%20The%20High%20Castle.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMDk4Ml8/The%20Man%20in%20the%20High%20Castle%20f.jpg</fanart>
+<genre> Drama, Sci-Fi, Thriller </genre>
+<info>Revelations
+Joe is increasingly torn between duty and his growing feelings for Juliana. While Ed tries to stop Frank from making an irrevocable decision, Smith's investigation is interrupted when he has trouble with his witness, and Tagomi's plan goes awry as events take a dramatic turn at the Crown Prince's speech.</info>
+</item>
+
+<item>
+<title>S1 EP5 The New Normal</title>
+<link>https://od.lk/s/OTdfMzUzMTA1M18/S01E05.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMDk4MV8/The%20Man%20In%20The%20High%20Castle.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMDk4Ml8/The%20Man%20in%20the%20High%20Castle%20f.jpg</fanart>
+<genre> Drama, Sci-Fi, Thriller </genre>
+<info>The New Normal
+Juliana returns home, only to discover new clues that lead her closer to unraveling the mystery behind the films. Meanwhile, Joe faces a tough debriefing upon his return home. Kido begins his investigation into the events surrounding the Crown Prince's speech, while Tagomi and Wegener make a last-ditch attempt to complete their mission.</info>
+</item>
+
+<item>
+<title>S1 EP6 Three Monkeys</title>
+<link>https://od.lk/s/OTdfMzUzMTA1NF8/S01E06.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMDk4MV8/The%20Man%20In%20The%20High%20Castle.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMDk4Ml8/The%20Man%20in%20the%20High%20Castle%20f.jpg</fanart>
+<genre> Drama, Sci-Fi, Thriller </genre>
+<info>Three Monkeys
+Joe celebrates VA day at Smith's house. Juliana accepts a job working for Tagomi as she continues her search for answers. Smith invites an old friend to join the celebrations with surprising results.</info>
+</item>
+
+<item>
+<title>S1 EP7 Truth</title>
+<link>https://od.lk/s/OTdfMzUzMTA2MV8/S01E07.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMDk4MV8/The%20Man%20In%20The%20High%20Castle.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMDk4Ml8/The%20Man%20in%20the%20High%20Castle%20f.jpg</fanart>
+<genre> Drama, Sci-Fi, Thriller </genre>
+<info>Truth
+Juliana makes a startling discovery about her sister's death. Frank reflects on recent events and makes an important decision about his future, and Tagomi gains greater insight into Juliana's past.</info>
+</item>
+
+<item>
+<title>S1 EP8 End of the World</title>
+<link>https://od.lk/s/OTdfMzUzMTA2M18/S01E08.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMDk4MV8/The%20Man%20In%20The%20High%20Castle.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMDk4Ml8/The%20Man%20in%20the%20High%20Castle%20f.jpg</fanart>
+<genre> Drama, Sci-Fi, Thriller </genre>
+<info>End of the World
+Juliana and Frank make plans to escape the Pacific States, only to be dragged back into danger by Joe as he tries to retrieve a new film. Meanwhile, Smith's loyalty is put to the ultimate test when confronted with a startling family discovery.</info>
+</item>
+
+<item>
+<title>S1 EP9 Kindness</title>
+<link>https://od.lk/s/OTdfMzUzMTA2NF8/S01E09.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMDk4MV8/The%20Man%20In%20The%20High%20Castle.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMDk4Ml8/The%20Man%20in%20the%20High%20Castle%20f.jpg</fanart>
+<genre> Drama, Sci-Fi, Thriller </genre>
+<info>Kindness
+With time running out, a desperate Frank is forced to put his life on the line to help Joe. The pieces finally fall into place for Smith as he uncovers who was behind the assassination attempt. Tagomi is devastated when he's confronted with the consequences of his scheming, and Kido's investigation takes a dramatic turn when he makes an important discovery.</info>
+</item>
+
+<item>
+<title>S1 EP10 A Way Out</title>
+<link>https://od.lk/s/OTdfMzUzMTA2NV8/S01E10.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMDk4MV8/The%20Man%20In%20The%20High%20Castle.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMDk4Ml8/The%20Man%20in%20the%20High%20Castle%20f.jpg</fanart>
+<genre> Drama, Sci-Fi, Thriller </genre>
+<info>A Way Out
+As revelations abound, Juliana is forced to make the hardest decision of her life. Wegener returns to Germany to carry out his mission. Smith risks becoming the prey as he goes hunting with his assassin, and Kido desperately tries to close his investigation before his time runs out.</info>
+</item>
+

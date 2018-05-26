@@ -1,0 +1,34 @@
+﻿
+
+
+
+
+
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+<channel>
+<name>Season 1</name>
+<thumbnail>https://od.lk/s/OTdfMzQzODQ5OF8/Chance..jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQzODQ5Nl8/S1.txt</externallink>
+<fanart></fanart>
+<genre>Drama, Mystery, Thriller | TV Series (2016– )</genre>
+<info>A forensic neuro-psychiatrist reluctantly enters a dangerous and violent world of mistaken identity, police corruption and mental illness.</info>
+</channel>
+
+
+
+</channels>
+
+
+
+
+
+
+
+
+
+
+
+

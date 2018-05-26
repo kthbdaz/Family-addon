@@ -1,0 +1,159 @@
+<item>
+<title>Health and Safety [Part 1 of 2]</title>
+<link>https://od.lk/s/OTdfMzU2ODMzOF8/Health%20and%20Safety%20%5BPart%201%20of%202%5D.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU2ODMzMV8/nvq%203.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU2ODMzM18/hairdressing.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>Health and Safety [Part 2 of 2]</title>
+<link>https://od.lk/s/OTdfMzU2ODMzOV8/Health%20and%20Safety%20%5BPart%202%20of%202%5D.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU2ODMzMV8/nvq%203.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU2ODMzM18/hairdressing.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>Attach Hair Weave</title>
+<link>https://od.lk/s/OTdfMzU2ODM1MV8/Attach%20Hair%20Weave.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU2ODMzMV8/nvq%203.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU2ODMzM18/hairdressing.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>Chemical Treatments</title>
+<link>https://od.lk/s/OTdfMzU2ODM1Ml8/Chemical%20Treatments.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU2ODMzMV8/nvq%203.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU2ODMzM18/hairdressing.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>Colour African Caribbean hair</title>
+<link>https://od.lk/s/OTdfMzU2ODM1M18/Colour%20African%20Caribbean%20hair.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU2ODMzMV8/nvq%203.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU2ODMzM18/hairdressing.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>Creative Colour</title>
+<link>https://od.lk/s/OTdfMzU2ODMzNV8/Creative%20Colour.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU2ODMzMV8/nvq%203.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU2ODMzM18/hairdressing.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>Emerging Short Graduation Cut (Male)</title>
+<link>https://od.lk/s/OTdfMzU2ODMzNl8/Emerging%20Short%20Graduation%20Cut%20%28Male%29.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU2ODMzMV8/nvq%203.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU2ODMzM18/hairdressing.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>Fashion Perm</title>
+<link>https://od.lk/s/OTdfMzU2ODMzN18/Fashion%20Perm.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU2ODMzMV8/nvq%203.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU2ODMzM18/hairdressing.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>Pin Curls</title>
+<link>https://od.lk/s/OTdfMzU2ODM0MF8/Pin%20Curls.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU2ODMzMV8/nvq%203.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU2ODMzM18/hairdressing.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title> Plaiting & Twisting Techniques</title>
+<link>https://od.lk/s/OTdfMzU2ODM0MV8/Plait%20-%20Plaiting%20%26%20Twisting%20Techniques.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU2ODMzMV8/nvq%203.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU2ODMzM18/hairdressing.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>Promote Additional Services in the Salon</title>
+<link>https://od.lk/s/OTdfMzU2ODM0Ml8/Promote%20Additional%20Services%20in%20the%20Salon%20%28Hairdressing%29.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU2ODMzMV8/nvq%203.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU2ODMzM18/hairdressing.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>Razor Cut (Female)</title>
+<link>https://od.lk/s/OTdfMzU2ODM0M18/Razor%20Cut%20%28Female%29.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU2ODMzMV8/nvq%203.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU2ODMzM18/hairdressing.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>Remove Bonds</title>
+<link>https://od.lk/s/OTdfMzU2ODM0NF8/Remove%20Bonds.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU2ODMzMV8/nvq%203.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU2ODMzM18/hairdressing.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>The Bun [Part 1 of 2].</title>
+<link>https://od.lk/s/OTdfMzU2ODM0NV8/The%20Bun%20%5BPart%201%20of%202%5D.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU2ODMzMV8/nvq%203.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU2ODMzM18/hairdressing.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>The Bun [Part 2 of 2].</title>
+<link>https://od.lk/s/OTdfMzU2ODM0Nl8/The%20Bun%20%5BPart%202%20of%202%5D.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU2ODMzMV8/nvq%203.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU2ODMzM18/hairdressing.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>The Quiff (Female)</title>
+<link>https://od.lk/s/OTdfMzU2ODM0N18/The%20Quiff%20%28Female%29.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU2ODMzMV8/nvq%203.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU2ODMzM18/hairdressing.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>Wedding Curls</title>
+<link>https://od.lk/s/OTdfMzU2ODM0OF8/Wedding%20Curls.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU2ODMzMV8/nvq%203.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU2ODMzM18/hairdressing.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>Wedding Fairytale Style Updo</title>
+<link>https://od.lk/s/OTdfMzU2ODM0OV8/Wedding%20Fairytale%20Style%20Updo.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU2ODMzMV8/nvq%203.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU2ODMzM18/hairdressing.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>Wedding Updo</title>
+<link>https://od.lk/s/OTdfMzU2ODM1MF8/Wedding%20Updo%20-%20YouTube.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU2ODMzMV8/nvq%203.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU2ODMzM18/hairdressing.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzU2ODMzMV8/nvq%203.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU2ODMzM18/hairdressing.jpg</fanart>
+<info></info> 
+</item>

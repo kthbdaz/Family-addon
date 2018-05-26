@@ -1,0 +1,54 @@
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+<channel>
+<name>Movies</name>
+<thumbnail>https://od.lk/s/OTdfMzQxNDU0OV8/Stargate%20Directors%20Cut.jpg</thumbnail>
+<externallink>https://goo.gl/u4XGRz</externallink>
+<fanart>https://od.lk/s/OTdfMzQxNDU1NF8/Stargate%20Continuum..jpg</fanart>
+<info>Stargate
+Stargate Directors Cut
+Stargate Ark of the Truth
+Stargate continuum</info>
+</channel>
+
+<channel>
+<name>Seasons</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>Season </name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>Season </name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>Season </name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>Season </name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info>
+</channel>

@@ -1,0 +1,217 @@
+<item>
+<title>S01E01 - A Dangerous Game</title>
+<link>https://od.lk/s/OTdfMzQ1MzUyMV8/Pacific%20Heat%20-%20S01E01%20-%20A%20Dangerous%20Game.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQ1MzkyOV8/pacific%20h.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ1MzkzMF8/Pacific%20Heat.jpg</fanart>
+<genre>Animation</genre>
+<info>A Dangerous Game
+When the team goes undercover at a strip club to blow up a crystal meth ring, Maddie and VJ gain the trust of a stripper who knows the key info.</info>
+</item>
+
+<item>
+<title>S01E02 - Countdown To Death</title>
+<link>https://od.lk/s/OTdfMzQ1MzUyMl8/Pacific%20Heat%20-%20S01E02%20-%20Countdown%20To%20Death.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQ1MzkyOV8/pacific%20h.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ1MzkzMF8/Pacific%20Heat.jpg</fanart>
+<genre>Animation</genre>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP3</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<genre>Animation</genre>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP4</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<genre>Animation</genre>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP5</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP6</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP7</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP8</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP9</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP10</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP11</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP12</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP13</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP14</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP15</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP16</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>S1 EP17</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP18</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP19</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>S1 EP20</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP21</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP22</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>S1 EP23</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP24</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP25</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP26</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP27</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>

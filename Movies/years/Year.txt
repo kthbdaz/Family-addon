@@ -1,0 +1,214 @@
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+<channel>
+<name>2017</name>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQwOF8/2017.png</thumbnail>
+<externallink>https://od.lk/s/OTdfMzU0Nzc3Nl8/2017.txt</externallink>
+<fanart></fanart>
+<genre>ALL GENRES</genre>
+<info>ALL MOVIES FOR 2017</info>
+</channel>
+
+<channel>
+<name>2016</name>
+<thumbnail>https://od.lk/s/OTdfMzIyNDk5M18/2016.png</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQxODExM18/2016.txt</externallink>
+<fanart></fanart>
+<genre>ALL GENRES</genre>
+<info>ALL MOVIES FOR 2016</info>
+</channel>
+
+<channel>
+<name>2015</name>
+<thumbnail>https://od.lk/s/OTdfMzIyNDk5Ml8/2015.png</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQxODEyNl8/2015.txt</externallink>
+<fanart></fanart>
+<genre>ALL GENRES</genre>
+<info>ALL MOVIES FOR 2015</info>
+</channel>
+
+<channel>
+<name>2014</name>
+<thumbnail>https://od.lk/s/OTdfMzIyNDk5MF8/2014.png</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQxODEyNV8/2014.txt</externallink>
+<fanart></fanart>
+<genre>ALL GENRES</genre>
+<info>ALL MOVIES FOR 2014</info>
+</channel>
+
+<channel>
+<name>2013</name>
+<thumbnail>https://od.lk/s/OTdfMzIyNDk4N18/2013.png</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQxODEyNF8/2013.txt</externallink>
+<fanart></fanart>
+<genre>ALL GENRES</genre>
+<info>ALL MOVIES FOR 2013</info>
+</channel>
+
+<channel>
+<name>2012</name>
+<thumbnail>https://od.lk/s/OTdfMzIyNDk4NV8/2012.png</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQxODEyM18/2012.txt</externallink>
+<fanart></fanart>
+<genre>ALL GENRES</genre>
+<info>ALL MOVIES FOR 2012</info>
+</channel>
+
+<channel>
+<name>2011</name>
+<thumbnail>https://od.lk/s/OTdfMzIyNDk4NF8/2011.png</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQxODEyMl8/2011.txt</externallink>
+<fanart></fanart>
+<genre>ALL GENRES</genre>
+<info>kthbdaz.netau.net</info>
+</channel>
+
+<channel>
+<name>2010</name>
+<thumbnail>https://od.lk/s/OTdfMzIyNDk4Ml8/2010.png</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQxODEyMV8/2010.txt</externallink>
+<fanart></fanart>
+<genre>ALL GENRES</genre>
+<info>ALL MOVIES FOR 2010</info>
+</channel>
+
+<channel>
+<name>2009</name>
+<thumbnail>https://od.lk/s/OTdfMzIyNDk4MF8/2009.png</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQxODEyMF8/2009.txt</externallink>
+<fanart></fanart>
+<genre>ALL GENRES</genre>
+<info>ALL MOVIES FOR 2009</info>
+</channel>
+
+<channel>
+<name>2008</name>
+<thumbnail>https://od.lk/s/OTdfMzIyNDk3N18/2008.png</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQxODExOV8/2008.txt</externallink>
+<fanart></fanart>
+<genre>ALL GENRES</genre>
+<info>ALL MOVIES FOR 2008</info>
+</channel>
+
+<channel>
+<name>2007</name>
+<thumbnail>https://od.lk/s/OTdfMzIyNDk3Nl8/2007.png</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQxODExOF8/2007.txt</externallink>
+<fanart></fanart>
+<genre>ALL GENRES</genre>
+<info>ALL MOVIES FOR 2007</info>
+</channel>
+
+<channels>
+<channel>
+<name>2006</name>
+<thumbnail>https://od.lk/s/OTdfMzIyNDk3NV8/2006.png</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQxODExN18/2006.txt</externallink>
+<fanart></fanart>
+<genre>ALL GENRES</genre>
+<info>ALL MOVIES FOR 2006</info>
+</channel>
+
+<channels>
+<channel>
+<name>2005</name>
+<thumbnail>https://od.lk/s/OTdfMzIyNDk3M18/2005.png</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQxODExNl8/2005.txt</externallink>
+<fanart></fanart>
+<genre>ALL GENRES</genre>
+<info>ALL MOVIES FOR 2005</info>
+</channel>
+
+<channel>
+<name>2004</name>
+<thumbnail>https://od.lk/s/OTdfMzIyNTAxMF8/2004.png</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQxODExNV8/2004.txt</externallink>
+<fanart></fanart>
+<genre>ALL GENRES</genre>
+<info>ALL MOVIES FOR 2004</info>
+</channel>
+
+<channels>
+<channel>
+<name>2003</name>
+<thumbnail>https://od.lk/s/OTdfMzIyNTAwOV8/2003.png</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQxODExNF8/2003.txt</externallink>
+<fanart></fanart>
+<genre>ALL GENRES</genre>
+<info>ALL MOVIES FOR 2003</info>
+</channel>
+
+<channel>
+<name>2002</name>
+<thumbnail>https://od.lk/s/OTdfMzIyNTAwN18/2002.png</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQxODEzNF8/2002.txt</externallink>
+<fanart></fanart>
+<genre>ALL GENRES</genre>
+<info>ALL MOVIES FOR 2002</info>
+</channel>
+
+<channel>
+<name>2001</name>
+<thumbnail>https://od.lk/s/OTdfMzIyNTAwNV8/2001.png</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQxODEzM18/2001.txt</externallink>
+<fanart></fanart>
+<genre>ALL GENRES</genre>
+<info>ALL MOVIES FOR 2001</info>
+</channel>
+
+<channel>
+<name>2000</name>
+<thumbnail>https://od.lk/s/OTdfMzM1NjQ0Nl8/2000.png</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQxODEzMl8/2000.txt</externallink>
+<fanart></fanart>
+<genre>ALL GENRES</genre>
+<info>ALL MOVIES FOR 2000</info>
+</channel>
+
+<channel>
+<name>90s Movies</name>
+<thumbnail>https://od.lk/s/OTdfMzIyNTAwM18/90s.png</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQxODEzMV8/90s%20movies.txt</externallink>
+<fanart>https://www.dropbox.com/s/mb3mog9heskgdeq/back%20to%2090s.jpg?dl=1</fanart>
+<genre>1990 - 1999</genre>
+<info>90s Movies</info>
+</channel>
+
+<channel>
+<name>80s Movies</name>
+<thumbnail>https://od.lk/s/OTdfMzIyNTAwMV8/80s.png</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQxODEzMF8/80s%20movies.txt</externallink>
+<fanart></fanart>
+<genre>1980 - 1989</genre>
+<info>80s Movies</info>
+</channel>
+
+<channel>
+<name>70s Movies</name>
+<thumbnail>https://od.lk/s/OTdfMzIyNTAwMF8/70s.png</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQxODEyOV8/70s%20movies.txt</externallink>
+<fanart></fanart>
+<genre>1970 - 1979</genre>
+<info>70s Movies</info>
+</channel>
+
+<channel>
+<name>60s Movies</name>
+<thumbnail>https://od.lk/s/OTdfMzIyNDk5OF8/60s.png</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQxODEyOF8/60s%20Movies.txt</externallink>
+<fanart></fanart>
+<genre>1960 - 1969</genre>
+<info>60s Movies</info>
+</channel>
+
+<channel>
+<name>50s Movies</name>
+<thumbnail>https://od.lk/s/OTdfMzIyNDk5Nl8/50s.png</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQxODEyN18/50s%20Movies.txt</externallink>
+<fanart></fanart>
+<genre>1950 - 1959</genre>
+<info>50s Movies</info>
+</channel>
+

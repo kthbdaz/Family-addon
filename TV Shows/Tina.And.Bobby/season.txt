@@ -1,0 +1,14 @@
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+<channel>
+<name>Season 1</name>
+<thumbnail>https://od.lk/s/OTdfMzU0NzQ4N18/Tina%20and%20Bobby.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzU0NzQ4NV8/S1.txt</externallink>
+<fanart></fanart>
+<genre>Drama, Romance</genre>
+<info>A three-part drama about England and West Ham footballer Bobby Moore and his first wife Tina.</info>
+</channel>
+
+</channels>

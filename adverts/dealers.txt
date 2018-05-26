@@ -1,0 +1,86 @@
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+<channel>
+<name>HOW TO ADVERTISE YOUR SERVICES</name>
+<thumbnail></thumbnail>
+<externallink>https://goo.gl/A4jyc9</externallink>
+<fanart></fanart>
+<info>Use this link to obtain our contact details to request info on how to advertise your services and cost</info>
+</channel>
+
+<channel>
+<name>Charities Voluntary Organisations</name>
+<thumbnail>https://od.lk/s/OTdfMzY0NDkyNl8/icon.jpg</thumbnail>
+<externallink>https://goo.gl/ulPmdc</externallink>
+<fanart>https://od.lk/s/OTdfMzY0NDkyNV8/fanart.jpg</fanart>
+<info>Charities Voluntary Organisations</info>
+</channel>
+
+
+<channel>
+<name>mobile phone repairs and dealers</name>
+<thumbnail>https://od.lk/s/OTdfMzYzMTc2N18/mphone.png</thumbnail>
+<externallink>https://goo.gl/F3NqJs</externallink>
+<fanart>https://od.lk/s/OTdfMzYzMTc2OF8/phone_repair_f.jpg</fanart>
+<info>proffesional phone repairs and sales</info>
+</channel>
+
+<channel>
+<name>Coach hire/tours</name>
+<thumbnail>https://od.lk/s/OTdfMzY0NDY1MV8/privatehire%20I.jpg</thumbnail>
+<externallink>https://goo.gl/k02B2Q</externallink>
+<fanart>https://od.lk/s/OTdfMzY0NDY0OF8/privatehire.jpg</fanart>
+<info>proffesional private coach hire</info>
+</channel>
+
+<channel>
+<name>Hotles And Resturants</name>
+<thumbnail>https://goo.gl/3l2y3u</thumbnail>
+<externallink>https://goo.gl/5pRItu</externallink>
+<fanart>https://goo.gl/eBkH0d</fanart>
+<info>Hotles And Resturants</info>
+</channel>
+
+<channel>
+<name>Furnishers</name>
+<thumbnail>https://od.lk/s/OTdfMzY0NDY4M18/Furnishers%20i.jpg</thumbnail>
+<externallink>https://goo.gl/452xpz</externallink>
+<fanart>https://od.lk/s/OTdfMzY0NDY4Ml8/Furnishers.jpg</fanart>
+<info>suppliers of fine furniture</info>
+</channel>
+
+<channel>
+<name>pets and Aquatics</name>
+<thumbnail>https://od.lk/s/OTdfMzY0NDY2OF8/approved-pet-logo.gif</thumbnail>
+<externallink>https://goo.gl/1KptNL</externallink>
+<fanart>https://od.lk/s/OTdfMzY0NDY2OV8/fanart.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>Carpet Retailers Grimsby</name>
+<thumbnail>https://od.lk/s/OTdfMzY0NDcxN18/icon.jpg</thumbnail>
+<externallink>https://goo.gl/u4b5Jn</externallink>
+<fanart>https://od.lk/s/OTdfMzY0NDcxOF8/fanart.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>Toy Shops Grimsby</name>
+<thumbnail>https://od.lk/s/OTdfMzY0NDcxNV8/toyshop.png</thumbnail>
+<externallink>https://goo.gl/8y6utF</externallink>
+<fanart>https://od.lk/s/OTdfMzY0NDcxNl8/toy-shop-f.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>Car Dealers Grimsby</name>
+<thumbnail>https://od.lk/s/OTdfMzY0NDczM18/icon.jpg</thumbnail>
+<externallink>https://goo.gl/5ZHE68</externallink>
+<fanart>https://od.lk/s/OTdfMzY0NDczMl8/fanart.jpg</fanart>
+<info></info>
+</channel>
+
+</channels>

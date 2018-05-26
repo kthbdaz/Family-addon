@@ -1,0 +1,325 @@
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>Alien.Armageddon.2011</title>
+<link>https://od.lk/s/OTdfMzUzMTQ4NV8/Alien.Armageddon.2011.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMTQ4OF8/Alien.Armageddon.2011.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMTQ4N18/Alien.Armageddon%20f.jpg</fanart>
+<genre> Sci-Fi</genre>
+<info>The story of Jodie Elliot, a young woman who is trying to find her daughter in a city controlled by an invading alien army.</info>
+</item>
+
+<item>
+<title>Hall.Pass.2011</title>
+<link>https://od.lk/s/OTdfMzUzNjEzM18/Hall.Pass.2011.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjE4M18/Hall.Pass.2011.jpg</thumbnail>
+<fanart></fanart>
+<genre>Comedy, Romance </genre>
+<info>A couple of married guys are always looking at other women. Their wives are fed up with their behavior, and grant them a 'hall pass': a week off their marriage allowing them to do anything. But the guys take their time and their week is almost up. What they don't realize is that at the same time their wives make connections of their own.</info>
+</item>
+
+<item>
+<title>Sinbad.and.the.Minotaur.2011</title>
+<link>https://od.lk/s/OTdfMzQ1Mjk1Nl8/Sinbad.and.the.Minotaur.2011.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQ1MzAwMF8/Sinbad.and.the.Minotaur.2011.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ1MzAwMV8/Sinbad.and.the.Minotaur.2011%20f.jpg</fanart>
+<info>Rating:NR
+Genre: Action & Adventure , Science Fiction & Fantasy 
+Directed By:Karl Zwicky 
+Written By:Jim Noble 
+On DVD:Aug 30, 2011 
+Runtime: 90 minutes 
+Studio: Entertainment One
+
+Sinbad, armed with rumors of ancient gold, finds himself sneaking into the desert camp of the evil sorcerer Al-Jibar. Hidden among the many relics is an ivory scroll case containing the logs of the pirate Captain Minos, which will lead Sinbad to the golden head of the Colossus of Rhodes.</info>
+</item>
+
+<item>
+<title>Bloodrayne.The.Third.Reich.2011</title>
+<link>https://od.lk/s/OTdfMzQ0Mzg2N18/Bloodrayne.The.Third.Reich.2011.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQ0MzkxOF8/Bloodrayne.2011.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0MzkxOV8/Bloodrayne.f.jpg</fanart>
+<info> Action, Adventure, Fantasy
+Rayne fights against the Nazis in Europe during World War II, encountering Ekart Brand, a Nazi leader whose target is to inject Adolf Hitler with Rayne's blood in an attempt to transform him into a dhampir and attain immortality.</info>
+</item>
+
+<item>
+<title>Zombie.Apocalypse.2011</title>
+<link>https://od.lk/s/OTdfMzQ0MzkxNF8/Zombie.Apocalypse.2011.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQ0MzkyNV8/Zombie.Apocalypse.2011.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0MzkyNl8/Zombie.Apocalypse.2011%20f.jpg</fanart>
+<info>Action, Horror, Sci-Fi
+Three small groups of survivors of a zombie plague join forces to reach the ferry boat to a sanctuary that they are not sure that it does exist in the Catalina Island. Along their journey, they are hunted down by hordes of zombies and only a few of them survive.</info>
+</item>
+
+<item>
+<title>The.Littlest.Angel.2011</title>
+<link>https://od.lk/s/OTdfMzQ0MjM3MV8/The.Littlest.Angel.2011.1080p.BluRay.H264.AAC-RARBG.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQ0MjM3Nl8/The%20Littlest%20Angel%20%282011%29.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0MjM3NV8/The.Littlest.Angel.2011%20f.jpg</fanart>
+<info> Animation
+Based on the fifteenth best-selling children's book of all time, The Littlest Angel tells the story of a young boy who arrives in heaven before his time. Home-sick and lonely, he will travel back to earth, with his friendly pup Halo, to retrieve a most selfless and precious gift for The Baby Jesus. Experience the love, laughter and magic of one of the most popular children's stories of all time. From the classic book by Charles Tazewell comes the CGI animated film, The Littlest Angel. </info>
+</item>
+
+<item>
+<title>Iron.Golem.2011</title>
+<link>https://od.lk/s/OTdfMzQyNjI5Nl8/Iron.Golem.2011.1080p.BluRay.H264.AAC-RARBG.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQ0MTE1M18/Iron.Golem.2011.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0MTE1NF8/Iron.Golem.2011%20f.jpg</fanart>
+<info>Brothers Jake and Ethan witness something crashing to earth and discover that it is a satellite of some kind. Being broke, they collect it and sell it to the local scrap dealer, Earl. Earl, meanwhile, has built an 18 foot "Golem" out of scrap iron to be used in the local town parade. The satellite is infected with some type of space bacteria which feeds on metal and also causes said metal to become animated. The result is that the Golem becomes infected, comes alive, and begins killing people by sucking the metals from their body with just a touch. Jake must find a way to defeat the Golem and save the town. </info>
+</item>
+
+<item>
+<title>Neverland.2011</title>
+<link>https://od.lk/s/OTdfMzQxOTE4OV8/Neverland.2011.1080p.BluRay.H264.AAC-RARBG.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQxOTQyN18/neverland-2011.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQxOTQyOF8/Neverland-neverland.jpg</fanart>
+<info>Raised on the streets of turn-of-the century London, orphaned Peter and his pals survive by their fearless wits as cunning young pickpockets. Now, they've been rounded up by their mentor Jimmy Hook to snatch a priceless, some believe, magical treasure which transports them to another world. Neverland is a realm of white jungles and legendary mysteries of eternal youth, where unknown friends and enemies snatched from time welcome the new travelers with both excitement and trepidation. These groups include a band of 18th century pirates led by the power-mad Elizabeth Bonny, and the Native American Kaw tribe led by a Holy Man, which has protected the secret of the tree spirits from Bonny and her gang for ages, and that has meant war. But as the fight to save this strange and beautiful world becomes vital, Hook, Peter, and the ragamuffin lost boys consider that growing old somewhere in time could be less important than growing up, right here in their new home called Neverland. </info>
+</item>
+
+<item>
+<title>Company.2011</title>
+<link>https://od.lk/s/OTdfMzQxODA4MF8/Company.2011.1080p.BluRay.H264.AAC-RARBG.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQxODQ1MV8/Company.2011.jpg</thumbnail>
+<fanart></fanart>
+<info>Following five couples and their friend Robert (Neil Patrick Harris), the perpetual bachelor, Company explores the true meaning of being in a relationship through a series of vignettes. Winner of the 1971 Tony Award for Best Musical, Neil Patrick Harris (How I Met Your Mother, Rent) led an all-star cast in a sold out event at the New York Philharmonic.</info>
+</item>
+
+<item>
+<title>Limitless - Unrated Extended Cut</title>
+<link>https://od.lk/s/OTdfMzQxNDQ3M18/Limitless%20-%20Unrated%20Extended%20Cut%20Sci-Fi%202011%20Eng%20Subs%201080p%20%5BH264-mp4%5D.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQxNDg5Ml8/Limitless.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQxNDg5M18/Limitless..jpg</fanart>
+<info>An action-thriller about a writer who takes an experimental drug that allows him to use 100 percent of his mind. As one man evolves into the perfect version of himself, forces more corrupt than he can imagine mark him for assassination. Out-of-work writer Eddie Morra's (Cooper) rejection by girlfriend Lindy (Abbie Cornish) confirms his belief that he has zero future. That all vanishes the day an old friend introduces Eddie to NZT, a designer pharmaceutical that makes him laser focused and more confident than any man alive. Now on an NZT-fueled odyssey, everything Eddie's read, heard or seen is instantly organized and available to him. As the former nobody rises to the top of the financial world, he draws the attention of business mogul Carl Van Loon (De Niro), who sees this enhanced version of Eddie as the tool to make billions. But brutal side effects jeopardize his meteoric ascent. With a dwindling stash and hit men who will eliminate him to get the NZT, Eddie must stay wired long </info>
+</item>
+
+<item>
+<title>A.Beautiful.Belly.2011</title>
+<link>https://od.lk/s/OTdfMzQwNDE4Ml8/A.Beautiful.Belly.2011.WEBRip.x264-RARBG.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQwNDE5NF8/A%20Beautiful%20Belly.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQwNDE5NV8/A.Beautiful.Belly.2011.jpg</fanart>
+<info>When aspiring children's entertainer Jason gets his long-time crush Danny pregnant on their first date, the two choose to make a life together as husband and wife. As the prospect of fatherhood looms, Jason begins to realize the toll it may take on his career and turns his attention toward one last pursuit of his dreams before the baby arrives. Feeling ignored, Danny begins to question whether their fledgling marriage can survive. The two soon find themselves attracted to other people. Jason meets an intern at a local cable station who wants to develop a children's show utilizing his talents, and Danny meets a pregnancy photographer who goes out of his way to encourage her confidence. As these new friendships begin to hint at the possibility of romance, Jason and Danny must decide whether they will risk the future of their family for the indulgence of a moment's pleasure.</info>
+</item>
+
+<item>
+<title>Anuvahood 2011</title>
+<link>https://od.lk/s/OTdfMzQwMzkyOF8/Anuvahood.DVDRip.XviD.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzQwMzkyOV8/Anuvahood%202011.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQwMzkzM18/Anuvahood%202011..jpg</fanart>
+<info>Kenneth (who likes to call himself Kay) begins to realise he's just another wannabe bad boy... even less than a loser in fact. After quitting his job at Laimsbury's, Kay vows to become a respected gangster... or cry trying. A pulls-no-punches, coming-of-age story, centering on one directionless hopeless "shotter", who finds his true worth in the face of urban adversity. </info>
+</item>
+
+<item>
+<title>You.Got.Served.Beat.the.World.2011</title>
+<link>https://od.lk/s/OTdfMzM1OTQyNV8/You.Got.Served.Beat.the.World.2011.1080p.BrRip.x264.YIFY.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzM0NjE5NF8/You%20Got%20Served.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzM1OTQyOV8/You.Got.Served.jpg</fanart>
+<info>Three dance crews prepare to do battle at the international Beat the World competition in Detroit. In the final showdown to become world champions lifelong hopes, dreams and even lives, are at stake.</info>
+</item>
+
+<item>
+<title>Dear God No</title>
+<link>https://od.lk/s/OTdfMzMyMjk4OV8/Dear.God.No.2011.720p.BluRay.H264.AAC-RARBG.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzM0NTA5Nl8/Dear%20God%20No.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzM0NTA5N18/Dear%20God%20No..jpg</fanart>
+<info>Outlaw motorcycle gang The Impalers tri-state rape and murder spree ended in a bloody massacre with rival club Satan's Own. The surviving members sought refuge in a secluded cabin deep in the North Georgia mountains. What first must of seemed like easy prey for a home invasion, became a living nightmare of depravity and violence. A young innocent girl being held captive may hold the key to the twisted secrets locked in the basement and the killing machine feasting on human flesh in the forest outside.</info>
+</item>
+
+<item>
+<title>Cowboys & Aliens</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>The Old West.. where a lone cowboy leads an uprising against a terror from beyond our world. 1873. New Mexico Territory. A stranger with no memory of his past stumbles into the hard desert town of Absolution. The only hint to his history is a mysterious shackle that encircles one wrist. What he discovers is that the people of Absolution don't welcome strangers, and nobody makes a move on its streets unless ordered to do so by the iron-fisted Colonel Dolarhyde (Ford). It's a town that lives in fear. But Absolution is about to experience fear it can scarcely comprehend as the desolate city is attacked by marauders from the sky. Screaming down with breathtaking velocity and blinding lights to abduct the helpless one by one, these monsters challenge everything the residents have ever known. Now, the stranger they rejected is their only hope for salvation. As this gunslinger slowly starts to remember who he is and where he's been, he realizes he holds a secret that could give the town a ... </info>
+</item>
+
+<item>
+<title>The Dead and the Damned</title>
+<link>https://od.lk/s/OTdfMzMwOTE4NF8/The.Dead.and.the.Damned.2011.1080p.BluRay.H264.AAC-RARBG.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzMxMjYwN18/The%20Dead%20and%20the%20Damned.jpg</thumbnail>
+<fanart></fanart>
+<info>A meteor lands in Jamestown California in 1849 during the gold rush. It is found by miners who accidentally release it's spores which turn the population into bloodthirsty mutants.</info>
+</item>
+
+<item>
+<title>The Phantom of the Opera</title>
+<link>https://od.lk/s/OTdfMzMwMDc5MV8/The.Phantom.of.the.Opera.at.the.Royal.Albert.Hall.2011.1080p.BluRay.H264.AAC-RARBG.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzMwNjAyNF8/The%20Phantom%20of%20the%20Opera.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzMwNjI1MV8/The%20Phantom%20of%20the%20Opera..jpg</fanart>
+<info>In 1986, 's The Phantom of the Opera arrived on the West End stage at Her Majesty's Theatre. Fast forward 25 years and Phantom has achieved global success, millions of viewers, a film adaptation in 2004 and a musical sequel. Now viewers have the chance to experience this phenomenal show right from their own screens. Filmed at the Royal Albert Hall, this stunning performance brings the show to a bigger stage and celebrates its role as one of the biggest shows in theatre history, with speeches, performances and appearances by the original cast and some of the show's most notable Phantoms, including and . Starring and , Phantom tells the story of a deformed musical genius who lives in the catacombs of the Paris Opera House. Shunned by society, the Phantom seeks revenge in cruel and often violent acts. The Phantom is in love with chorus girl Christine Daaé and has been secretly training her to replace La ...</info>
+</item>
+
+<item>
+<title>All.Superheroes.Must.Die.2011</title>
+<link>https://od.lk/s/OTdfMzI3NjYzMF8/All.Superheroes.Must.Die.2011.1080p.BluRay.H264.AAC-RARBG.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzIwOTI1Ml8/All.Superheroes.Must.Die.2011.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzIwOTI1MV8/All.Superheroes.Must.Die.2011..jpg</fanart>
+<info>Four Super Heroes find themselves abducted by their Arch Nemesis and are forced to compete in a series of challenges in order to save an abandoned town full of kidnapped innocent civilians. </info>
+</item>
+
+<item>
+<title>Bloody.Mary.3D.2011</title>
+<link>https://od.lk/d/OTdfMzE1OTMzOF8/Bloody.Mary.3D.2011.1080p.BluRay.x264.YIFY.mp4</link>
+<thumbnail>https://od.lk/d/OTdfMzE1OTQ4NF8/bloody-3d.jpg</thumbnail>
+<fanart>https://od.lk/d/OTdfMzE1OTQ4NV8/bloody-mary.png</fanart>
+<info>While making a music video, a group of filmmakers accidentally waken the curse of Bloody Mary, a young woman who was brutally murdered over 100 years ago by her jealous husband who's distant descendant is the star of the music video. Seductive and mysterious, the redhead ghost of Mary draws the crew people one by one into her web to kill them</info>
+</item>
+
+<item>
+<title>Deep.Gold.3D.2011</title>
+<link>https://od.lk/d/OTdfMzE2MDE1MV8/Deep.Gold.3D.2011.1080p.BluRay.x264.YIFY.mp4</link>
+<thumbnail>https://od.lk/d/OTdfMzE2MDY3OF8/DeepGold2.jpg</thumbnail>
+<fanart>https://od.lk/d/OTdfMzE2MDY3OV8/Deep-Gold-3D-Wallpaper-04.jpg</fanart>
+<info>Deep Gold follows Amy Sanchez, a champion free diver who, along with her sister Jess, find themselves thrown into the middle of a deadly conspiracy. After a government plane carrying a fortune in gold goes missing over Philippine waters, Amy and Jess struggle to investigate the disappearance with help from Lulu and the mysterious Benny Simpson. Soon, the girls learn they are in over their heads</info>
+</item>
+
+<item>
+<title>War.Of.The.Dead.2011</title>
+<link>https://od.lk/s/OTdfMzE2ODM2OV8/War.Of.The.Dead.2011.1080p.BluRay.H264.AAC-RARBG.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzE2OTE4Nl8/War-of-the-Dead.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzE2OTE4NV8/War-of-the-Dead..jpg</fanart>
+<info>A platoon of American and Finnish soldiers is driven deep into a Russian forest where its Captain discovers a terrifying secret.</info>
+</item>
+
+<item>
+<title>Yellow.Rock.2011</title>
+<link>https://od.lk/s/OTdfMzE2ODM3NF8/Yellow.Rock.2011.1080p.BluRay.H264.AAC-RARBG.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzE2OTE4OF8/Yellow.Rock.2011.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzE2OTE4N18/Yellow.Rock.2011..jpg</fanart>
+<info>Five men ride into the eerie town of Yellow Rock, hoping to rescue a family member and his lost boy.</info>
+</item>
+
+<item>
+<title>Dragon.Crusaders.2011</title>
+<link>https://od.lk/s/OTdfMzE2MjA0M18/Dragon.Crusaders.2011.1080p.BluRay.H264.AAC-RARBG.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzE2MjEyMl8/Dragon%20Crusaders.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzE2MjEyMV8/dragoncrusaders.jpg</fanart>
+<info>A group of fugitive Knights Templar attacks a pirate ship and they are cursed to turn into hideous monsters. To fight the curse and ultimately save the world, they must defeat the wizard-dragon who is determined to destroy it. </info>
+</item>
+
+<item>
+<title>Collapse of the living dead.2011</title>
+<link>https://od.lk/s/OTdfMzE3MTc2M18/Collapse.2011.1080p.BluRay.H264.AAC-RARBG.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzIwODk5OV8/Collapse.2011.jpg</thumbnail>
+<fanart></fanart>
+<info>The normal worries of a struggling small town farmer are blown away when the world is suddenly overrun by undead monsters. How can a good man protect and provide for his family in a hostile world without becoming a monster himself?</info>
+</item>
+
+<item>
+<title>All.Superheroes.Must.Die.2011</title>
+<link>https://od.lk/s/OTdfMzIwOTI0NF8/All.Superheroes.Must.Die.2011.1080p.BluRay.H264.AAC-RARBG.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzIwOTI1Ml8/All.Superheroes.Must.Die.2011.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzIwOTI1MV8/All.Superheroes.Must.Die.2011..jpg</fanart>
+<info>Four Super Heroes find themselves abducted by their Arch Nemesis and are forced to compete in a series of challenges in order to save an abandoned town full of kidnapped innocent civilians.</info>
+</item>
+
+<item>
+<title>Atlantis.End.of.a.World.Birth.of.a.Legend.2011</title>
+<link>https://od.lk/s/OTdfMzIwOTIxNl8/Atlantis.End.of.a.World.Birth.of.a.Legend.2011.1080p.BluRay.H264.AAC-RARBG.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzIwOTI1MF8/Atlantis.End.of.a.World.Birth.of.a.Legend.2011.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzIwOTI0OV8/Atlantis.End.jpg</fanart>
+<info>Tells the story of the greatest natural disaster of the ancient world, an event that experts believe inspired the legend of Atlantis. </info>
+</item>
+
+<item>
+<title>Age.Of.The.Dragons.2011</title>
+<link>https://od.lk/s/OTdfMzIzMDQzNl8/Age.Of.The.Dragons.2011.1080p.BluRay.H264.AAC-RARBG.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzIzMTM1N18/Age.Of.The.Dragons.2011.jpg</thumbnail>
+<fanart></fanart>
+<info>Age of the Dragons is a re-imagining of Herman Melville's classic novel Moby Dick. Set in a mythical realm where Captain Ahab and crew hunt dragons for the vitriol that powers their world, Ishmael, a charismatic harpooner joins their quest. Ahab's adopted daughter Rachel, beautiful and tough, runs the hunting vessel. Ahab's obsession is to seek revenge on a great "White Dragon" that slaughtered his family when he was young and left his body scarred and mauled, drives the crew deeper into the heart of darkness. In the White Dragon's lair Ahab's secrets are revealed and Rachel must choose between following him on his dark quest or escaping to a new life with Ishmael. </info>
+</item>
+
+<item>
+<title>Zombie.Diaries.2.2011</title>
+<link>https://od.lk/s/OTdfMzQ0NDY4MV8/Zombie.Diaries.2.2011.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQ1MzAwNl8/Zombie.Diaries.2.2011.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ1MzAwNV8/Zombie.Diaries.2.2011%20f.jpg</fanart>
+<info>Rating:R
+Genre: Action & Adventure , Art House & International , Horror 
+Directed By:Kevin Gates , Michael Bartlett 
+Written By:Kevin Gates 
+In Theaters:Oct 31, 2011  Wide 
+On DVD:Oct 11, 2011 
+Runtime: 88 minutes 
+Studio: Dimension Films
+
+Three months have passed since a viral outbreak wiped out 99.9% of the world's population, turning its victims into flesh-eating living dead. In the UK, a surviving band of soldiers and civilians have taken refuge at a rural military barracks. Life in this new world is tough and brutal, but hope appears when a high level communication is received from a military base on the coast, telling of sanctuary elsewhere in Europe... But just as salvation appears to be in reach, the base suffers an overwhelming defeat at the hands of the living dead! The surviving handful of troops and civilians must now make their way to the coast to uncover the truth behind the message. Their perilous journey takes them across a now treacherous, death-ravaged landscape, where the living dead are vast in number and wandering bandits impose their own malicious sense of law and order. What follows is a journey into hell and a desperate battle against all odds for the very survival of the human race.</info>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>

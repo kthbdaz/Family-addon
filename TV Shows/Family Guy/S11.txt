@@ -1,0 +1,220 @@
+<item>
+<title>S11 EP1 Into Fat Air</title>
+<link>https://od.lk/s/OTdfMzU0NTU2N18/S11E01.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3NV8/s11.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Into Fat Air
+The Griffins try to beat Lois's obnoxious ex-boyfriend's family to the top of Mount Everest.</info>
+</item>
+
+<item>
+<title>S11 EP2 Ratings Guy</title>
+<link>https://od.lk/s/OTdfMzU0NTU2OF8/S11E02.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3NV8/s11.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Ratings Guy
+After the Griffins become a Nielsen Family, everyone gets mad at Peter for convincing the networks to make ridiculous changes to popular shows.</info>
+</item>
+
+<item>
+<title>S11 EP3 The Old Man and the Big 'C'</title>
+<link>https://od.lk/s/OTdfMzU0NTU2OV8/S11E03.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3NV8/s11.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>The Old Man and the Big 'C'
+Brian discovers that Carter Pewterschmidt is dying of cancer, but soon becomes suspicious when he makes a seemingly impossible and miraculous recovery.</info>
+</item>
+
+<item>
+<title>S11 EP4 Yug Ylimaf</title>
+<link>https://od.lk/s/OTdfMzU0NTU3MF8/S11E04.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3NV8/s11.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Yug Ylimaf
+Brian causes time to move backwards when he tampers with Stewie's time machine, which may result in Stewie being unborn.</info>
+</item>
+
+<item>
+<title>S11 EP5 Joe's Revenge</title>
+<link>https://od.lk/s/OTdfMzU0NTU3Ml8/S11E05.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3NV8/s11.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Joe's Revenge
+Joe, with the help of Peter and Quagmire, looks to track down the person responsible for his injuries.</info>
+</item>
+
+<item>
+<title>S11 EP6 ois Comes Out of Her Shell</title>
+<link>https://od.lk/s/OTdfMzU0NTU3M18/S11E06.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3NV8/s11.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Lois Comes Out of Her Shell
+While Lois goes through a mid-life crisis, Stewie discovers that his new pet turtle is evil.</info>
+</item>
+
+<item>
+<title>S11 EP7 Friends Without Benefits</title>
+<link>https://od.lk/s/OTdfMzU0NTU3NV8/S11E07.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3NV8/s11.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Friends Without Benefits
+Meg finds out that her crush is actually gay and is interested in Chris.</info>
+</item>
+
+<item>
+<title>S11 EP8 Jesus, Mary and Joseph!</title>
+<link>https://od.lk/s/OTdfMzU0NTU3Nl8/S11E08.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3NV8/s11.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Jesus, Mary and Joseph!
+The Griffins decorate their tree while Peter tells the story of Christmas.</info>
+</item>
+
+<item>
+<title>S11 EP9 Space Cadet</title>
+<link>https://od.lk/s/OTdfMzU0NTU1MV8/S11E09.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3NV8/s11.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Space Cadet
+The Griffins wind up stuck in orbit on a space shuttle after Peter and Lois send Chris to Florida for space camp.</info>
+</item>
+
+<item>
+<title>S11 EP10 Brian's Play</title>
+<link>https://od.lk/s/OTdfMzU0NTU1Ml8/S11E10.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3NV8/s11.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Brian's Play
+Brian receives widespread acclaim for his new play, but how will he react when Stewie writes a play overnight that puts his to shame?</info>
+</item>
+
+<item>
+<title>S11 EP11 The Giggity Wife</title>
+<link>https://od.lk/s/OTdfMzU0NTU1M18/S11E11.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3NV8/s11.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>The Giggity Wife
+After a drunken night out at Harvard with the guys, Quagmire discovers that he married a decrepit old prostitute.</info>
+</item>
+
+<item>
+<title>S11 EP12 Valentine's Day in Quahog</title>
+<link>https://od.lk/s/OTdfMzU0NTU1NV8/S11E12.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3NV8/s11.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Valentine's Day in Quahog
+Shows how the individual characters spend their Valentine's Day.</info>
+</item>
+
+<item>
+<title>S11 EP13 Chris Cross</title>
+<link>https://od.lk/s/OTdfMzU0NTU1Nl8/S11E13.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3NV8/s11.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Chris Cross
+Chris is fed up with Meg's efforts to blackmail him, so he moves in with Mr. Herbert. Meanwhile, Stewie and Brian became huge fans of 70s soft rock star Anne Murray.</info>
+</item>
+
+<item>
+<title>S11 EP14 Call Girl</title>
+<link>https://od.lk/s/OTdfMzU0NTU1N18/S11E14.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3NV8/s11.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Call Girl
+Lois works for a phone sex line and Peter falls in love with her, not knowing that he is actually speaking to his wife.</info>
+</item>
+
+<item>
+<title>S11 EP15 Turban Cowboy</title>
+<link>https://od.lk/s/OTdfMzU0NTU1OF8/S11E15.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3NV8/s11.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Turban Cowboy
+Peter becomes a Muslim but later discovers that he is also part of a terrorist plot to blow up a bridge in Quahog.</info>
+</item>
+
+<item>
+<title>S11 EP16 12 and a Half Angry Men</title>
+<link>https://od.lk/s/OTdfMzU0NTU1OV8/S11E16.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3NV8/s11.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>12 and a Half Angry Men
+Mayor West is on trial for murder, and Brian is the only one on the jury who thinks he is not guilty.</info>
+</item>
+
+<item>
+<title>S11 EP17 Bigfat</title>
+<link>https://od.lk/s/OTdfMzU0NTU2MF8/S11E17.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3NV8/s11.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Bigfat
+Peter reverts back to a feral state after being lost in the Canadian wilderness for two months after a plane crash.</info>
+</item>
+
+<item>
+<title>S11 EP18 Total Recall</title>
+<link>https://od.lk/s/OTdfMzU0NTU2MV8/S11E18.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3NV8/s11.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Total Recall
+Lois begins hanging out with Joe and Quagmire while Peter is sick, and Stewie tries to rescue Rupert after he is recalled.</info>
+</item>
+
+<item>
+<title>S11 EP19 Save the Clam</title>
+<link>https://od.lk/s/OTdfMzU0NTU2Ml8/S11E19.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3NV8/s11.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Save the Clam
+The guys fight to save The Drunken Clam after the bank closes it, and Meg gets into trouble at her new job at the funeral home.</info>
+</item>
+
+<item>
+<title>S11 EP20 Farmer Guy</title>
+<link>https://od.lk/s/OTdfMzU0NTU2M18/S11E20.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3NV8/s11.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Farmer Guy
+Peter and the whole family move to a farm because of the higher crime rate in quahog. Sooner or later the family discovers a meth lab in the basement.</info>
+</item>
+
+<item>
+<title>S11 EP21 Roads to Vegas</title>
+<link>https://od.lk/s/OTdfMzU0NTU2NF8/S11E21.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3NV8/s11.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Roads to Vegas
+Stewie uses his untested teleportation device to transport Brian and himself to Vegas. The machine creates an exact copy of the pair and sends the copy to Vegas.</info>
+</item>
+
+<item>
+<title>S11 EP22 No Country Club for Old Men</title>
+<link>https://od.lk/s/OTdfMzU0NTU2NV8/S11E22.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3NV8/s11.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>No Country Club for Old Men
+The Griffins are invited to join the prestigious Barrington Country Club and, of course, get thrown out.</info>
+</item>
+

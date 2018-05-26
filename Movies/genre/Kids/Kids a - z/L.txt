@@ -1,0 +1,14 @@
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+<channel>
+<name>LOONEY TUNES</name>
+<thumbnail>https://od.lk/s/OTdfMzUyNTk5OF8/Looney-Tunes.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzUyNjAwMF8/looney%20tunes.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzUyNTk5OV8/a-looney_tunes%20f.jpg</fanart>
+<genre>Cartoon Animation</genre>
+<info>hours of entertainment from the looney tunes collection</info>
+</channel>
+
+</channels>

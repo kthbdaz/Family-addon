@@ -1,0 +1,229 @@
+<item>
+<title>S2 EP1 Kudove</title>
+<link>https://od.lk/s/OTdfMzQzMTE1MF8/Quantico.S02E01.Kudove.Web-DL.1080p.10bit.5.1.x265.HEVC-Qman%5BUTR%5D.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQzMTE0MV8/quantico.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQzMTE0Ml8/quantico%20f.jpg</fanart>
+<genre> Crime, Drama, Mystery</genre>
+<info>Kudove
+While training at the CIA, Alex finds herself in the center of a deadly conspiracy that threatens countless people around the world.</info>
+</item>
+
+<item>
+<title>S2 EP2 Lipstick</title>
+<link>https://od.lk/s/OTdfMzQzMTE0NV8/Quantico.S02E02.720p.HDTV.x264-KILLERS%5Bettv%5D.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQzMTE0MV8/quantico.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQzMTE0Ml8/quantico%20f.jpg</fanart>
+<genre> Crime, Drama, Mystery</genre>
+<info>Lipstick
+The new CIA recruits begin running counter-surveillance ops at The Farm while Alex and Ryan navigate their new relationship with each other. In the future, Ryan and Raina try to disrupt the terrorists' plan to blend in with hostages.</info>
+</item>
+
+<item>
+<title>S2 EP3 Stescalade</title>
+<link>https://od.lk/s/OTdfMzQzMTE0OV8/Quantico.S02E03.720p.HDTV.X264-DIMENSION%5Bettv%5D.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQzMTE0MV8/quantico.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQzMTE0Ml8/quantico%20f.jpg</fanart>
+<genre> Crime, Drama, Mystery</genre>
+<info>Stescalade
+The new CIA recruits continue training at The Farm focusing on assessment, while in the future, Alex goes undercover to infiltrate the terrorist group holding everyone hostage where she is shocked to discover not everyone is a stranger.</info>
+</item>
+
+<item>
+<title>S2 EP4 Kubark</title>
+<link>https://od.lk/s/OTdfMzQzNjA4Nl8/quantico.204.hdtv-lol%5Bettv%5D.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQzMTE0MV8/quantico.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQzMTE0Ml8/quantico%20f.jpg</fanart>
+<genre> Crime, Drama, Mystery</genre>
+<info>Kubark
+The trainees are put through a training drill that tests their stress levels while Alex tries to gather information and get close to Owen. Meanwhile, in the future, the terrorist organization demands a trade, a move that could end the stand-off.</info>
+</item>
+
+<item>
+<title>S2 EP5 KMFORGET</title>
+<link>https://od.lk/s/OTdfMzQzOTEyMF8/quantico.205.hdtv-lol%5Bettv%5D.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQzMTE0MV8/quantico.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQzMTE0Ml8/quantico%20f.jpg</fanart>
+<genre> Crime, Drama, Mystery</genre>
+<info>KMFORGET
+At the Farm, Harry is still suspicious of Alex and Ryan, and he's determined to learn more about their plan, while Leon is recruited for a special assignment by Owen.</info>
+</item>
+
+<item>
+<title>S2 EP6 Aquiline</title>
+<link>https://od.lk/s/OTdfMzQ0MTk4MV8/quantico.206.hdtv-lol%5Bettv%5D.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQzMTE0MV8/quantico.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQzMTE0Ml8/quantico%20f.jpg</fanart>
+<genre> Crime, Drama, Mystery</genre>
+<info>Aquiline</info>
+</item>
+
+<item>
+<title>S2 EP7 LCFlutter</title>
+<link>https://od.lk/s/OTdfMzQ0MzI1Nl8/quantico.207.hdtv-lol%5Bettv%5D.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQzMTE0MV8/quantico.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQzMTE0Ml8/quantico%20f.jpg</fanart>
+<genre> Crime, Drama, Mystery</genre>
+<info>LCFlutter</info>
+</item>
+
+<item>
+<title>S2 EP8 ODENVY</title>
+<link>https://od.lk/s/OTdfMzQ1MjIxMV8/quantico.208.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQzMTE0MV8/quantico.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQzMTE0Ml8/quantico%20f.jpg</fanart>
+<genre> Crime, Drama, Mystery</genre>
+<info>ODENVY</info>
+</item>
+
+<item>
+<title>S2 EP9 Cleopatra</title>
+<link>https://od.lk/s/OTdfMzU0NzU2N18/quantico.209.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQzMTE0MV8/quantico.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQzMTE0Ml8/quantico%20f.jpg</fanart>
+<genre> Crime, Drama, Mystery</genre>
+<info></info>
+</item>
+
+<item>
+<title>S2 EP10</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<genre> Crime, Drama, Mystery</genre>
+<info></info>
+</item>
+
+<item>
+<title>S2 EP11</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<genre> Crime, Drama, Mystery</genre>
+<info></info>
+</item>
+
+<item>
+<title>S2 EP12</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<genre> Crime, Drama, Mystery</genre>
+<info></info>
+</item>
+
+<item>
+<title>S2 EP13</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S2 EP14</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S2 EP15</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S2 EP16</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>S2 EP17</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S2 EP18</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S2 EP19</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>S2 EP20</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S2 EP21</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S2 EP22</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>S2 EP23</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S2 EP24</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S2 EP25</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S2 EP26</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S2 EP27</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>

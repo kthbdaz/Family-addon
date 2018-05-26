@@ -1,0 +1,59 @@
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+<channel>
+<name>season 1</name>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQ3Nl8/glee%201.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzUzMjQ4NF8/season%201.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzUzMjQ4Ml8/GLEE%201%20F.jpg</fanart>
+<genre>Comedy, Drama, Music</genre>
+<info>When a High School Spanish teacher, Will Schuester, becomes the director of the school's failing Glee club, New Directions, he hopes to be able to rejuvenate it. The club competes in the choir competition circuit. It's been called "a High School Musical for adults", the series follows the club and its mixture of oddball members as they try and restore it to its former glory. It is a musical comedy in which the eager and ambitious students not only compete to win the Nationals, but also have to deal with the tough and cruel realities of their school, McKinley High. At the same time, Will is trying to rejuvenate his failing love life whilst preventing the school's cheer leading coach Sue Sylvester from sabotaging the choir.</info>
+</channel>
+
+<channel>
+<name>season 2</name>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQ3MF8/glee%202.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzUzMjUwNV8/season%202.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzUzMjQ4MV8/glee%202%20f.jpg</fanart>
+<genre>Comedy, Drama, Music</genre>
+<info>When a High School Spanish teacher, Will Schuester, becomes the director of the school's failing Glee club, New Directions, he hopes to be able to rejuvenate it. The club competes in the choir competition circuit. It's been called "a High School Musical for adults", the series follows the club and its mixture of oddball members as they try and restore it to its former glory. It is a musical comedy in which the eager and ambitious students not only compete to win the Nationals, but also have to deal with the tough and cruel realities of their school, McKinley High. At the same time, Will is trying to rejuvenate his failing love life whilst preventing the school's cheer leading coach Sue Sylvester from sabotaging the choir.</info>
+</channel>
+
+<channel>
+<name>season 3</name>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQ3MV8/glee%203.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzUzMjUwMV8/season%203.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzUzMjQ3N18/glee%203%20f.jpg</fanart>
+<genre>Comedy, Drama, Music</genre>
+<info>When a High School Spanish teacher, Will Schuester, becomes the director of the school's failing Glee club, New Directions, he hopes to be able to rejuvenate it. The club competes in the choir competition circuit. It's been called "a High School Musical for adults", the series follows the club and its mixture of oddball members as they try and restore it to its former glory. It is a musical comedy in which the eager and ambitious students not only compete to win the Nationals, but also have to deal with the tough and cruel realities of their school, McKinley High. At the same time, Will is trying to rejuvenate his failing love life whilst preventing the school's cheer leading coach Sue Sylvester from sabotaging the choir.</info>
+</channel>
+
+<channel>
+<name>season 4</name>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQ3Ml8/glee%204.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzUzMjUwMl8/season%204.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzUzMjQ3OF8/glee%204%20f.jpg</fanart>
+<genre>Comedy, Drama, Music</genre>
+<info>When a High School Spanish teacher, Will Schuester, becomes the director of the school's failing Glee club, New Directions, he hopes to be able to rejuvenate it. The club competes in the choir competition circuit. It's been called "a High School Musical for adults", the series follows the club and its mixture of oddball members as they try and restore it to its former glory. It is a musical comedy in which the eager and ambitious students not only compete to win the Nationals, but also have to deal with the tough and cruel realities of their school, McKinley High. At the same time, Will is trying to rejuvenate his failing love life whilst preventing the school's cheer leading coach Sue Sylvester from sabotaging the choir.</info>
+</channel>
+
+<channel>
+<name>season 5</name>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQ3M18/glee%205.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzUzMjUwM18/season%205.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzUzMjQ3OV8/glee%205%20f.jpg</fanart>
+<genre>Comedy, Drama, Music</genre>
+<info>When a High School Spanish teacher, Will Schuester, becomes the director of the school's failing Glee club, New Directions, he hopes to be able to rejuvenate it. The club competes in the choir competition circuit. It's been called "a High School Musical for adults", the series follows the club and its mixture of oddball members as they try and restore it to its former glory. It is a musical comedy in which the eager and ambitious students not only compete to win the Nationals, but also have to deal with the tough and cruel realities of their school, McKinley High. At the same time, Will is trying to rejuvenate his failing love life whilst preventing the school's cheer leading coach Sue Sylvester from sabotaging the choir.</info>
+</channel>
+
+<channel>
+<name>season 6</name>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQ3NF8/glee%206.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzUzMjUwNF8/season%206.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzUzMjQ4MF8/glee%206%20f.jpeg</fanart>
+<genre>Comedy, Drama, Music</genre>
+<info>When a High School Spanish teacher, Will Schuester, becomes the director of the school's failing Glee club, New Directions, he hopes to be able to rejuvenate it. The club competes in the choir competition circuit. It's been called "a High School Musical for adults", the series follows the club and its mixture of oddball members as they try and restore it to its former glory. It is a musical comedy in which the eager and ambitious students not only compete to win the Nationals, but also have to deal with the tough and cruel realities of their school, McKinley High. At the same time, Will is trying to rejuvenate his failing love life whilst preventing the school's cheer leading coach Sue Sylvester from sabotaging the choir.</info>
+</channel>
+
+</channels>

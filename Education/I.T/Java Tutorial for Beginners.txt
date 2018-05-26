@@ -1,0 +1,495 @@
+<item>
+<title>Introduction to Java</title>
+<link>https://od.lk/s/OTdfMzU3NTc4Ml8/Java%20Tutorial%20for%20Beginners%20-%2000%20-%20Introduction%20to%20Java.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3NTc5OF8/java-logo.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3NTc5N18/javacode.jpeg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>1 - Your first Java Program</title>
+<link>https://od.lk/s/OTdfMzU3NTc4M18/Java%20Tutorial%20for%20Beginners%20-%201%20-%20Your%20first%20Java%20Program.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3NTc5OF8/java-logo.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3NTc5N18/javacode.jpeg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>2 - Variables and Types</title>
+<link>https://od.lk/s/OTdfMzU3NTc4NF8/Java%20Tutorial%20for%20Beginners%20-%202%20-%20Variables%20and%20Types.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3NTc5OF8/java-logo.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3NTc5N18/javacode.jpeg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title> 3 - Math Operators</title>
+<link>https://od.lk/s/OTdfMzU3NTc4NV8/Java%20Tutorial%20for%20Beginners%20-%203%20-%20Math%20Operators.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3NTc5OF8/java-logo.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3NTc5N18/javacode.jpeg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>4 - More on Operators</title>
+<link>https://od.lk/s/OTdfMzU3NTc4Nl8/Java%20Tutorial%20for%20Beginners%20-%204%20-%20More%20on%20Operators.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3NTc5OF8/java-logo.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3NTc5N18/javacode.jpeg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>5 - Strings and System.out.print</title>
+<link>https://od.lk/s/OTdfMzU3NTc4N18/Java%20Tutorial%20for%20Beginners%20-%205%20-%20Strings%20and%20System.out.print.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3NTc5OF8/java-logo.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3NTc5N18/javacode.jpeg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>6 - Packages and Imports</title>
+<link>https://od.lk/s/OTdfMzU3NTc4OF8/Java%20Tutorial%20for%20Beginners%20-%206%20-%20Packages%20and%20Imports.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3NTc5OF8/java-logo.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3NTc5N18/javacode.jpeg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title> 7 - If and Else Conditional Statements</title>
+<link>https://od.lk/s/OTdfMzU3NTc4OV8/Java%20Tutorial%20for%20Beginners%20-%207%20-%20If%20and%20Else%20Conditional%20Statements.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3NTc5OF8/java-logo.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3NTc5N18/javacode.jpeg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>8 - Switch statements</title>
+<link>https://od.lk/s/OTdfMzU3NTc5MF8/Java%20Tutorial%20for%20Beginners%20-%208%20-%20Switch%20statements.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3NTc5OF8/java-logo.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3NTc5N18/javacode.jpeg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>9 - The For Loop</title>
+<link>https://od.lk/s/OTdfMzU3NTc5MV8/Java%20Tutorial%20for%20Beginners%20-%209%20-%20The%20For%20Loop.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3NTc5OF8/java-logo.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3NTc5N18/javacode.jpeg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>10 - The While Loop</title>
+<link>https://od.lk/s/OTdfMzU3NTc5Ml8/Java%20Tutorial%20for%20Beginners%20-%2010%20-%20The%20While%20Loop.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3NTc5OF8/java-logo.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3NTc5N18/javacode.jpeg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>11 - Do-While loop.</title>
+<link>https://od.lk/s/OTdfMzU3NTc5M18/Java%20Tutorial%20for%20Beginners%20-%2011%20-%20Do-While%20loop.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3NTc5OF8/java-logo.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3NTc5N18/javacode.jpeg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>12 - Arrays</title>
+<link>https://od.lk/s/OTdfMzU3NTc5NF8/Java%20Tutorial%20for%20Beginners%20-%2012%20-%20Arrays.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3NTc5OF8/java-logo.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3NTc5N18/javacode.jpeg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>13 - Introduction to Objects</title>
+<link>https://od.lk/s/OTdfMzU3NTc5NV8/Java%20Tutorial%20for%20Beginners%20-%2013%20-%20Introduction%20to%20Objects.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3NTc5OF8/java-logo.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3NTc5N18/javacode.jpeg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>14 - Inheritance and Objects</title>
+<link>https://od.lk/s/OTdfMzU3NTc5Nl8/Java%20Tutorial%20for%20Beginners%20-%2014%20-%20Inheritance%20and%20Objects.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3NTc5OF8/java-logo.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3NTc5N18/javacode.jpeg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>15 - Casting and Conversion of Data Types</title>
+<link>https://od.lk/s/OTdfMzU3NTc5OV8/Java%20Tutorial%20for%20Beginners%20-%2015%20-%20Casting%20and%20Conversion%20of%20Data%20Types.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3NTc5OF8/java-logo.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3NTc5N18/javacode.jpeg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>16 - Constructors</title>
+<link>https://od.lk/s/OTdfMzU3NTgwMF8/Java%20Tutorial%20for%20Beginners%20-%2016%20-%20Constructors.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3NTc5OF8/java-logo.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3NTc5N18/javacode.jpeg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>17 - Access ...(Public, Protected, Private, Default)</title>
+<link>https://od.lk/s/OTdfMzU3NTgyNV8/Java%20Tutorial%20for%20Beginners%20-%2017%20-%20Access%20modifiers%20%28Public%2C%20Protected%2C%20Private%2C%20Default%29.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3NTc5OF8/java-logo.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3NTc5N18/javacode.jpeg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>18 - Void and Return Methods</title>
+<link>https://od.lk/s/OTdfMzU3NTk3Ml8/Java%20Tutorial%20for%20Beginners%20-%2018%20-%20Void%20and%20Return%20Methods.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3NTc5OF8/java-logo.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3NTc5N18/javacode.jpeg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>19 - Static Variables and Static Methods</title>
+<link>https://od.lk/s/OTdfMzU3NTg5N18/Java%20Tutorial%20for%20Beginners%20-%2019%20-%20Static%20Variables%20and%20Static%20Methods.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3NTc5OF8/java-logo.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3NTc5N18/javacode.jpeg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>20 - More on Static Variables</title>
+<link>https://od.lk/s/OTdfMzU3NTg5OF8/Java%20Tutorial%20for%20Beginners%20-%2020%20-%20More%20on%20Static%20Variables.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3NTc5OF8/java-logo.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3NTc5N18/javacode.jpeg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title> 21 - Variable Scope</title>
+<link>https://od.lk/s/OTdfMzU3NTg5OV8/Java%20Tutorial%20for%20Beginners%20-%2021%20-%20Variable%20Scope.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3NTc5OF8/java-logo.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3NTc5N18/javacode.jpeg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title> 22 - using this keyword with constructors</title>
+<link>https://od.lk/s/OTdfMzU3NTkwMF8/Java%20Tutorial%20for%20Beginners%20-%2022%20-%20using%20this%20keyword%20with%20constructors.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3NTc5OF8/java-logo.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3NTc5N18/javacode.jpeg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>23 - The Default Constructor</title>
+<link>https://od.lk/s/OTdfMzU3NTkwMV8/Java%20Tutorial%20for%20Beginners%20-%2023%20-%20The%20Default%20Constructor.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3NTc5OF8/java-logo.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3NTc5N18/javacode.jpeg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>24 - Differences between a constructor and a method</title>
+<link>https://od.lk/s/OTdfMzU3NTkwMl8/Java%20Tutorial%20for%20Beginners%20-%2024%20-%20Differences%20between%20a%20constructor%20and%20a%20method.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3NTc5OF8/java-logo.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3NTc5N18/javacode.jpeg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>25 - Using super keyword in methods</title>
+<link>https://od.lk/s/OTdfMzU3NTkwM18/Java%20Tutorial%20for%20Beginners%20-%2025%20-%20Using%20super%20keyword%20in%20methods.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3NTc5OF8/java-logo.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3NTc5N18/javacode.jpeg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>26 - Using super keyword in constructors</title>
+<link>https://od.lk/s/OTdfMzU3NTkwNF8/Java%20Tutorial%20for%20Beginners%20-%2026%20-%20Using%20super%20keyword%20in%20constructors.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3NTc5OF8/java-logo.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3NTc5N18/javacode.jpeg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>27 - Main method</title>
+<link>https://od.lk/s/OTdfMzU3NTkwNV8/Java%20Tutorial%20for%20Beginners%20-%2027%20-%20Main%20method.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3NTc5OF8/java-logo.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3NTc5N18/javacode.jpeg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>28 - OOP and the life cycle of the object</title>
+<link>https://od.lk/s/OTdfMzU3NTkwNl8/Java%20Tutorial%20for%20Beginners%20-%2028%20-%20OOP%20and%20the%20life%20cycle%20of%20the%20object.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3NTc5OF8/java-logo.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3NTc5N18/javacode.jpeg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title> 29 - More on methods 1 - Passing by value</title>
+<link>https://od.lk/s/OTdfMzU3NTkwN18/Java%20Tutorial%20for%20Beginners%20-%2029%20-%20More%20on%20methods%201%20-%20Passing%20by%20value.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3NTc5OF8/java-logo.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3NTc5N18/javacode.jpeg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>30 - Primitive and Object Reference variables</title>
+<link>https://od.lk/s/OTdfMzU3NTkwOF8/Java%20Tutorial%20for%20Beginners%20-%2030%20-%20Primitive%20and%20Object%20Reference%20variables.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3NTc5OF8/java-logo.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3NTc5N18/javacode.jpeg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>31 - Getters and Setters</title>
+<link>https://od.lk/s/OTdfMzU3NTkwOV8/Java%20Tutorial%20for%20Beginners%20-%2031%20-%20Getters%20and%20Setters.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3NTc5OF8/java-logo.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3NTc5N18/javacode.jpeg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>32 - More on methods 2</title>
+<link>https://od.lk/s/OTdfMzU3NTkxMF8/Java%20Tutorial%20for%20Beginners%20-%2032%20-%20More%20on%20methods%202.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3NTc5OF8/java-logo.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3NTc5N18/javacode.jpeg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>33 - More on methods 3</title>
+<link>https://od.lk/s/OTdfMzU3NTkxMV8/Java%20Tutorial%20for%20Beginners%20-%2033%20-%20More%20on%20methods%203.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3NTc5OF8/java-logo.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3NTc5N18/javacode.jpeg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>34 - The Heap and the Garbage Collector</title>
+<link>https://od.lk/s/OTdfMzU3NTkxMl8/Java%20Tutorial%20for%20Beginners%20-%2034%20-%20The%20Heap%20and%20the%20Garbage%20Collector.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3NTc5OF8/java-logo.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3NTc5N18/javacode.jpeg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>35 - More on Arrays</title>
+<link>https://od.lk/s/OTdfMzU3NTkxM18/Java%20Tutorial%20for%20Beginners%20-%2035%20-%20More%20on%20Arrays.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3NTc5OF8/java-logo.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3NTc5N18/javacode.jpeg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>36 - Difference between method overloading and overriding</title>
+<link>https://od.lk/s/OTdfMzU3NTkxNF8/Java%20Tutorial%20for%20Beginners%20-%2036%20-%20Difference%20between%20method%20overloading%20and%20overriding.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3NTc5OF8/java-logo.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3NTc5N18/javacode.jpeg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>37 - Review session</title>
+<link>https://od.lk/s/OTdfMzU3NTkxNV8/Java%20Tutorial%20for%20Beginners%20-%2037%20-%20Review%20session.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3NTc5OF8/java-logo.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3NTc5N18/javacode.jpeg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>38 - Polymorphism</title>
+<link>https://od.lk/s/OTdfMzU3NTkxNl8/Java%20Tutorial%20for%20Beginners%20-%2038%20-%20Polymorphism.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3NTc5OF8/java-logo.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3NTc5N18/javacode.jpeg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>39 - Abstract classes and methods</title>
+<link>https://od.lk/s/OTdfMzU3NTkxN18/Java%20Tutorial%20for%20Beginners%20-%2039%20-%20Abstract%20classes%20and%20methods.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3NTc5OF8/java-logo.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3NTc5N18/javacode.jpeg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>40 - Interfaces</title>
+<link>https://od.lk/s/OTdfMzU3NTkxOF8/Java%20Tutorial%20for%20Beginners%20-%2040%20-%20Interfaces.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3NTc5OF8/java-logo.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3NTc5N18/javacode.jpeg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>41 - Setting up the GUI and the JFrame and JButton</title>
+<link>https://od.lk/s/OTdfMzU3NTkxOV8/Java%20Tutorial%20for%20Beginners%20-%2041%20-%20Setting%20up%20the%20GUI%20and%20the%20JFrame%20and%20JButton.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3NTc5OF8/java-logo.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3NTc5N18/javacode.jpeg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>42 - GUI - Setting up Listener, User Events and Input</title>
+<link>https://od.lk/s/OTdfMzU3NTkyMF8/Java%20Tutorial%20for%20Beginners%20-%2042%20-%20GUI%20-%20Setting%20up%20Listener%2C%20User%20Events%20and%20Input.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3NTc5OF8/java-logo.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3NTc5N18/javacode.jpeg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>43 - GUI Setting up Keyboard Events, JLabel and Textbox</title>
+<link>https://od.lk/s/OTdfMzU3NTkyMV8/Java%20Tutorial%20for%20Beginners%20-%2043%20-%20GUI%20-%20Setting%20up%20KeyListener%2C%20Keyboard%20Events%2C%20JLabel%20and%20Textbox.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3NTc5OF8/java-logo.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3NTc5N18/javacode.jpeg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>44 - GUI - Graphics and the Paint method</title>
+<link>https://od.lk/s/OTdfMzU3NTkyMl8/Java%20Tutorial%20for%20Beginners%20-%2044%20-%20GUI%20-%20Graphics%20and%20the%20Paint%20method.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3NTc5OF8/java-logo.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3NTc5N18/javacode.jpeg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>45 - GUI - Graphics, Colors, and the Draw method</title>
+<link>https://od.lk/s/OTdfMzU3NTkyM18/Java%20Tutorial%20for%20Beginners%20-%2045%20-%20GUI%20-%20Graphics%2C%20Colors%2C%20and%20the%20Draw%20method.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3NTc5OF8/java-logo.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3NTc5N18/javacode.jpeg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>46 - KISS concept</title>
+<link>https://od.lk/s/OTdfMzU3NTkyNF8/Java%20Tutorial%20for%20Beginners%20-%2046%20-%20KISS%20concept.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3NTc5OF8/java-logo.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3NTc5N18/javacode.jpeg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>47 - Writing out to a file</title>
+<link>https://od.lk/s/OTdfMzU3NTkyNV8/Java%20Tutorial%20for%20Beginners%20-%2047%20-%20Writing%20out%20to%20a%20file.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3NTc5OF8/java-logo.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3NTc5N18/javacode.jpeg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>48 - Write to a text file</title>
+<link>https://od.lk/s/OTdfMzU3NTkyNl8/Java%20Tutorial%20for%20Beginners%20-%2048%20-%20Write%20to%20a%20text%20file.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3NTc5OF8/java-logo.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3NTc5N18/javacode.jpeg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>49 - Final keyword with variables.</title>
+<link>https://od.lk/s/OTdfMzU3NTkyN18/Java%20Tutorial%20for%20Beginners%20-%2049%20-%20Final%20keyword%20with%20variables.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3NTc5OF8/java-logo.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3NTc5N18/javacode.jpeg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>50 - Final keyword with methods and classes</title>
+<link>https://od.lk/s/OTdfMzU3NTkyOF8/Java%20Tutorial%20for%20Beginners%20-%2050%20-%20Final%20keyword%20with%20methods%20and%20classes.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3NTc5OF8/java-logo.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3NTc5N18/javacode.jpeg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>51 - Collections and Generics</title>
+<link>https://od.lk/s/OTdfMzU3NTkyOV8/Java%20Tutorial%20for%20Beginners%20-%2051%20-%20Collections%20and%20Generics.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3NTc5OF8/java-logo.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3NTc5N18/javacode.jpeg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title> 52 - Collections and Generics Part 2</title>
+<link>https://od.lk/s/OTdfMzU3NTkzMF8/Java%20Tutorial%20for%20Beginners%20-%2052%20-%20Collections%20and%20Generics%20Part%202.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3NTc5OF8/java-logo.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3NTc5N18/javacode.jpeg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>53 - The OR Conditional Operator</title>
+<link>https://od.lk/s/OTdfMzU3NTkzMV8/Java%20Tutorial%20for%20Beginners%20-%2053%20-%20The%20OR%20Conditional%20Operator.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3NTc5OF8/java-logo.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3NTc5N18/javacode.jpeg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>54 - The AND Conditional Operator</title>
+<link>https://od.lk/s/OTdfMzU3NTkzMl8/Java%20Tutorial%20for%20Beginners%20-%2054%20-%20The%20AND%20Conditional%20Operator.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3NTc5OF8/java-logo.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3NTc5N18/javacode.jpeg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title> 55 - Multiple Conditional Operators</title>
+<link>https://od.lk/s/OTdfMzU3NTkzM18/Java%20Tutorial%20for%20Beginners%20-%2055%20-%20Multiple%20Conditional%20Operators.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3NTc5OF8/java-logo.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3NTc5N18/javacode.jpeg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>56 - Error Handling and Catching exceptions</title>
+<link>https://od.lk/s/OTdfMzU3NTkzNF8/Java%20Tutorial%20for%20Beginners%20-%2056%20-%20Error%20Handling%20and%20Catching%20exceptions.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3NTc5OF8/java-logo.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3NTc5N18/javacode.jpeg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>57 - Multiple try catches</title>
+<link>https://od.lk/s/OTdfMzU3NTkzNV8/Java%20Tutorial%20for%20Beginners%20-%2057%20-%20Multiple%20try%20catches.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3NTc5OF8/java-logo.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3NTc5N18/javacode.jpeg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>58 - Different ways to setup try catch blocks.</title>
+<link>https://od.lk/s/OTdfMzU3NTc3OV8/Java%20Tutorial%20for%20Beginners%20-%2058%20-%20Different%20ways%20to%20setup%20try%20catch%20blocks.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3NTc5OF8/java-logo.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3NTc5N18/javacode.jpeg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>59 - Finally block</title>
+<link>https://od.lk/s/OTdfMzU3NTc4MF8/Java%20Tutorial%20for%20Beginners%20-%2059%20-%20Finally%20block.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3NTc5OF8/java-logo.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3NTc5N18/javacode.jpeg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title> 60 - Enum.</title>
+<link>https://od.lk/s/OTdfMzU3NTc4MV8/Java%20Tutorial%20for%20Beginners%20-%2060%20-%20Enum.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3NTc5OF8/java-logo.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3NTc5N18/javacode.jpeg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzU3NTc5OF8/java-logo.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU3NTc5N18/javacode.jpeg</fanart>
+<info></info> 
+</item>

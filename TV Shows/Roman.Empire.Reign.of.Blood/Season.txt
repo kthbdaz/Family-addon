@@ -1,0 +1,32 @@
+﻿
+
+
+
+
+
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+<channel>
+<name>Season 1</name>
+<thumbnail>https://od.lk/s/OTdfMzUzMTAxMF8/Roman.Empire.Reign.of.Blood.jpg</thumbnail>
+<externallink>https://goo.gl/WzT8Z7</externallink>
+<fanart></fanart>
+<genre> Documentary, Drama</genre>
+<info>An academic and graphic account of the rule of the famously narcissistic Roman Emperor Commodus, who inherited the Roman Empire from his father, Marcus Aurelius, at the height of its expansion in the second century AD, told over a backdrop of violence, sex, and corruption.</info>
+</channel>
+
+</channels>
+
+
+
+
+
+
+
+
+
+
+
+

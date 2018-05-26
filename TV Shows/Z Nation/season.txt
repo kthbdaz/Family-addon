@@ -1,0 +1,29 @@
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+<channel>
+<name>Season 1</name>
+<thumbnail>https://od.lk/s/OTdfMzQzMDI5NV8/Z%20NATION.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQzMDI3OF8/S1.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQzMDM0OV8/Z-Nation-Poster-2.jpg</fanart>
+<info>Three years after the zombie virus has gutted the country, a team of everyday heroes must transport the only known survivor of the plague from New York to California, where the last functioning viral lab waits for his blood.</info>
+</channel>
+
+<channel>
+<name>Season 2</name>
+<thumbnail>https://od.lk/s/OTdfMzQzMDI5NV8/Z%20NATION.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQzMDI5Ml8/S2.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQzMDM0OV8/Z-Nation-Poster-2.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>Season 3</name>
+<thumbnail>https://od.lk/s/OTdfMzQzMDI5NV8/Z%20NATION.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQzMDI5MF8/S3.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQzMDM0OV8/Z-Nation-Poster-2.jpg</fanart>
+<info></info>
+</channel>
+
+</channels>

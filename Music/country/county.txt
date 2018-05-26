@@ -1,0 +1,14 @@
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+<channel>
+<name>Country</name>
+<thumbnail>https://od.lk/s/OTdfMzUyNjM2M18/country-songs.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzUyNjM2NF8/albums.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzUyNjM2Ml8/Country-Music.jpg</fanart>
+<genre>country</genre>
+<info>Country Music</info>
+</channel>
+
+</channels>

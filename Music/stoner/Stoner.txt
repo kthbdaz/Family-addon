@@ -1,0 +1,216 @@
+<item>
+<title>Stoner Reggae Playlist Vol. 7</title>
+<link>https://od.lk/s/OTdfMzUzMTQ5MV8/Stoner%20Reggae%20Playlist%20Vol.%207%20-%20Ganja%20Music%21.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMTQ5NF8/weed.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMTQ5M18/stoner%20f.jpg</fanart>
+<genre>Stoner Reggae</genre>
+<info>Ganja Music</info>
+</item>
+
+<item>
+<title>Stoner Reggae Playlist Vol. 12</title>
+<link>https://od.lk/s/OTdfMzUzMTQ5MF8/Stoner%20Reggae%20Playlist%20Vol.%2012%20-%20Ganja%20Music%21.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMTQ5NF8/weed.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMTQ5M18/stoner%20f.jpg</fanart>
+<genre>Stoner Reggae</genre>
+<info>Ganja Music</info>
+</item>
+
+<item>
+<title>Stoner Reggae Playlist Vol. 13</title>
+<link>https://od.lk/s/OTdfMzUzMTQ5N18/Stoner%20Reggae%20Playlist%20Vol.%2013%20-%20Ganja%20Music%21.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMTQ5NF8/weed.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMTQ5M18/stoner%20f.jpg</fanart>
+<genre>Stoner Reggae</genre>
+<info>Ganja Music</info>
+</item>
+
+<item>
+<title>The Ultimate Wiz Khalifa Stoner Playlist (2016)</title>
+<link>https://od.lk/s/OTdfMzUzMTQ5NV8/The%20Ultimate%20Wiz%20Khalifa%20Stoner%20Playlist%20%282016%29%20-%20Extended%20HD.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMTQ5NF8/weed.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMTQ5M18/stoner%20f.jpg</fanart>
+<genre>Stoner Reggae</genre>
+<info>Ganja Music</info>
+</item>
+
+<item>
+<title>S1 EP5</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP6</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP7</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP8</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP9</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP10</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP11</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP12</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP13</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP14</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP15</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP16</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>S1 EP17</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP18</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP19</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>S1 EP20</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP21</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP22</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>S1 EP23</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP24</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP25</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP26</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP27</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>

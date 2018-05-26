@@ -1,0 +1,47 @@
+<item>
+<title>Madagascar 2005.</title>
+<link>https://od.lk/s/OTdfMzIwOTA4MV8/Madagascar%202005.1080p.BrRip.x264.YIFY.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzIwOTA5MF8/Madagascar%202005..jpg</thumbnail>
+<fanart></fanart>
+<info>At New York's Central Park Zoo, a lion, a zebra, a giraffe, and a hippo are best friends and stars of the show. But when one of the animals goes missing from their cage, the other three break free to look for him, only to find themselves reunited ... on a ship en route to Africa. When their vessel is hijacked, however, the friends, who have all been raised in captivity, learn first-hand what life can be like in the wild.</info>
+</item>
+
+<item>
+<title>Madagascar.Escape.2.Africa</title>
+<link>https://od.lk/s/OTdfMzIwOTA4NF8/Madagascar.Escape.2.Africa.2008.1080p.BRrip.x264.YIFY.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzIwOTA5Ml8/Madagascar.Escape.2.Africa.jpg</thumbnail>
+<fanart></fanart>
+<info>The sequel to 2005's "Madagascar", in which New York Zoo animals, Alex the Lion, Marty the Zebra, Melman the Giraffe and Gloria the Hippo, still stranded on Madagascar, start to leave the island. All of a sudden, they land in the wilderness of Africa, where Alex meets the rest of his family, but has trouble communicating with them after spending so much time at the Central Park Zoo.</info>
+</item>
+
+<item>
+<title>Madagascar.3.Europes.Most.Wanted.2012.</title>
+<link>https://od.lk/s/OTdfMzIwOTA4Ml8/Madagascar.3.Europes.Most.Wanted.2012.1080p.BRrip.x264.YIFY.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzIwOTA5MV8/Madagascar.3.Europes.Most.Wanted.2012..jpg</thumbnail>
+<fanart></fanart>
+<info>Alex, Marty, Gloria and Melman are still trying to get back to the Big Apple and their beloved Central Park zoo, but first they need to find the penguins. When they travel to Monte Carlo, they attract the attention of Animal Control after gate crashing a party and are joined by the penguins, King Julian and Co., and the monkeys. How do a lion, zebra, hippo, giraffe, four penguins, two monkeys, three lemurs travel through Europe without attracting attention and get back to New York? They join a traveling circus. Their attempts to get back to New York are consistently hampered by the Captain of Animal Control who wants to make Alex part of her collection. Once they make it back to New York Marty, Alex, Gloria and Melman realize that they want to be part of the traveling circus.</info>
+</item>
+
+<item>
+<title>Penguins.of.Madagascar.2014</title>
+<link>https://od.lk/s/OTdfMzIwOTA4N18/Penguins.of.Madagascar.2014.1080p.BluRay.x264.YIFY.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzIwOTA4OV8/Penguins.of.Madagascar.2014.jpg</thumbnail>
+<fanart></fanart>
+<info>Super spy teams aren't born...they're hatched. Discover the secrets of the greatest and most hilarious covert birds in the global espionage biz: Skipper, Kowalski, Rico and Private. These elitists of the elite are joining forces with a chic undercover organization, The North Wind. Led by handsome and husky Agent Classified (we could tell you his name, but then...you know). Together, they must stop the villainous Dr. Octavius Brine, from destroying the world as we know it.</info>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>

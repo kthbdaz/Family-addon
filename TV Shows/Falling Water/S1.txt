@@ -1,0 +1,215 @@
+<item>
+<title>S1 EP1 Don't Tell Bill</title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzQzODU4N18/falling%20water.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQzODU4Nl8/falling%20water%20f.jpg</fanart>
+<info>Don't Tell Bill
+The premiere of mind-bending drama about three disparate people who discover that they share a subconscious link via a dream.</info>
+</item>
+
+<item>
+<title>S1 EP2 Calling the Vasty Deep</title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzQzODU4N18/falling%20water.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQzODU4Nl8/falling%20water%20f.jpg</fanart>
+<info>Calling the Vasty Deep
+Burton is faced with the idea that The Woman in Red may only exist his dreams. Tess begins to learn how to navigate into others' dreams. Taka connects the group suicide to unexpected sources.</info>
+</item>
+
+<item>
+<title>S1 EP3 Monsters, Most Familiar</title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzQzODU4N18/falling%20water.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQzODU4Nl8/falling%20water%20f.jpg</fanart>
+<info>Monsters, Most Familiar
+Taka further investigates the cult. Burton goes on a business trip and meets a mysterious CEO and Tess has an unpleasant trip to her mother's house and discovers difficult information.</info>
+</item>
+
+<item>
+<title>S1 EP4</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP5</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP6</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP7</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP8</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP9</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP10</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP11</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP12</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP13</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP14</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP15</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP16</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>S1 EP17</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP18</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP19</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>S1 EP20</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP21</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP22</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>S1 EP23</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP24</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP25</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP26</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP27</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>

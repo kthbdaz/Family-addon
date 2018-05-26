@@ -1,0 +1,14 @@
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+<channel>
+<name>Action man</name>
+<thumbnail>https://od.lk/s/OTdfMzUyNjAzOV8/action%20man.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzUyNjA0MF8/Action%20Man.txt</externallink>
+<fanart></fanart>
+<genre> Animation, Action, Adventure</genre>
+<info>The adventures of Action Man and his friends in the fight against Doctor X.</info>
+</channel>
+
+</channels>

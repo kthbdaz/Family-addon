@@ -1,0 +1,198 @@
+<item>
+<title>S5 EP1 The Grimm Identity</title>
+<link>https://od.lk/s/OTdfMzQ0NDI5N18/S05E01.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQ0NDI0M18/grimm%20s5.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0NDI0NV8/grimm%20f2.jpg</fanart>
+<info>The Grimm Identity
+Nick must look inside himself and decide who he wants to be while also dealing with fathering a child with Adalind.</info>
+</item>
+
+<item>
+<title>S5 EP2 Clear and Wesen Danger</title>
+<link>https://od.lk/s/OTdfMzQ0NDI5OF8/S05E02%20.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQ0NDI0M18/grimm%20s5.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0NDI0NV8/grimm%20f2.jpg</fanart>
+<info>Clear and Wesen Danger
+Nick deals with his new home life as he tries to keep his child and Adalind safe.</info>
+</item>
+
+<item>
+<title>S5 EP3 Lost Boys</title>
+<link>https://od.lk/s/OTdfMzQ0NDI5OV8/S05E03%20.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQ0NDI0M18/grimm%20s5.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0NDI0NV8/grimm%20f2.jpg</fanart>
+<info>Lost Boys
+Rosalee goes missing after a band of orphaned children target her as the mother figure they have always wanted. With a furious Monroe by their side, Nick and Hank race against the clock to find Rosalee.</info>
+</item>
+
+<item>
+<title>S5 EP4 Maiden Quest</title>
+<link>https://od.lk/s/OTdfMzQ0NDMwMF8/S05E04.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQ0NDI0M18/grimm%20s5.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0NDI0NV8/grimm%20f2.jpg</fanart>
+<info>Maiden Quest
+A wealthy mobster sets three young men on a quest to win his daughter Emily's hand in marriage and earn his fortune.</info>
+</item>
+
+<item>
+<title>S5 EP5 Rat King</title>
+<link>https://od.lk/s/OTdfMzQ0NDMwMV8/S05E05%20.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQ0NDI0M18/grimm%20s5.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0NDI0NV8/grimm%20f2.jpg</fanart>
+<info>Rat King
+Nick and Hank are called to a local dump after some Wesen have a deadly encounter with the mythical Rat King.</info>
+</item>
+
+<item>
+<title>S5 EP6 Wesen Nacht</title>
+<link>https://od.lk/s/OTdfMzQ0NDMwMl8/S05E06%20.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQ0NDI0M18/grimm%20s5.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0NDI0NV8/grimm%20f2.jpg</fanart>
+<info>Wesen Nacht
+Monroe is in danger when Wesen business owners are targeted in a string of attacks being investigated by Nick and Hank. Trouble catches Nick and Adalind up on her recent activities. Captain Renard endorses a political candidate.</info>
+</item>
+
+<item>
+<title>S5 EP7 Eve of Destruction</title>
+<link>https://od.lk/s/OTdfMzQ0NDMwM18/S05E07.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQ0NDI0M18/grimm%20s5.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0NDI0NV8/grimm%20f2.jpg</fanart>
+<info>Eve of Destruction
+After surviving a wesen ambush from a terrorist cell known as the Black Claw, Nick discovers "Juliette" is still alive, but learns what Chavez and Meisner were doing to her. The group interrogate Xavier. The group soon learns these attacks go beyond Portland. An attack occurs at the Wesen Council.</info>
+</item>
+
+<item>
+<title>S5 EP8 A Reptile Dysfunction</title>
+<link>https://od.lk/s/OTdfMzQ0NDMwNF8/S05E08%20.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQ0NDI0M18/grimm%20s5.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0NDI0NV8/grimm%20f2.jpg</fanart>
+<info>A Reptile Dysfunction
+The legend of the Lake Monster comes back to life as Nick (David Giuntoli) and Hank (Russell Hornsby) investigate a mysterious sighting linked to a tourist's death at a local lake. Rosalee's (Bree Turner) past comes back to haunt her. Elsewhere, Capt. Renard (Sasha Roiz) continues to support a candidate for mayor. Meanwhile, Nick is shown the scope of the Wesen uprising as the secret government agency takes him into the heart of their Portland operations center.</info>
+</item>
+
+<item>
+<title>S5 EP9 Star-Crossed</title>
+<link>https://od.lk/s/OTdfMzQ0NDMwNV8/S05E09.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQ0NDI0M18/grimm%20s5.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0NDI0NV8/grimm%20f2.jpg</fanart>
+<info>Star-Crossed
+Nick and Hank race against time to prevent the completion of an ancient Wesen ritual that requires seven sacrificial murders. Meisner, Trubel, and Eve track a suspected Black Claw agent's arrival in Portland.</info>
+</item>
+
+<item>
+<title>S5 EP10 Map of the Seven Knights</title>
+<link>https://od.lk/s/OTdfMzQ0NDMwNl8/S05E10.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQ0NDI0M18/grimm%20s5.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0NDI0NV8/grimm%20f2.jpg</fanart>
+<info>Map of the Seven Knights
+Monroe receives a call from a relative in Germany that will bring Nick closer to his ancestors. Complications arise when the nefarious group Black Claw also takes an interest in this discovery.</info>
+</item>
+
+<item>
+<title>S5 EP11 Key Move</title>
+<link>https://od.lk/s/OTdfMzQ0NDI3N18/S05E11.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQ0NDI0M18/grimm%20s5.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0NDI0NV8/grimm%20f2.jpg</fanart>
+<info>Key Move
+Artifacts take Monroe and Nick closer to the heart of a mystery; a deadly move could send Portland into chaos.</info>
+</item>
+
+<item>
+<title>S5 EP12 Into the Schwarzwald</title>
+<link>https://od.lk/s/OTdfMzQ0NDI3OV8/S05E12%20.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQ0NDI0M18/grimm%20s5.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0NDI0NV8/grimm%20f2.jpg</fanart>
+<info>Into the Schwarzwald
+Nick and Monroe discover the hidden treasure in the Black Forest. A figure from Rosalee's past comes back to haunt her. The hexenbiest suppression on Adalind begins to wear off. Renard, Hank, and Wu hunt down an assassin.</info>
+</item>
+
+<item>
+<title>S5 EP13 Silence of the Slams</title>
+<link>https://od.lk/s/OTdfMzQ0NDI4MV8/S05E13.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQ0NDI0M18/grimm%20s5.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0NDI0NV8/grimm%20f2.jpg</fanart>
+<info>Silence of the Slams
+A down on his luck Luchador receives a special mask that will make him the star he's always wanted to be. Misuse, however, leads to terrible consequences. Meanwhile, Eve believes something is amiss with Dixon's assassination.</info>
+</item>
+
+<item>
+<title>S5 EP14 Lycanthropia</title>
+<link>https://od.lk/s/OTdfMzQ0NDI4Nl8/S05E14.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQ0NDI0M18/grimm%20s5.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0NDI0NV8/grimm%20f2.jpg</fanart>
+<info>Lycanthropia
+Nick and Hank investigate an attack which leads them to a wesen disease that makes blutbad rabid every full moon. Eve discovers the Black Claw want to recruit Sean into their cause.</info>
+</item>
+
+<item>
+<title>S5 EP15 Skin Deep</title>
+<link>https://od.lk/s/OTdfMzQ0NDI5MF8/S05E15.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQ0NDI0M18/grimm%20s5.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0NDI0NV8/grimm%20f2.jpg</fanart>
+<info>Skin Deep
+A beauty regimen proves deadly for a young woman, who seems to have aged 70 years when Nick and Hank find her lifeless body. As they search for proof of Wesen involvement, they are led to a local doctor, and end up enlisting Rosalee's help in their investigation. Meanwhile, Eve takes a bold step to learn more about Capt. Renard's nefarious dealings.</info>
+</item>
+
+<item>
+<title>S5 EP16 The Believer</title>
+<link>https://od.lk/s/OTdfMzQ0NDI5MV8/S05E16.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQ0NDI0M18/grimm%20s5.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0NDI0NV8/grimm%20f2.jpg</fanart>
+<info>The Believer
+Nick investigates a traveling preacher who uses his wesen identity to gain followers after one of his bodyguards winds up dead, while a religious sect is seeking to capture him. Eve uses Renards body to further investigate the Black Claw.</info>
+</item>
+
+<item>
+<title>S5 EP17 Inugami</title>
+<link>https://od.lk/s/OTdfMzQ0NDI5Ml8/S05E17.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQ0NDI0M18/grimm%20s5.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0NDI0NV8/grimm%20f2.jpg</fanart>
+<info>Inugami
+Local youths are in danger from a Japanese Wesen looking for revenge; and Adalind crosses paths with Eve.</info>
+</item>
+
+<item>
+<title>S5 EP18 Good to the Bone</title>
+<link>https://od.lk/s/OTdfMzQ0NDI5M18/S05E18.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQ0NDI0M18/grimm%20s5.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0NDI0NV8/grimm%20f2.jpg</fanart>
+<info>Good to the Bone
+When a man is found dead with all of the bones in his body seemingly liquefied and removed, Nick and Hank find themselves in the middle of a gruesome family arrangement. Meanwhile, Wu deals with a crisis of his own and Hank reunites with his old flame, Zuri.</info>
+</item>
+
+<item>
+<title>S5 EP19 The Taming of the Wu</title>
+<link>https://od.lk/s/OTdfMzQ0NDI5NF8/S05E19.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQ0NDI0M18/grimm%20s5.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0NDI0NV8/grimm%20f2.jpg</fanart>
+<info>The Taming of the Wu
+Wu discovers he is infected with lycanthropia after he was attacked by a scalengag from black claw. Trouble is back and Adalind left Nick to join black claw to protect her kids and Nick.</info>
+</item>
+
+<item>
+<title>S5 EP20 Bad Night</title>
+<link>https://od.lk/s/OTdfMzQ0NDI5NV8/S05E20.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQ0NDI0M18/grimm%20s5.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0NDI0NV8/grimm%20f2.jpg</fanart>
+<info>Bad Night
+Nick leans on Monroe and Rosalee as he worries that he may lose everything as he continues to battle Black Claw. Captain Renard ramps up his campaign as election day nears.</info>
+</item>
+
+<item>
+<title>S5 EP21 Beginning of the End: Part 1</title>
+<link>https://od.lk/s/OTdfMzQ0NDI5Nl8/S05E21.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQ0NDI0M18/grimm%20s5.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0NDI0NV8/grimm%20f2.jpg</fanart>
+<info>Beginning of the End: Part 1
+Black Claw makes a strategic move against Hank that shocks everyone and sends Nick on a war path. Hadrian's Wall ramps up their investigation</info>
+</item>
+
+<item>
+<title>S5 EP22 Beginning of the End: Part 2</title>
+<link>https://od.lk/s/OTdfMzQ0NDMwN18/S05E22.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzQ0NDI0M18/grimm%20s5.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0NDI0NV8/grimm%20f2.jpg</fanart>
+<info>Beginning of the End: Part 2
+The war with Black Claw escalates as Nick and his friends are targeted for elimination.</info>
+</item>
+

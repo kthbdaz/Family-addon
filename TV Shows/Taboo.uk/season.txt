@@ -1,0 +1,14 @@
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+<channel>
+<name>Season 1</name>
+<thumbnail>https://od.lk/s/OTdfMzUzNjIwOF8/TABOO.jpg</thumbnail>
+<externallink>https://goo.gl/lmcUjx</externallink>
+<fanart>https://od.lk/s/OTdfMzU0NjU5NV8/Taboo%20f.jpg</fanart>
+<genre>Drama</genre>
+<info>James Keziah Delaney returns to 1814 London after 10 years in Africa to discover that he has been left a mysterious legacy by his father. Driven to wage war on those who have wronged him, Delaney finds himself in a face-off against the East India Company, whilst playing a dangerous game between two warring nations, Britain and America.</info>
+</channel>
+
+</channels>

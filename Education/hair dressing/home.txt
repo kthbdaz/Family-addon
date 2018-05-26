@@ -1,0 +1,29 @@
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+<channel>
+<name>NVQ LEVEL 1</name>
+<thumbnail>https://od.lk/s/OTdfMzU2ODMyOF8/nvq%201.jpg</thumbnail>
+<externallink>https://goo.gl/FFU0Yv</externallink>
+<fanart><fanart>https://od.lk/s/OTdfMzU2ODMyOV8/hairdressing.jpg</fanart>
+<info></info> 
+</channel>
+
+<channel>
+<name>NVQ LEVEL 2</name>
+<thumbnail>https://od.lk/s/OTdfMzU2ODMzMF8/nvq%202.jpg</thumbnail>
+<externallink>https://goo.gl/FcRhk4</externallink>
+<fanart><fanart>https://od.lk/s/OTdfMzU2ODMyOV8/hairdressing.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>NVQ LEVEL 3</name>
+<thumbnail>https://od.lk/s/OTdfMzU2ODMzMV8/nvq%203.jpg</thumbnail>
+<externallink>https://goo.gl/XoXlbR</externallink>
+<fanart><fanart>https://od.lk/s/OTdfMzU2ODMyOV8/hairdressing.jpg</fanart>
+<info></info> 
+</channel>
+
+</channels>

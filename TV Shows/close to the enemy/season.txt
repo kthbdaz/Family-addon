@@ -1,0 +1,30 @@
+﻿
+
+
+
+
+
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+<channel>
+<name>Season 1</name>
+<thumbnail>https://od.lk/s/OTdfMzQ0MzE0OF8/Close%20to%20the%20Enemy.jpg</thumbnail>
+<externallink>https://goo.gl/XWvULi</externallink>
+<fanart>https://od.lk/s/OTdfMzQ0MzE0OV8/Close-to-the-enemy%20F.jpg</fanart>
+<info>A British intelligence officer has to ensure that a captured German scientist helps the British develop jet aircraft.</info>
+</channel>
+</channels>
+
+
+
+
+
+
+
+
+
+
+
+

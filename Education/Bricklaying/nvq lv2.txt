@@ -1,0 +1,319 @@
+<item>
+<title>1 Sound Insulation</title>
+<link>https://od.lk/s/OTdfMzU2ODU1OV8/1%20Sound%20Insulation.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU2ODQ3OV8/bricklaying.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU2ODQ3OF8/bricklaying%20f.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>Blockwork 2 Building the First Block</title>
+<link>https://od.lk/s/OTdfMzU2ODU2MF8/Blockwork%202%20Building%20the%20First%20Block.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU2ODQ3OV8/bricklaying.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU2ODQ3OF8/bricklaying%20f.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>Blockwork 6 Building a Lead</title>
+<link>https://od.lk/s/OTdfMzU2ODU2MV8/Blockwork%206%20Building%20a%20Lead.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU2ODQ3OV8/bricklaying.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU2ODQ3OF8/bricklaying%20f.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>7 Establishing Intermediate Piers</title>
+<link>https://od.lk/s/OTdfMzU2ODU2Ml8/Blockwork%207%20Establishing%20Intermediate%20Piers.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU2ODQ3OV8/bricklaying.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU2ODQ3OF8/bricklaying%20f.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>Blockwork corners.</title>
+<link>https://od.lk/s/OTdfMzU2ODU2M18/Blockwork%20corners.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU2ODQ3OV8/bricklaying.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU2ODQ3OF8/bricklaying%20f.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>Bonding Lesson 1 Junctions</title>
+<link>https://od.lk/s/OTdfMzU2ODU2NF8/Bonding%20Lesson%201%20Junctions.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU2ODQ3OV8/bricklaying.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU2ODQ3OF8/bricklaying%20f.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>Bonding Lesson 2 Junctions</title>
+<link>https://od.lk/s/OTdfMzU2ODU2NV8/Bonding%20Lesson%202%20Junctions.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU2ODQ3OV8/bricklaying.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU2ODQ3OF8/bricklaying%20f.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>Bonding lesson 3 Stretcher Bond Piers</title>
+<link>https://od.lk/s/OTdfMzU2ODUyOF8/Bonding%20lesson%203%20Stretcher%20Bond%20Piers.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU2ODQ3OV8/bricklaying.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU2ODQ3OF8/bricklaying%20f.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>Bonding Lesson 4 Centralised & offset piers</title>
+<link>https://od.lk/s/OTdfMzU2ODUyOV8/Bonding%20Lesson%204%20Centralised%20%26%20offset%20piers.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU2ODQ3OV8/bricklaying.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU2ODQ3OF8/bricklaying%20f.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>Bonding Lesson 5 Various Bonds</title>
+<link>https://od.lk/s/OTdfMzU2ODUzMF8/Bonding%20Lesson%205%20Various%20Bonds.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU2ODQ3OV8/bricklaying.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU2ODQ3OF8/bricklaying%20f.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>Bonding Lesson 6 English Bond Attached Piers</title>
+<link>https://od.lk/s/OTdfMzU2ODUzMV8/Bonding%20Lesson%206%20English%20Bond%20Attached%20Piers.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU2ODQ3OV8/bricklaying.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU2ODQ3OF8/bricklaying%20f.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>Brick on edge Capping</title>
+<link>https://od.lk/s/OTdfMzU2ODUzMl8/Brick%20on%20edge%20Capping.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU2ODQ3OV8/bricklaying.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU2ODQ3OF8/bricklaying%20f.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>Brickwork-DPC</title>
+<link>https://od.lk/s/OTdfMzU2ODUzM18/Brickwork-DPC.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU2ODQ3OV8/bricklaying.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU2ODQ3OF8/bricklaying%20f.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>Brickwork-Soldier Course with weep vents</title>
+<link>https://od.lk/s/OTdfMzU2ODUzNF8/Brickwork-Soldier%20Course%20with%20weep%20vents.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU2ODQ3OV8/bricklaying.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU2ODQ3OF8/bricklaying%20f.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>Brickwork-Stopped End Corner</title>
+<link>https://od.lk/s/OTdfMzU2ODUzNV8/Brickwork-Stopped%20End%20Corner.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU2ODQ3OV8/bricklaying.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU2ODQ3OF8/bricklaying%20f.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>Building a Brick Lead</title>
+<link>https://od.lk/s/OTdfMzU2ODUzNl8/Building%20a%20Brick%20Lead.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU2ODQ3OV8/bricklaying.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU2ODQ3OF8/bricklaying%20f.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>Building a Flemish bond corner</title>
+<link>https://od.lk/s/OTdfMzU2ODUzN18/Building%20a%20Flemish%20bond%20corner.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU2ODQ3OV8/bricklaying.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU2ODQ3OF8/bricklaying%20f.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>Dry bond an English bond wall</title>
+<link>https://od.lk/s/OTdfMzU2ODUzOF8/Dry%20bond%20an%20English%20bond%20wall.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU2ODQ3OV8/bricklaying.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU2ODQ3OF8/bricklaying%20f.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>English bond corner</title>
+<link>https://od.lk/s/OTdfMzU2ODUzOV8/English%20bond%20corner.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU2ODQ3OV8/bricklaying.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU2ODQ3OF8/bricklaying%20f.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>Final Brick in Brick on edge Capping</title>
+<link>https://od.lk/s/OTdfMzU2ODU0MF8/Final%20Brick%20in%20Brick%20on%20edge%20Capping.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU2ODQ3OV8/bricklaying.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU2ODQ3OF8/bricklaying%20f.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>Flemish bond corner</title>
+<link>https://od.lk/s/OTdfMzU2ODU0MV8/Flemish%20bond%20corner.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU2ODQ3OV8/bricklaying.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU2ODQ3OF8/bricklaying%20f.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>Half brick corner.</title>
+<link>https://od.lk/s/OTdfMzU2ODU0Ml8/Half%20brick%20corner.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU2ODQ3OV8/bricklaying.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU2ODQ3OF8/bricklaying%20f.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>How To Lay Brick Columns and Soldier Courses</title>
+<link>https://od.lk/s/OTdfMzU2ODU0M18/How%20To%20Lay%20Brick%20Columns%20and%20Soldier%20Courses%21.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU2ODQ3OV8/bricklaying.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU2ODQ3OF8/bricklaying%20f.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>Laying foundations</title>
+<link>https://od.lk/s/OTdfMzU2ODU0NF8/Laying%20foundations.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU2ODQ3OV8/bricklaying.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU2ODQ3OF8/bricklaying%20f.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>Running in Blockwork.</title>
+<link>https://od.lk/s/OTdfMzU2ODU0NV8/Running%20in%20Blockwork.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU2ODQ3OV8/bricklaying.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU2ODQ3OF8/bricklaying%20f.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>Running in English bond Brickwork</title>
+<link>https://od.lk/s/OTdfMzU2ODU0Nl8/Running%20in%20English%20bond%20Brickwork.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU2ODQ3OV8/bricklaying.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU2ODQ3OF8/bricklaying%20f.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>stop end corner.</title>
+<link>https://od.lk/s/OTdfMzU2ODU0N18/stop%20end%20corner.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU2ODQ3OV8/bricklaying.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU2ODQ3OF8/bricklaying%20f.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>Bonding Lesson 7 English Isolated piers.</title>
+<link>https://od.lk/s/OTdfMzU2ODU0OF8/the%20fine%20art%20of%20brickwork%20-%20Bonding%20Lesson%207%20English%20Isolated%20piers.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU2ODQ3OV8/bricklaying.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU2ODQ3OF8/bricklaying%20f.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>Bonding Lesson 8 Flemish isolated piers</title>
+<link>https://od.lk/s/OTdfMzU2ODU0OV8/the%20fine%20art%20of%20brickwork%20-%20Bonding%20Lesson%208%20Flemish%20isolated%20piers.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU2ODQ3OV8/bricklaying.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU2ODQ3OF8/bricklaying%20f.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>Bonding Lesson 9 Broken Bond</title>
+<link>https://od.lk/s/OTdfMzU2ODU1MF8/the%20fine%20art%20of%20brickwork%20-%20Bonding%20Lesson%209%20Broken%20Bond.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU2ODQ3OV8/bricklaying.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU2ODQ3OF8/bricklaying%20f.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>Bonding Lesson 10 Balanced brickwork</title>
+<link>https://od.lk/s/OTdfMzU2ODU1MV8/the%20fine%20art%20of%20brickwork%20-%20Bonding%20Lesson%2010%20Balanced%20brickwork.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU2ODQ3OV8/bricklaying.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU2ODQ3OF8/bricklaying%20f.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>Bonding Lesson 11 Positioning openings</title>
+<link>https://od.lk/s/OTdfMzU2ODU1Ml8/the%20fine%20art%20of%20brickwork%20-%20Bonding%20Lesson%2011%20Positioning%20openings.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU2ODQ3OV8/bricklaying.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU2ODQ3OF8/bricklaying%20f.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>Expansion joint.</title>
+<link>https://od.lk/s/OTdfMzU2ODU1M18/the%20fine%20art%20of%20brickwork%20-%20Expansion%20joint.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU2ODQ3OV8/bricklaying.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU2ODQ3OF8/bricklaying%20f.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>Flush jointing</title>
+<link>https://od.lk/s/OTdfMzU2ODU1NF8/the%20fine%20art%20of%20brickwork%20-%20Flush%20jointing.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU2ODQ3OV8/bricklaying.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU2ODQ3OF8/bricklaying%20f.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>Gable, cutting to rake 1 (of 3)</title>
+<link>https://od.lk/s/OTdfMzU2ODU1NV8/the%20fine%20art%20of%20brickwork%20-%20Gable%2C%20cutting%20to%20rake%201%20%28of%203%29.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU2ODQ3OV8/bricklaying.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU2ODQ3OF8/bricklaying%20f.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>Raising a pier</title>
+<link>https://od.lk/s/OTdfMzU2ODU1Nl8/the%20fine%20art%20of%20brickwork%20-%20Raising%20a%20pier.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU2ODQ3OV8/bricklaying.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU2ODQ3OF8/bricklaying%20f.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>Tying in.</title>
+<link>https://od.lk/s/OTdfMzU2ODU1N18/the%20fine%20art%20of%20brickwork%20-%20Tying%20in.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU2ODQ3OV8/bricklaying.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU2ODQ3OF8/bricklaying%20f.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title>transfering level</title>
+<link>https://od.lk/s/OTdfMzU2ODU1OF8/transfering%20level.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU2ODQ3OV8/bricklaying.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU2ODQ3OF8/bricklaying%20f.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzU2ODQ3OV8/bricklaying.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU2ODQ3OF8/bricklaying%20f.jpg</fanart>
+<info></info> 
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzU2ODQ3OV8/bricklaying.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzU2ODQ3OF8/bricklaying%20f.jpg</fanart>
+<info></info> 
+</item>

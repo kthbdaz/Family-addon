@@ -1,0 +1,37 @@
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+<channel>
+<name>Season 1</name>
+<thumbnail>https://od.lk/s/OTdfMzQyODYxMV8/prison%20break.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQyNzg4NV8/Season%201.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQyODYxMl8/prison%20break%20f.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>Season 2</name>
+<thumbnail>https://od.lk/s/OTdfMzQyODYxMV8/prison%20break.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQyNzg4MV8/Season%202.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQyODYxMl8/prison%20break%20f.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>Season 3</name>
+<thumbnail>https://od.lk/s/OTdfMzQyODYxMV8/prison%20break.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQyNzg4Ml8/Season%203.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQyODYxMl8/prison%20break%20f.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>Season 4</name>
+<thumbnail>https://od.lk/s/OTdfMzQyODYxMV8/prison%20break.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQyNzg4M18/Season%204.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQyODYxMl8/prison%20break%20f.jpg</fanart>
+<info></info>
+</channel>
+
+</channels>

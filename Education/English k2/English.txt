@@ -1,0 +1,13 @@
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+<channel>
+<name>KS2</name>
+<thumbnail>https://od.lk/s/OTdfMzU2MTkyOV8/ks2%20english.jpg</thumbnail>
+<externallink>https://goo.gl/5NHW1G</externallink>
+<fanart>https://od.lk/s/OTdfMzU2MTkyOF8/exam_hall.png</fanart>
+<info></info>
+</channel>
+
+</channels>

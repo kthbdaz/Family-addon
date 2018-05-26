@@ -1,0 +1,229 @@
+<item>
+<title>S3 EP1 The Purple Piano Project</title>
+<link>https://od.lk/s/OTdfMzU0NTg3OF8/S03E01.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQ3MV8/glee%203.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMjQ3N18/glee%203%20f.jpg</fanart>
+<genre>Comedy, Drama, Music</genre>
+<info>The Purple Piano Project
+After a devastating loss at Nationals, Will assigns the kids a new project to get them back on track.</info>
+</item>
+
+<item>
+<title>S3 EP2 I Am Unicorn</title>
+<link>https://od.lk/s/OTdfMzU0NTg3OV8/S03E02.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQ3MV8/glee%203.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMjQ3N18/glee%203%20f.jpg</fanart>
+<genre>Comedy, Drama, Music</genre>
+<info>I Am Unicorn
+Shelby Corcoran returns to McKinley High. Meanwhile, Will initiates a boot camp for some of the members of Glee Club.</info>
+</item>
+
+<item>
+<title>S3 EP3 Asian F</title>
+<link>https://od.lk/s/OTdfMzU0NTg4MF8/S03E03.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQ3MV8/glee%203.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMjQ3N18/glee%203%20f.jpg</fanart>
+<genre>Comedy, Drama, Music</genre>
+<info>Asian F
+Emma's parents come for a visit, and Mike struggles with his grades while his parents work to get him back on track.</info>
+</item>
+
+<item>
+<title>S3 EP4 Pot O' Gold</title>
+<link>https://od.lk/s/OTdfMzU0NjU3NV8/S03E04.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQ3MV8/glee%203.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMjQ3N18/glee%203%20f.jpg</fanart>
+<genre>Comedy, Drama, Music</genre>
+<info>Pot O' Gold
+A new foreign exchange student enrolls at McKinley High and crashes with Brittany, who thinks he's a leprechaun.</info>
+</item>
+
+<item>
+<title>S3 EP5 The First Time</title>
+<link>https://od.lk/s/OTdfMzU0NjU3Nl8/S03E05.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQ3MV8/glee%203.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMjQ3N18/glee%203%20f.jpg</fanart>
+<genre>Comedy, Drama, Music</genre>
+<info>The First Time
+The kids prepare to perform the school musical "West Side Story", while Finn meets with a recruiter.</info>
+</item>
+
+<item>
+<title>S3 EP6 Mash Off</title>
+<link>https://od.lk/s/OTdfMzU0NjU3Ml8/S03E06.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQ3MV8/glee%203.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMjQ3N18/glee%203%20f.jpg</fanart>
+<genre>Comedy, Drama, Music</genre>
+<info>Mash Off
+Sue starts a smear campaign to take down her biggest competitor for the congressional seat.</info>
+</item>
+
+<item>
+<title>S3 EP7 I Kissed a Girl</title>
+<link>https://od.lk/s/OTdfMzU0NjU3M18/S03E07.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQ3MV8/glee%203.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMjQ3N18/glee%203%20f.jpg</fanart>
+<genre>Comedy, Drama, Music</genre>
+<info>I Kissed a Girl
+As the race for McKinley High president comes to an end, someone is caught trying to fix the results.</info>
+</item>
+
+<item>
+<title>S3 EP8 Hold on to Sixteen</title>
+<link>https://od.lk/s/OTdfMzU0NjU3NF8/S03E08.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQ3MV8/glee%203.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMjQ3N18/glee%203%20f.jpg</fanart>
+<genre>Comedy, Drama, Music</genre>
+<info>Hold on to Sixteen
+In an attempt to recruit a few more members, Finn tracks down former teammate Sam Evans and convinces him to come back to the Glee Club.</info>
+</item>
+
+<item>
+<title>S3 EP9 Extraordinary Merry Christmas</title>
+<link>https://od.lk/s/OTdfMzQwNzY2NF8/S03E09.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQ3MV8/glee%203.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMjQ3N18/glee%203%20f.jpg</fanart>
+<genre>Comedy, Drama, Music</genre>
+<info>Extraordinary Merry Christmas
+When the Glee Club is asked to perform at two different events, on the same day, at the same time, they have a difficult decision to make.</info>
+</item>
+
+<item>
+<title>S3 EP10 Yes/No</title>
+<link>https://od.lk/s/OTdfMzU0NTgyN18/S03E10.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQ3MV8/glee%203.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMjQ3N18/glee%203%20f.jpg</fanart>
+<genre>Comedy, Drama, Music</genre>
+<info>Yes/No
+When Will tries to plan a special suprise for Emma, he enlists the Glee Club to help him sweep her off her feet.</info>
+</item>
+
+<item>
+<title>S3 EP11 Michael</title>
+<link>https://od.lk/s/OTdfMzU0NTgyOF8/S03E11.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQ3MV8/glee%203.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMjQ3N18/glee%203%20f.jpg</fanart>
+<genre>Comedy, Drama, Music</genre>
+<info>Michael
+The rivalry between New Directions and the Warblers intensifies en route to Regionals. Kurt and Rachel receive news about NYADA.</info>
+</item>
+
+<item>
+<title>S3 EP12 The Spanish Teacher</title>
+<link>https://od.lk/s/OTdfMzU0NTgyOV8/S03E12.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQ3MV8/glee%203.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMjQ3N18/glee%203%20f.jpg</fanart>
+<genre>Comedy, Drama, Music</genre>
+<info>The Spanish Teacher
+Will assigns the Glee Club a Spanish singing assignment and enlists the help of his musically enclined night school teacher.</info>
+</item>
+
+<item>
+<title>S3 EP13 Heart</title>
+<link>https://od.lk/s/OTdfMzU0NTgzNV8/S03E13.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQ3MV8/glee%203.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMjQ3N18/glee%203%20f.jpg</fanart>
+<genre>Comedy, Drama, Music</genre>
+<info>Heart
+In honor of Valentine's Day, Will challenges the Glee Club to find and perform the world's greatest love songs.</info>
+</item>
+
+<item>
+<title>S3 EP14 On My Way</title>
+<link>https://od.lk/s/OTdfMzU0NTg0NF8/S03E14.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQ3MV8/glee%203.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMjQ3N18/glee%203%20f.jpg</fanart>
+<genre>Comedy, Drama, Music</genre>
+<info>On My Way
+Things heat up as New Directions goes head-to-head with the Dalton Academy Warblers at Regionals.</info>
+</item>
+
+<item>
+<title>S3 EP15 Big Brother</title>
+<link>https://od.lk/s/OTdfMzU0NTg1NF8/S03E15.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQ3MV8/glee%203.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMjQ3N18/glee%203%20f.jpg</fanart>
+<genre>Comedy, Drama, Music</genre>
+<info>Big Brother
+Much to Blaine's chagrin, his big-shot Hollywood actor brother, Cooper, comes to visit.</info>
+</item>
+
+<item>
+<title>S3 EP16 Saturday Night Glee-ver</title>
+<link>https://od.lk/s/OTdfMzU0NTg1NV8/S03E16.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQ3MV8/glee%203.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMjQ3N18/glee%203%20f.jpg</fanart>
+<genre>Comedy, Drama, Music</genre>
+<info>Saturday Night Glee-ver
+New Directions pays homage to the film "Saturday Night Fever" by grooving to the disco-infused dance numbers</info>
+</item>
+
+<item>
+<title>S3 EP17 Dance with Somebody</title>
+<link>https://od.lk/s/OTdfMzU0NTg1Nl8/S03E17.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQ3MV8/glee%203.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMjQ3N18/glee%203%20f.jpg</fanart>
+<genre>Comedy, Drama, Music</genre>
+<info>Dance with Somebody
+The Glee Club covers Whitney Houston's greatest hits, while Will and Emma become one step closer to their dream wedding.</info>
+</item>
+
+<item>
+<title>S3 EP18 Choke</title>
+<link>https://od.lk/s/OTdfMzU0NTg1OF8/S03E18.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQ3MV8/glee%203.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMjQ3N18/glee%203%20f.jpg</fanart>
+<genre>Comedy, Drama, Music</genre>
+<info>Choke
+Rachel and Kurt finally get their chance to audition for the NYADA.</info>
+</item>
+
+<item>
+<title>S3 EP19 Prom-asaurus</title>
+<link>https://od.lk/s/OTdfMzU0NTg2MV8/S03E19.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQ3MV8/glee%203.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMjQ3N18/glee%203%20f.jpg</fanart>
+<genre>Comedy, Drama, Music</genre>
+<info>Prom-asaurus
+Brittany goes into high gear as class president to spearhead the prom. Then, after nominations are announced, the kids kick into campaign mode.</info>
+</item>
+
+<item>
+<title>S3 EP20 Props</title>
+<link>https://od.lk/s/OTdfMzU0NTg2NF8/S03E20.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQ3MV8/glee%203.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMjQ3N18/glee%203%20f.jpg</fanart>
+<genre>Comedy, Drama, Music</genre>
+<info>Props
+When Tina bumps her head, the world of New Directions is turned upside down in her eyes.</info>
+</item>
+
+<item>
+<title>S3 EP21 Nationals</title>
+<link>https://od.lk/s/OTdfMzU0NTg3MV8/S03E21.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQ3MV8/glee%203.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMjQ3N18/glee%203%20f.jpg</fanart>
+<genre>Comedy, Drama, Music</genre>
+<info>Nationals
+When Mercedes comes down with a bad case of food poisoning, Will drafts Tina and Quinn to sub for her.</info>
+</item>
+
+<item>
+<title>S3 EP22 Goodbye</title>
+<link>https://od.lk/s/OTdfMzU0NTg3N18/S03E22.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQ3MV8/glee%203.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMjQ3N18/glee%203%20f.jpg</fanart>
+<genre>Comedy, Drama, Music</genre>
+<info>Goodbye
+Graduation is finally here, and McKinley High's class of 2012 looks to the past and present while contemplating the future.</info>
+</item>
+
+
+
+
+
+
+
+
+
+

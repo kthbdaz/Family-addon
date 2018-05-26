@@ -1,0 +1,12 @@
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+<channel>
+<name>Season 1</name>
+<thumbnail>https://od.lk/s/OTdfMzQyODc5N18/deep%20water.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQyODY0OF8/S1.txt</externallink>
+<fanart></fanart>
+<info>When the mutilated corpse of a young man is found in a beachfront apartment in Bondi, Tori Lustigman and Nick Manning are assigned the case. Is this brutal murder a domestic, a robbery gone wrong, or a gay hate crime? As other ritualistic murders occur, they discover the killer is using THRUSTR to procure his victims. Any local using that app is now at risk and it's a race against the clock to catch the serial killer before he strikes again. With mounting evidence to suggest the perpetrator has killed before, Tori and Nick start digging through old investigations. The discovery is shocking. In the 80s and 90s they uncover up to 80 possible murders of gay men in NSW - unexplained deaths, 'suicides' and disappearances. Many of these killings were linked to gay bashings by youth gangs, a blood sport that went largely unpunished. As they meet more victims from the uninvestigated past crimes, they become convinced that the current killer is somehow connected. In reopening the cold cases .</info>
+</channel>
+

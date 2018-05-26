@@ -1,0 +1,12 @@
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+<channel>
+<name>Season 1</name>
+<thumbnail>https://od.lk/s/OTdfMzQyNzk0OF8/quarry.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQyNzk4Ml8/S1.txt</externallink>
+<fanart></fanart>
+<info>Quarry, a disillusioned Vietnam War vet, returns home to Memphis in 1972 only to find rejection and scrutiny at every step. A mysterious man known only as The Broker gives him an offer he can't refuse - to work for him as a hitman. </info>
+</channel>
+</channels>

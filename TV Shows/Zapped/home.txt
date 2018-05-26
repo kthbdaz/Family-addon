@@ -1,0 +1,33 @@
+﻿
+
+
+
+
+
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+<channel>
+<name>Season 1</name>
+<thumbnail>https://od.lk/s/OTdfMzQzODQ5NV8/zapped.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQzODQ5Ml8/S1.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQzODQ5NF8/zapped%20f.jpg</fanart>
+<info>A man is transported to a parallel world featuring "psychopathic Fairies, Shell Men, seductive Demi-Fins and vicious Throcks".</info>
+</channel>
+
+
+
+</channels>
+
+
+
+
+
+
+
+
+
+
+
+

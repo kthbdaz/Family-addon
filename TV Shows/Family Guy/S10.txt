@@ -1,0 +1,230 @@
+<item>
+<title>S10 EP1 Lottery Fever</title>
+<link>https://od.lk/s/OTdfMzU0NTM3M18/S10E01.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3NF8/s10.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Lottery Fever
+Peter blows his savings on lottery tickets and the family writes it off as one of his usual shenanigans until they end up millionaires. In true Griffin fashion, they can't handle the good fortune and struggle to stay grounded.</info>
+</item>
+
+<item>
+<title>S10 EP2 Seahorse Seashell Party</title>
+<link>https://od.lk/s/OTdfMzU0NTM3Nl8/S10E02.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3NF8/s10.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Seahorse Seashell Party
+As a hurricane hits Quahog, Brian gets high on psychedelic mushrooms and cuts his ear off, and Meg finally summons up the courage to confront the family.</info>
+</item>
+
+<item>
+<title>S10 EP3 Screams of Silence: The Story of Brenda Q</title>
+<link>https://od.lk/s/OTdfMzU0NTM4M18/S10E03.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3NF8/s10.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Screams of Silence: The Story of Brenda Q
+Quagmire and his friends try to talk his sister into getting away from her abusive boyfriend. But when she won't listen, they decide to take matters into their own hands.</info>
+</item>
+
+<item>
+<title>S10 EP4 Stewie Goes for a Drive</title>
+<link>https://od.lk/s/OTdfMzU0NTM4NF8/S10E04.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3NF8/s10.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Stewie Goes for a Drive
+Peter befriends actor Ryan Reynolds until he discovers that Reynolds may be attracted to him, and Stewie leaves home after Brian figures out that he wrecked Brian's car.</info>
+</item>
+
+<item>
+<title>S10 EP5 Back to the Pilot</title>
+<link>https://od.lk/s/OTdfMzU0NTM4NV8/S10E05.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3NF8/s10.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Back to the Pilot
+Brian and Stewie travel back in time to January 31, 1999 and witness the events that took place in the very first episode of Family Guy, "Death Has a Shadow".</info>
+</item>
+
+<item>
+<title>S10 EP6 Thanksgiving</title>
+<link>https://od.lk/s/OTdfMzU0NTM4Nl8/S10E06.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3NF8/s10.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Thanksgiving
+Joe's son, who was reported missing in Iraq, suddenly and unexpectedly appears during Thanksgiving dinner, but the story of his disappearance doesn't add up.</info>
+</item>
+
+<item>
+<title>S10 EP7 Amish Guy</title>
+<link>https://od.lk/s/OTdfMzU0NTM4N18/S10E07.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3NF8/s10.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Amish Guy
+The Griffins stay in an Amish village after their car breaks down, but problems arise when Meg falls for a boy in the village.</info>
+</item>
+
+<item>
+<title>S10 EP8 Cool Hand Peter</title>
+<link>https://od.lk/s/OTdfMzU0NTM0NV8/S10E08.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3NF8/s10.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Cool Hand Peter
+Peter and the guys take a stand against their wives and flee to the Deep South on a road trip. On the way there, the men earn a one-way ticket to jail. But when they decide to make a run for it, Joe's quick planning and Peter's seductive ways help them escape. Meanwhile, Lois spends some quality time with the girls and they engage in childish antics.</info>
+</item>
+
+<item>
+<title>S10 EP9 Grumpy Old Man</title>
+<link>https://od.lk/s/OTdfMzU0NTM0Nl8/S10E09.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3NF8/s10.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Grumpy Old Man
+Lois's dad retires to a senior community in Florida, but has trouble getting used to it.</info>
+</item>
+
+<item>
+<title>S10 EP10 Meg and Quagmire</title>
+<link>https://od.lk/s/OTdfMzU0NTM0N18/S10E10.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3NF8/s10.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Meg and Quagmire
+When Meg turns 18, Quagmire tries to make his move on her, but Peter tries to stop him.</info>
+</item>
+
+<item>
+<title>S10 EP11 The Blind Side</title>
+<link>https://od.lk/s/OTdfMzU0NTM1M18/S10E11.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3NF8/s10.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>The Blind Side
+Brian discovers that his new blind girlfriend can't stand dogs, and Peter cannot negotiate his way down the new staircase.</info>
+</item>
+
+<item>
+<title>S10 EP12 Livin' on a Prayer</title>
+<link>https://od.lk/s/OTdfMzU0NTM1NF8/S10E12.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3NF8/s10.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Livin' on a Prayer
+When Lois discovers that Stewie's sick playmate is being denied medical treatment because his parents are Christian Scientists, she decides to take matters into her own hands.</info>
+</item>
+
+<item>
+<title>S10 EP13 Tom Tucker: The Man and His Dream</title>
+<link>https://od.lk/s/OTdfMzU0NTM1Nl8/S10E13.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3NF8/s10.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Tom Tucker: The Man and His Dream
+Tom Tucker goes to Hollywood to revive his acting career, with Peter as his agent. Back in Quahog, Chris starts dating a girl who looks exactly like Lois.</info>
+</item>
+
+<item>
+<title>S10 EP14 Be Careful What You Fish For</title>
+<link>https://od.lk/s/OTdfMzU0NTM1N18/S10E14.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3NF8/s10.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Be Careful What You Fish For
+Peter allows a friendly dolphin to move in with the family, but soon discovers that he's really a jerk. Meanwhile, Stewie asks for Brian's help in busting a negligent day care provider.</info>
+</item>
+
+<item>
+<title>S10 EP15 Burning Down the Bayit</title>
+<link>https://od.lk/s/OTdfMzU0NTU0OF8/S10E15.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3NF8/s10.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Burning Down the Bayit
+Overwhelmed with financial troubles, Mort asks Peter and Quagmire to help him save his pharmacy. However, things take a turn for the worse when the trio decides to burn it down to collect insurance money.</info>
+</item>
+
+<item>
+<title>S10 EP16 Killer Queen</title>
+<link>https://od.lk/s/OTdfMzU0NTM2Ml8/S10E16.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3NF8/s10.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Killer Queen
+When Peter and Chris go away to fat camp, they cross paths with a serial killer who targets overweight kids. Meanwhile, Stewie is traumatized by the frightening cover of a Queen album.</info>
+</item>
+
+<item>
+<title>S10 EP17 Forget-Me-Not</title>
+<link>https://od.lk/s/OTdfMzU0NTM2NF8/S10E17.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3NF8/s10.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Forget-Me-Not
+After a car accident, Peter, Brian, Joe, and Quagmire wake up in a hospital with no memory and discover that they're the last people left on Earth.</info>
+</item>
+
+<item>
+<title>S10 EP18 You Can't Do That on Television, Peter</title>
+<link>https://od.lk/s/OTdfMzU0NTM2NV8/S10E18.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3NF8/s10.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>You Can't Do That on Television, Peter
+Peter creates his own children's TV show and portrays Lois as an annoying nag, while Meg gets a chance to shadow a doctor.</info>
+</item>
+
+<item>
+<title>S10 EP19 Mr. & Mrs. Stewie</title>
+<link>https://od.lk/s/OTdfMzU0NTM2Nl8/S10E19.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3NF8/s10.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Mr. & Mrs. Stewie
+Stewie falls for a girl who is just as wicked as he is, and Peter finds an unlikely alternative when Lois refuses to snuggle.</info>
+</item>
+
+<item>
+<title>S10 EP20 Leggo My Meg-O</title>
+<link>https://od.lk/s/OTdfMzU0NTM2N18/S10E20.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3NF8/s10.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Leggo My Meg-O
+Meg and her friend are kidnapped in Paris for the sex slave trade, and Stewie and Brian fly to Paris to rescue her.</info>
+</item>
+
+<item>
+<title>S10 EP21 Tea Peter</title>
+<link>https://od.lk/s/OTdfMzU0NTM2OF8/S10E21.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3NF8/s10.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Tea Peter
+Peter joins the Tea Party but doesn't discover until it's too late that Carter Pewterschmidt is using the party to get rid of government for his own selfish motives.</info>
+</item>
+
+<item>
+<title>S10 EP22 Viewer Mail #2</title>
+<link>https://od.lk/s/OTdfMzU0NTM2OV8/S10E22.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3NF8/s10.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Viewer Mail #2
+Three skits: the British program that Family Guy is based on, everybody Peter touches turns into Robin Williams, and a look at the day through Stewie's eyes.</info>
+</item>
+
+<item>
+<title>S10 EP23 Internal Affairs</title>
+<link>https://od.lk/s/OTdfMzU0NTM3MV8/S10E23.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3NF8/s10.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Internal Affairs
+Peter talks Joe into having an affair and gets into another epic fight with the giant chicken.</info>
+</item>
+

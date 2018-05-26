@@ -1,0 +1,30 @@
+﻿
+
+
+
+
+
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+<channel>
+<name>Season 1</name>
+<thumbnail>https://od.lk/s/OTdfMzQzODU4N18/falling%20water.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQzODU4NF8/S1.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQzODU4Nl8/falling%20water%20f.jpg</fanart>
+<info>The story of three unrelated people, who slowly realize that they are dreaming separate parts of a single common dream. Each of them is on a mysterious and highly personal quest - one is searching for his missing girlfriend, one is searching for a lost child, one is looking to cure his catatonic mother - and it is the clues found in their collective dream that come to guide them. The deeper they dig the more they come to realize that their missions touch on stakes that are much larger than their individual agendas</info>
+</channel>
+</channels>
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,58 @@
+<item>
+<title>S1 EP1 Pilot</title>
+<link>https://od.lk/s/OTdfMzQyMzA0MV8/Pitch.S01E01.HDTV.x264-KILLERS%5Bettv%5D.mP4</link>
+<thumbnail>https://od.lk/s/OTdfMzQyNzk3Nl8/pitch.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQyNzk3N18/pitch.f.jpg</fanart>
+<info>Pilot
+A young pitcher adjusts to life in the spotlight after making history as the first woman to play Major League Baseball. </info>
+</item>
+
+<item>
+<title>S1 EP2 The Interim</title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzQyNzk3Nl8/pitch.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQyNzk3N18/pitch.f.jpg</fanart>
+<info>The Interim
+Ginny attempts to fit in with the team, in spite of a sexist comment Al made about her years ago resurfacing. Meanwhile, Mike comes to terms with the mortality of his career and the end of his marriage, and Blip deals with fallout from Evelyn defending him to the media. </info>
+</item>
+
+<item>
+<title>S1 EP3 Beanball</title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzQyNzk3Nl8/pitch.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQyNzk3N18/pitch.f.jpg</fanart>
+<info>Beanball
+The Padres are hyped up to play the Cardinals, whose pitcher broke Tommy's finger in an altercation, but Ginny is rattled when she spots her ex-boyfriend, Trevor, on the team. Meanwhile, Al calls on an old friend to help save his job. </info>
+</item>
+
+<item>
+<title>S1 EP</title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzQyNzk3Nl8/pitch.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQyNzk3N18/pitch.f.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP</title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzQyNzk3Nl8/pitch.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQyNzk3N18/pitch.f.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP</title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzQyNzk3Nl8/pitch.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQyNzk3N18/pitch.f.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP</title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzQyNzk3Nl8/pitch.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQyNzk3N18/pitch.f.jpg</fanart>
+<info></info>
+</item>

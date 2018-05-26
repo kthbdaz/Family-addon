@@ -1,0 +1,136 @@
+<item>
+<title>John Legend Greatest Hits 2016</title>
+<link>https://od.lk/s/OTdfMzQ1MzI2M18/John%20Legend%20Greatest%20Hits%202016%20%20%20%20Best%20Songs%20Of%20John%20Legend.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQ1MzI4MF8/cover.jpg</thumbnail>
+<fanart></fanart>
+<artist>John Legend<artist>
+<info>play all</info>
+</item>
+
+<item>
+<title>Best of John Legend HD HQ</title>
+<link>https://od.lk/s/OTdfMzQ1MzQzNV8/Best%20of%20John%20Legend%20HD%20HQ%20%28FULL%20ALBUM%29.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQ1MzUxNV8/Best%20of%20John%20Legend%20HD%20HQ.jpg</thumbnail>
+<fanart></fanart>
+<info>Best of John Legend HD HQ</info> 
+</item>
+
+<item>
+<title>01 - I Know Better</title>
+<link>https://od.lk/s/OTdfMzQ1MzI3NV8/%2801%29%20%5BJohn%20Legend%5D%20I%20Know%20Better.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQ1MzI4MF8/cover.jpg</thumbnail>
+<fanart></fanart>
+<info></info> 
+</item>
+
+<item>
+<title>02 - Penthouse Floor (Feat. Chance The Rapper)</title>
+<link>https://od.lk/s/OTdfMzQ1MzI3Nl8/%2802%29%20%5BJohn%20Legend%5D%20Penthouse%20Floor%20%28Feat.%20Chance%20The%20Rapper%29.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQ1MzI4MF8/cover.jpg</thumbnail>
+<fanart></fanart>
+<info></info> 
+</item>
+
+<item>
+<title>03 - Darkness And Light</title>
+<link>https://od.lk/s/OTdfMzQ1MzI3N18/%2803%29%20%5BJohn%20Legend%5D%20Darkness%20And%20Light%20%28Feat.%20Brittany%20Howard%29.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQ1MzI4MF8/cover.jpg</thumbnail>
+<fanart></fanart>
+<info></info> 
+</item>
+
+<item>
+<title>04 - Overload </title>
+<link>https://od.lk/s/OTdfMzQ1MzI3OF8/%2804%29%20%5BJohn%20Legend%5D%20Overload%20%28Feat.%20Miguel%29.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQ1MzI4MF8/cover.jpg</thumbnail>
+<fanart></fanart>
+<info></info> 
+</item>
+
+<item>
+<title>05 - Love Me Now</title>
+<link>https://od.lk/s/OTdfMzQ1MzI3OV8/%2805%29%20%5BJohn%20Legend%5D%20Love%20Me%20Now.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQ1MzI4MF8/cover.jpg</thumbnail>
+<fanart></fanart>
+<info></info> 
+</item>
+
+<item>
+<title>06 - What You Do To Me</title>
+<link>https://od.lk/s/OTdfMzQ1MzI2NV8/%2806%29%20%5BJohn%20Legend%5D%20What%20You%20Do%20To%20Me.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQ1MzI4MF8/cover.jpg</thumbnail>
+<fanart></fanart>
+<info></info> 
+</item>
+
+<item>
+<title>07 - Surefire</title>
+<link>https://od.lk/s/OTdfMzQ1MzI2Nl8/%2807%29%20%5BJohn%20Legend%5D%20Surefire.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQ1MzI4MF8/cover.jpg</thumbnail>
+<fanart></fanart>
+<info></info> 
+</item>
+
+<item>
+<title>08 - Right By You (For Luna)</title>
+<link>https://od.lk/s/OTdfMzQ1MzI2N18/%2808%29%20%5BJohn%20Legend%5D%20Right%20By%20You%20%28For%20Luna%29.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQ1MzI4MF8/cover.jpg</thumbnail>
+<fanart></fanart>
+<info></info> 
+</item>
+
+<item>
+<title>09 - Temporarily Painless</title>
+<link>https://od.lk/s/OTdfMzQ1MzI2OF8/%2809%29%20%5BJohn%20Legend%5D%20Temporarily%20Painless.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQ1MzI4MF8/cover.jpg</thumbnail>
+<fanart></fanart>
+<info></info> 
+</item>
+
+<item>
+<title>10 - How Can I Blame You</title>
+<link>https://od.lk/s/OTdfMzQ1MzI2OV8/%2810%29%20%5BJohn%20Legend%5D%20How%20Can%20I%20Blame%20Yoy.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQ1MzI4MF8/cover.jpg</thumbnail>
+<fanart></fanart>
+<info></info> 
+</item>
+
+<item>
+<title>11 - Same Old Story</title>
+<link>https://od.lk/s/OTdfMzQ1MzI3MF8/%2811%29%20%5BJohn%20Legend%5D%20Same%20Old%20Story.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQ1MzI4MF8/cover.jpg</thumbnail>
+<fanart></fanart>
+<info></info> 
+</item>
+
+<item>
+<title>12 - Marching Into The Dark</title>
+<link>https://od.lk/s/OTdfMzQ1MzI3MV8/%2812%29%20%5BJohn%20Legend%5D%20Marching%20Into%20The%20Dark.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQ1MzI4MF8/cover.jpg</thumbnail>
+<fanart></fanart>
+<info></info> 
+</item>
+
+<item>
+<title>13 - Drawing Lines</title>
+<link>https://od.lk/s/OTdfMzQ1MzI3Ml8/%2813%29%20%5BJohn%20Legend%5D%20Drawing%20Lines.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQ1MzI4MF8/cover.jpg</thumbnail>
+<fanart></fanart>
+<info></info> 
+</item>
+
+<item>
+<title>14 - What You Do To Me (Piano Demo).</title>
+<link>https://od.lk/s/OTdfMzQ1MzI3M18/%2814%29%20%5BJohn%20Legend%5D%20What%20You%20Do%20To%20Me%20%28Piano%20Demo%29.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQ1MzI4MF8/cover.jpg</thumbnail>
+<fanart></fanart>
+<info></info> 
+</item>
+
+<item>
+<title>15 - Love You Anyway</title>
+<link>https://od.lk/s/OTdfMzQ1MzI3NF8/%2815%29%20%5BJohn%20Legend%5D%20Love%20You%20Anyway.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQ1MzI4MF8/cover.jpg</thumbnail>
+<fanart></fanart>
+<info></info> 
+</item>

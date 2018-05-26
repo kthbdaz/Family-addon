@@ -1,0 +1,29 @@
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+<channel>
+<name>Season 1</name>
+<thumbnail>https://od.lk/s/OTdfMzQzMjUwMl8/power.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQzMjUwMV8/S1.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQzMjUwM18/power-slider.jpg</fanart>
+<info>"Power" tells the story of James "Ghost" St. Patrick, a wealthy New York City nightclub owner who caters to the city's elite. He wants to build an empire, turn the club into a Fortune 500 business, but there's just one problem: Ghost is living a double life. When he is not in the club, he is the kingpin of the most lucrative drug network in New York for a very high-level clientele. His marriage, family and business all become unknowingly threatened as he is tempted to leave his criminal life behind and become the rags-to-riches businessman he wants to be most of all.</info>
+</channel>
+
+<channel>
+<name>Season 2</name>
+<thumbnail>https://od.lk/s/OTdfMzQzMjUwMl8/power.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQzMjQ5OV8/S2.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQzMjUwM18/power-slider.jpg</fanart>
+<info>"Power" tells the story of James "Ghost" St. Patrick, a wealthy New York City nightclub owner who caters to the city's elite. He wants to build an empire, turn the club into a Fortune 500 business, but there's just one problem: Ghost is living a double life. When he is not in the club, he is the kingpin of the most lucrative drug network in New York for a very high-level clientele. His marriage, family and business all become unknowingly threatened as he is tempted to leave his criminal life behind and become the rags-to-riches businessman he wants to be most of all.</info>
+</channel>
+
+<channel>
+<name>Season 3</name>
+<thumbnail>https://od.lk/s/OTdfMzQzMjUwMl8/power.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQzMjUwN18/S3.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQzMjUwM18/power-slider.jpg</fanart>
+<info>"Power" tells the story of James "Ghost" St. Patrick, a wealthy New York City nightclub owner who caters to the city's elite. He wants to build an empire, turn the club into a Fortune 500 business, but there's just one problem: Ghost is living a double life. When he is not in the club, he is the kingpin of the most lucrative drug network in New York for a very high-level clientele. His marriage, family and business all become unknowingly threatened as he is tempted to leave his criminal life behind and become the rags-to-riches businessman he wants to be most of all.</info>
+</channel>
+
+</channels>

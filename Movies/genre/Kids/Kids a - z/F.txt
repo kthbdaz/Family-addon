@@ -1,0 +1,14 @@
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+<channel>
+<name>Family Guy</name>
+<thumbnail>https://od.lk/s/OTdfMzUyNjA0MV8/family%20guy.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzUyNjA0M18/Family%20Guy.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzUyNjA0Ml8/Family-Guy%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>In a wacky Rhode Island town, a dysfunctional family strive to cope with everyday life as they are thrown from one crazy scenario to another.</info>
+</channel>
+
+</channels>

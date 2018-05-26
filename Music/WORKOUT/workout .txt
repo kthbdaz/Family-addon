@@ -1,0 +1,215 @@
+<item>
+<title>Best workout songs -2016 Vol.02</title>
+<link>https://od.lk/s/OTdfMzUzMTUwMV8/Best%20workout%20songs%20-%20Workout%20music%20playlist%202016%20Vol.02.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMTUwNV8/Workout-Songs.png</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMTUwNF8/workout%20f.jpg</fanart>
+<genre>workout</genre>
+<info></info>
+</item>
+
+<item>
+<title>Best workout songs 2016</title>
+<link>https://od.lk/s/OTdfMzUzMTQ5OV8/Best%20workout%20songs%20-%20Workout%20music%20playlist%202016.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMTUwNV8/Workout-Songs.png</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMTUwNF8/workout%20f.jpg</fanart>
+<genre>workout</genre>
+<info></info>
+</item>
+
+<item>
+<title>WORKOUT & TRAINING Best music 2017</title>
+<link>https://od.lk/s/OTdfMzUzMTUwMF8/WORKOUT%20%26%20TRAINING%20%20Best%20music%20%20Playlist%20Mix%202017.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMTUwNV8/Workout-Songs.png</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMTUwNF8/workout%20f.jpg</fanart>
+<genre>workout</genre>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP4</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP5</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP6</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP7</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP8</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP9</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP10</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP11</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP12</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP13</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP14</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP15</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP16</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>S1 EP17</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP18</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP19</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>S1 EP20</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP21</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP22</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>S1 EP23</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP24</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP25</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP26</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP27</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>

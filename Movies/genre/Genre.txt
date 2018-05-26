@@ -1,0 +1,161 @@
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+<channel>
+<name>Trailers for 2017 movies</name>
+<thumbnail>https://od.lk/s/OTdfMzQ0NDQxMV8/coming%20soon.png</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQ0NDE1OV8/Trailer.txt</externallink>
+<fanart></fanart>
+<genre>ALL</genre>
+<info>coming to our screens soon</info>
+</channel>
+
+<channel>
+<name>Added This Week</name>
+<thumbnail>https://od.lk/s/OTdfMzQ0NDQxMF8/new%20added.png</thumbnail>
+<externallink>https://goo.gl/PfUIpd</externallink>
+<fanart></fanart>
+<genre>ALL</genre>
+<info>movies added within the last 7 days</info>
+</channel>
+
+<channel>
+<name>For The Ladies</name>
+<thumbnail>https://od.lk/s/OTdfMzUzMjYxM18/ladies.jpg</thumbnail>
+<externallink>https://goo.gl/poQuk6</externallink>
+<fanart>https://od.lk/s/OTdfMzUzMjYxMl8/romantic.jpg</fanart>
+<genre></genre>
+<info></info>
+</channel>
+
+<channel>
+<name>Thriller</name>
+<thumbnail>https://od.lk/s/OTdfMzUzNjMxNV8/Thriller.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzUzNjMwNV8/Thriller.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzUzNjMxNF8/thriller-header.jpg</fanart>
+<genre>Thriller</genre>
+<info></info>
+</channel>
+
+<channel>
+<name>Horror</name>
+<thumbnail>https://www.dropbox.com/s/rkqptcol3nmbtjy/horror-tekstkopie.jpg?dl=1</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQxODEzN18/Horror.txt</externallink>
+<fanart>https://od.lk/d/OTdfMzE2MTM3NF8/horror%20fanart.jpg</fanart>
+<genre>HORRORL</genre>
+<info>kthbdaz.netne.net</info>
+</channel>
+
+<channel>
+<name>Action</name>
+<thumbnail>https://www.dropbox.com/s/57gh2o93tc2s25s/Logo%20Action.JPG?dl=1</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQxODIwMl8/Action.txt</externallink>
+<fanart>https://od.lk/d/OTdfMzE2MTM3M18/action%20fanart.jpg</fanart>
+<genre>ACTIONL</genre>
+<info>kthbdaz.netne.net</info>
+</channel>
+
+<channel>
+<name>Family</name>
+<thumbnail>https://www.dropbox.com/s/luoyctyjuahxegp/film_strip_icon_T.png?dl=1</thumbnail>
+<externallink>https://od.lk/s/OTdfMzUzNjE5MF8/Entertainment.txt</externallink>
+<fanart>https://od.lk/d/OTdfMzE2MTM3MV8/Entertainment.jpg</fanart>
+<genre>ENTERTAINMENT - ALL</genre>
+<info>kthbdaz.netne.net</info>
+</channel>
+
+<channel>
+<name>Kids</name>
+<thumbnail>https://www.dropbox.com/s/ewgidpp7ncjnofn/warner_bros.jpg?dl=1</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQxODE3Ml8/Kids.txt</externallink>
+<fanart>https://od.lk/d/OTdfMzE2MTM2OF8/kids%20Wallpaper.jpg</fanart>
+<genre>movies, cartoons and tv shows</genre>
+<info>movies, cartoons and tv shows</info>
+</channel>
+
+<channel>
+<name>Westerns</name>
+<thumbnail>https://www.dropbox.com/s/u50mrtlc0nflojp/Western-film-logo_gradient_800px.jpg?dl=1</thumbnail>
+<externallink>https://goo.gl/qpvihS</externallink>
+<fanart>https://www.dropbox.com/s/hjzkdq8u1actgmw/western.jpg?dl=1</fanart>
+<genre>WESTERNS</genre>
+<info>kthbdaz.netau.net</info>
+</channel>
+
+<channel>
+<name>SIFI</name>
+<thumbnail>https://od.lk/d/OTdfMzE2MTM2Nl8/scifilogo.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQxODEzOF8/SIFI.txt</externallink>
+<fanart>https://od.lk/d/OTdfMzE2MTM2NV8/sci-fi-wallpaper.jpg</fanart>
+<genre>SIFI</genre>
+<info>sifi movie collection</info>
+</channel>
+
+<channel>
+<name>War Movies</name>
+<thumbnail>https://od.lk/s/OTdfMzM0Njg4Ml8/war%20icon.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQxODEzOV8/War%20movies.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzM0Njg4M18/war%20fanart.jpg</fanart>
+<info>war movie collection old to new</info>
+<genre>WAR</genre>
+</channel>
+
+<channel>
+<name>Comedy</name>
+<thumbnail>https://od.lk/d/OTdfMzE1Nzc1OF8/Comedy-Night-logo.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQxODEzNV8/Comedy.txt</externallink>
+<fanart>https://od.lk/d/OTdfMzE2MTM3MF8/Comedy1.jpg</fanart>
+<genre>COMEDY</genre>
+<info>comedy movies</info>
+</channel>
+
+<channel>
+<name>3D Movies</name>
+<thumbnail>https://od.lk/d/OTdfMzE1ODk1MV8/3D.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQxODQ1MF8/3D.txt</externallink>
+<fanart>https://od.lk/d/OTdfMzE1ODk1MF8/3d_logo__by_dorgd-d6o53x7.png</fanart>
+<genre>ALL</genre>
+<info>kthbdaz.netau.net</info>
+</channel>
+
+<channel>
+<name>Classic Movies</name>
+<thumbnail>https://od.lk/s/OTdfMzM0Njg4Nl8/classic%20icon.png</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQ0MjM4MF8/Classic%20Movies.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzM0Njg4NF8/cassic%20fanart.jpg</fanart>
+<genre>ALL</genre>
+<info>all your old time greats </info>
+</channel>
+
+<channel>
+<name>Dance Movies</name>
+<thumbnail>https://od.lk/s/OTdfMzM0Njg4N18/dance.png</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQxODEzNl8/Dance%20Movies.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzM0Njg4OF8/dance.jpg</fanart>
+<genre>ALL</genre>
+<info>A mixture of great dance movies,Grease,Fame, Stepup,Street dance ect</info>
+</channel>
+
+<channel>
+<name>Drama</name>
+<thumbnail>https://od.lk/s/OTdfMzUzNjEyNl8/drama-logo.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzUzMjk4N18/Drama.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzUzNjEyNV8/drama%20f.jpg</fanart>
+<genre>Drama</genre>
+<info></info>
+</channel>
+
+<channel>
+<name>Documentary</name>
+<thumbnail>https://od.lk/s/OTdfMzUzNjEyOF8/Documentary.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzUzNjEyN18/Documentary.txt</externallink>
+<fanart></fanart>
+<genre>Documentary</genre>
+<info></info>
+</channel>
+</channels>
+
+
+
+

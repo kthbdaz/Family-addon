@@ -1,0 +1,224 @@
+<item>
+<title>S1 EP1 You Have to Go Inside</title>
+<link>https://od.lk/s/OTdfMzQyODgwMl8/channel.zero.101.hdtv-lol%5Bettv%5D.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQyODgzOF8/channel%20zero.jpg</thumbnail>
+<fanart></fanart>
+<genre>Drama, Horror, Mystery</genre>
+<info>You Have to Go Inside
+The return of a kids' TV show from the 1980's coincides with the disappearance of a young child.</info>
+</item>
+
+<item>
+<title>S1 EP2 I'll Hold Your Hand</title>
+<link>https://od.lk/s/OTdfMzQzMDY0NF8/channel.zero.102.hdtv-lol%5Bettv%5D.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQyODgzOF8/channel%20zero.jpg</thumbnail>
+<fanart></fanart>
+<genre>Drama, Horror, Mystery</genre>
+<info>I'll Hold Your Hand
+Marla agrees to help Mike investigate the murders, and is horrified to learn about what happened in 1988, that's been hidden since that time.</info>
+</item>
+
+<item>
+<title>S1 EP3 Want to See Something Cool?</title>
+<link>https://od.lk/s/OTdfMzUyNzM5NF8/Channel.Zero.S01E03.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzQyODgzOF8/channel%20zero.jpg</thumbnail>
+<fanart></fanart>
+<genre>Drama, Horror, Mystery</genre>
+<info>Want to See Something Cool?
+Mike must convince Gary that Candle Cove is behind the murders; Marla, Jessica, and Amy frantically search for Mike.</info>
+</item>
+
+<item>
+<title>S1 EP4 A Strange Vessel</title>
+<link>https://od.lk/s/OTdfMzUyNzM5NV8/Channel.Zero.S01E04.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzQyODgzOF8/channel%20zero.jpg</thumbnail>
+<fanart></fanart>
+<genre>Drama, Horror, Mystery</genre>
+<info>A Strange Vessel
+Mike's daughter Lily mysteriously arrives in Iron Hill, leading to more information about the murders of 1988; Mike and Jessica take drastic measures to heal the past and protect Lily from Candle Cove.</info>
+</item>
+
+<item>
+<title>S1 EP5 Guest of Honor</title>
+<link>https://od.lk/s/OTdfMzUyNzM5Nl8/Channel.Zero.S01E05.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzQyODgzOF8/channel%20zero.jpg</thumbnail>
+<fanart></fanart>
+<genre>Drama, Horror, Mystery</genre>
+<info>Guest of Honor
+Mike and Amy learn that the creator of Candle Cove isn't who they think; A brutal crime shocks the Iron Hill police force.</info>
+</item>
+
+<item>
+<title>S1 EP6 Welcome Home</title>
+<link>https://od.lk/s/OTdfMzUzMDM2Nl8/Channel.Zero.S01E06.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQyODgzOF8/channel%20zero.jpg</thumbnail>
+<fanart></fanart>
+<genre>Drama, Horror, Mystery</genre>
+<info>Welcome Home
+After Lily is taken by Candle Cove, Mike puts himself in danger to save her and confront his tormentor; Marla faces an impossible choice.</info>
+</item>
+
+<item>
+<title>S1 EP7</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP8</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP9</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP10</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP11</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP12</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP13</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP14</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP15</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP16</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>S1 EP17</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP18</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP19</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>S1 EP20</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP21</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP22</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>S1 EP23</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP24</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP25</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP26</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP27</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>

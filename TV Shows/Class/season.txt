@@ -1,0 +1,31 @@
+﻿
+
+
+
+
+
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+<channel>
+<name>Season 1</name>
+<thumbnail>https://od.lk/s/OTdfMzQzNjAyOF8/class.jpg</thumbnail>
+<externallink>https://od.lk/e/OTdfMzQzNjAyOV8</externallink>
+<fanart></fanart>
+<info>Coal Hill School has been a feature of Doctor Who (1963) since the first episode, but now we get to see the day-to-day adventures of the students coping with intrusions from space and time.</info>
+</channel>
+
+</channels>
+
+
+
+
+
+
+
+
+
+
+
+

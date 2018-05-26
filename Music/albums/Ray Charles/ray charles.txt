@@ -1,0 +1,319 @@
+<item>
+<title>The Best of Ray Charles (full album)</title>
+<link>https://od.lk/s/OTdfMzQ1MzI4NF8/The%20Best%20of%20Ray%20Charles%20%28full%20album%29.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQ1MzI4M18/Folder.jpg</thumbnail>
+<fanart></fanart>
+<info>The Best of Ray Charles (full album)</info>
+</item>
+
+<item>
+<title>01. Georgia On My Mind</title>
+<link>https://od.lk/s/OTdfMzQ1MzI5N18/01.%20Georgia%20On%20My%20Mind.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQ1MzI4M18/Folder.jpg</thumbnail>
+<fanart></fanart>
+<info>01. Georgia On My Mind</info> 
+</item>
+
+<item>
+<title>02. Unchain My Heart</title>
+<link>https://od.lk/s/OTdfMzQ1MzI5OF8/02.%20Unchain%20My%20Heart.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQ1MzI4M18/Folder.jpg</thumbnail>
+<fanart></fanart>
+<info>02. Unchain My Heart</info> 
+</item>
+
+<item>
+<title>03. What'd I Say (Parts I & 2)</title>
+<link>https://od.lk/s/OTdfMzQ1MzI5OV8/03.%20What%27d%20I%20Say%20%28Parts%20I%20%26%20Ii%29.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQ1MzI4M18/Folder.jpg</thumbnail>
+<fanart></fanart>
+<info>03. What'd I Say (Parts I & 2)</info> 
+</item>
+
+<item>
+<title>04. Hallelujah I Love Her So</title>
+<link>https://od.lk/s/OTdfMzQ1MzMwMF8/04.%20Hallelujah%20I%20Love%20Her%20So.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQ1MzI4M18/Folder.jpg</thumbnail>
+<fanart></fanart>
+<info>04. Hallelujah I Love Her So</info> 
+</item>
+
+<item>
+<title>05. Hit The Road Jack</title>
+<link>https://od.lk/s/OTdfMzQ1MzMwMV8/05.%20Hit%20The%20Road%20Jack.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQ1MzI4M18/Folder.jpg</thumbnail>
+<fanart></fanart>
+<info>05. Hit The Road Jack</info> 
+</item>
+
+<item>
+<title>06. I've Got A Woman</title>
+<link>https://od.lk/s/OTdfMzQ1MzMwMl8/06.%20I%27ve%20Got%20A%20Woman.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQ1MzI4M18/Folder.jpg</thumbnail>
+<fanart></fanart>
+<info>06. I've Got A Woman</info> 
+</item>
+
+<item>
+<title>07. A Fool For You</title>
+<link>https://od.lk/s/OTdfMzQ1MzI4NV8/07.%20A%20Fool%20For%20You.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQ1MzI4M18/Folder.jpg</thumbnail>
+<fanart></fanart>
+<info>07. A Fool For You</info> 
+</item>
+
+<item>
+<title>08. Drown In My Own Tears</title>
+<link>https://od.lk/s/OTdfMzQ1MzI4Nl8/08.%20Drown%20In%20My%20Own%20Tears.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQ1MzI4M18/Folder.jpg</thumbnail>
+<fanart></fanart>
+<info>08. Drown In My Own Tears</info> 
+</item>
+
+<item>
+<title>09. (Night Time Is) The Right Time</title>
+<link>https://od.lk/s/OTdfMzQ1MzI4N18/09.%20%28Night%20Time%20Is%29%20The%20Right%20Time.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQ1MzI4M18/Folder.jpg</thumbnail>
+<fanart></fanart>
+<info>09. (Night Time Is) The Right Time</info> 
+</item>
+
+<item>
+<title>10. Sticks And Stones</title>
+<link>https://od.lk/s/OTdfMzQ1MzI4OF8/10.%20Sticks%20And%20Stones.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQ1MzI4M18/Folder.jpg</thumbnail>
+<fanart></fanart>
+<info>10. Sticks And Stones</info> 
+</item>
+
+<item>
+<title>11. One Mint Julep</title>
+<link>https://od.lk/s/OTdfMzQ1MzI4OV8/11.%20One%20Mint%20Julep.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQ1MzI4M18/Folder.jpg</thumbnail>
+<fanart></fanart>
+<info>11. One Mint Julep</info> 
+</item>
+
+<item>
+<title>12. I Can't Stop Loving You</title>
+<link>https://od.lk/s/OTdfMzQ1MzI5MF8/12.%20I%20Can%27t%20Stop%20Loving%20You.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQ1MzI4M18/Folder.jpg</thumbnail>
+<fanart></fanart>
+<info>12. I Can't Stop Loving You</info> 
+</item>
+
+<item>
+<title>13. You Are My Sunshine</title>
+<link>https://od.lk/s/OTdfMzQ1MzI5MV8/13.%20You%20Are%20My%20Sunshine.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQ1MzI4M18/Folder.jpg</thumbnail>
+<fanart></fanart>
+<info>13. You Are My Sunshine</info> 
+</item>
+
+<item>
+<title>14. Busted</title>
+<link>https://od.lk/s/OTdfMzQ1MzI5Ml8/14.%20Busted.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQ1MzI4M18/Folder.jpg</thumbnail>
+<fanart></fanart>
+<info>14. Busted</info> 
+</item>
+
+<item>
+<title>15. Let's Go Get Stoned</title>
+<link>https://od.lk/s/OTdfMzQ1MzI5M18/15.%20Let%27s%20Go%20Get%20Stoned.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQ1MzI4M18/Folder.jpg</thumbnail>
+<fanart></fanart>
+<info>15. Let's Go Get Stoned</info> 
+</item>
+
+<item>
+<title>16. Seven Spanish Angels - With Wi</title>
+<link>https://od.lk/s/OTdfMzQ1MzI5NF8/16.%20Seven%20Spanish%20Angels%20-%20With%20Wi.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQ1MzI4M18/Folder.jpg</thumbnail>
+<fanart></fanart>
+<info>16. Seven Spanish Angels - With Wi</info> 
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzQ1MzI4M18/Folder.jpg</thumbnail>
+<fanart></fanart>
+<info></info> 
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzQ1MzI4M18/Folder.jpg</thumbnail>
+<fanart></fanart>
+<info></info> 
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzQ1MzI4M18/Folder.jpg</thumbnail>
+<fanart></fanart>
+<info></info> 
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzQ1MzI4M18/Folder.jpg</thumbnail>
+<fanart></fanart>
+<info></info> 
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzQ1MzI4M18/Folder.jpg</thumbnail>
+<fanart></fanart>
+<info></info> 
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzQ1MzI4M18/Folder.jpg</thumbnail>
+<fanart></fanart>
+<info></info> 
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzQ1MzI4M18/Folder.jpg</thumbnail>
+<fanart></fanart>
+<info></info> 
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzQ1MzI4M18/Folder.jpg</thumbnail>
+<fanart></fanart>
+<info></info> 
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzQ1MzI4M18/Folder.jpg</thumbnail>
+<fanart></fanart>
+<info></info> 
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzQ1MzI4M18/Folder.jpg</thumbnail>
+<fanart></fanart>
+<info></info> 
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzQ1MzI4M18/Folder.jpg</thumbnail>
+<fanart></fanart>
+<info></info> 
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzQ1MzI4M18/Folder.jpg</thumbnail>
+<fanart></fanart>
+<info></info> 
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzQ1MzI4M18/Folder.jpg</thumbnail>
+<fanart></fanart>
+<info></info> 
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzQ1MzI4M18/Folder.jpg</thumbnail>
+<fanart></fanart>
+<info></info> 
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzQ1MzI4M18/Folder.jpg</thumbnail>
+<fanart></fanart>
+<info></info> 
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzQ1MzI4M18/Folder.jpg</thumbnail>
+<fanart></fanart>
+<info></info> 
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzQ1MzI4M18/Folder.jpg</thumbnail>
+<fanart></fanart>
+<info></info> 
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzQ1MzI4M18/Folder.jpg</thumbnail>
+<fanart></fanart>
+<info></info> 
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzQ1MzI4M18/Folder.jpg</thumbnail>
+<fanart></fanart>
+<info></info> 
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzQ1MzI4M18/Folder.jpg</thumbnail>
+<fanart></fanart>
+<info></info> 
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzQ1MzI4M18/Folder.jpg</thumbnail>
+<fanart></fanart>
+<info></info> 
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzQ1MzI4M18/Folder.jpg</thumbnail>
+<fanart></fanart>
+<info></info> 
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzQ1MzI4M18/Folder.jpg</thumbnail>
+<fanart></fanart>
+<info></info> 
+</item>

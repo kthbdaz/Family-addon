@@ -1,0 +1,84 @@
+<channels>
+<channel>
+<name>Season 1</name>
+<thumbnail>https://od.lk/s/OTdfMzQyMTQ2Nl8/SP1.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQyNzgwM18/Season%201.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQyMTQ1Ml8/SP9F.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>Season 2</name>
+<thumbnail>https://od.lk/s/OTdfMzQyMTQ2MV8/SP2.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQyNzgyNF8/Season%202.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQyMTQ1Ml8/SP9F.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>Season 3</name>
+<thumbnail>https://od.lk/s/OTdfMzQyMTQ2N18/SP3.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQyNzgzNV8/Season%203.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQyMTQ1Ml8/SP9F.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>Season 4</name>
+<thumbnail>https://od.lk/s/OTdfMzQyMTQ1OV8/SP4.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQyNzg0OF8/Season%204.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQyMTQ1Ml8/SP9F.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>Season 5</name>
+<thumbnail>https://od.lk/s/OTdfMzQyMTQ2OF8/SP5.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQyNzg1Ml8/Season%205.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQyMTQ1Ml8/SP9F.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>Season 6</name>
+<thumbnail>https://od.lk/s/OTdfMzQyMTQ2OV8/SP6.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQyNzg2Ml8/Season%206.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQyMTQ1Ml8/SP9F.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>Season 7</name>
+<thumbnail>https://od.lk/s/OTdfMzQyMTQ2Ml8/SP7.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQyNzg2N18/Season%207.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQyMTQ1Ml8/SP9F.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>Season 8</name>
+<thumbnail>https://od.lk/s/OTdfMzQyMTQ2M18/SP8.jpg</thumbnail>
+<externallink></externallink>
+<fanart>https://od.lk/s/OTdfMzQyMTQ1Ml8/SP9F.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>Season 9</name>
+<thumbnail>https://od.lk/s/OTdfMzQyMTQ2NV8/SP9.jpg</thumbnail>
+<externallink></externallink>
+<fanart>https://od.lk/s/OTdfMzQyMTQ1Ml8/SP9F.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>Season 10</name>
+<thumbnail>https://od.lk/s/OTdfMzQyMTQ2MF8/S10.jpg</thumbnail>
+<externallink></externallink>
+<fanart>https://od.lk/s/OTdfMzQyMTQ1Ml8/SP9F.jpg</fanart>
+<info></info>
+</channel>
+
+
+
+

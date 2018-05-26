@@ -1,0 +1,32 @@
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+<channel>
+<name>Glee</name>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQ3NV8/glee.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzUzMjQ4NV8/season.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzUzMjQ4Nl8/glee%20f.jpg</fanart>
+<genre>Comedy, Drama, Music</genre>
+<info>When a High School Spanish teacher, Will Schuester, becomes the director of the school's failing Glee club, New Directions, he hopes to be able to rejuvenate it. The club competes in the choir competition circuit. It's been called "a High School Musical for adults", the series follows the club and its mixture of oddball members as they try and restore it to its former glory. It is a musical comedy in which the eager and ambitious students not only compete to win the Nationals, but also have to deal with the tough and cruel realities of their school, McKinley High. At the same time, Will is trying to rejuvenate his failing love life whilst preventing the school's cheer leading coach Sue Sylvester from sabotaging the choir.</info>
+</channel>
+
+<channel>
+<name>Supergirl</name>
+<thumbnail>https://od.lk/s/OTdfMzQzMDQwMF8/supergirl.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQzMDM5NF8/season.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQzMDQwMV8/supergirl%20f.jpg</fanart>
+<genre></genre>
+<info>The adventures of Superman's cousin in her own superhero career.</info>
+</channel>
+
+<channel>
+<name>Gotham</name>
+<thumbnail>https://od.lk/s/OTdfMzQyNzg5OV8/gotham.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQyNzg5N18/Season.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQyNzkwMF8/Gotham-TV.jpg</fanart>
+<genre></genre>
+<info></info>
+</channel>
+
+</channels>

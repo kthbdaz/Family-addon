@@ -1,0 +1,265 @@
+<item>
+<title>NOW That's What I Call A Song</title>
+<utube>PL_34_m4eTlaMs7Q4Imtz199e2K4agqwyP</utube>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>NOW That's What I Call The 90s</title>
+<utube>PL_34_m4eTlaOrcFRHD9mG4zUilcXQS8uB</utube>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Now that's what i call drive time</title>
+<utube>PLC9uHuoWKsDwFs_bLjU1Xf9kK032tIukr</utube>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>NOW That's What I Call Pop </title>
+<utube>PL_34_m4eTlaNQBMQYxfxQLN7eUkIKP66y</utube>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>NOW That's What I Call Christmas 2015</title>
+<utube>PL_34_m4eTlaMgClOUihGU5EKM0md93FCN</utube>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>NOW That's What I Call The 80s</title>
+<utube>PL_34_m4eTlaMgClOUihGU5EKM0md93FCN</utube>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>NOW That's What I Call Rock Ballads</title>
+<utube>PL_34_m4eTlaMnlJjHHCOyEK0jDM7_dHQ5</utube>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Now That's What I Call Disney 2016</title>
+<utube>PLinS5uF49IBppf4qo02in0oMeZ7ahGNMo</utube>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>NOW That's What I Call Party Anthems</title>
+<utube>PL_34_m4eTlaN0b1Wntb0io2m_j0Bbe1Id</utube>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Now thats what I call a summer party 2015</title>
+<utube>PLtjMaWNM3AMxNBOxCT6wUf2wrt2XlZNCe</utube>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>NOW That's What i Call Fitness</title>
+<utube>PL_34_m4eTlaPFvaVTast2KuiRHV9tSAP9</utube>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Now Thats What I Call Music: old N new</title>
+<utube></utube>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Now That's What I Call Reggae Party</title>
+<utube>PLsdPA0A_fKLnFSyW_hlGMTskA0FXZiqol</utube>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>NOW Chilled</title>
+<utube>PL_34_m4eTlaO64lWBQeC7xfmlA9uKvS4G</utube>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>NOW That's What I Call Legends</title>
+<utube>PL_34_m4eTlaOpfFVy_gy36BMKSrx3MNPc</utube>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>NOW That's What I Call 21st Century</title>
+<utube>PL_34_m4eTlaPLkaa4gLSJsWm86Z0H8i_U</utube>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Now that's what I call drivetime</title>
+<utube>PLgq0VJ9sRSSTgPm1x6A1Z9btaJcs9UJaU</utube>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>NOW House</title>
+<utube>PL_34_m4eTlaMFVmKb3lBxVKMWkGXUKG9g</utube>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Now That's What I Call Classic Rock</title>
+<utube>PLSdyzYAdoCmdg6CPd_qvN1ycm9DcOeNBx</utube>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>NOW Million</title>
+<utube>PL_34_m4eTlaO8Wj-65W7BioLh50i_4Mzs</utube>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Now That's What I Call Movies</title>
+<utube>PLof4EyQx-VwMBjTsVvYhsXo27YM9bvcKY</utube>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>NOW thats what i call feel good </title>
+<utube>PLCyMOjFkWxz0x7YHwWgdkqCB4BZSOYlVu</utube>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>NOW Club Hits</title>
+<utube>PL_34_m4eTlaMA1WFX92nvR5NK1Z4dc42M</utube>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>NOW Rock</title>
+<utube>PL_34_m4eTlaNZnmJKJqLfslC2oW3kNKWK</utube>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Now Thats What I Call Musicals 2014</title>
+<utube>PLXAN7tYrZq7drpFeMFFn7CNzkF-FUVIBh</utube>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>NOW Running 2015</title>
+<utube>PL_34_m4eTlaNLWS-34FVBlr8ZnlTUFkiV</utube>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Now that's what I call an Indie Disco</title>
+<utube>PLvXkWO2tBt0BDBW3L8yiP-mY0Nb7Y2mGm</utube>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Now That's What I Call Brit Hit's</title>
+<utube>PLc6SbbuuWtLkgZu81yYIYEWEAnANZFvsj</utube>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>NOW That's What I Call A Singer</title>
+<utube>PL_34_m4eTlaNh63gxFpUwwAROXj5V3AX8</utube>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Now That's What I Call Hallowe'en!</title>
+<utube>PL6riFqYHU3P2l0QWcv3TaFOJUPlgAhSJ4</utube>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>NOW That's What I Call A Party</title>
+<utube>PL_34_m4eTlaPnat1HtGrigGFXywxRscUK</utube>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Now That's What I Call Love Songs (2013)</title>
+<utube>PLMlx9Y1nNnBQe706xuzYywP1VAnJVaXfk</utube>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Now That's What I Call Music Adverts UK</title>
+<utube>PLkNn5zq7_qk_cbmCof6cuLDpIj1KA1VuX</utube>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Now That's What I Call Country</title>
+<utube>PL8E6DA5CD8A8B8726</utube>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>NOW That's What I Call Dance Hits 2016</title>
+<utube>PLhUnYSiS17hxyvgsvx42YYoz4g_ysRxg-</utube>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Now That's What I Call A Wedding</title>
+<utube>PLFF47337FF42066DC</utube>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Now That's What I Call Music Decades </title>
+<utube>PLsdPA0A_fKLmENcBmqkeoeJfb9wkgCWpM</utube>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>NOW That's What I Call Christmas 2016</title>
+<utube>PL11MclXAu-7B0eXKYZ3TpHxCc6viY92rh</utube>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>

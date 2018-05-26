@@ -1,0 +1,12 @@
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+<channel>
+<name>Season 1</name>
+<thumbnail>https://od.lk/s/OTdfMzQyNzk0OV8/van_helsing.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQyNzk5Nl8/S1.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQyNzk1MF8/van-helsing.jpg</fanart>
+<info>Vanessa Helsing, distant relative of famous vampire hunter Abraham Van Helsing, is resurrected only to find that vampires have taken over the world. She is humanity's last hope to lead an offensive to take back what has been lost. </info>
+</channel>
+</channels>

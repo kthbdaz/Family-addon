@@ -1,0 +1,180 @@
+<item>
+<title>S13 EP1 The Simpsons Guy</title>
+<link>https://od.lk/s/OTdfMzU0NTYyMF8/S13E01.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3N18/s13.jpeg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>The Simpsons Guy
+After fleeing Quahog due to Peter's misogynistic comic strip, the Griffins get their car stolen and end up getting stuck in Springfield.</info>
+</item>
+
+<item>
+<title>S13 EP2 The Book of Joe</title>
+<link>https://od.lk/s/OTdfMzU0NTYyMV8/S13E02.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3N18/s13.jpeg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>The Book of Joe
+Peter is hired to read Joe's new book to children, and Brian takes up running to impress a girl.</info>
+</item>
+
+<item>
+<title>S13 EP3 Baking Bad</title>
+<link>https://od.lk/s/OTdfMzU0NTYyMl8/S13E03.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3N18/s13.jpeg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Baking Bad
+Peter and Lois open a bakery, but things get out of hand when Peter comes up with a way to attract customers.</info>
+</item>
+
+<item>
+<title>S13 EP4 Brian the Closer</title>
+<link>https://od.lk/s/OTdfMzU0NTYyM18/S13E04.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3N18/s13.jpeg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Brian the Closer
+After getting a cosmetic surgery, Brian becomes a real estate agent, only to get in trouble with Quagmire.</info>
+</item>
+
+<item>
+<title>S13 EP5 Turkey Guys</title>
+<link>https://od.lk/s/OTdfMzU0NTYyNF8/S13E05.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3N18/s13.jpeg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Turkey Guys
+On the night before Thanksgiving, Peter and Brian get drunk and eat the whole turkey, so they have to get a new one on Thanksgiving Day. With Peter gone, Chris tries to take over as the man of the house.</info>
+</item>
+
+<item>
+<title>S13 EP6 The 2,000-Year-Old Virgin</title>
+<link>https://od.lk/s/OTdfMzU0NTYyNV8/S13E06.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3N18/s13.jpeg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>The 2,000-Year-Old Virgin
+Peter and the guys set out to throw Jesus the best birthday party in order to help him lose his virginity.</info>
+</item>
+
+<item>
+<title>S13 EP7 Stewie, Chris & Brian's Excellent Adventure</title>
+<link>https://od.lk/s/OTdfMzU0NTYyOF8/S13E07.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3N18/s13.jpeg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Stewie, Chris & Brian's Excellent Adventure
+Stewie and Brian take Chris back through time to help him with history class, only to end up stuck in the past.</info>
+</item>
+
+<item>
+<title>S13 EP8 Our Idiot Brian</title>
+<link>https://od.lk/s/OTdfMzU0NTYzMF8/S13E08.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3N18/s13.jpeg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Our Idiot Brian
+Brian begins to think he's not so smart when he takes the SAT'S for Meg and gets a low score, so Peter decides to show him the joys of being an idiot.</info>
+</item>
+
+<item>
+<title>S13 EP9 This Little Piggy</title>
+<link>https://od.lk/s/OTdfMzU0NTYwN18/S13E09.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3N18/s13.jpeg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>This Little Piggy
+Meg becomes a foot-fetish model, while Brian accompanies Stewie on an adventure outside of preschool.</info>
+</item>
+
+<item>
+<title>S13 EP10 Quagmire's Mom</title>
+<link>https://od.lk/s/OTdfMzU0NTYwOV8/S13E10.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3N18/s13.jpeg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Quagmire's Mom
+Quagmire faces charges of statutory rape. During the trial, his mom makes a surprise appearance, which helps explain why he is the way that he is.</info>
+</item>
+
+<item>
+<title>S13 EP11 Encyclopedia Griffin</title>
+<link>https://od.lk/s/OTdfMzU0NTYxMV8/S13E11.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3N18/s13.jpeg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Encyclopedia Griffin
+Peter and the guys start a detective agency and discover that Chris is a thief. In the meantime, Lois is worried about Chris when gets involved in a delusional relationship.</info>
+</item>
+
+<item>
+<title>S13 EP12 Stewie Is Enceinte</title>
+<link>https://od.lk/s/OTdfMzU0NTYxMl8/S13E12.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3N18/s13.jpeg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Stewie Is Enceinte
+Stewie impregnates himself with Brian's DNA to save their friendship, while Peter and the guys try to make a viral video.</info>
+</item>
+
+<item>
+<title>S13 EP13 Dr. C and the Women</title>
+<link>https://od.lk/s/OTdfMzU0NTYxNF8/S13E13.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3N18/s13.jpeg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Dr. C and the Women
+Cleveland becomes an unlicensed therapist and gives Lois marriage advice that Peter does not like, and Quagmire gets Meg a job working in airport security.</info>
+</item>
+
+<item>
+<title>S13 EP14 JOLO</title>
+<link>https://od.lk/s/OTdfMzU0NTYxNV8/S13E14.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3N18/s13.jpeg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>JOLO
+Joe decides to embrace life by quitting his job with the police and taking the guys on a road trip to Niagra Falls, where he makes an unexpected decision.</info>
+</item>
+
+<item>
+<title>S13 EP15 Once Bitten</title>
+<link>https://od.lk/s/OTdfMzU0NTYxNl8/S13E15.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3N18/s13.jpeg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Once Bitten
+Brian becomes more submissive as a result of attending obedience school and Chris discovers his new friend is using him to get close to Meg.</info>
+</item>
+
+<item>
+<title>S13 EP16 Roasted Guy</title>
+<link>https://od.lk/s/OTdfMzU0NTYxN18/S13E16.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3N18/s13.jpeg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Roasted Guy
+When Peter's insulted by old friends at a roasting of him, he joins a group of mean girls.</info>
+</item>
+
+<item>
+<title>S13 EP17 Fighting Irish</title>
+<link>https://od.lk/s/OTdfMzU0NTYxOF8/S13E17.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3N18/s13.jpeg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Fighting Irish
+Peter prepares for a fight with Liam Neeson, while Lois becomes a class mom and pays more attention to the other children over Stewie.</info>
+</item>
+
+<item>
+<title>S13 EP18 Take My Wife</title>
+<link>https://od.lk/s/OTdfMzU0NTYxOV8/S13E18.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY3N18/s13.jpeg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Take My Wife
+Lois books a couple's vacation, but it turns out to be a marriage counseling program. Carter is frustrated because the kids are so into their electronics.</info>
+</item>
+

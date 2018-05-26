@@ -1,0 +1,180 @@
+<item>
+<title>S5 EP1 Stewie Loves Lois</title>
+<link>https://od.lk/s/OTdfMzUzNjg1Ml8/Family%20Guy%20-%20S05E01.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY2OV8/s5.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Stewie Loves Lois
+Stewie smothers Lois with affection after she saves his teddy bear and she soon becomes tired of the extra attention; Peter sues Dr. Hartman for sexual harassment after he has his first prostate exam.</info>
+</item>
+
+<item>
+<title>S5 EP2</title>
+<link>https://od.lk/s/OTdfMzUzNjc5NV8/Family%20Guy%20-%20S05E02.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY2OV8/s5.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Mother Tucker
+Peter's mom starts dating TV anchor Tom Tucker, causing Peter to turn to him as the father figure he always wanted. And Brian and Stewie begin hosting their own raunchy radio program.</info>
+</item>
+
+<item>
+<title>S5 EP3 Hell Comes to Quahog</title>
+<link>https://od.lk/s/OTdfMzUzNjc5OF8/Family%20Guy%20-%20S05E03.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY2OV8/s5.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Hell Comes to Quahog
+Meg takes a job at the local "superstore," but the store causes Peter to lose his job and his electricity. So he becomes the store's most vocal critic--until it offers him a job.</info>
+</item>
+
+<item>
+<title>S5 EP4 Saving Private Brian</title>
+<link>https://od.lk/s/OTdfMzUzNjc5OV8/Family%20Guy%20-%20S05E04.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY2OV8/s5.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Saving Private Brian
+Stewie and Brian join the army, go through basic training, and are sent to Iraq. Meanwhile, Chris becomes the lead singer of a rock band until Peter and Lois get Marilyn Manson to talk him out of it.</info>
+</item>
+
+<item>
+<title>S5 EP5 Whistle While Your Wife Works</title>
+<link>https://od.lk/s/OTdfMzUzNjgwMF8/Family%20Guy%20-%20S05E05.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY2OV8/s5.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Whistle While Your Wife Works
+Lois does Peter's work at the brewery while he recovers from getting his fingers surgically reattached, and Brian doesn't want the family to know that he's dating an idiot.</info>
+</item>
+
+<item>
+<title>S5 EP6 Prick Up Your Ears</title>
+<link>https://od.lk/s/OTdfMzUzNjgwMV8/Family%20Guy%20-%20S05E06.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY2OV8/s5.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Prick Up Your Ears
+Lois becomes the high school sex ed teacher, but is fired for having "radical" views. So she is replaced by a Christian group that uses fear, misinformation and lies to promote abstinence.</info>
+</item>
+
+<item>
+<title>S5 EP7 Chick Cancer</title>
+<link>https://od.lk/s/OTdfMzUzNjgwMl8/Family%20Guy%20-%20S05E07.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY2OV8/s5.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Chick Cancer
+Stewie tries to win over a retired child actress, and Peter becomes a fan of "chick movies" and makes his own.</info>
+</item>
+
+<item>
+<title>S5 EP8 Barely Legal</title>
+<link>https://od.lk/s/OTdfMzUzNjgzMV8/Family%20Guy%20-%20S05E08.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY2OV8/s5.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Barely Legal
+Meg can't find a date to her junior prom and Brian ends up going with Meg.</info>
+</item>
+
+<item>
+<title>S5 EP9 Road to Rupert</title>
+<link>https://od.lk/s/OTdfMzUzNjgzOF8/Family%20Guy%20-%20S05E09.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY2OV8/s5.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Road to Rupert
+Stewie and Brian travel to Aspen to find the man that Brian sold Rupert to on accident at a garage sale, and Meg becomes Peter's personal driver after Peter temporarily loses his driving privileges.</info>
+</item>
+
+<item>
+<title>S5 EP10 Peter's Two Dads</title>
+<link>https://od.lk/s/OTdfMzUzNjg0M18/Family%20Guy%20-%20S05E10.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY2OV8/s5.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Peter's Two Dads
+After Peter's dad passes away, he learns that he's not his biological father. So he and Brian travel to Ireland to find his real father.</info>
+</item>
+
+<item>
+<title>S5 EP11 The Tan Aquatic with Steve Zissou</title>
+<link>https://od.lk/s/OTdfMzUzNjg0NF8/Family%20Guy%20-%20S05E11.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY2OV8/s5.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>The Tan Aquatic with Steve Zissou
+Peter becomes the neighborhood bully after trying to take care of Chris's bully, and Stewie has a cancer scare after staying in the tanning bed too long.</info>
+</item>
+
+<item>
+<title>S5 EP12 Airport '07</title>
+<link>https://od.lk/s/OTdfMzUzNjg0NV8/Family%20Guy%20-%20S05E12.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY2OV8/s5.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Airport '07
+Peter becomes a redneck and gets Quagmire fired. So the gang sets out to get Quagmire his job back.</info>
+</item>
+
+<item>
+<title>S5 EP13 Bill & Peter's Bogus Journey</title>
+<link>https://od.lk/s/OTdfMzUzNjg0Nl8/Family%20Guy%20-%20S05E13.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY2OV8/s5.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Bill & Peter's Bogus Journey
+Peter's attempts to become physically fit lead to a friendship with Bill Clinton, which inadvertently nearly destroys Peter & Lois' marriage.</info>
+</item>
+
+<item>
+<title>S5 EP14 No Meals on Wheels</title>
+<link>https://od.lk/s/OTdfMzUzNjg0N18/Family%20Guy%20-%20S05E14.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY2OV8/s5.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>No Meals on Wheels
+After Peter finds a valuable coin and sells it for $50,000, he and Lois open their own restaurant. Peter is dismayed, however, when Joe and all of his handicapped friends begin using the restaurant as their hangout, and bans them all. This leads to a huge showdown and an ironic fate for Peter.</info>
+</item>
+
+<item>
+<title>S5 EP15 Boys Do Cry</title>
+<link>https://od.lk/s/OTdfMzUzNjg0OF8/Family%20Guy%20-%20S05E15.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY2OV8/s5.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Boys Do Cry
+Lois gets a job as the church organist, so the family decides to begin going back to church. When Stewie gets sick after receiving communion, the congregation becomes convinced that he has been possessed by the devil. While on the run, the family ends up in Texas, where Peter begins to fit right in with the cowboys, Stewie enters the "Little Miss Texas" pageant, and Chris and Meg sneak into George W. Bush's house.</info>
+</item>
+
+<item>
+<title>S5 EP16 No Chris Left Behind</title>
+<link>https://od.lk/s/OTdfMzUzNjg0OV8/Family%20Guy%20-%20S05E16.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY2OV8/s5.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>No Chris Left Behind
+After being expelled by his school for dragging down their average standardized test scores, Chris is accepted into a snobby private school, which forces his family to struggle to pay the tuition.</info>
+</item>
+
+<item>
+<title>S5 EP17 It Takes a Village Idiot, and I Married One</title>
+<link>https://od.lk/s/OTdfMzUzNjg1MF8/Family%20Guy%20-%20S05E17.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY2OV8/s5.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>It Takes a Village Idiot, and I Married One
+Lois runs for mayor of Quahog, though she doesn't become the front-runner until she dumbs down her political views. Once in office, she becomes corrupted with the power that she now holds, and begins accepting bribes so that she can buy herself expensive things. Meanwhile, Peter comes to enjoy being the "first lady" of Quahog, and all of the perks that go along with it.</info>
+</item>
+
+<item>
+<title>S5 EP18 Meet the Quagmires</title>
+<link>https://od.lk/s/OTdfMzUzNjg1MV8/Family%20Guy%20-%20S05E18.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjY2OV8/s5.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzNjY2NF8/fg%20f.jpg</fanart>
+<genre> Animation, Comedy</genre>
+<info>Meet the Quagmires
+Death grants Peter's wish to go back in time to 1984 when he was 18, but only for one night. He end up bailing on a date with Lois to hang out with a movie actress. When he returns to the present, he soon realizes that everything is but normal, as he is now married to the former actress, and Lois is with Quagmire.</info>
+</item>
+

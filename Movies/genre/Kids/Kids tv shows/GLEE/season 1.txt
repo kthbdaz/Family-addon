@@ -1,0 +1,219 @@
+<item>
+<title>S1 EP1 Pilot</title>
+<link>https://od.lk/s/OTdfMzUzMjQ2Ml8/Glee%20-%201x01%20-%20Pilot.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQ3Nl8/glee%201.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMjQ4Ml8/GLEE%201%20F.jpg</fanart>
+<genre>Comedy, Drama, Music</genre>
+<info>Pilot
+High school teacher Will Schuester tries to reinvent McKinley High School's Glee Club.</info>
+</item>
+
+<item>
+<title>S1 EP2 Showmance</title>
+<link>https://od.lk/s/OTdfMzUzMjQ2M18/Glee%20-%201x02%20-%20Showmance.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQ3Nl8/glee%201.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMjQ4Ml8/GLEE%201%20F.jpg</fanart>
+<genre>Comedy, Drama, Music</genre>
+<info>Showmance
+Glee Club performs in front of the school for the first time and surprises everyone in the audience. Meanwhile, Rachel realizes her feelings for Finn.</info>
+</item>
+
+<item>
+<title>S1 EP3 Acafellas</title>
+<link>https://od.lk/s/OTdfMzUzMjQ2NF8/Glee%20-%201x03%20-%20Acafellas.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQ3Nl8/glee%201.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMjQ4Ml8/GLEE%201%20F.jpg</fanart>
+<genre>Comedy, Drama, Music</genre>
+<info>Acafellas
+Will forms an all-male acapella vocal group, spending more time building his own confidence and more time away from the Glee Club.</info>
+</item>
+
+<item>
+<title>S1 EP4 Preggers</title>
+<link>https://od.lk/s/OTdfMzUzMjQ2NV8/Glee%20-%201x04%20-%20Preggers.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQ3Nl8/glee%201.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMjQ4Ml8/GLEE%201%20F.jpg</fanart>
+<genre>Comedy, Drama, Music</genre>
+<info>Preggers
+Kurt tries out for the football team in order to impress his dad. Sandy and Sue join forces to carry out their plans for destroying Glee Club.</info>
+</item>
+
+<item>
+<title>S1 EP5 The Rhodes Not Taken</title>
+<link>https://od.lk/s/OTdfMzUzMjQ2Nl8/Glee%20-%201x05%20-%20The%20Rhodes%20Not%20Taken.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQ3Nl8/glee%201.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMjQ4Ml8/GLEE%201%20F.jpg</fanart>
+<genre>Comedy, Drama, Music</genre>
+<info>The Rhodes Not Taken
+Will thinks the glee club desperately needs more of an edge, so he brings in his former classmate, April Rhodes, to spice things up. Will's plan seems to be going smoothly until he realizes he may be losing a key member of the club.</info>
+</item>
+
+<item>
+<title>S1 EP6 Vitamin D</title>
+<link>https://od.lk/s/OTdfMzUzMjQ2N18/Glee%20-%201x06%20-%20Vitamin%20D.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQ3Nl8/glee%201.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMjQ4Ml8/GLEE%201%20F.jpg</fanart>
+<genre>Comedy, Drama, Music</genre>
+<info>Vitamin D
+Will challenges the kids to a healthy dose of competition with boys against girls in a mash-up showdown. Meanwhile, Terri takes a job as the school nurse, despite having no medical experience, to keep an eye on Will.</info>
+</item>
+
+<item>
+<title>S1 EP7 Throwdown</title>
+<link>https://od.lk/s/OTdfMzUzMjQ2OF8/Glee%20-%201x07%20-%20Throwdown.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQ3Nl8/glee%201.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMjQ4Ml8/GLEE%201%20F.jpg</fanart>
+<genre>Comedy, Drama, Music</genre>
+<info>Throwdown
+Sue tries to cause dissension among the Glee Club members, but the real showdown begins when she and Will get called into the principal's office.</info>
+</item>
+
+<item>
+<title>S1 EP8 Mash-Up</title>
+<link>https://od.lk/s/OTdfMzUzMjQ4M18/Glee%20-%201x08%20-%20Mash-Up.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQ3Nl8/glee%201.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMjQ4Ml8/GLEE%201%20F.jpg</fanart>
+<genre>Comedy, Drama, Music</genre>
+<info>Mash-Up
+Inspired the by the students, Will composes a mash-up for a very special occasion. Meanwhile, in a shocking reversal of roles, McKinley High's cool kids are dethroned in an "icy" fashion, and Sue shows off her softer side.</info>
+</item>
+
+<item>
+<title>S1 EP9 Wheels</title>
+<link>https://od.lk/s/OTdfMzUzMjQ4OF8/Glee%20-%201x09%20-%20Wheels.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQ3Nl8/glee%201.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMjQ4Ml8/GLEE%201%20F.jpg</fanart>
+<genre>Comedy, Drama, Music</genre>
+<info>Wheels
+When Artie may not be able to travel to Regionals with the group, Will challenges the kids to experience life from a different point of view.</info>
+</item>
+
+<item>
+<title>S1 EP10 Ballad</title>
+<link>https://od.lk/s/OTdfMzUzMjQ5MV8/Glee%20-%201x10%20-%20Ballad.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQ3Nl8/glee%201.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMjQ4Ml8/GLEE%201%20F.jpg</fanart>
+<genre>Comedy, Drama, Music</genre>
+<info>Ballad
+Will splits up the Glee Club into pairs to sing ballads, but when one kid gets sick, Will is forced to step in and winds up in a sticky situation.</info>
+</item>
+
+<item>
+<title>S1 EP11 Hairography</title>
+<link>https://od.lk/s/OTdfMzUzMjQ5Ml8/Glee%20-%201x11%20-%20Hairography.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQ3Nl8/glee%201.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMjQ4Ml8/GLEE%201%20F.jpg</fanart>
+<genre>Comedy, Drama, Music</genre>
+<info>Hairography
+Concerned that Sue is up to no good, Will pays a visit to an instructor of a competing glee club to see what information she might be leaking.</info>
+</item>
+
+<item>
+<title>S1 EP12 Mattress</title>
+<link>https://od.lk/s/OTdfMzUzMjQ5M18/Glee%20-%201x12%20-%20Mattress.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQ3Nl8/glee%201.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMjQ4Ml8/GLEE%201%20F.jpg</fanart>
+<genre>Comedy, Drama, Music</genre>
+<info>Mattress
+When Glee Club is left out of the yearbook due to budget cuts, everyone's relieved that they won't have to suffer the ridicule of years past.</info>
+</item>
+
+<item>
+<title>S1 EP13 Sectionals</title>
+<link>https://od.lk/s/OTdfMzUzMjQ5NF8/Glee%20-%201x13%20-%20Sectionals.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQ3Nl8/glee%201.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMjQ4Ml8/GLEE%201%20F.jpg</fanart>
+<genre>Comedy, Drama, Music</genre>
+<info>Sectionals
+Sectionals is finally here for the Glee Club, but when Quinn's secret unravels, the club may not be able to recover in time to compete.</info>
+</item>
+
+<item>
+<title>S1 EP14 Hell-O</title>
+<link>https://od.lk/s/OTdfMzUzMjQ5Nl8/Glee%20-%201x14%20-%20Hell-O.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQ3Nl8/glee%201.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMjQ4Ml8/GLEE%201%20F.jpg</fanart>
+<genre>Comedy, Drama, Music</genre>
+<info>Hell-O
+With an extra spring in their step, Glee Club works on new numbers for Regionals, but their efforts are undermined by Rachel and Finn's romance.</info>
+</item>
+
+<item>
+<title>S1 EP15 The Power of Madonna</title>
+<link>https://od.lk/s/OTdfMzUzMjQ5OF8/Glee%20-%201x15%20-%20The%20Power%20of%20Madonna.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQ3Nl8/glee%201.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMjQ4Ml8/GLEE%201%20F.jpg</fanart>
+<genre>Comedy, Drama, Music</genre>
+<info>The Power of Madonna
+Concerned that the Glee Club girls are being bullied by the guys, Mr. Schuester challenges the kids to choose Madonna songs as their next assignment.</info>
+</item>
+
+<item>
+<title>S1 EP16 Home</title>
+<link>https://od.lk/s/OTdfMzUzMjUwMF8/Glee%20-%201x16%20-%20Home.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQ3Nl8/glee%201.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMjQ4Ml8/GLEE%201%20F.jpg</fanart>
+<genre>Comedy, Drama, Music</genre>
+<info>Home
+When Kurt sets his dad, Burt, up with an unexpected partner, his plan for a nuclear family may backfire.</info>
+</item>
+
+<item>
+<title>S1 EP17 Bad Reputation</title>
+<link>https://od.lk/s/OTdfMzUzMjUwNl8/Glee%20-%201x17%20-%20Bad%20Reputation.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQ3Nl8/glee%201.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMjQ4Ml8/GLEE%201%20F.jpg</fanart>
+<genre>Comedy, Drama, Music</genre>
+<info>Bad Reputation
+Will starts an investigation when a salacious list about members of the Glee Club circulates the halls of McKinley High.</info>
+</item>
+
+<item>
+<title>S1 EP18 Laryngitis</title>
+<link>https://od.lk/s/OTdfMzUzMjUwN18/Glee%20-%201x18%20-%20Laryngitis.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQ3Nl8/glee%201.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMjQ4Ml8/GLEE%201%20F.jpg</fanart>
+<genre>Comedy, Drama, Music</genre>
+<info>Laryngitis
+When a sore throat affects Rachel's singing voice, she goes into panic mode. Meanwhile, Kurt tries to change his persona to impress his father.</info>
+</item>
+
+<item>
+<title>S1 EP19 Dream On</title>
+<link>https://od.lk/s/OTdfMzUzMjUwOF8/Glee%20-%201x19%20-%20Dream%20On.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQ3Nl8/glee%201.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMjQ4Ml8/GLEE%201%20F.jpg</fanart>
+<genre>Comedy, Drama, Music</genre>
+<info>Dream On
+Will's former high school nemesis, Bryan Ryan, causes trouble for Glee Club. Rachel struggles with a life-long personal issue.</info>
+</item>
+
+<item>
+<title>S1 EP20 Theatricality</title>
+<link>https://od.lk/s/OTdfMzUzMjUwOV8/Glee%20-%201x20%20-%20Theatricality.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQ3Nl8/glee%201.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMjQ4Ml8/GLEE%201%20F.jpg</fanart>
+<genre>Comedy, Drama, Music</genre>
+<info>Theatricality
+Will encourages the Glee Club to express themselves using the music of Lady Gaga. Meanwhile, Tina embraces her inner Goth.</info>
+</item>
+
+<item>
+<title>S1 EP21 Funk</title>
+<link>https://od.lk/s/OTdfMzUzMjUxMF8/Glee%20-%201x21%20-%20Funk.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQ3Nl8/glee%201.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMjQ4Ml8/GLEE%201%20F.jpg</fanart>
+<genre>Comedy, Drama, Music</genre>
+<info>Funk
+Glee Club gets some bad news. Meanwhile, Mercedes helps Quinn connect with her funky side, and Will gets revenge on Sue.</info>
+</item>
+
+<item>
+<title>S1 EP22 Journey to Regionals</title>
+<link>https://od.lk/s/OTdfMzUzMjUxMV8/Glee%20-%201x22%20-%20Journey.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjQ3Nl8/glee%201.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMjQ4Ml8/GLEE%201%20F.jpg</fanart>
+<genre>Comedy, Drama, Music</genre>
+<info>Journey to Regionals
+When Regionals finally arrive, Sue pulls a fast one on the Glee Club, and their chances at the title could be compromised.</info>
+</item>

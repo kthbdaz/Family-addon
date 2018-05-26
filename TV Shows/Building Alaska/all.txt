@@ -1,0 +1,212 @@
+<item>
+<title>S4 EP3 Rock.Around.the.Build</title>
+<link>https://od.lk/s/OTdfMzQzMDE1MV8/BA.S04E03.Rock.Around.the.Build.PDTVx264-JIVE.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQzMDU5M18/BA..jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQzMDU5NF8/BA.%20f.jpg</fanart>
+<info>Rock.Around.the.Build</info>
+</item>
+
+<item>
+<title>S5 EP3 Bump.Outs.and.Burls</title>
+<link>https://od.lk/s/OTdfMzQzMDI4OV8/BA.S05E03.Bump.Outs.and.Burls.PDTVx264-JIVE.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQzMDU5M18/BA..jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQzMDU5NF8/BA.%20f.jpg</fanart>
+<info>Bump.Outs.and.Burls</info>
+</item>
+
+<item>
+<title>S5 EP5 Location.Location.Location</title>
+<link>https://od.lk/s/OTdfMzQzMDIwNV8/BA.S05E05.Location.Location.Location.PDTVx264-JIVE.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQzMDU5M18/BA..jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQzMDU5NF8/BA.%20f.jpg</fanart>
+<info>Location.Location.Location</info>
+</item>
+
+<item>
+<title>S5 EP6 Whackin.and.Stackin</title>
+<link>https://od.lk/s/OTdfMzQzMDI5M18/Building.Alaska.S05E06.Whackin.and.Stackin.PDTV.x264-JIVE.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQzMDU5M18/BA..jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQzMDU5NF8/BA.%20f.jpg</fanart>
+<info>Whackin.and.Stackin</info>
+</item>
+
+<item>
+<title>S5 EP7 Plywood.Dont.Lie</title>
+<link>https://od.lk/s/OTdfMzQzMDIyNF8/BA.S05E07.Plywood.Dont.Lie.PDTVx264-JIVE.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQzMDU5M18/BA..jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQzMDU5NF8/BA.%20f.jpg</fanart>
+<info>Plywood.Dont.Lie</info>
+</item>
+
+<item>
+<title>S5 EP10 Alaskan.Mobile.Home</title>
+<link>https://od.lk/s/OTdfMzQzMDIzMF8/BA.S05E10.Alaskan.Mobile.Home.PDTVx264-JIVE.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQzMDU5M18/BA..jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQzMDU5NF8/BA.%20f.jpg</fanart>
+<info>Alaskan.Mobile.Home</info>
+</item>
+
+<item>
+<title>S3 EP7</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S3 EP8</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S3 EP9</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S3 EP10</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S3 EP11</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S3 EP12</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S3 EP13</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S3 EP14</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S3 EP15</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S3 EP16</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>S3 EP17</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S3 EP18</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S3 EP19</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>S3 EP20</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S3 EP21</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S3 EP22</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>S3 EP23</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S3 EP24</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S3 EP25</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S3 EP26</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S3 EP27</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>

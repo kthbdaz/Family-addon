@@ -1,0 +1,55 @@
+﻿
+
+
+
+
+
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+<channel>
+<name>Season 1</name>
+<thumbnail>https://od.lk/s/OTdfMzQzODczMF8/S1.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQzODczMl8/S1.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQzODczMV8/F.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>Season 2</name>
+<thumbnail>https://od.lk/s/OTdfMzQzODczN18/S2.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQzODczM18/S2.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQzODczMV8/F.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>Season 3</name>
+<thumbnail>https://od.lk/s/OTdfMzQzODczNl8/S3.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQzODczNF8/S3.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQzODczMV8/F.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>Season 4</name>
+<thumbnail>https://od.lk/s/OTdfMzQzODczOF8/S4.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQzODczNV8/S4.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQzODczMV8/F.jpg</fanart>
+<info></info>
+</channel>
+
+</channels>
+
+
+
+
+
+
+
+
+
+
+
+

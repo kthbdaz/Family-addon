@@ -1,0 +1,48 @@
+<item>
+<title>starwars the force awakens</title>
+<link>https://www.dropbox.com/s/v8vosiu2hrgaoxa/starwars%20the%20force%20awakens.mp4?dl=1</link>
+<thumbnail>https://od.lk/d/OTdfMzE2MjE2NV8/star-wars-force-awakens.jpg</thumbnail>
+<fanart>https://od.lk/d/OTdfMzE2MjE2Nl8/star-wars-the-force-awakens.png</fanart>
+</item>
+
+<item>
+<title>Star.Wars 1.The.Phantom.Menace.1999</title>
+<link>https://od.lk/d/OTdfMzE2MDM3N18/Star.Wars.Episode.1.The.Phantom.Menace.1999.1080p.BrRip.x264.BOKUTOX.YIFY.mp4</link>
+<thumbnail>https://od.lk/d/OTdfMzE2MjE2Ml8/Star.Wars.The.Phantom.Menace.jpg</thumbnail>
+<fanart>https://od.lk/d/OTdfMzE2MjE2M18/Star_Wars-_The_Phantom_Menace_Wallpaper.jpg</fanart>
+</item>
+
+<item>
+<title>Star Wars 2 Attack of the Clones</title>
+<link>https://www.dropbox.com/s/ma2u7p41fb39hx6/Star%20Wars%20Episode%20II%20Attack%20of%20the%20Clones.avi?dl=1</link>
+<thumbnail>https://od.lk/d/OTdfMzE2MjE2MV8/Star%20Wars%20Episode%20II%20Attack%20of%20the%20Clones.jpg</thumbnail>
+<fanart>https://od.lk/d/OTdfMzE2MjE2NF8/Star-Wars-Episode-II-Attack-of-the-Clones.jpg</fanart>
+</item>
+
+<item>
+<title>Star.Wars 3.Revenge.of.the.Sith.2005</title>
+<link>https://od.lk/d/OTdfMzE2MDM1NV8/Star.Wars.Episode.3.Revenge.of.the.Sith.2005.1080p.BrRip.x264.BOKUTOX.YIFY.mp4</link>
+<thumbnail>https://od.lk/d/OTdfMzE2MjE2OF8/sw%20Revenge.of.the.Sith.2005.jpeg</thumbnail>
+<fanart>https://od.lk/d/OTdfMzE2MjE2N18/sw%20Revenge.of.the.Sith.2005..jpg</fanart>
+</item>
+
+<item>
+<title>Star.Wars 4.A.New.Hope.1977</title>
+<link>https://od.lk/d/OTdfMzE2MDMzNl8/Star.Wars.Episode.4.A.New.Hope.1977.1080p.BrRip.x264.BOKUTOX.YIFY.mp4</link>
+<thumbnail>https://od.lk/d/OTdfMzE2MjE3MV8/A.New.Hope.1977.png</thumbnail>
+<fanart>https://od.lk/d/OTdfMzE2MjE3MF8/A.New.Hope.1977..jpg</fanart>
+</item>
+
+<item>
+<title>Star.Wars 5.The.Empire.Strikes.Back.1980</title>
+<link>https://od.lk/d/OTdfMzE2MDMxNF8/Star.Wars.Episode.5.The.Empire.Strikes.Back.1980.1080p.BrRip.x264.BOKUTOX.YIFY.mp4</link>
+<thumbnail>https://od.lk/d/OTdfMzE2MjE2OV8/The.Empire.Strikes.Back.1980.jpg</thumbnail>
+<fanart>https://od.lk/d/OTdfMzE2MjE3Ml8/empirestrikesback2.jpg</fanart>
+</item>
+
+<item>
+<title>Star.Wars.Episode.6.Return.of.the.Jedi.1983</title>
+<link>https://od.lk/d/OTdfMzE2MDMwOV8/Star.Wars.Episode.6.Return.of.the.Jedi.1983.1080p.BrRip.x264.BOKUTOX.YIFY.mp4</link>
+<thumbnail>https://od.lk/d/OTdfMzE2MjE2MF8/Return.of.the.Jedi.1983.jpg</thumbnail>
+<fanart>https://od.lk/d/OTdfMzE2MjE1OV8/Return.of.the.Jedi.1983..jpg</fanart>
+</item>

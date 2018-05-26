@@ -1,0 +1,234 @@
+<item>
+<title>Ghost in the Shell Official Trailer (2017)</title>
+<utube>G4VmJcZR0Yg</utube>
+<thumbnail>https://od.lk/s/OTdfMzQ0NDE2Ml8/Ghost%20in%20the%20Shell.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0NDE2MV8/Ghost%20in%20the%20Shell%20f.jpg</fanart>
+<info>Based on the internationally-acclaimed sci-fi property, "GHOST IN THE SHELL" follows the Major, a special ops, one-of-a-kind human-cyborg hybrid, who leads the elite task force Section 9. Devoted to stopping the most dangerous criminals and extremists, Section 9 is faced with an enemy whose singular goal is to wipe out Hanka Robotic's advancements in cyber technology.</info>
+</item>
+
+<item>
+<title>Power Rangers Official Trailer (2017)</title>
+<utube>6CKtFztnJ9M</utube>
+<thumbnail>https://od.lk/s/OTdfMzQ0NDE2NV8/Power%20Rangers.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0NDE2NF8/Power%20Rangers%20f.jpg</fanart>
+<info>A group of high-school kids, who are infused with unique superpowers, harness their abilities in order to save the world.</info>
+</item>
+
+<item>
+<title>Beauty and the Beast Official Trailer (2017) </title>
+<utube>SqQvZ_VUtg8</utube>
+<thumbnail>https://od.lk/s/OTdfMzQ0NDE3MF8/Beauty%20and%20the%20Beast.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0NDE2OV8/Beauty%20and%20the%20Beast%20f.jpg</fanart>
+<info>An adaptation of the Disney fairy-tale about a monstrous prince and a young woman who fall in love.</info>
+</item>
+
+<item>
+<title>Before I Fall Official Trailer (2017)</title>
+<utube>q3Zyy4ZXegE</utube>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>What if you had only one day to change absolutely everything? Samantha Kingston has it all: the perfect friends, the perfect guy, and a seemingly perfect future. Then, everything changes. After one fateful night, Sam wakes up with no future at all. Trapped reliving the same day over and over she begins to question just how perfect her life really was. And as she begins to untangle the mystery of a life suddenly derailed, she must also unwind the secrets of the people closest to her, and discover the power of a single day to make a difference, not just in her own life, but in the lives of those around her - before she runs out of time for good.</info>
+</item>
+
+<item>
+<title>Wonder Woman Official Trailer (2017)</title>
+<utube>5HUlW21v1fQ</utube>
+<thumbnail>https://od.lk/s/OTdfMzQ0NDE2Nl8/Wonder%20Woman.jpg</thumbnail>
+<fanart></fanart>
+<info>Before she was Wonder Woman, she was Diana, princess of the Amazons, trained to be an unconquerable warrior. Raised on a sheltered island paradise, when an American pilot crashes on their shores and tells of a massive conflict raging in the outside world, Diana leaves her home, convinced she can stop the threat. Fighting alongside man in a war to end all wars, Diana will discover her full powers and her true destiny.</info>
+</item>
+
+<item>
+<title>Fifty Shades Darker Official Trailer 1 (2017)</title>
+<utube>taSLRLXDSiw</utube>
+<thumbnail>https://od.lk/s/OTdfMzQ0NDE2MF8/Fifty%20Shades%20Darker.jpg</thumbnail>
+<fanart></fanart>
+<info>While Christian wrestles with his inner demons, Anastasia must confront the anger and envy of the women who came before her.</info>
+</item>
+
+<item>
+<title>LOGAN Red Band Trailer (2017)</title>
+<utube>wWcXXxVZF2A</utube>
+<thumbnail>https://od.lk/s/OTdfMzQ0NDE2M18/LOGAN.jpg</thumbnail>
+<fanart></fanart>
+<info>Set in the future, Logan and Professor Charles Xavier must cope with the loss of the X-Men when a corporation led by Nathaniel Essex is destroying the world leaving it to destruction, with Logan's healing abilities slowly fading away and Xavier's Alzheimer's forcing him to forget. Logan must defeat Nathaniel Essex with the help of a young girl named Laura Kinney, a female clone of Wolverine. </info>
+</item>
+
+<item>
+<title>xXx: The Return of Xander Cage Official Trailer (2017)</title>
+<utube>MQEFmHsseaU</utube>
+<thumbnail>https://od.lk/s/OTdfMzQ0NDE2OF8/xXx%20The%20Return%20of%20Xander%20Cage.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0NDE2N18/xXx%20The%20Return%20of%20Xander%20Cage%20f.jpg</fanart>
+<info>Extreme athlete turned government operative Xander Cage (Vin Diesel) comes out of self-imposed exile, thought to be long dead, and is set on a collision course with deadly alpha warrior Xiang (Donnie Yen) and his team in a race to recover a sinister and seemingly unstoppable weapon known as Pandora's Box. Recruiting an all-new group of thrill-seeking cohorts, Xander finds himself enmeshed in a deadly conspiracy that points to collusion at the highest levels of world governments.</info>
+</item>
+
+<item>
+<title>Fullmetal Alchemist Live-Action Official Teaser Trailer #1 (2017) </title>
+<utube>azPVumixZuE</utube>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Underworld: Blood Wars Official Trailer - "Blood" (2017) </title>
+<utube>Y74du0Ex_g</utube>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>Resident Evil: The Final Chapter Official Trailer (2017)</title>
+<utube>hfby7XwoBl0</utube>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Pirates of the Caribbean: Dead Men Tell No Tales Trailer (2017) </title>
+<utube>6i77T6KzYxM</utube>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>Guardians of the Galaxy Vol. 2 Official Trailer (2017)</title>
+<utube>wX0aiMVvnvg</utube>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>TRANSFORMERS: THE LAST KNIGHT - IMAX Trailer (2017) </title>
+<utube>JmGm0VHL__M</utube>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>Annabelle 2 Official Trailer (2017) </title>
+<utube>zTlwd6uqdJs</utube>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>The Conjuring 3 | Trailer [HD] | 2017</title>
+<utube>vxR3RGX56-A</utube>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Avatar 2 Movie Official Trailer</title>
+<utube>kpwVSWcuOUA</utube>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>Thor 3 Ragnarok Official Trailer 2017</title>
+<utube>XHsk61bADbY</utube>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>Fast8 (2017) Official Theatrical Trailer HD</title>
+<utube>7_1tTj6Gi_Y</utube>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>Avengers 3:Infinity War Part One Official Trailer</title>
+<utube>P6TEsF8wC4k</utube>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>Child's Play 7 - Official Trailer #1 (2017) </title>
+<utube>UnlaNmA2kcI</utube>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title></title>
+<utube></utube>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title></title>
+<utube></utube>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title></title>
+<utube></utube>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title></title>
+<utube></utube>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title></title>
+<utube></utube>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title></title>
+<utube></utube>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title></title>
+<utube></utube>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title></title>
+<utube></utube>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title></title>
+<utube></utube>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>

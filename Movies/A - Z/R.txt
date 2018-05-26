@@ -1,0 +1,360 @@
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>RocknRolla (2008)</title>
+<link>https://od.lk/s/OTdfNTM1ODQ1Nl8/Rock_n_Rolla.mp4</link>
+<thumbnail>https://od.lk/s/OTdfNTMzNzY0OF8/RocknRolla%20%282008%29.jpg</thumbnail>
+<fanart></fanart>
+<genre>Action | Crime | Thriller</genre>
+<info>Lenny Cole, a London mob boss, puts the bite on all local real estate transactions. For substantial fees, he's helping Uri Omovich, a Russian developer. As a sign of good faith, Omovich loans Cole a valuable painting, promptly stolen off Cole's wall. While Cole's men, led by the dependable Archie, look for the canvas, three local petty criminals, the Wild Bunch, steal money from the Russian using inside information from his accountant, the lovely Stella. Meanwhile, a local drug-addled rocker, Johnny Quid, is reported drowned, and his connection to Cole is the key to unraveling the deceits and double crosses of life in the underworld.</info>
+</item>
+
+<item>
+<title>Rings (2017)</title>
+<link>https://od.lk/s/OTdfNDYxMTEwMF8/Rings.2017.mp4</link>
+<thumbnail>https://od.lk/s/OTdfNDYxMjA1NV8/Rings%20%282017%29.jpg</thumbnail>
+<fanart></fanart>
+<genre> Drama, Horror </genre>
+<info>Julia becomes worried about her boyfriend, Holt, when he explores the dark urban legend of a mysterious video said to kill the watcher seven days after viewing. She sacrifices herself to save her boyfriend and in doing so makes a horrifying discovery: there is a "movie within the movie" that no one has ever seen before.</info>
+</item>
+
+<item>
+<title>Rogue One (2016)</title>
+<link>https://od.lk/s/OTdfMzUyNzI1NV8/Rogue%20One%20A%20Star%20Wars%20Story%202016.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUyNzI1MV8/icon.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUyNzI1M18/fanart.jpg</fanart>
+<genre>Action, Adventure, Sci-Fi</genre>
+<info>All looks lost for the Rebellion against the Empire as they learn of the existence of a new super weapon, the Death Star. Once a possible weakness in its construction is uncovered, the Rebel Alliance must set out on a desperate mission to steal the plans for the Death Star. The future of the entire galaxy now rests upon its success. </info>
+</item>
+
+<item>
+<title>Robo Dog Airborne.2017</title>
+<link>https://od.lk/s/OTdfMzY0NTQwMF8/Robo%20Dog%20Airborne.2017.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzY0NTM4OF8/icon.jpg</thumbnail>
+<fanart></fanart>
+<genre>Family</genre>
+<info>After an accident causes Robo-Dog to get lost and lose his memory, he is taken in by a new family. Tyler enlists the help of Barry as they scour the town in search of their missing robotic best friend.</info>
+</item>
+
+<item>
+<title>Resident Evil The Final Chapter (2017)</title>
+<link>https://od.lk/s/OTdfMzY0NTA5NF8/Resident.Evil.The.Final.Chapter.2017.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzY0NTEwNV8/icon.jpg</thumbnail>
+<fanart></fanart>
+<genre> Action, Horror, Sci-Fi</genre>
+<info>Picking up immediately after the events in Resident Evil: Retribution, Alice (Milla Jovovich) is the only survivor of what was meant to be humanity's final stand against the undead. Now, she must return to where the nightmare began - The Hive in Raccoon City, where the Umbrella Corporation is gathering its forces for a final strike against the only remaining survivors of the apocalypse.</info>
+</item>
+
+<item>
+<title>Rising Fear 2016</title>
+<link>https://od.lk/s/OTdfMzU4OTM2OV8/Rising.Fear.2016.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzU4OTM3Nl8/Rising%20Fear%20%282016%29.jpg</thumbnail>
+<fanart></fanart>
+<genre>Action</genre>
+<info>When a former marine is framed for a deadly terrorist bombing, he must track down the mastermind behind the plot. But soon he discovers an even deadlier conspiracy that threatens the nation. One that will force him to choose between the freedom of millions, and his own survival.</info>
+</item>
+
+<item>
+<title>Rules Don't Apply 2017</title>
+<link>https://od.lk/s/OTdfMzU3NjIzMF8/Rules%20Don%27t%20Apply%202016.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3NjU4OV8/Rules%20Don%27t%20Apply%202017.jpg</thumbnail>
+<fanart></fanart>
+<genre> Comedy, Drama, Romance </genre>
+<info>An aspiring young actress (Lily Collins) and her ambitious young driver (Alden Ehrenreich) struggle hopefully with the absurd eccentricities of the wildly unpredictable billionaire, Howard Hughes, (Warren Beatty) for whom they work. It's Hollywood, 1958. Small town beauty queen, songwriter, and devout Baptist virgin Marla Mabrey (Collins), under contract to the infamous Howard Hughes (Beatty), arrives in Los Angeles. At the airport, she meets her driver Frank Forbes (Ehrenreich), who is engaged to be married to his 7th grade sweetheart and is a deeply religious Methodist. Their instant attraction not only puts their religious convictions to the test, but also defies Hughes' #1 rule: no employee is allowed to have any relationship whatsoever with a contract actress. Hughes' behavior intersects with Marla and Frank in very separate and unexpected ways, and as they are drawn deeper into his bizarre world, their values are challenged and their lives are changed. </info>
+</item>
+
+<item>
+<title>Running Wild (2017)</title>
+<link>https://od.lk/s/OTdfMzU3MzUwNl8/Running.Wild.2017.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MzY5Ml8/Running%20Wild%20%282017%29.jpg</thumbnail>
+<fanart></fanart>
+<genre> Drama</genre>
+<info>Running Wild is about Stella Davis, a widow who saves her ranch by working with convicts to rehabilitate a herd of wild horses that wandered on to her property. Stella must fight prejudice, greed, bureaucracy and vanity (including her own) to finally understand that there is no better remedy to misfortune than helping another living creature.</info>
+</item>
+
+<item>
+<title>Red.Billabong.2016</title>
+<link>https://od.lk/s/OTdfMzUzMTcyNV8/Red.Billabong.2016.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMTczMV8/Red.Billabong.2016.jpg</thumbnail>
+<fanart></fanart>
+<genre>Action, Adventure, Thriller</genre>
+<info>In the Australian Outback, two brothers discover old secrets and family lies. As their friends start to go missing they fear they are being stalked by someone or something from their worst nightmares - But is it just - A story? A legend? A hoax? Or is it real?</info>
+</item>
+
+<item>
+<title>Rubber.2010</title>
+<link>https://od.lk/s/OTdfMzUzNjE0MV8/Rubber.2010.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNjE4N18/Rubber.2010.jpg</thumbnail>
+<fanart></fanart>
+<genre>Comedy, Fantasy, Horror</genre>
+<info>As film spectators watch, a killer car tire comes to life in a desert dump site. Flexing its... rubber... and ready to roll, it soon discovers its telekinetic ability to make small animals and people's heads explode. Lt. Chad hopes to end this movie by fatally poisoning every last spectators, but failing that, the show must go on, and the tire goes on a three-day rampage. With few left alive, a lure is constructed to draw the tire from its motel room, where hopes are to end it and this movie once and for all.</info>
+</item>
+
+<item>
+<title>Riot 2015</title>
+<link>https://od.lk/s/OTdfMzUzMzUzOF8/Riot.2015.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUzNTQzOF8/Riot.2015.jpg</thumbnail>
+<fanart></fanart>
+<genre>Action</genre>
+<info>Copper Jack Stone purposefully orchestrates a bank robbery in order to be thrown into prison with the notorious Russian kingpin Balam. Balam is more than just a mob criminal; he's a very cunning and dangerous lord who controls the police force from behind bars. Balam lives in prison as a cover for his real power, which is King of the city. His cell is a lavish private room built specifically for him, inaccessible to most in the depths of the prison structure. Even the warden fears venturing into his area of the prison. However, even surrounded by his loyal henchmen and guards in his sectioned off fortress, Balam doesn't know Jack is coming for him to avenge his family, who Balam murdered in cold blood. Balam is tough... but Jack is tougher.</info>
+</item>
+
+<item>
+<title>Requiem.for.a.Vampire.1971</title>
+<link>https://od.lk/s/OTdfMzQ1Mjk1N18/Requiem.for.a.Vampire.1971.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQ1Mjk5OV8/Requiem.for.a.Vampire.1971.jpg</thumbnail>
+<fanart></fanart>
+<info>Rating:R
+Genre: Art House & International , Horror 
+Directed By:Jean Rollin 
+On DVD:Aug 3, 1999 
+Runtime: 95 minutes
+
+This fourth feature from cult horror director Jean Rollin begins with two girls dressed as clowns making a mad getaway from a reform school. The girls end up in the clutches of "The Last Vampire," a somewhat pathetic creature seeking to reproduce his race. Marie-Pierre Castel and Mireille d'Argent are the damsels in distress. Tthis film is probably the closest Rollin came to straight horror. ~ Robert Firsching, Rovi</info>
+</item>
+
+<item>
+<title>Rogue One A Star Wars Story 2016 [cam]</title>
+<link>https://od.lk/s/OTdfMzUyNzI1NV8/Rogue%20One%20A%20Star%20Wars%20Story%202016.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzUyNzI1MV8/Rogue-One-A-Star-Wars-Story-2017.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUyNzI1M18/Rogue%20One%20A%20Star%20Wars%20Story%202016%20f.jpg</fanart>
+<genre> Action, Adventure, Sci-Fi</genre>
+<info>Jyn Erso, a Rebellion soldier and criminal, is about to experience her biggest challenge yet when Mon Mothma sets her out on a mission to steal the plans for the Death Star. With help from the Rebels, a master swordsman, and non-allied forces, Jyn will be in for something bigger than she thinks.</info>
+</item>
+
+<item>
+<title>Rupture.2016</title>
+<link>https://od.lk/s/OTdfMzQ0MTk0NF8/Rupture.2016.HDRip.XViD-ETRG.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzQ0MTk1MF8/Rupture.2016.jpg</thumbnail>
+<fanart></fanart>
+<info>A single mom tries to break free from a mysterious organization that has abducted her.</info>
+</item>
+
+<item>
+<title>Reparation.2016</title>
+<link>https://od.lk/s/OTdfMzQ0MjMzN18/Reparation.2016.HDRip.XviD.AC3-EVO.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzQ0MjM0OF8/Reparation.2016.jpg</thumbnail>
+<fanart></fanart>
+<info>Reparation is the story of a troubled veteran who finds clues to his buried memories in his daughter's art, while confronted by a figure from his past looking for answers of his own. Bob Stevens (Marc Menchaca) struggles with a three-year hole in his memory. And when a mysterious stranger (Jon Huertas) comes to town claiming to have been his best friend from the Air Force Police, Bob's peaceful existence rapidly unravels. His entire family is caught in the storm, but none more than his eight year-old daughter who discovers she has inherited her father's missing years... stowaways on her DNA. The past is now.</info>
+</item>
+
+<item>
+<title>Rainbow.Time.2016</title>
+<link>https://od.lk/s/OTdfMzQ0MjM2MF8/Rainbow.Time.2016.HDRip.XviD.AC3-EVO.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzQ0MjM2NF8/Rainbow.Time.2016.jpg</thumbnail>
+<fanart></fanart>
+<info>Comedy, Drama
+A developmentally delayed 40 year old man named Shonzi is sent to live with his brother Todd. But when Shonzi develops a crush on Todd's new girlfriend Lindsay, he threatens to reveal past secrets that could ultimately tear the couple apart.</info>
+</item>
+
+<item>
+<title>Returned.2016</title>
+<link>https://od.lk/s/OTdfMzQ0MjM2NV8/Returned.2016.HDRip.XviD.AC3-EVO.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzQ0MjM2OF8/Returned.2016.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Rebirth.2016<item>
+<link>https://www.dropbox.com/s/8u1xag72xu4gqy0/Rebirth.2016.avi?dl=1</link>
+<thumbnail>https://www.dropbox.com/s/zvkshg97sffakxw/Rebirth.md.jpg?dl=1</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>Reckless 2016 </title>
+<link>https://www.dropbox.com/s/nq0vwzruuyi9utk/Reckless%202016%20.mkv?dl=1</link>
+<thumbnail>https://od.lk/s/OTdfMzI5NDk4Nl8/Reckless.jpg</thumbnail>
+<fanart></fanart>
+<info>A modern day Bonnie and Clyde story. Two millennials in a dark era of their lives throw caution to the wind and feel the experience of truly being alive. </info
+</item>
+
+<item>
+<title>Ratchet.and.Clank.2016</title>
+<link>https://od.lk/d/OTdfMzE1OTU3Ml8/Ratchet.and.Clank.2016.1080p.BluRay.H264.AAC-RARBG.mp4</link>
+<thumbnail>https://od.lk/d/OTdfMzE1OTgwOF8/Ratchet-and-Clank-2015.jpg</thumbnail>
+<fanart>https://od.lk/d/OTdfMzE1OTgwN18/Ratchet-and-Clank.jpg</fanart>
+<info>Ratchet and Clank tells the story of two unlikely heroes as they struggle to stop a vile alien named Chairman Drek from destroying every planet in the Solana Galaxy. When the two stumble upon a dangerous weapon capable of destroying entire planets, they must join forces with a team of colorful heroes called The Galactic Rangers in order to save the galaxy. Along the way they'll learn about heroism, friendship, and the importance of discovering one's own identity</info>
+</item>
+
+<item>
+<title>Race 2016</title>
+<link>https://www.dropbox.com/s/cihmuxdnkrxba10/Race.2016.720p.mkv?dl=1</link>
+<thumbnail>https://www.dropbox.com/s/9uedxet5eoui0q1/race.png?dl=1</thumbnail>
+<fanart>https://www.dropbox.com/s/l6ostq5n0dy6bxg/race.jpg?dl=1</fanart>
+<info>In the 1930s, Jesse Owens is a young man who is the first in his family to go to college. Going to Ohio State to train under its track and field coach, Larry Snyder, the young African American athlete quickly impresses with his tremendous potential that suggests Olympic material. However, as Owens struggles both with the obligations of his life and the virulent racism against him, the question of whether America would compete at all at the 1936 Olympics in Nazi Germany is being debated vigorously. When American envoy, Avery Brundage, finds a compromise personally persuasive and tolerable enough with the Third Reich to avert a boycott, Owens has his own moral struggle on whether to go. Upon resolving that issue, Owens and his coach travel to Berlin to participate in a competition that would mark Owens as the greatest of the American Olympians even as the German film director, Leni Riefenstahl, locks horns with her country's Propaganda Minister, Josef Goebbels, to film the politically </info>
+</item>
+
+<item>
+<title>Race.to.Redemption.2016</title>
+<link>https://od.lk/d/OTdfMzE1Nzc1N18/Race.to.Redemption.2016.1080p.BluRay.H264.AAC-RARBG.mp4</link>
+<thumbnail>https://od.lk/d/OTdfMzA4NTE0MV8/race-to-redemption-2016.jpg</thumbnail>
+<fanart>https://od.lk/d/OTdfMzA4NTE1NV8/race%20to%20redemtion.png</fanart>
+<info>After losing her father, a young women must find the strength to face her fears and compete in the race of her life or her family will lose everything.</info>
+</item>
+
+<item>
+<title>Rampage.President.Down.2016</title>
+<link>https://od.lk/s/OTdfMzM5Nzk2OF8/Rampage.President.Down.2016.1080p.BluRay.H264.AAC-RARBG.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQwMDkxMl8/Rampage%20%20President%20Down.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQwMzA0MV8/Rampage.President.Down.2016.jpg</fanart>
+<info>Bill Williamson is back, alive and well and doing a recon mission around D.C. This time he wants to cause a major population disruption within the USA which result in devastating consequences reverberating throughout the world. His new mission this time to bring down The President of the United States and his Secret Service detail. Bill brings with him all the freak-in havoc and acidity of the previous 2 movies.</info>
+</item>
+
+<item>
+<title>Reclusion.2016</title>
+<link>https://od.lk/s/OTdfMzQyMjA4M18/Reclusion.2016.720p.BluRay.H264.AAC-RARBG.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQyMjE2M18/Reclusion.jpg</thumbnail>
+<fanart></fanart>
+<info>A young couple awakens a terrible force when they attempt to socialize their reclusive neighbor. </info>
+</item>
+
+<item>
+<title>Robinson.Crusoe.2016.</title>
+<link>https://od.lk/s/OTdfMzQzODEwNF8/Robinson.Crusoe.2016.720p.BluRay.X264-AMIABLE%5BEtHD%5D.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQ0MDI1OF8/Robinson-Crusoe-2016.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0MDI2MF8/robinson-crusoe%20F.jpg</fanart>
+<info>On a tiny exotic island, Tuesday, an outgoing parrot lives with his quirky animal friends in paradise. However, Tuesday can't stop dreaming about discovering the world. After a violent storm, Tuesday and his friends wake up to find a strange creature on the beach: Robinson Crusoe. Tuesday immediately views Crusoe as his ticket off the island to explore new lands. Likewise, Crusoe soon realizes that the key to surviving on the island is through the help of Tuesday and the other animals. It isn't always easy at first, as the animals don't speak "human." Slowly but surely, they all start living together in harmony, until one day, when their comfortable life is overturned by two savage cats, who wish to take control of the island. A battle ensues between the cats and the group of friends but Crusoe and the animals soon discover the true power of friendship up against all odds (even savage cats).</info>
+</item>
+
+<item>
+<title>ride along 2 2016</title>
+<link>https://www.dropbox.com/s/eml2x9bvsie8ze5/Ride.Along.2.2016.1080p.BluRay.H264.AAC-RARBG.mp4?dl=1</link>
+<thumbnail>https://www.dropbox.com/s/1hqnblnzhzuz9fu/ride%20along%202.png?dl=1</thumbnail>
+<fanart>https://www.dropbox.com/s/mabf0oocm285h1h/ride%20along%202.jpg?dl=1</fanart>
+<info></info>
+</item>
+
+<item>
+<title>Recovery.2016</title>
+<link>https://od.lk/s/OTdfMzQzOTEwNF8/Recovery.2016.720p.WEB-DL.750MB.ShAaNiG.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQzOTIyM18/Recovery.2016.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQzOTIyNF8/Recovery.2016%20f.jpg</fanart>
+<info>The night before their high school graduation, Jessie and her friends are guided by a 'Find My iPhone' app to recover her lost device from a house whose demented tenants are hell bent on making her a flesh and blood member of the family.</info>
+</item>
+
+<item>
+<title>Risen 2016</title>
+<link>https://www.dropbox.com/s/i7488we2d3uit1i/Risen%20%282016%29%201080p%20BluRay%20x265%20HEVC%20SUJAIDR.mkv?dl=1</link>
+<thumbnail>https://www.dropbox.com/s/4gg0i2u8fini67i/risen%202016.png?dl=1</thumbnail>
+<fanart>https://www.dropbox.com/s/jqko8whbn33m2n9/risen%202016.jpg?dl=1</fanart>
+<info>In 33 AD, a Roman Tribune in Judea is tasked to find the missing body of an executed Jew rumored to have risen from the dead.</info>
+</item>
+
+<item>
+<title>Razors The Return of Jack the Ripper.2016</title>
+<link>https://od.lk/s/OTdfMzQzMjY5Nl8/Razors%20The%20Return%20of%20Jack%20the%20Ripper.2016.HDRip.XviD.AC3-EVO.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzQzNDE3OV8/Razors.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQzNDE4NV8/Razors%20f.jpg</fanart>
+<info>The first installment in an exciting new horror franchise. A young writer believes she has discovered the holly grail of terror, the knives used by Jack the Ripper for his notorious murders. Attending an intensive workshop in a haunted Victorian warehouse, run by the mysterious screen-writing guru Richard Wise she and five colleagues aim to write the ultimate horror film. But when the knives go missing the writers are plunged into a world of terror. Who is the little girl in the Victorian dress who haunts their dreams? and who is killing them one by one? Is it Ruth avenging womankind for the appalling Ripper murders or one of the other students trying to make their story come out on top, or is it the spirit of Jack, slowly re-assembling himself and becoming stronger with each new murder. As the warehouse become transformed through sound and light into the Whitechapel of the 1880's the writers must solve the mystery....or the next death scene they write may be their own. </info>
+</item>
+
+<item>
+<title>River.2015</title>
+<link>https://od.lk/s/OTdfMzIwNzgwOF8/River.2015.1080p.BluRay.H264.AAC-RARBG.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzIxNjQ5OV8/River.2015.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzM1OTM0OV8/River.2015..jpg</fanart>
+<info>A medical practitioner gets himself involved in a crime which happens in a unexpected way. Filled full of guilt, he tries to escape from the cops of Thailand but finally gets captured for a while, then gets a approached to go back to his own country</info>
+</item>
+
+<item>
+<title>Ratter.2015</title>
+<link>https://www.dropbox.com/s/dw2ceuayvoqykgj/Ratter.2015.1080p.BluRay.H264.AAC-RARBG.mp4?dl=1</link>
+<thumbnail>https://www.dropbox.com/s/415iz93b0eakrme/Ratter.2015.png?dl=1</thumbnail>
+<fanart>https://www.dropbox.com/s/aps01i3zobm5rkw/Ratter.2015.jpg?dl=1</fanart>
+<info>Emma, a graduate student living alone in NYC, is being watched by a stalker who hacks into the technology that surrounds her - laptop, cell phone, and other web connected devices. This obsession continues to grow as the hacker records Emma's most intimate moments. When the thrill of watching isn't enough, the situation escalates to a dangerous and terrifying level. </info>
+</item>
+
+<item>
+<title>Regression.2015</title>
+<link>https://www.dropbox.com/s/mcvucefykbynsxm/Regression.2015.1080p.BluRay.H264.AAC-RARBG.mp4?dl=1</link>
+<thumbnail>https://od.lk/s/OTdfMzIwOTI1OV8/regression.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzM1OTQxMl8/Regression.2015.jpg</fanart>
+<info>A young girl is sexually abused by her father. Thus, begins the disturbing tale of a father and daughter torn apart, thrown into the center of a conspiracy that shocks the nation. </info>
+</item>
+
+<item>
+<title>Return.to.Sender.2015</title>
+<link>https://www.dropbox.com/s/z3g3rdr3w26kpn1/Return.to.Sender.2015.1080p.BluRay.H264.AAC-RARBG.mp4?dl=1</link>
+<thumbnail>https://od.lk/s/OTdfMzIwOTI2MF8/return-to-sender.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzM1OTQxM18/Return.to.Sender.2015.jpg</fanart>
+<info>An attractive but lonely nurse accepts a blind date setup by a co-worker and arranges for them to meet at her home. A stranger arrives on her porch before the arranged time and she mistakes him for her blind date. The stranger rapes her and leaves her seriously traumatized. Her life falls apart and she enters depression. She learns much later he is in a prison an hour away and begins visiting him, first to confront him and her fears. Then she starts to flirt and her spirits improve dramatically in the rest of her life. </info>
+</item>
+
+<item>
+<title>Robert.the.Doll.2015</title>
+<link>https://www.dropbox.com/s/y2k4jklmgxpxq01/Robert.the.Doll.2015.1080p.BluRay.H264.AAC-RARBG.mp4?dl=1</link>
+<thumbnail>https://od.lk/s/OTdfMzIwOTI2MV8/Robert.the.Doll.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzM1OTQxNV8/Robert.the.Doll.2015.jpg</fanart>
+<info>After Paul and Jenny part ways with their sinister housekeeper Agatha, the disgruntled former employee gives a vintage doll called Robert to their son Gene. Soon after Agatha's departure, strange events begin plaguing the household. Furniture is vandalized, objects are thrown around and maniacal giggles echo through the house in the middle of the night. But nobody believes Gene when he claims Robert is to blame for the disturbances. Paul and Jenny consider the possibility that a supernatural force has taken over their home. But as the occurrences escalate they discover that it's not the house that's haunted... it's the doll.</info>
+</item>
+
+<item>
+<title>Rockabilly.Zombie.Weekend</title>
+<link>https://od.lk/s/OTdfMzQ0Mzg2OV8/Rockabilly.Zombie.Weekend.2013.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQ0MzkyMV8/Rockabilly.Zombie.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0MzkyMF8/Rockabilly.f.jpg</fanart>
+<info>Horror
+The film is called Rockabilly Zombie Weekend and it takes place in Central Florida in a modern day setting. A young couple plans to have a rockabilly themed wedding out at the old farm, despite warnings of a West Nile Virus outbreak. Things go horribly wrong when the virus spawns zombie-creating mosquitoes, who are feeding on the wedding guests as well as the other locals of course!</info>
+</item>
+
+<item>
+<title>Roundabout.American</title>
+<link>https://od.lk/s/OTdfMzQxNTI4MF8/Roundabout.American.2012.WEBRip.x264-RARBG.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQxNjQ0Nl8/Roundabout.American.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQxNjQ0N18/Roundabout.American..jpg</fanart>
+<info>A young French chef with a fondness for America and a life in shambles pushes the limits of the American Dream by converting a Chicago pizza shop into an escort-service for the super-rich with the help of a suburban slacker who dwells in his parents' basement. </info>
+</item>
+
+<item>
+<title>Revenge.1990</title>
+<link>https://od.lk/s/OTdfMzQyNjgwMl8/Revenge.1990.Directors.Cut.1080p.BluRay.H264.AAC-RARBG.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQ0MTE3MV8/Revenge.1990.jpg</thumbnail>
+<fanart></fanart>
+<info>Michael "Jay" Cochran has just left the Navy after 12 years. He's not quite sure what he's going to do, except that he knows he wants a holiday. He decides to visit Tiburon Mendez, a powerful but shady Mexican businessman who he once flew to Alaska for a hunting trip. Arriving at the Mendez mansion in Mexico, he is immediately surprised by the beauty and youth of Mendez' wife Miryea. Their attraction to each other is undeniable, but Cochran is aware that Mendez is a powerful, vindictive, and very possessive man who does not tolerate betrayal.</info>
+</item>
+
+<item>
+<title>Run.for.Cover.1955</title>
+<link>https://od.lk/s/OTdfMzQ0OTg5NF8/Run.for.Cover.1955.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQ1MjA5NF8/Run.for.Cover.1955.jpg</thumbnail>
+<fanart></fanart>
+<info>Genres: Western
+Country: USA
+Language: English
+Release Date: 29 April 1955 (USA)
+Runtime: 93 min
+Odd little Western that gets off to a snappy start when a man (Matt Dow) is mistaken as a train robber. After the town's sheriff shoots the kid he's riding with, Dow clears his name and ends up as the new sheriff. He romances a Swedish woman and settles in to a peaceful life only to find that the boy has a few secrets of his own. Written by Ed Lorusso</info>
+</item>
+
+<item>
+<title>Red Sundown (1956)</title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzM0NTEwMl8/Red%20Sundown%20%281956%29.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzM1NjQ2M18/Red%20Sundown.jpg</fanart>
+<info>When his life is saved in a shootout by a fellow gunman whose life he in turn had saved, Alex Longmire promises to give up his way of life. Riding into town he finds the only job available is deputy to sheriff Jade Murphy, an honest man caught between small farmers and a local cattle baron. And he has a pretty daughter. So Longmire decides to stay and see if he can use his expertise with firearms for good. </info>
+</item>
+
+<item>
+<title>Robbers.Roost.1955.</title>
+<link>https://od.lk/s/OTdfMzE3MjkwMl8/Robbers.Roost.1955.1080p.BluRay.H264.AAC-RARBG.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzIxODI1OF8/Robbers.Roost.1955..jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzIxODEzNF8/Robbers.Roost.1955.jpg</fanart>
+<info>Jim "Tex" Wall (), searching for the last of the three men who raped and killed his wife, joins a gang of cattle rustlers led by Hank Hays (). Both Hays' outlaws and a rival gang headed by Heesman (), have been hired as ranch hands by "Bull" Herrick (), a cripple who owns a large cattle ranch and wants to get his large herd to market. He theorizes that the two gangs will be kept busy watching each other and neither will rustle his cattle. Helen () has little faith in her brother's contrived plan, and hates and distrusts both groups. She begins to soften toward Jim, but abruptly changes when she sees a reward poster which says he has killed two men. </info>
+</item>
+
+<item>
+<title>Rockabilly.Zombie.Weekend</title>
+<link>https://od.lk/s/OTdfMzQ0Mzg2OV8/Rockabilly.Zombie.Weekend.2013.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQ0MzkyMV8/Rockabilly.Zombie.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0MzkyMF8/Rockabilly.f.jpg</fanart>
+<info>Horror
+The film is called Rockabilly Zombie Weekend and it takes place in Central Florida in a modern day setting. A young couple plans to have a rockabilly themed wedding out at the old farm, despite warnings of a West Nile Virus outbreak. Things go horribly wrong when the virus spawns zombie-creating mosquitoes, who are feeding on the wedding guests as well as the other locals of course!</info>
+</item>

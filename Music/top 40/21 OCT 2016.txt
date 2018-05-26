@@ -1,0 +1,317 @@
+<item>
+<title>01- Little Mix - Shout Out To My Ex</title>
+<link>https://od.lk/s/OTdfMzQzNTMwNl8/01-%20Little%20Mix%20-%20Shout%20Out%20To%20My%20Ex.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQzNTc2MV8/Cover.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>02-James Arthur - Say You Wont Let Go</title>
+<link>https://od.lk/s/OTdfMzQzNTMwN18/02-James%20Arthur%20-%20Say%20You%20Wont%20Let%20Go.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQzNTc2MV8/Cover.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>03-The Chainsmokers - Closer (Feat Halsey)</title>
+<link>https://od.lk/s/OTdfMzQzNTMwOV8/03-The%20Chainsmokers%20-%20Closer%20%28Feat%20Halsey%29.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQzNTc2MV8/Cover.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>04-The Weeknd - Starboy (Feat Daft Punk)</title>
+<link>https://od.lk/s/OTdfMzQzNTMxMF8/04-The%20Weeknd%20-%20Starboy%20%28Feat%20Daft%20Punk%29.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQzNTc2MV8/Cover.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>05-Hailee Steinfeld And Grey - Starving (Feat Zedd)</title>
+<link>https://od.lk/s/OTdfMzQzNTMxMV8/05-Hailee%20Steinfeld%20And%20Grey%20-%20Starving%20%28Feat%20Zedd%29.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQzNTc2MV8/Cover.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>06-Sia - The Greatest (Feat Kendrick Lamar)</title>
+<link>https://od.lk/s/OTdfMzQzNTMxMl8/06-Sia%20-%20The%20Greatest%20%28Feat%20Kendrick%20Lamar%29.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQzNTc2MV8/Cover.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>07-Ariana Grande - Side To Side (Feat Nicki Minaj)</title>
+<link>https://od.lk/s/OTdfMzQzNTMxM18/07-Ariana%20Grande%20-%20Side%20To%20Side%20%28Feat%20Nicki%20Minaj%29.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQzNTc2MV8/Cover.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>08-Calvin Harris - My Way</title>
+<link>https://od.lk/s/OTdfMzQzNTMxNF8/08-Calvin%20Harris%20-%20My%20Way.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQzNTc2MV8/Cover.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>09-Dj Snake - Let Me Love You</title>
+<link>https://od.lk/s/OTdfMzQzNTMxNV8/09-Dj%20Snake%20-%20Let%20Me%20Love%20You%20%28Feat%20Justin%20Bieber%29.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQzNTc2MV8/Cover.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>10-Bruno Mars - 24k Magic</title>
+<link>https://od.lk/s/OTdfMzQzNTMxN18/10-Bruno%20Mars%20-%2024k%20Magic.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQzNTc2MV8/Cover.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>11-Major Lazer - Cold Water</title>
+<link>https://od.lk/s/OTdfMzQzNTMxOF8/11-Major%20Lazer%20-%20Cold%20Water%20%28Feat%20Justin%20Bieber%20And%20Mo.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQzNTc2MV8/Cover.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>12-Neiked - Sensual</title>
+<link>https://od.lk/s/OTdfMzQzNTMxOV8/12-Neiked%20-%20Sensual.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQzNTc2MV8/Cover.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>13-Calum Scott - Dancing On My Own</title>
+<link>https://od.lk/s/OTdfMzQzNTMyMF8/13-Calum%20Scott%20-%20Dancing%20On%20My%20Own.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQzNTc2MV8/Cover.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>14-Martin Garrix Bebe Rexha - In The Name Of Love</title>
+<link>https://od.lk/s/OTdfMzQzNTI3NF8/14-Martin%20Garrix%20Bebe%20Rexha%20-%20In%20The%20Name%20Of%20Love.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQzNTc2MV8/Cover.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>15-Zara Larsson - Aint My Fault</title>
+<link>https://od.lk/s/OTdfMzQzNTI3NV8/15-Zara%20Larsson%20-%20Aint%20My%20Fault.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQzNTc2MV8/Cover.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>16- Maroon 5 - Dont Wanna Know</title>
+<link>https://od.lk/s/OTdfMzQzNTI3N18/16-%20Maroon%205%20-%20Dont%20Wanna%20Know%20%28Feat%20Kendrick%20Lamar%29.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQzNTc2MV8/Cover.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>17-Niall Horan - This Town</title>
+<link>https://od.lk/s/OTdfMzQzNTI3OF8/17-Niall%20Horan%20-%20This%20Town.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQzNTc2MV8/Cover.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>18-Shawn Mendes - Treat You Better</title>
+<link>https://od.lk/s/OTdfMzQzNTI3OV8/18-Shawn%20Mendes%20-%20Treat%20You%20Better.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQzNTc2MV8/Cover.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>19-Twenty One Pilots - Heathens</title>
+<link>https://od.lk/s/OTdfMzQzNTI4MF8/19-Twenty%20One%20Pilots%20-%20Heathens.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQzNTc2MV8/Cover.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>20-Ellie Goulding - Still Falling For You</title>
+<link>https://od.lk/s/OTdfMzQzNTI4MV8/20-Ellie%20Goulding%20-%20Still%20Falling%20For%20You.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQzNTc2MV8/Cover.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>21-Drake - One Dance</title>
+<link>https://od.lk/s/OTdfMzQzNTI4Ml8/21-Drake%20-%20One%20Dance%20%28Feat%20Wizkid%20And%20Kyla%29.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQzNTc2MV8/Cover.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>22-The Chainsmokers - Dont Let Me Down</title>
+<link>https://od.lk/s/OTdfMzQzNTI4M18/22-The%20Chainsmokers%20-%20Dont%20Let%20Me%20Down%20%28Feat%20Daya%29.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQzNTc2MV8/Cover.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>23-Lil Wayne Wiz Khalifa Imagine Dragons X Ambassadors Ty Dolla</title>
+<link>https://od.lk/s/OTdfMzQzNTI4NV8/23-Lil%20Wayne%20Wiz%20Khalifa%20Imagine%20Dragons%20X%20Ambassadors%20Ty%20Dolla.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQzNTc2MV8/Cover.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>24-Anne-Marie - Alarm.</title>
+<link>https://od.lk/s/OTdfMzQzNTI4Nl8/24-Anne-Marie%20-%20Alarm.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQzNTc2MV8/Cover.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>25-Jonas Blue - Perfect Strangers</title>
+<link>https://od.lk/s/OTdfMzQzNTI4N18/25-Jonas%20Blue%20-%20Perfect%20Strangers%20%28Feat%20Jp%20Cooper%29.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQzNTc2MV8/Cover.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>26-Kungs Vs Cookin On 3 Burners - This Girl</title>
+<link>https://od.lk/s/OTdfMzQzNTI4OF8/26-Kungs%20Vs%20Cookin%20On%203%20Burners%20-%20This%20Girl.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQzNTc2MV8/Cover.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>27-Emeli Sande - Hurts</title>
+<link>https://od.lk/s/OTdfMzQzNTI4OV8/27-Emeli%20Sande%20-%20Hurts.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQzNTc2MV8/Cover.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>28-Drake - Too Good</title>
+<link>https://od.lk/s/OTdfMzQzNTI5MF8/28-Drake%20-%20Too%20Good%20%28Feat%20Rihanna%29.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQzNTc2MV8/Cover.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>29-Justin Timberlake - Cant Stop The Feeling</title>
+<link>https://od.lk/s/OTdfMzQzNTI5MV8/29-Justin%20Timberlake%20-%20Cant%20Stop%20The%20Feeling.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQzNTc2MV8/Cover.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>30-Calvin Harris And Rihanna - This Is What You Came For</title>
+<link>https://od.lk/s/OTdfMzQzNTI5NF8/30-Calvin%20Harris%20And%20Rihanna%20-%20This%20Is%20What%20You%20Came%20For.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQzNTc2MV8/Cover.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>31-Fifth Harmony - Thats My Girl</title>
+<link>https://od.lk/s/OTdfMzQzNTI5NV8/31-Fifth%20Harmony%20-%20Thats%20My%20Girl.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQzNTc2MV8/Cover.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>32-Dua Lipa - Blow Your Mind</title>
+<link>https://od.lk/s/OTdfMzQzNTI5Nl8/32-Dua%20Lipa%20-%20Blow%20Your%20Mind%20%28Mwah%29.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQzNTc2MV8/Cover.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>33-The Chainsmokers - All We Know</title>
+<link>https://od.lk/s/OTdfMzQzNTI5OF8/33-The%20Chainsmokers%20-%20All%20We%20Know%20%28Feat%20Phoebe%20Ryan%29.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQzNTc2MV8/Cover.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>34-Craig David - Aint Giving Up</title>
+<link>https://od.lk/s/OTdfMzQzNTI5OV8/34-Craig%20David%20-%20Aint%20Giving%20Up%20%28Feat%20Sigala%29.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQzNTc2MV8/Cover.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>35-Sia - Cheap Thrills</title>
+<link>https://od.lk/s/OTdfMzQzNTMwMF8/35-Sia%20-%20Cheap%20Thrills%20%28Feat%20Sean%20Paul%29.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQzNTc2MV8/Cover.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>36-Drake - Controlla</title>
+<link>https://od.lk/s/OTdfMzQzNTMwMV8/36-Drake%20-%20Controlla%20%28Feat%20Popcaan%29.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQzNTc2MV8/Cover.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>37-Galantis & Hook N Sling - Love On Me</title>
+<link>https://od.lk/s/OTdfMzQzNTMwMl8/37-Galantis%20%26%20Hook%20N%20Sling%20-%20Love%20On%20Me.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQzNTc2MV8/Cover.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>38-Cash Cash And Digital Farm Animals - Millionaire</title>
+<link>https://od.lk/s/OTdfMzQzNTMwM18/38-Cash%20Cash%20And%20Digital%20Farm%20Animals%20-%20Millionaire%20%28Feat%20Nelly%29.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQzNTc2MV8/Cover.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>39-Olly Murs - You Dont Know Love</title>
+<link>https://od.lk/s/OTdfMzQzNTMwNF8/39-Olly%20Murs%20-%20You%20Dont%20Know%20Love.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQzNTc2MV8/Cover.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>40- Shawn Mendes - Mercy</title>
+<link>https://od.lk/s/OTdfMzQzNTMwNV8/40-%20Shawn%20Mendes%20-%20Mercy.mp3</link>
+<thumbnail>https://od.lk/s/OTdfMzQzNTc2MV8/Cover.jpg</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+

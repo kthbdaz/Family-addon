@@ -1,0 +1,198 @@
+<item>
+<title>S7 EP1 Fallen</title>
+<link>https://od.lk/s/OTdfMzQxNjc3NF8/Stargate%20SG-1%20-%20%5B7x01%5D%20-%20Fallen.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzQxNjc2Ml8/sg1.7.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQxNjc4OF8/s7f.jpg</fanart>
+<info>Fallen
+A group of nomads on an alien planet find Daniel Jackson naked in the middle of ruins and take him in. Jonas translates the tablet Daniel said was important and discovers that it describes the last city the Ancients were building before the plague. He surmises that the list of addresses Jack put into the computer while storing the Ancient data were Ancient outposts in temporal order. Thus the last of the addresses should be the "City of the Lost". SG-1 visits the planet and happens upon the nomadic people, now inhabiting the ruins of the Ancient city. There they find ... </info>
+</item>
+
+<item>
+<title>S7 EP2 Homecoming</title>
+<link>https://od.lk/s/OTdfMzQxNjc3NV8/Stargate%20SG-1%20-%20%5B7x02%5D%20-%20Homecoming.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzQxNjc2Ml8/sg1.7.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQxNjc4OF8/s7f.jpg</fanart>
+<info>Homecoming
+Anubis's superweapon has been put out of commission, but Yu's fleet has been diverted to the other side of the galaxy by Yu himself, allowing Anubis to escape into hyperspace. Jonas has been captured by Anubis and Daniel is still aboard Anubis's ship, evading capture. Anubis uses the mind probe on Jonas, learns of Naquadria, and begins his attack on Kelowna. The Kelownans seek aid from the SGC. Jack and Sam arrive on Langara to discover that they have given Anubis Naquadria in order to secure their safety. They communicate with Daniel who is attempting to free Jonas. ... </info>
+</item>
+
+<item>
+<title>S7 EP3 Fragile Balance</title>
+<link>https://od.lk/s/OTdfMzQxNjc3N18/Stargate%20SG-1%20-%20%5B7x03%5D%20-%20Fragile%20Balance.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzQxNjc2Ml8/sg1.7.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQxNjc4OF8/s7f.jpg</fanart>
+<info>Fragile Balance
+A teenage boy shows up at the SGC claiming to be Jack O'Neill. He recalls a dream in which an Asgard was studying him. They determine that they must find this Asgard to fix what has been done to Jack. </info>
+</item>
+
+<item>
+<title>S7 EP4 Orpheus</title>
+<link>https://od.lk/s/OTdfMzQxNjc3OF8/Stargate%20SG-1%20-%20%5B7x04%5D%20-%20Orpheus.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzQxNjc2Ml8/sg1.7.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQxNjc4OF8/s7f.jpg</fanart>
+<info>Orpheus
+In a firefight with Jaffa, Teal'c takes a staff blast to the gut. Without his symbiote, he cannot regenerate as he once did. Daniel feels that he cannot remember something important, so he goes searching through the logs for any sign of his lost knowledge. Teal'c expresses his feelings that the Tritonin has made him weak. </info>
+</item>
+
+<item>
+<title>S7 EP5 Revisions</title>
+<link>https://od.lk/s/OTdfMzQxNjc4MV8/Stargate%20SG-1%20-%20%5B7x05%5D%20-%20Revisions.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzQxNjc2Ml8/sg1.7.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQxNjc4OF8/s7f.jpg</fanart>
+<info> Revisions
+SG-1 investigate a seemingly idyllic and subtly advanced human colony sheltered inside an energy dome on an otherwise inhospitable planet. </info>
+</item>
+
+<item>
+<title>S7 EP6 Lifeboat</title>
+<link>https://od.lk/s/OTdfMzQxNjc4NV8/Stargate%20SG-1%20-%20%5B7x06%5D%20-%20Lifeboat.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzQxNjc2Ml8/sg1.7.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQxNjc4OF8/s7f.jpg</fanart>
+<info>Lifeboat
+While exploring an crashed alien ship full of passengers in cryostasis, an alien force has downloaded a number of their consciousnesses into Daniel. </info>
+</item>
+
+<item>
+<title>S7 EP7 Enemy Mine</title>
+<link>https://od.lk/s/OTdfMzQxNjc4OV8/Stargate%20SG-1%20-%20%5B7x07%5D%20-%20Enemy%20Mine.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzQxNjc2Ml8/sg1.7.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQxNjc4OF8/s7f.jpg</fanart>
+<info>Enemy Mine
+When a SG geological exploration mission runs into deadly conflict with an indigenous Unas clan, Daniel gets Chaka to help seek an accord with it. </info>
+</item>
+
+<item>
+<title>S7 EP8 Space Race</title>
+<link>https://od.lk/s/OTdfMzQxNjc5NF8/Stargate%20SG-1%20-%20%5B7x08%5D%20-%20Space%20Race.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzQxNjc2Ml8/sg1.7.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQxNjc4OF8/s7f.jpg</fanart>
+<info>Space Race
+In exchange for new tech for the SGC, Warrick Finn asks for their help to win a dangerous spaceship competition. </info>
+</item>
+
+<item>
+<title>S7 EP9 Avenger 2.0</title>
+<link>https://od.lk/s/OTdfMzQxNjc5Nl8/Stargate%20SG-1%20-%20%5B7x09%5D%20-%20Avenger%202.0.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzQxNjc2Ml8/sg1.7.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQxNjc4OF8/s7f.jpg</fanart>
+<info>Avenger 2.0
+To save his job, Dr. Felger tests a new virus on the Stargate Network to help control it and it ends up disabling it instead. </info>
+</item>
+
+<item>
+<title>S7 EP10 Birthright</title>
+<link>https://od.lk/s/OTdfMzQxNjc5OF8/Stargate%20SG-1%20-%20%5B7x10%5D%20-%20Birthright.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzQxNjc2Ml8/sg1.7.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQxNjc4OF8/s7f.jpg</fanart>
+<info>Birthright
+After being saved by a group of free female Jaffa, SG-1 is taken to the females' homeworld to meet their leader, Ishta. Ishta proposes an alliance between her all-female rebel group, Haktil, and the Tau'ri. The Tau'ri offer her Tritonin to supplant their practice of taking the symbiotes from defeated Jaffa in the service of the Goa'uld. However, since Tritonin has only had two test subjects, Teal'c and Bra'tac, they are cautious to spread it among their ranks. </info>
+</item>
+
+<item>
+<title>S7 EP11 Evolution: Part 1</title>
+<link>https://od.lk/s/OTdfMzQxNjgwMV8/Stargate%20SG-1%20-%20%5B7x11%5D%20-%20Evolution%20%28Part%20I%29.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzQxNjc2Ml8/sg1.7.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQxNjc4OF8/s7f.jpg</fanart>
+<info>Evolution: Part 1
+Bra'tac and Teal'c encounter a heavily armed enemy with shielding protecting him from Goa'uld weaponry who took out two Goa'uld's personal guards. They barely manage to defeat him and bring him back to SGC for study, but this new threat poses a greater problem for the Tau'ri. </info>
+</item>
+
+<item>
+<title>S7 EP12 Evolution: Part 2</title>
+<link>https://od.lk/s/OTdfMzQxNjgwM18/Stargate%20SG-1%20-%20%5B7x12%5D%20-%20Evolution%20%28Part%20II%29.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzQxNjc2Ml8/sg1.7.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQxNjc4OF8/s7f.jpg</fanart>
+<info>Evolution: Part 2
+The Tau'ri and Tok'ra have used their captured super-soldier to determine his planet of origin. Though with Daniel, Dr. Lee, and the Ancient device they found in the hands of Honduran kidnappers, SGC must find a way to retrieve them if they are to have any chance of defeating the newly encountered super- soldiers. </info>
+</item>
+
+<item>
+<title>S7 EP13 Grace</title>
+<link>https://od.lk/s/OTdfMzQxNjgwNl8/Stargate%20SG-1%20-%20%5B7x13%5D%20-%20Grace.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzQxNjc2Ml8/sg1.7.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQxNjc4OF8/s7f.jpg</fanart>
+<info>Grace
+During an engine cool down break from hyperspace travel the crew of the Prometheus, with Major Carter as an advisor, encounter a space craft of unknown configuration. They hail the ship to no avail; the unknown craft opens fire upon the Prometheus. Carter attempts to override the safety protocols on the hyperdrive to make a short jump into a gas cloud, but in the attempt is knocked unconscious. She awakes to find the ship devoid of all its crew and, as she tries to escape the gas cloud by herself, she begins to hallucinate. </info>
+</item>
+
+<item>
+<title>S7 EP14 Fallout</title>
+<link>https://od.lk/s/OTdfMzQxNjgwOF8/Stargate%20SG-1%20-%20%5B7x14%5D%20-%20Fallout.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzQxNjc2Ml8/sg1.7.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQxNjc4OF8/s7f.jpg</fanart>
+<info>Fallout
+Jonas Quinn returns to SGC to ask for assistance in saving his nation. He explains that the Naquadriah was originally Naquadah and a Goa'uld started a chain reaction to transform all of his planet's Naquadah into Naquadriah. A large vein of Naquadah has just been affected and the Kelownan scientists believe that the transformation will cause this large a deposit to explode, taking their entire nation with it. </info>
+</item>
+
+<item>
+<title>S7 EP15 Chimera</title>
+<link>https://od.lk/s/OTdfMzQxNjc2MV8/Stargate%20SG-1%20-%20%5B7x15%5D%20-%20Chimera.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzQxNjc2Ml8/sg1.7.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQxNjc4OF8/s7f.jpg</fanart>
+<info>Chimera
+Maj. Carter has been set up with her brother Mark's friend Pete Shanahan, a cop from Denver who thinks Carter works for the Air Force in a simple research capacity. Daniel Jackson is being visited in his dreams by his former lover, Sarah Gardner, who was possessed by the Goa'uld system lord Osiris. </info>
+</item>
+
+<item>
+<title>S7 EP16 Death Knell</title>
+<link>https://od.lk/s/OTdfMzQxNjc2Nl8/Stargate%20SG-1%20-%20%5B7x16%5D%20-%20Death%20Knell.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzQxNjc2Ml8/sg1.7.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQxNjc4OF8/s7f.jpg</fanart>
+<info>Death Knell
+At the new Alpha site, Sam Carter and Selmak (the symbiote carried by Jacob Carter, her father) are working on a new weapon to defeat the Anubis superdrones when the planet is attacked by a fleet of Goa'uld ships. Carter escapes with the prototype weapon before the base auto-destruct is activated but finds herself being pursued by a superdrone. </info>
+</item>
+
+<item>
+<title>S7 EP17 Heroes: Part 1</title>
+<link>https://od.lk/s/OTdfMzQxNjc2N18/Stargate%20SG-1%20-%20%5B7x17%5D%20-%20Heroes%20%28Part%20I%29.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzQxNjc2Ml8/sg1.7.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQxNjc4OF8/s7f.jpg</fanart>
+<info>Heroes: Part 1
+The president has asked a documentarian to SGC to create a film about its operations. His arrival is unwelcome to most and he begins to clash with the base personnel. Nevertheless, he conducts his interviews with SG-1 and the scientists in the employ of SGC. Meanwhile, an off-world SG team finds the remains of an Ancient city. </info>
+</item>
+
+<item>
+<title>S7 EP18 Heroes: Part 2</title>
+<link>https://od.lk/s/OTdfMzQxNjc2OF8/Stargate%20SG-1%20-%20%5B7x18%5D%20-%20Heroes%20%28Part%20II%29.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzQxNjc2Ml8/sg1.7.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQxNjc4OF8/s7f.jpg</fanart>
+<info>Heroes: Part 2
+The documentarian still a thorn in their side, SGC encounters an unforeseen predicament. With half of SG-13 off-world engaging enemy Jaffa, SG teams 1, 5, and 7 go in as backup. In the midst of heavy fire, O'Neill takes a staff blast to the chest. Many deaths from the encounter hit SGC hard and Senator Kinsey orders a full investigation into the matter. </info>
+</item>
+
+<item>
+<title>S7 EP19 Resurrection</title>
+<link>https://od.lk/s/OTdfMzQxNjc3MF8/Stargate%20SG-1%20-%20%5B7x19%5D%20-%20Resurrection.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzQxNjc2Ml8/sg1.7.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQxNjc4OF8/s7f.jpg</fanart>
+<info>Resurrection
+Agent Barrett of the NID calls SG-1 to Los Angeles for a consult on a mass murdering of a rogue sleeper cell by a young woman. There they find many Goa'uld artifacts relating to Sekhmet, a subordinate of Ra. But how this operation is related to the Goa'uld eludes SG-1. </info>
+</item>
+
+<item>
+<title>S7 EP20 Inauguration</title>
+<link>https://od.lk/s/OTdfMzQxNjc3MV8/Stargate%20SG-1%20-%20%5B7x20%5D%20-%20Inauguration.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzQxNjc2Ml8/sg1.7.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQxNjc4OF8/s7f.jpg</fanart>
+<info>Inauguration
+The newly inaugurated President of the United States is briefed by the Head of the Joint Chiefs of Staff on the Stargate program. Former Senator, now Vice President, Kinsey attempts to get his running mate to back his policies for the program, but the president decides to look into the situation himself. Kinsey gets Richard Woolsey to convince the president of his agenda. </info>
+</item>
+
+<item>
+<title>S7 EP21 Lost City: Part 1</title>
+<link>https://od.lk/s/OTdfMzQxNjc3Ml8/Stargate%20SG-1%20-%20%5B7x21%5D%20-%20Lost%20City%20%28Part%20I%29.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzQxNjc2Ml8/sg1.7.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQxNjc4OF8/s7f.jpg</fanart>
+<info>Lost City: Part 1
+Vice President Kinsey briefs Dr. Weir on the Stargate program before her meeting with the president. SG teams 1, 3, and 5 go off-world to attempt the extraction of a newly found Ancient repository device. Upon arriving at the location of the device, SG-1 comes under fire from Goa'uld ships. With no other way to disallow Anubis from claiming the knowledge for himself, Jack submits himself to the dangerous device. </info>
+</item>
+
+<item>
+<title>S7 EP22 Lost City: Part 2</title>
+<link>https://od.lk/s/OTdfMzQxNjc3M18/Stargate%20SG-1%20-%20%5B7x22%5D%20-%20Lost%20City%20%28Part%20II%29.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzQxNjc2Ml8/sg1.7.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQxNjc4OF8/s7f.jpg</fanart>
+<info>Lost City: Part 2
+With Jack having the knowledge of the Ancient repository once again in his mind, he and Daniel attempt to unearth the location of the lost city of the Ancients. Bra'tac, bringing with him the news of an impending attack on the Tau'ri by Anubis, takes Teal'c to help him acquire ships and warriors for the defense of Earth. Dr. Weir attempts to cope with the overwhelming nature of her new job, while also dealing with the unrelenting ego of Vice President Kinsey. </info>
+</item>
+

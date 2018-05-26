@@ -1,0 +1,95 @@
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+<channel>
+<name>TV Series</name>
+<thumbnail>https://od.lk/s/OTdfMzQyODA3OV8/tv%20shows..jpg</thumbnail>
+<externallink>https://goo.gl/ElDyP5</externallink>
+<fanart>https://od.lk/s/OTdfMzQyODA1OF8/tv%20shows.jpg</fanart>
+<genre>Drama, Mystery, Thriller action adventure sifi| TV Series</genre>
+<info>All your favourite tv shows</info>
+</channel>
+
+<channel>
+<name>Movies</name>
+<thumbnail>https://od.lk/s/OTdfMzQyODA3N18/the_movies.jpg</thumbnail>
+<externallink>https://goo.gl/Oa1rjS</externallink>
+<fanart>https://od.lk/s/OTdfMzQyODA3Nl8/movies%20f.jpg</fanart>
+<genre>Drama, Mystery, Thriller, action, adventure, sifi, horror</genre>
+<info>All your favourite Movies from past to present</info>
+</channel>
+
+<channel>
+<name>Added This Week</name>
+<thumbnail>https://od.lk/s/OTdfMzQ0NDQxMF8/new%20added.png</thumbnail>
+<externallink>https://goo.gl/PfUIpd</externallink>
+<fanart></fanart>
+<genre>ALL</genre>
+<info>movies added within the last 7 days</info>
+</channel>
+
+<channel>
+<name>Kids</name>
+<thumbnail>https://od.lk/s/OTdfMzUyNTYyM18/kids.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQxODE3Ml8/Kids.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzUyNTYyNF8/kids%20f.png</fanart>
+<genre>Movies,Cartoons and tv shows</genre>
+<info>All your favourite cartoons and movies</info>
+</channel>
+
+<channel>
+<name>Boxsets</name>
+<thumbnail>https://od.lk/s/OTdfMzQyODA3NF8/boxsets.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQxODE1OV8/Boxsets.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQyODA3NV8/boxsets%20f.jpg</fanart>
+<genre>Drama, Mystery, Thriller, action, adventure, sifi, horror</genre>
+<info>All your favourite all time boxsets</info>
+</channel>
+
+<channel>
+<name>Music</name>
+<thumbnail>https://www.dropbox.com/s/7c2dh4srnkwtwbp/music.png?dl=1</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQzNTIzN18/albums.txt</externallink>
+<fanart></fanart>
+<genre>pop,hip hop,disco,metal,soul,oldies,rock n roll</genre>
+<info></info>
+</channel>
+
+<channel>
+<name>Excercise and workout</name>
+<thumbnail>https://od.lk/s/OTdfMzUzMTU0Nl8/excercise.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzUzMTU0Ml8/excercise%20and%20workout.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzUzMTUwNF8/workout%20f.jpg</fanart>
+<genre>Fitness</genre>
+<info>keep fit and workout with these great videos</info>
+</channel>
+
+<channel>
+<name>Kodi Tutorials</name>
+<thumbnail>https://od.lk/s/OTdfMzUzMTg2NV8/kodi.png</thumbnail>
+<externallink>https://goo.gl/IaVHb0</externallink>
+<fanart>https://od.lk/s/OTdfMzUzMTg2Nl8/Kodi%20f.png</fanart>
+<genre>Tutorial</genre>
+<info>some videos on how to update your addons/build also usefull videos on how to sort out any issues within kodi</info>
+</channel>
+
+<channel>
+<name>Education</name>
+<thumbnail>https://od.lk/s/OTdfMzU1NDYwMl8/Education%20Icon.jpg</thumbnail>
+<externallink>https://goo.gl/bcIWgo</externallink>
+<fanart>https://od.lk/s/OTdfMzU1NDYwM18/education-logo.jpg</fanart>
+<genre>Educational Tutorials</genre>
+<info></info>
+</channel>
+
+<channel>
+<name>Phonebook</name>
+<thumbnail>https://od.lk/s/OTdfMzY0NDY4NF8/phonebook.jpeg</thumbnail>
+<externallink>https://goo.gl/Fb4tqL</externallink>
+<fanart>https://od.lk/s/OTdfMzY0NDY4NV8/phonebook%20f.jpeg</fanart>
+<genre></genre>
+<info>Find your local retailer / tradesman IF YOU WANT TO ADVERTISE YOUR BUISNESS PLEASE CONTACT ADMIN</info>
+</channel>
+
+</channels>

@@ -1,0 +1,50 @@
+﻿
+
+
+
+
+
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+<channel>
+<name>Season 1</name>
+<thumbnail>https://od.lk/s/OTdfMzUyOTc5M18/still%20open%20all%20hours.jpg</thumbnail>
+<externallink>https://goo.gl/ku0qGO</externallink>
+<fanart>https://od.lk/s/OTdfMzUyOTgwM18/Still-Open-All-Hours-%20f.jpg</fanart>
+<genre> Comedy</genre>
+<info>Arkwright is long dead and Granville now runs the shop with his daft son Leroy, the result of a one night stand in Blackpool. Granville has inherited his uncle's parsimony, trying to sell nappy rash cream as a body building aid whilst the handsome boy is a hit with the female customers. Granville would like to get back with old flame Mavis, now back on the market, but she is guarded by her fearsome sister Madge though Mrs Featherstone, the one time Black Widow, is extremely interested in a dalliance with Granville - unlike retired nurse Gladys, who is no more interested in Granville than she was in his uncle. Nonetheless, after a trying day with his most annoying customer Wet Eric, Granville realizes that a little affection from the Black Widow may not come amiss.</info>
+</channel>
+
+<channel>
+<name>Season 2</name>
+<thumbnail>https://od.lk/s/OTdfMzUzMDMxOV8/still%20open%202.jpg</thumbnail>
+<externallink>https://goo.gl/smFioy</externallink>
+<fanart>https://od.lk/s/OTdfMzUyOTgwM18/Still-Open-All-Hours-%20f.jpg</fanart>
+<genre>Comedy</genre>
+<info>Arkwright is long dead and Granville now runs the shop with his daft son Leroy, the result of a one night stand in Blackpool. Granville has inherited his uncle's parsimony, trying to sell nappy rash cream as a body building aid whilst the handsome boy is a hit with the female customers. Granville would like to get back with old flame Mavis, now back on the market, but she is guarded by her fearsome sister Madge though Mrs Featherstone, the one time Black Widow, is extremely interested in a dalliance with Granville - unlike retired nurse Gladys, who is no more interested in Granville than she was in his uncle. Nonetheless, after a trying day with his most annoying customer Wet Eric, Granville realizes that a little affection from the Black Widow may not come amiss.</info>
+</channel>
+
+<channel>
+<name>Season 3</name>
+<thumbnail>https://od.lk/s/OTdfMzUzMDMxOV8/still%20open%202.jpg</thumbnail>
+<externallink>https://goo.gl/kDdUVG</externallink>
+<fanart>https://od.lk/s/OTdfMzUyOTgwM18/Still-Open-All-Hours-%20f.jpg</fanart>
+<genre>Comedy</genre>
+<info>Arkwright is long dead and Granville now runs the shop with his daft son Leroy, the result of a one night stand in Blackpool. Granville has inherited his uncle's parsimony, trying to sell nappy rash cream as a body building aid whilst the handsome boy is a hit with the female customers. Granville would like to get back with old flame Mavis, now back on the market, but she is guarded by her fearsome sister Madge though Mrs Featherstone, the one time Black Widow, is extremely interested in a dalliance with Granville - unlike retired nurse Gladys, who is no more interested in Granville than she was in his uncle. Nonetheless, after a trying day with his most annoying customer Wet Eric, Granville realizes that a little affection from the Black Widow may not come amiss.</info>
+</channel>
+
+</channels>
+
+
+
+
+
+
+
+
+
+
+
+

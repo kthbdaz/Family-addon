@@ -1,0 +1,62 @@
+﻿
+
+
+
+
+
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+<channel>
+<name>Season 1</name>
+<thumbnail>https://od.lk/s/OTdfMzQ0NDI0Nl8/grimm%20s1.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQ0NDIzOF8/S1.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQ0NDI0NF8/grimm%20f.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>Season 2</name>
+<thumbnail>https://od.lk/s/OTdfMzQ0NDI0N18/grimm%20s2.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQ0NDIzOV8/S2.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQ0NDI0NF8/grimm%20f.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>Season 3</name>
+<thumbnail>https://od.lk/s/OTdfMzQ0NDI0MV8/grimm%20s3.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQ0NDI0MF8/S3.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQ0NDI0NF8/grimm%20f.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>Season 4</name>
+<thumbnail>https://od.lk/s/OTdfMzQ0NDI0Ml8/grimm%20s4.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQ0NDIzNV8/S4.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQ0NDI0NF8/grimm%20f.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>Season 5</name>
+<thumbnail>https://od.lk/s/OTdfMzQ0NDI0M18/grimm%20s5.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQ0NDIzNl8/S5.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQ0NDI0NF8/grimm%20f.jpg</fanart>
+<info></info>
+</channel>
+</channels>
+
+
+
+
+
+
+
+
+
+
+
+

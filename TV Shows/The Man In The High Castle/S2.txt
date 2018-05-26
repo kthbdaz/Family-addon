@@ -1,0 +1,100 @@
+<item>
+<title>S2 EP1 The Tiger's Cave</title>
+<link>https://od.lk/s/OTdfMzUzMTA2N18/S02E01.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMDk4MV8/The%20Man%20In%20The%20High%20Castle.jpg</thumbnail>
+<fanart><fanart>https://od.lk/s/OTdfMzUzMDk4Ml8/The%20Man%20in%20the%20High%20Castle%20f.jpg</fanart></fanart>
+<genre> Drama, Sci-Fi, Thriller </genre>
+<info>The Tiger's Cave
+When Julianna allows Joe to flee from the hands of the Resistance, she is questioned on her loyalty, Obergruppenführer John Smith returns with news on the event that almost led to his death and Trade Minister Tagomi is overwhelmed by the vision of life if the Nazis had failed to win World War 2.</info>
+</item>
+
+<item>
+<title>S2 EP2 The Road Less Traveled</title>
+<link>https://od.lk/s/OTdfMzUzMTA2OF8/S02E02.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMDk4MV8/The%20Man%20In%20The%20High%20Castle.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMDk4Ml8/The%20Man%20in%20the%20High%20Castle%20f.jpg</fanart>
+<genre> Drama, Sci-Fi, Thriller </genre>
+<info>The Road Less Traveled
+After narrowly escaping death, Juliana discovers a family secret that could have global implications - and leads her to make a life-changing decision. Kido, Tagomi, and Frank all take dangerous risks, while back in New York, Joe settles into a normal routine, only to have it turned upside down when Smith gives him the opportunity he's waited for his whole life</info>
+</item>
+
+<item>
+<title>S2 EP3 Travelers</title>
+<link>https://od.lk/s/OTdfMzUzMTA3MF8/S02E03.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMDk4MV8/The%20Man%20In%20The%20High%20Castle.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMDk4Ml8/The%20Man%20in%20the%20High%20Castle%20f.jpg</fanart>
+<genre> Drama, Sci-Fi, Thriller </genre>
+<info>Travelers
+Fighting to acclimatize to the strange new world of Nazi New York, Juliana seeks out the one person she thinks she can trust: Joe Blake. Angry and defiant after Juliana's departure, Frank is drawn to the Resistance movement and its charismatic leader. Joe confronts his own identity when he finally meets his father.</info>
+</item>
+
+<item>
+<title>S2 EP4 Escalation</title>
+<link>https://od.lk/s/OTdfMzUzMTA3Ml8/S02E04.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMDk4MV8/The%20Man%20In%20The%20High%20Castle.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMDk4Ml8/The%20Man%20in%20the%20High%20Castle%20f.jpg</fanart>
+<genre> Drama, Sci-Fi, Thriller </genre>
+<info>Escalation
+Juliana discovers she's far from safe from the Resistance in the Reich. Smith confronts the reality of the lengths he's willing to go to in order to protect his son. And another father - Joe's - tries to persuade him to give Berlin a chance. Frank also has a decision to make: how far is he prepared to go to help the Resistance cause?</info>
+</item>
+
+<item>
+<title>S2 EP5 Duck and Cover</title>
+<link>https://od.lk/s/OTdfMzUzMTA3M18/S02E05.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMDk4MV8/The%20Man%20In%20The%20High%20Castle.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMDk4Ml8/The%20Man%20in%20the%20High%20Castle%20f.jpg</fanart>
+<genre> Drama, Sci-Fi, Thriller </genre>
+<info>Duck and Cover
+Joe learns a truth about his past that makes him question everything. The rift between Frank and Ed widens as Frank is drawn further into the Resistance. In order to assure her safety, Juliana must betray someone close to her.</info>
+</item>
+
+<item>
+<title>S2 EP6 Kintsugi</title>
+<link>https://od.lk/s/OTdfMzUzMTA3OV8/S02E06.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMDk4MV8/The%20Man%20In%20The%20High%20Castle.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMDk4Ml8/The%20Man%20in%20the%20High%20Castle%20f.jpg</fanart>
+<genre> Drama, Sci-Fi, Thriller </genre>
+<info>Kintsugi
+Nicole introduces Joe to an unexpected side of Berlin, that leads him down a new path. On her new mission, Juliana inserts herself into the Smith's inner circle. Tagomi is finally reunited with his family, only to be faced with the prospect of losing them again.</info>
+</item>
+
+<item>
+<title>S2 EP7 Land O' Smiles</title>
+<link>https://od.lk/s/OTdfMzUzMTA4NV8/S02E07.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMDk4MV8/The%20Man%20In%20The%20High%20Castle.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMDk4Ml8/The%20Man%20in%20the%20High%20Castle%20f.jpg</fanart>
+<genre> Drama, Sci-Fi, Thriller </genre>
+<info>Land O' Smiles
+As Juliana worms closer to the Smiths, she discovers a dangerous secret. Childan and Ed get themselves in a sticky situation as they try to settle the Yakuza debt. On a Resistance mission, Frank uncovers a Japanese plan that could realize his worst nightmare.</info>
+</item>
+
+<item>
+<title>S2 EP8 Loose Lips</title>
+<link>https://od.lk/s/OTdfMzUzMTA4OV8/S02E08.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMDk4MV8/The%20Man%20In%20The%20High%20Castle.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMDk4Ml8/The%20Man%20in%20the%20High%20Castle%20f.jpg</fanart>
+<genre> Drama, Sci-Fi, Thriller </genre>
+<info>Loose Lips
+Juliana gathers intel for the Resistance that could trigger WWIII. When the political situation in Berlin becomes unsafe, Joe must make a choice that could put his life in danger. Frank learns the truth about Juliana, leading him to question his newfound Resistance family</info>
+</item>
+
+<item>
+<title>S2 EP9 Detonation</title>
+<link>https://od.lk/s/OTdfMzUzMTA5MV8/S02E09.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMDk4MV8/The%20Man%20In%20The%20High%20Castle.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMDk4Ml8/The%20Man%20in%20the%20High%20Castle%20f.jpg</fanart>
+<genre> Drama, Sci-Fi, Thriller </genre>
+<info>Detonation
+Tagomi faces a dilemma: to stay with his family or return to the world he left behind. Desperate to escape the Reich, Juliana strikes a final, dangerous deal with the Resistance. When Ed reveals a secret that puts the Resistance plan in jeopardy, Frank must decide how to deal with his best friend's betrayal.</info>
+</item>
+
+<item>
+<title>S2 EP10 Fallout</title>
+<link>https://od.lk/s/OTdfMzUzMTA5M18/S02E10.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMDk4MV8/The%20Man%20In%20The%20High%20Castle.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUzMDk4Ml8/The%20Man%20in%20the%20High%20Castle%20f.jpg</fanart>
+<genre> Drama, Sci-Fi, Thriller </genre>
+<info>Fallout
+Tagomi enlists Kido in a deception to save Japan from destruction. As Smith's life crumbles around him, he makes a dangerously bold play to hold onto his power. Joe tries to do the right thing but suffers the ultimate betrayal. Juliana must make a heart-wrenching choice that will shape the future of the world.</info>
+</item>
+

@@ -1,0 +1,13 @@
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+<channel>
+<name>Season 1</name>
+<thumbnail>https://od.lk/s/OTdfMzQyODgzOF8/channel%20zero.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQyODgzN18/S1.txt</externallink>
+<fanart></fanart>
+<genre>Drama, Horror, Mystery</genre>
+<info>An anthology series telling the stories of Creepypastas, Internet short form horror stories. Season one is the story of Candle Cove.</info>
+</channel>
+</channels>

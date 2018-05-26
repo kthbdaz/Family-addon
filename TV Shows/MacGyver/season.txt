@@ -1,0 +1,13 @@
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+<channel>
+<name>Season 1</name>
+<thumbnail>https://od.lk/s/OTdfMzQyNzk0MF8/MacGyver%201.png</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQyNzk3MV8/S1.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQyNzk0NF8/macgyver%20f.jpg</fanart>
+<genre> Action, Adventure, Drama | TV Series (2016– )</genre>
+<info>Young Angus "Mac" MacGyver creates a clandestine organization within the U.S. government, relying on his unconventional problem-solving skills to save lives.</info>
+</channel>
+</channels>

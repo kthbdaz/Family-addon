@@ -1,0 +1,198 @@
+<item>
+<title>S5 EP1 Enemies</title>
+<link>https://od.lk/s/OTdfMzQxNjE2M18/Stargate%20SG-1%20-%20%5B5x01%5D%20-%20Enemies.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzQxNjc2MF8/sg.5.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQxNjc5NV8/s5f.jpg</fanart>
+<info>Enemies
+Stranded in another galaxy while fleeing their attack on Apophis' fleet, that proves just the beginning of their problems as multiple enemies appear. </info>
+</item>
+
+<item>
+<title>S5 EP2 Threshold</title>
+<link>https://od.lk/s/OTdfMzQxNjE2NF8/Stargate%20SG-1%20-%20%5B5x02%5D%20-%20Threshold.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzQxNjc2MF8/sg.5.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQxNjc5NV8/s5f.jpg</fanart>
+<info>Threshold
+To help Teal'c mind clear again, SG-1 asks Bra'tac to help. Bra'tac removes Teal'c's Gou'ald and Teal'c is forced to remember certain memories of his past. The real Teal'c in the end. SG-1 is glad to have him back. </info>
+</item>
+
+<item>
+<title>S5 EP3 Ascension</title>
+<link>https://od.lk/s/OTdfMzQxNjE2NV8/Stargate%20SG-1%20-%20%5B5x03%5D%20-%20Ascension.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzQxNjc2MF8/sg.5.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQxNjc5NV8/s5f.jpg</fanart>
+<info>Ascension
+After being rendered unconscious during an expedition, Carter's subsequently ordered furlough is interrupted by a mysterious being with a message and growing affection for her. </info>
+</item>
+
+<item>
+<title>S5 EP4 The Fifth Man</title>
+<link>https://od.lk/s/OTdfMzQxNjE3Ml8/Stargate%20SG-1%20-%20%5B5x04%5D%20-%20Fifth%20Man.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzQxNjc2MF8/sg.5.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQxNjc5NV8/s5f.jpg</fanart>
+<info>The Fifth Man
+When SG-1 flees from an expedition with Col. O'Neill and some mysterious team member named, Tyler, whom no one else knows about, stranded, the fitness of the team is questioned. </info>
+</item>
+
+<item>
+<title>S5 EP5 Red Sky</title>
+<link>https://od.lk/s/OTdfMzQxNjE3M18/Stargate%20SG-1%20-%20%5B5x05%5D%20-%20Red%20Sky.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzQxNjc2MF8/sg.5.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQxNjc5NV8/s5f.jpg</fanart>
+<info>Red Sky
+When SG-1 inadvertently dooms a planet upon arrival, the team must overcome Asgardian diplomacy and indigenous religious prejudice to put things right. </info>
+</item>
+
+<item>
+<title>S5 EP6 Rite of Passage</title>
+<link>https://od.lk/s/OTdfMzQxNjE3NF8/Stargate%20SG-1%20-%20%5B5x06%5D%20-%20Rite%20of%20Passage.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzQxNjc2MF8/sg.5.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQxNjc5NV8/s5f.jpg</fanart>
+<info>Rite of Passage
+When Cassandra collapses at home, she is taken to the SGC for treatment. A retrovirus is causing her to emit an EM field and she expresses a need to return to her planet for an initiation ritual. SG-1 investigates and finds a Goa'uld laboratory, probably having belonged to Nirrti, meant for experimentation on the planet's population. They find that the ritual is part of the experiment, a time when Nirrti studies her subjects and cures them when she is done. SG-1 has found a way to cure Cassandra, but now all that remains to be found is Nirrti. </info>
+</item>
+
+<item>
+<title>S5 EP7 Beast of Burden</title>
+<link>https://od.lk/s/OTdfMzQxNjE3NV8/Stargate%20SG-1%20-%20%5B5x07%5D%20-%20Beast%20of%20Burden.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzQxNjc2MF8/sg.5.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQxNjc5NV8/s5f.jpg</fanart>
+<info>Beast of Burden
+When Daniel's Unas friend, Chaka, is captured by another world's slavers, SG-1 goes to that world to rescue him. </info>
+</item>
+
+<item>
+<title>S5 EP8 The Tomb</title>
+<link>https://od.lk/s/OTdfMzQxNjE3Nl8/Stargate%20SG-1%20-%20%5B5x08%5D%20-%20The%20Tomb.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzQxNjc2MF8/sg.5.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQxNjc5NV8/s5f.jpg</fanart>
+<info>The Tomb
+SG-1 teams up with a Russian task force to investigate the disappearance of a Russian SG team on P2X-338. They discover that the Russian SG team released a creature that killed Marduk, a Goa'uld, in his sarcophagus. SG-1 must trust their Russian partners in order to escape the ziggurat alive. </info>
+</item>
+
+<item>
+<title>S5 EP9 Between Two Fires</title>
+<link>https://od.lk/s/OTdfMzQxNjE3N18/Stargate%20SG-1%20-%20%5B5x09%5D%20-%20Between%20Two%20Fires.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzQxNjc2MF8/sg.5.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQxNjc5NV8/s5f.jpg</fanart>
+<info>Between Two Fires
+With the death of Omac, the subsequent sudden Tollan reconsideration of their tech embargo leads to SG-1 suspecting a government conspiracy. </info>
+</item>
+
+<item>
+<title>S5 EP10 2001</title>
+<link>https://od.lk/s/OTdfMzQxNjE3OF8/Stargate%20SG-1%20-%20%5B5x10%5D%20-%202001.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzQxNjc2MF8/sg.5.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQxNjc5NV8/s5f.jpg</fanart>
+<info>2001
+SG-1 makes contact with the Aschen, unaware of that their homeworld is one they were warned previously from the future to be considered off-limits. </info>
+</item>
+
+<item>
+<title>S5 EP11 Desperate Measures</title>
+<link>https://od.lk/s/OTdfMzQxNjE4MF8/Stargate%20SG-1%20-%20%5B5x11%5D%20-%20Desperate%20Measures.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzQxNjc2MF8/sg.5.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQxNjc5NV8/s5f.jpg</fanart>
+<info>Desperate Measures
+Carter gets kidnapped and taken to an abandoned hospital where two doctors work to study the remains of Jolinar. She finds out that they have a Gou-ald, taken from the Russians, and are planning to put it inside a man named Adrian Conrad, to heal his sickness. They need Carter to tell them how to get the Goa'uld out after he's healed. O'Neill believes the government is involved with Carter's disappearance and contacts Maybourne. Together, with Daniel and Teal'c, they find Carter but also find out that the Goa'uld has escaped inside Conrad's body. </info>
+</item>
+
+<item>
+<title>S5 EP12 Wormhole X-Treme!</title>
+<link>https://od.lk/s/OTdfMzQxNTk2Nl8/Stargate%20SG-1%20-%20%5B5x12%5D%20-%20Wormhole%20X-treme%21.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzQxNjc2MF8/sg.5.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQxNjc5NV8/s5f.jpg</fanart>
+<info>Wormhole X-Treme!
+A strange ship is headed towards Earth, and the SGC suspects that Martin Lloyd and his companions may have something to do with it. O'Neill is sent to speak to Martin and is assigned as a military consultant on Martin's new show, "Wormhole X-treme!", which uncannily resembles SG-1 despite Martin once again losing his memory. His former shipmates stall Carter and Daniel by throwing them off the trail and into the hands of the NID. </info>
+</item>
+
+<item>
+<title>S5 EP13 Proving Ground</title>
+<link>https://od.lk/s/OTdfMzQxNjEwMF8/Stargate%20SG-1%20-%20%5B5x13%5D%20-%20Proving%20Ground.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzQxNjc2MF8/sg.5.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQxNjc5NV8/s5f.jpg</fanart>
+<info>Proving Ground
+While SG-1 is conducting training exercises for new recruits, Jack gets a call about a "foothold" situation. Wounded by compromised officers, O'Neill must lead the recruits in retaking the SG</info>
+</item>
+
+<item>
+<title>S5 EP14 48 Hours</title>
+<link>https://od.lk/s/OTdfMzQxNjEwMV8/Stargate%20SG-1%20-%20%5B5x14%5D%20-%2048%20Hours.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzQxNjc2MF8/sg.5.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQxNjc5NV8/s5f.jpg</fanart>
+<info>48 Hours
+When Teal'c is trapped in the Stargate buffer, the team must juggle the technical challenges along with personal, interdepartmental and diplomatic rivalries to rescue him in time. </info>
+</item>
+
+<item>
+<title>S5 EP15 Summit</title>
+<link>https://od.lk/s/OTdfMzQxNjEwMl8/Stargate%20SG-1%20-%20%5B5x15%5D%20-%20Summit.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzQxNjc2MF8/sg.5.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQxNjc5NV8/s5f.jpg</fanart>
+<info>Summit
+In a Tok'ra plan to wipe out the Goa'uld, Daniel goes undercover as Yu's servant to release a poison at a meeting of the system lords. Meanwhile a Goa'uld attack on the Tok'ra base leaves the rest of SG-1 with their hands full. </info>
+</item>
+
+<item>
+<title>S5 EP16 Last Stand</title>
+<link>https://od.lk/s/OTdfMzQxNjEwM18/Stargate%20SG-1%20-%20%5B5x16%5D%20-%20Last%20Stand.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzQxNjc2MF8/sg.5.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQxNjc5NV8/s5f.jpg</fanart>
+<info>Last Stand
+As the Goa'uld summit continues, Daniel finds himself face to face with Osiris. He fools him in the same fashion as he did with Yu, but cannot bring himself to cause the death of Sarah, Osiris's host. He remains to uncover information about the unknown master of Osiris. Lantash, having taken Lt. Elliot as a host, guides the rest of SG-1 in escaping the fallen Tok'ra base. </info>
+</item>
+
+<item>
+<title>S5 EP17 Fail Safe</title>
+<link>https://od.lk/s/OTdfMzQxNjE1NV8/Stargate%20SG-1%20-%20%5B5x17%5D%20-%20Failsafe.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzQxNjc2MF8/sg.5.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQxNjc5NV8/s5f.jpg</fanart>
+<info>Fail Safe
+A large asteroid is discovered on a heading straight towards Earth. If it hits, all life on Earth would likely be destroyed. SG-1 initiates a plan to repair a crashed Goa'uld cargo ship and deliver a naqahdah bomb to destroy the asteroid before it hits. </info>
+</item>
+
+<item>
+<title>S5 EP18 The Warrior</title>
+<link>https://od.lk/s/OTdfMzQxNjE1Nl8/Stargate%20SG-1%20-%20%5B5x18%5D%20-%20The%20Warrior.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzQxNjc2MF8/sg.5.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQxNjc5NV8/s5f.jpg</fanart>
+<info>The Warrior
+A new leader has risen among the Free Jaffa, K'tano, former First Prime of Imhotep. SG-1, accompanied by Bra'tac, seeks an alliance between the Tau'ri and the large force he has amassed. </info>
+</item>
+
+<item>
+<title>S5 EP19 Menace</title>
+<link>https://od.lk/s/OTdfMzQxNjE1N18/Stargate%20SG-1%20-%20%5B5x19%5D%20-%20Menace.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzQxNjc2MF8/sg.5.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQxNjc5NV8/s5f.jpg</fanart>
+<info>Menace
+On an alien planet SG-1 discovers an inactive android is the only survivor of the destruction of her civilization. They bring her back to the SGC for study and manage to reactivate her. Things take a turn for the worse when she "makes" a replicator bug for Daniel. </info>
+</item>
+
+<item>
+<title>S5 EP20 The Sentinel</title>
+<link>https://od.lk/s/OTdfMzQxNjE1OF8/Stargate%20SG-1%20-%20%5B5x20%5D%20-%20The%20Sentinel.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzQxNjc2MF8/sg.5.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQxNjc5NV8/s5f.jpg</fanart>
+<info>The Sentinel
+To fix a mistake caused by the fake SG team, the real SG-1 must enlist the help of two convicts. The threat of an approaching Goa'uld mothership stresses the repair of the Sentinel</info>
+</item>
+
+<item>
+<title>S5 EP21 Meridian</title>
+<link>https://od.lk/s/OTdfMzQxNjE1OV8/Stargate%20SG-1%20-%20%5B5x21%5D%20-%20Meridian.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzQxNjc2MF8/sg.5.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQxNjc5NV8/s5f.jpg</fanart>
+<info>Meridian
+As Jackson suffers from a fatal dose of radiation, he struggles with the value of his life while his friends deal with the emotional and diplomatic repercussions. </info>
+</item>
+
+<item>
+<title>S5 EP22 Revelations</title>
+<link>https://od.lk/s/OTdfMzQxNjE2MF8/Stargate%20SG-1%20-%20%5B5x22%5D%20-%20Revelations.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzQxNjc2MF8/sg.5.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQxNjc5NV8/s5f.jpg</fanart>
+<info>Revelations
+Osiris engages in space combat with Thor over a violation of the protected planets treaty. Freyr arrives at the SGC bringing news of Thor's death and asking SG-1 to mount a rescue mission to retrieve an Asgard scientist from the planet in question. Upon their arrival Heimdall informs them that Thor still lives and has been taken captive by the Goa'uld. O'Neill and Teal'c transport over to the mothership to rescue him from the clutches of Anubis. </info>
+</item>
+

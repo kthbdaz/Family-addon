@@ -1,0 +1,198 @@
+<item>
+<title>S3 EP1 The Ungrateful Dead</title>
+<link>https://od.lk/s/OTdfMzQ0NDM3NV8/S03E01.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQ0NDI0MV8/grimm%20s3.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0NDI0NV8/grimm%20f2.jpg</fanart>
+<info>The Ungrateful Dead
+Nick's destiny is uncertain as zombies continue to overrun Portland.</info>
+</item>
+
+<item>
+<title>S3 EP2 PTZD</title>
+<link>https://od.lk/s/OTdfMzQ0NDM3Nl8/S03E02.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQ0NDI0MV8/grimm%20s3.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0NDI0NV8/grimm%20f2.jpg</fanart>
+<info>PTZD
+Monroe (Silas Weir Mitchell), Hank (Russell Hornsby), Rosalee (Bree Turner) and Juliette (Bitsie Tulloch) track down a manic Nick (David Giuntoli) and do all they can to find him and reverse what's been done to him before he causes any more damage. Meanwhile, Captain Renard (Sasha Roiz) does his best to clean up the zombie fallout on all fronts - domestic and international. Elsewhere, the more time Adalind (Claire Coffee) spends with Stefania (guest star Shohreh Aghdashloo), the more disturbing things seem to get in her quest to regain her Hexenbiest abilities.</info>
+</item>
+
+<item>
+<title>S3 EP3 A Dish Best Served Cold</title>
+<link>https://od.lk/s/OTdfMzQ0NDM3N18/S03E03.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQ0NDI0MV8/grimm%20s3.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0NDI0NV8/grimm%20f2.jpg</fanart>
+<info>A Dish Best Served Cold
+A series of disturbing crime scenes leads Nick (David Giuntoli) and Hank (Russell Hornsby) to the resurrection of an old feud that's all too familiar for Nick and Monroe (Silas Weir Mitchell). With the news of a royal family member's demise, several key players start to make their move. Meanwhile despite his recent trauma, Nick finds himself healthier than normal and Monroe and Rosalee (Bree Turner) talk about moving their relationship forward.</info>
+</item>
+
+<item>
+<title>S3 EP4 One Night Stand</title>
+<link>https://od.lk/s/OTdfMzQ0NDM3OF8/S03E04.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQ0NDI0MV8/grimm%20s3.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0NDI0NV8/grimm%20f2.jpg</fanart>
+<info>One Night Stand
+When Nick (David Giuntoli) and Hank (Russell Hornsby) investigate a drowning death with mysterious marks on the victim's ankles, they happen upon a group of water-bound Wesen. Meanwhile, Rosalee (Bree Turner) starts unpacking her things at Monroe's (Silas Weir Mitchell), and Captain Renard (Sasha Roiz) makes a startling realization about the possible identities of the Royal Baby's parents.</info>
+</item>
+
+<item>
+<title>S3 EP5 El Cucuy</title>
+<link>https://od.lk/s/OTdfMzQ0NDI3OF8/S03E05.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQ0NDI0MV8/grimm%20s3.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0NDI0NV8/grimm%20f2.jpg</fanart>
+<info>El Cucuy
+When investigating a series of brutal murders committed on criminals, to Nick it appears that the culprit may be a character from a Latino legend.</info>
+</item>
+
+<item>
+<title>S3 EP6 Stories We Tell Our Young</title>
+<link>https://od.lk/s/OTdfMzQ0NDI4MF8/S03E06.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQ0NDI0MV8/grimm%20s3.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0NDI0NV8/grimm%20f2.jpg</fanart>
+<info>Stories We Tell Our Young
+Nick and Hank look into the death of a priest, who was performing an exorcism on a 9-year-old boy. Is the boy a Wesen or possessed by a demon?</info>
+</item>
+
+<item>
+<title>S3 EP7 Cold Blooded</title>
+<link>https://od.lk/s/OTdfMzQ0NDI4Ml8/S03E07.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQ0NDI0MV8/grimm%20s3.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0NDI0NV8/grimm%20f2.jpg</fanart>
+<info>Cold Blooded
+As a deadly crime spree begins to surface, a century-old urban legend takes shape in Portland's sewers and becomes Nick's latest case. In Europe, Adalind meets Prince Viktor, who comes to bring those responsible for his cousin Eric's demise to justice. Meanwhile, Captain Renard responds to the recent attempt on his life.</info>
+</item>
+
+<item>
+<title>S3 EP8 Twelve Days of Krampus</title>
+<link>https://od.lk/s/OTdfMzQ0NDI4NF8/S03E08.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQ0NDI0MV8/grimm%20s3.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0NDI0NV8/grimm%20f2.jpg</fanart>
+<info>Twelve Days of Krampus
+After a string of delinquent teens go missing, an old Wesen tale of an evil Santa who brings more than just a lump of coal may be the prime suspect. The investigation intensifies as Nick and Hank take things a little too far. Meanwhile, Monroe enlists Juliette to surprise Rosalee for their first Christmas together with unintended results. Elsewhere, Captain Renards tour of Europe brings him closer to tracking down Adalind.</info>
+</item>
+
+<item>
+<title>S3 EP9 Red Menace</title>
+<link>https://od.lk/s/OTdfMzQ0NDI4N18/S03E09.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQ0NDI0MV8/grimm%20s3.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0NDI0NV8/grimm%20f2.jpg</fanart>
+<info>Red Menace
+Nick (David Giuntoli) and Hank (Russell Hornsby) investigate a Wesen "healer" whose ability holds risks that far outweigh its rewards. Meanwhile, Juliette (Bitsie Tulloch) takes in a friend when domestic issues escalate and Hank makes a move on his physical therapist Zuri (guest star Sharon Leal). Elsewhere, Captain Renard (Sasha Roiz) finally tracks down Adalind (Claire Coffee) and has a stern warning for her.</info>
+</item>
+
+<item>
+<title>S3 EP10 Eyes of the Beholder</title>
+<link>https://od.lk/s/OTdfMzQ0NDM3OV8/S03E010.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQ0NDI0MV8/grimm%20s3.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0NDI0NV8/grimm%20f2.jpg</fanart>
+<info>Eyes of the Beholder
+Nick (David Giuntoli) and Hank (Russell Hornsby) are called to the scene of a gang-related homicide. The case escalates as Zuri (guest star Sharon Leal), Hank's physical therapist, and her brother get caught up in the investigation. Meanwhile, Juliette (Bitsie Tulloch) seeks advice from Rosalee (Bree Turner) in dealing with the news that her friend is Wesen.</info>
+</item>
+
+<item>
+<title>S3 EP11 The Good Soldier</title>
+<link>https://od.lk/s/OTdfMzQ0NDM4MF8/S03E011.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQ0NDI0MV8/grimm%20s3.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0NDI0NV8/grimm%20f2.jpg</fanart>
+<info>The Good Soldier
+Nick (David Giuntoli) and Hank (Russell Hornsby) are called to the gruesome murder of a veteran working in home security. During their investigation, they discover this might be one of several revenge killings regarding a horrifying cover-up involving members of the army and military contractors. On the domestic front, Monroe (Silas Weir Mitchell) accompanies Rosalee (Bree Turner) during her long overdue reunion with her mother and sister. In Europe, Adalind (Claire Coffee) sees hints of what she thinks might be her powers returning.</info>
+</item>
+
+<item>
+<title>S3 EP12 The Wild Hunt</title>
+<link>https://od.lk/s/OTdfMzQ0NDM4MV8/S03E012.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQ0NDI0MV8/grimm%20s3.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0NDI0NV8/grimm%20f2.jpg</fanart>
+<info>The Wild Hunt
+Nick (David Giuntoli) and Hank (Russell Hornsby) investigate a cop killer who scalps his victims. Meanwhile, Juliette (Bitsie Tulloch) begins to communicate with Nick's mom via email and Adalind (Claire Coffee) finds herself much closer to delivering her baby than she previously thought. Elsewhere, Monroe's (Silas Weir Mitchell) parents (guest stars Dee Wallace and Chris Mulkey) decide to surprise him and Rosalee (Bree Turner) with an early arrival to Portland after learning some exciting news.</info>
+</item>
+
+<item>
+<title>S3 EP13 Revelation</title>
+<link>https://od.lk/s/OTdfMzQ0NDM4Ml8/S03E013.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQ0NDI0MV8/grimm%20s3.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0NDI0NV8/grimm%20f2.jpg</fanart>
+<info>Revelation
+Monroe (Silas Weir Mitchell) fights an impossible battle to convince his parents (guest stars Dee Wallace and Chris Mulkey) to embrace the life choices he's made. Meanwhile, Nick (David Giuntoli) turns to Juliette (Bitsie Tulloch) to help him figure out the Wesen aspect of his cop-killing scalper investigation. On the Royal Baby front, Captain Renard (Sasha Roiz) learns new information that forces him to contact Adalind (Claire Coffee) in the interest of keeping her and the baby safe from Viktor (guest star Alexis Denisof).</info>
+</item>
+
+<item>
+<title>S3 EP14 Mommy Dearest</title>
+<link>https://od.lk/s/OTdfMzQ0NDM4M18/S03E014.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQ0NDI0MV8/grimm%20s3.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0NDI0NV8/grimm%20f2.jpg</fanart>
+<info>Mommy Dearest
+A horrible new predator creeps into Portland with its sight set on a young expectant couple who are close friends of Sgt. Wu (Reggie Lee). Nick (David Giuntoli) and Hank (Russell Hornsby) must figure out how to deal with Wu as the investigation escalates. Meanwhile, Adalind (Claire Coffee) prepares for a special delivery while her enemies are hot on her trail.</info>
+</item>
+
+<item>
+<title>S3 EP15 Once We Were Gods</title>
+<link>https://od.lk/s/OTdfMzQ0NDM2N18/S03E015.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQ0NDI0MV8/grimm%20s3.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0NDI0NV8/grimm%20f2.jpg</fanart>
+<info>Once We Were Gods
+Nick, Hank and Juliette learn what the Wesen Community already know, the Wesen were GODS in ancient Egypt Meanwhile, Adalind and Meisner again run for their lives after a tortured Sebastien reveals their location of them being dropped off. Sgt. Wu, still fighting for his sanity is visited by Juliette. She tells Wu of her ordeal, which seems to have helped him because Wu is later picked up and taken home by Nick and Hank.</info>
+</item>
+
+<item>
+<title>S3 EP16 The Show Must Go On</title>
+<link>https://od.lk/s/OTdfMzQ0NDM2OF8/S03E016.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQ0NDI0MV8/grimm%20s3.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0NDI0NV8/grimm%20f2.jpg</fanart>
+<info>The Show Must Go On
+A double homicide leads Nick (David Giuntoli) and Hank (Russell Hornsby) to a traveling carnival where the performers are not what they seem. To get a better understanding of what's going on behind the scenes Monroe (Silas Weir Mitchell) and Rosalee (Bree Turner) go undercover. On the wedding front, Monroe has a really important question for Nick. In Austria, an invaluable member of the Resistance makes the ultimate sacrifice to help Adalind (Claire Coffee).</info>
+</item>
+
+<item>
+<title>S3 EP17 Synchronicity</title>
+<link>https://od.lk/s/OTdfMzQ0NDM2OV8/S03E017.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQ0NDI0MV8/grimm%20s3.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0NDI0NV8/grimm%20f2.jpg</fanart>
+<info>Synchronicity
+Nick's mother Kelly returns to help Adalind escape Europe with her baby. Meanwhile, Monroe and Rosalee prepare for their wedding.</info>
+</item>
+
+<item>
+<title>S3 EP18 The Law of Sacrifice</title>
+<link>https://od.lk/s/OTdfMzQ0NDM3MF8/S03E018.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQ0NDI0MV8/grimm%20s3.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0NDI0NV8/grimm%20f2.jpg</fanart>
+<info>The Law of Sacrifice
+The Verrat find out that Adelind and her baby have gone to Captain Sean Renard for help. Nick enlists the help of Monroe and Rosalee to keep Adalind safe, as his mother figures how to deal with the Royals.</info>
+</item>
+
+<item>
+<title>S3 EP19 Nobody Knows the Trubel I've Seen</title>
+<link>https://od.lk/s/OTdfMzQ0NDM3MV8/S03E019.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQ0NDI0MV8/grimm%20s3.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0NDI0NV8/grimm%20f2.jpg</fanart>
+<info>Nobody Knows the Trubel I've Seen
+Nick (David Giuntoli) and Hank (Russell Hornsby) investigate a dangerous female suspect (guest star Jacqueline Toboni) leaving a trail of Wesen in her wake. Elsewhere, Adalind (Claire Coffee) takes measures into her own hands, even if that means forging a dangerous alliance.</info>
+</item>
+
+<item>
+<title>S3 EP20 My Fair Wesen</title>
+<link>https://od.lk/s/OTdfMzQ0NDM3Ml8/S03E020.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQ0NDI0MV8/grimm%20s3.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0NDI0NV8/grimm%20f2.jpg</fanart>
+<info>My Fair Wesen
+Nick (David Giuntoli) does his best to educate Trubel (guest star Jacqueline Toboni) on how best to handle the world she is learning about for the first time, and decides it best to bring her on a ride along with Hank (Russell Hornsby). They find themselves investigating the homicide of a young woman that strikes a chord for Trubel. Meanwhile, Adalind (Claire Coffee) makes a discovery that she hopes will lead her to regain something she has lost.</info>
+</item>
+
+<item>
+<title>S3 EP21 The Inheritance</title>
+<link>https://od.lk/s/OTdfMzQ0NDM3M18/S03E021.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQ0NDI0MV8/grimm%20s3.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0NDI0NV8/grimm%20f2.jpg</fanart>
+<info>The Inheritance
+Nick and Hank are called to investigate a double homicide, and quickly learn the victims were from a special section of the Verrat tasked with finding rare objects pertaining to the Wesen world. Trubel gets involved with a mysterious father-and-son tandem that crossed the country in a desperate attempt to deliver invaluable cargo to "the Portland Grimm." Meanwhile, Captain Renard begins to grow suspicious of Adalind's recent behavior and quietly decides to put extra eyes on her.</info>
+</item>
+
+<item>
+<title>S3 EP22 Blond Ambition</title>
+<link>https://od.lk/s/OTdfMzQ0NDM3NF8/S03E022.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQ0NDI0MV8/grimm%20s3.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0NDI0NV8/grimm%20f2.jpg</fanart>
+<info>Blond Ambition
+It's Monroe (Silas Weir Mitchell) and Rosalee's (Bree Turner) big day and their joy will only be matched by unexpected heartache for those around them. Nick (David Giuntoli) and Juliette (Bitsie Tulloch) make a startling realization that could shake their relationship to its core. Meanwhile, Adalind (Claire Coffee) proceeds with a delicately laid plan that leads to a catastrophic event that will alter the course of Nick's journey.</info>
+</item>
+

@@ -1,0 +1,313 @@
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>Godzilla (2014)</title>
+<link>https://od.lk/s/OTdfNTMzNzcyNV8/Godzilla.2014.1080p.mp4</link>
+<thumbnail>https://od.lk/s/OTdfNTM2NTQ1OV8/Godzilla%202014.jpg</thumbnail>
+<fanart></fanart>
+<genre>Action | Adventure | Sci-Fi | Thriller</genre>
+<info>In 1999, the Janjira nuclear plant was mysteriously destroyed with most hands lost including supervisor Joe Brody's colleague and wife, Sandra. Years later, Joe's son, Ford, a US Navy ordnance disposal officer, must go to Japan to help his estranged father who obsessively searches for the truth of the incident. In doing so, father and son discover the disaster's secret cause on the wreck's very grounds. This enables them to witness the reawakening of a terrible threat to all of Humanity, which is made all the worse with a second secret revival elsewhere. Against this cataclysm, the only hope for the world may be Godzilla, but the challenge for the King of the Monsters will be great even as Humanity struggles to understand the destructive ally they have. </info>
+</item>
+
+<item>
+<title>Ghostbusters 2016</title>
+<link>https://od.lk/s/OTdfMzY0NzkzMl8/Ghostbusters%202016.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzY0ODA0NV8/icon.jpg</thumbnail>
+<fanart></fanart>
+<genre> Action, Comedy, Fantasy</genre>
+<info>Following a ghost invasion of Manhattan, paranormal enthusiasts Erin Gilbert and Abby Yates, nuclear engineer Jillian Holtzmann, and subway worker Patty Tolan band together to stop the otherworldly threat.</info>
+</item>
+
+<item>
+<title>Galaxy of Horrors (2017)</title>
+<link>https://od.lk/s/OTdfMzYzNTMzNl8/Galaxy.of.Horrors.2017.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzYzNTY2NF8/Galaxy%20of%20Horrors%20%282017%29.jpg</thumbnail>
+<fanart></fanart>
+<genre>Horror, Sci-Fi </genre>
+<info>Trapped in a damaged cryogenic pod, a man is forced to watch a series of horrific science-fiction tales while his life support systems run out. Featuring eight intense stories of the unknown and other-worldly, equally wonderful and terrifying. Visit the GALAXY OF HORRORS, if you dare! Curated from Rue Morgue & Unstable Ground's Little Terrors Festival.</info>
+</item>
+
+<item>
+<title>Ghosts of Darkness (2017)</title>
+<link>https://od.lk/s/OTdfMzYzNDYxN18/Ghosts.of.Darkness.2017.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzYzNDY4MF8/Ghosts%20of%20Darkness%20%282017%29.jpg</thumbnail>
+<fanart></fanart>
+<genre> Horror </genre>
+<info>Two paranormal investigators are unexpectedly thrown together in the hope of solving a 100 year mystery. Locked for three nights in a house with a dark and unsettling past, the two investigators must put their differences to one side and work together. Scepticism and showmanship are soon put to one side when the two investigators realise there is more at stake than just their professional reputation. For once they have stumbled onto the real thing, but this time it's their own lives at stake.</info>
+</item>
+
+<item>
+<title>Girlfriend's Day (2017)</title>
+<link>https://od.lk/s/OTdfMzU3NjU4Nl8/Girlfriends.Day.2017.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU3NjUzN18/Girlfriend%27s%20Day%20%282017%29.jpg</thumbnail>
+<fanart></fanart>
+<genre>Comedy, Drama</genre>
+<info>In a city where greeting card writers are celebrated like movie stars, Romance writer Ray used to be the king. In trying to recapture the feelings that once made him the greatest, he gets entangled in a web of murder and deceit as writers vie to create the perfect card for a new holiday: Girlfriend's Day.</info>
+</item>
+
+<item>
+<title>Gold (2016)</title>
+<link>https://od.lk/s/OTdfMzU3MzQ4Ml8/Gold.2016.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzU3Mzc0NF8/Gold%20%282016%29.jpg</thumbnail>
+<fanart></fanart>
+<genre> Adventure, Drama, Thriller</genre>
+<info>Kenny Wells, a prospector desperate for a lucky break, teams up with a similarly eager geologist and sets off on a journey to find gold in the uncharted jungle of Indonesia.</info>
+</item>
+
+<item>
+<title>Getting Schooled (2017)</title>
+<link>https://od.lk/s/OTdfMzU3MDI3MF8/Getting.Schooled.2017.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzU3MzI2Nl8/Getting%20Schooled%20%282017%29.jpg</thumbnail>
+<fanart></fanart>
+<genre> Comedy, Horror</genre>
+<info>In 1983, a group of High School students in a day of detention must run for their lives when a teacher in a wheel chair turns out to be an ex black ops soldier having a murderous flashback.</info>
+</item>
+
+<item>
+<title>Grease Live! (2016)</title>
+<link>https://od.lk/s/OTdfMzU2MTk1NV8/Grease.Live.2016.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU2MjAxNV8/Grease.Live.2016.jpg</thumbnail>
+<fanart></fanart>
+<genre>Musical, Romance</genre>
+<info>After enjoying a summer romance, high school students Danny and Sandy are unexpectedly reunited when she transfers to Rydell High. There Sandy must contend with cynical Rizzo and the Pink Ladies in attempt to win Danny's heart again.</info>
+</item>
+
+<item>
+<title>Go North (2017)</title>
+<link>https://od.lk/s/OTdfMzU0Mjk5OV8/Go.North.2017.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU0MjkzM18/Go%20North%20%282017%29.jpg</thumbnail>
+<fanart></fanart>
+<genre>Adventure, Drama, Romance </genre>
+<info>In the aftermath of an unknown catastrophe, a community left with zero living adults has descended into a modern-day Lord of the Flies, run by a small cabal of what had been the jocks occupying the athletic and social upper crust of the local high school, headed by Caleb (Patrick Schwarzenegger, SCOUTS GUIDE TO THE ZOMBIE APOCALYPSE). Faced with the bleak despair of their situation, Josh (Jacob Lofland, MUD) and Jessie (Sophie Kennedy Clark, PHILOMENA) strike out on a dangerous journey into the unknown to find family and hope for the future, with Caleb and his vicious underling Gentry (James Bloor, LEATHERFACE) in hot pursuit.</info>
+</item>
+
+<item>
+<title>Good.Tidings.2016</title>
+<link>https://od.lk/s/OTdfMzUzMjY2N18/Good.Tidings.2016.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjc4OV8/Good.Tidings.2016.jpg</thumbnail>
+<fanart></fanart>
+<genre> Horror, Thriller</genre>
+<info>A homeless war-veteran with a chequered past must rely on a side of himself once thought buried when he and his companions are targeted by three vicious psychopaths wearing Santa suits on Christmas Day.</info>
+</item>
+
+<item>
+<title>Green.is.Gold.2016</title>
+<link>https://od.lk/s/OTdfMzUzMDM2M18/Green.is.Gold.2016.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMDU3MV8/Green.is.Gold.2016.jpg</thumbnail>
+<fanart></fanart>
+<genre> Crime, Drama </genre>
+<info>After a teenage boy's father goes to prison, he is forced to live with his older brother who has a compromising trade.</info>
+</item>
+
+<item>
+<title>Gorenos (2016)</title>
+<link>https://od.lk/s/OTdfMzU0Nzk1N18/Gorenos.2016.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU0Nzk2Ml8/Gorenos%20%282016%29.jpg</thumbnail>
+<fanart></fanart>
+<genre>Horror</genre>
+<info>Miles is haunted by a supernatural entity in the wake of his 18th birthday.</info>
+</item>
+
+<item>
+<title>Get the Girl (2017)</title>
+<link>https://od.lk/s/OTdfMzU0Nzk2NF8/Get.the.Girl.2017.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU0Nzk3MF8/Get%20the%20Girl%20%282017%29.jpg</thumbnail>
+<fanart></fanart>
+<genre> Action, Comedy, Crime</genre>
+<info>A wealthy young man is conned into staging a fake kidnapping in order to be a hero and win the affection of a girl he's madly in love with. But when one of the hired kidnappers is accidentally killed during the charade, he's forced to actually save her life while not revealing that it's been a ruse all along.</info>
+</item>
+
+<item>
+<title>Go North (2017)</title>
+<link>https://od.lk/s/OTdfMzU0MjkzMV8/Go.North.2017.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzU0MjkzM18/Go%20North%20%282017%29.jpg</thumbnail>
+<fanart></fanart>
+<genre>Adventure, Drama, Romance </genre>
+<info>In the aftermath of an unknown catastrophe, a community left with zero living adults has descended into a modern-day Lord of the Flies, run by a small cabal of what had been the jocks occupying the athletic and social upper crust of the local high school, headed by Caleb (Patrick Schwarzenegger, SCOUTS GUIDE TO THE ZOMBIE APOCALYPSE). Faced with the bleak despair of their situation, Josh (Jacob Lofland, MUD) and Jessie (Sophie Kennedy Clark, PHILOMENA) strike out on a dangerous journey into the unknown to find family and hope for the future, with Caleb and his vicious underling Gentry (James Bloor, LEATHERFACE) in hot pursuit.</info>
+</item>
+
+<item>
+<title>Gernika.2016</title>
+<link>https://od.lk/s/OTdfMzU0Mjk3OV8/Gernika.2016.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzU0Mjk4NF8/Gernika.2016.jpg</thumbnail>
+<fanart></fanart>
+<genre>Romance, War</genre>
+<info>The fates of Henry - a cynical American correspondent who has lost his soul - and Teresa, one of the Republic's censors and in charge of overseeing the news that journalists can send abroad, cross in Gernika.</info>
+</item>
+
+<item>
+<title>Good.Tidings.2016</title>
+<link>https://od.lk/s/OTdfMzUzMjY2N18/Good.Tidings.2016.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUzMjc4OV8/Good.Tidings.2016.jpg</thumbnail>
+<fanart></fanart>
+<genre> Horror, Thriller</genre>
+<info>A homeless war-veteran with a chequered past must rely on a side of himself once thought buried when he and his companions are targeted by three vicious psychopaths wearing Santa suits on Christmas Day.</info>
+</item>
+
+<item>
+<title>Greater.2016</title>
+<link>https://od.lk/s/OTdfMzUyNzM5OV8/Greater.2016.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzUyNzQwNV8/Greater.2016.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzUyNzQwNl8/greater-mv-4.jpg</fanart>
+<genre> Biography, Family, Sport</genre>
+<info>Brandon Burlsworth is perhaps the greatest walk-on in the history of college football. Brandon had always dreamed of playing for the Arkansas Razorbacks, but was considered too short and too fat to play Division I. Undeterred, Brandon took a big risk and walked on in 1994. Written off by fellow teammates and coaches, Brandon displayed dogged determination in the face of staggering odds. An extremely devoted Christian, Brandon never cursed or drank. He was genuinely humble and low-key. He worked harder than anybody, on and off the field, becoming the first Razorback to earn a Bachelor's and Master's degree while still playing. The overly-fat kid who was once an embarrassment to his teammates and an annoyance to his coaches, ended up becoming the most respected player in the history of the program, changing the lives of all he touched. Eleven days after being drafted into the NFL, Brandon was tragically killed in a car accident, crushing all who knew him. Brandon was "too good to be ..</info>
+</item>
+
+<item>
+<title>Get.A.Job.2016.</title>
+<link>https://www.dropbox.com/s/nrbs94el4w834gs/Get.A.Job.2016.1080p.BluRay.H264.AAC-RARBG.mp4?dl=1</link>
+<thumbnail>https://www.dropbox.com/s/1xjf90e8271sict/Get.A.Job.2016%20icon.jpg?dl=1</thumbnail>
+<fanart>https://www.dropbox.com/s/5xjlopal1ij5i9h/Get.A.Job.2016.jpg?dl=1</fanart>
+<info></info>
+</item>
+
+<item>
+<title>Gods.of.Egypt.2016</title>
+<link>https://www.dropbox.com/s/tezz4q42eh5yjmq/Gods.of.Egypt.2016.1080p.BluRay.H264.AAC-RARBG.mp4?dl=1</link>
+<thumbnail>https://www.dropbox.com/s/tvacuf8oz9fqgpy/Gods.of.Egypt.2016.png?dl=1</thumbnail>
+<fanart>https://www.dropbox.com/s/x5ixilj9re96iib/Gods.of.Egypt.2016.jpg?dl=1</fanart>
+<info></info>
+</item>
+
+<item>
+<title>Ghostbusters.2016</title>
+<link>https://od.lk/s/OTdfMzQyMTYzOF8/Ghostbusters.2016.720p.WEB-DL.900MB.GoenWae.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzM5NjM5Nl8/Ghostbusters.2016.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzM5NjM5N18/ghostbusterslarge.jpg</fanart>
+<info>Following a ghost invasion of Manhattan, paranormal enthusiasts Erin Gilbert and Abby Yates, nuclear engineer Jillian Holtzmann, and subway worker Patty Tolan band together to stop the otherworldly threat. </info>
+</item>
+
+<item>
+<title>Good.Kids.2016</title>
+<link>https://www.dropbox.com/s/xrzcn7dqaswr9zg/Good.Kids.2016d.avi?dl=1</link>
+<thumbnail>https://www.dropbox.com/s/7tputjdy5yuyyri/Good.Kids.2016.jpg?dl=1</thumbnail>
+<fanart>https://www.dropbox.com/s/bwta1z056pwvoz5/Good.Kids.2016%20fanart.jpg?dl=1</fanart>
+<info></info>
+</item>
+
+<item>
+<title>Gods.Not.Dead.2.2016.</title>
+<link>https://www.dropbox.com/s/dwiqnlvon9zbyco/Gods.Not.Dead.2.2016..avi?dl=1</link>
+<thumbnail>https://www.dropbox.com/s/8m8hgpuy2f9hex8/Gods.Not.Dead.2.2016.jpg?dl=1</thumbnail>
+<fanart>https://www.dropbox.com/s/o2t9x0ul58qkdvc/Gods.Not.Dead.2.2016%20fanart.jpg?dl=1</fanart>
+<info></info>
+</item>
+
+<item>
+<title>Ghosthunters.2016</title>
+<link>https://www.dropbox.com/s/fo0ervh7x9cxvs0/Ghosthunters.2016.avi?dl=1</link>
+<thumbnail>https://www.dropbox.com/s/qnjhr1iyektexpw/Ghosthunters.md.jpg?dl=1</thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>Gangsters.Gamblers.and.Geezers.2016</title>
+<link>https://od.lk/s/OTdfMzQyMzg1Nl8/Gangsters.Gamblers.and.Geezers.2016.WEBRip.x264-RARBG.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQyMzkzOV8/Gangsters%20Gamblers.jpg</thumbnail>
+<fanart></fanart>
+<info>Gangsters, Gamblers and Geezers is story about two lovable losers, Krish and Lee who get fired from their call centre jobs. After spending all their money in a crazy month of partying, they have no money to pay to Olu, their Nigerian landlord. Olu gives the boys 48 hours to pay their rent or else 'things will get biblical'. With the clock ticking, the boys are forced to embark on an adventure that sees them get involved with two warring London gangsters, a gang of money laundering gypsies, a terrorist gang, a cross dressing dwarf and much, much more! A series of misunderstandings lead to Krish and Lee being named the most dangerous men in Europe, with the Mi5 and Scotland Yard hot on their tails. The boys need to find a way to escape the mayhem and find the money to pay their rent. After numerous ups and downs, the boys get their money and their dream girls and learn an important lesson that it is hard work as opposed to elaborate 'get rich quick' schemes that get them everything they..</info>
+</item>
+
+<item>
+<title>Grave.Walkers.2016.</title>
+<link>https://od.lk/s/OTdfMzQyNDgwMV8/Grave.Walkers.2016.HDRip.XviD.AC3-EVO.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzQyNDgyMl8/Grave.Walkers.2016%20-%20Copy.jpg</thumbnail>
+<fanart></fanart>
+<info>Supernatural forces are locked into a small college town police force's basement jail. The sheriff and his deputies are subjected to psychic attacks, preying on the fears of the loyal officers and only those with the strongest wills can survive</info>
+</item>
+
+<item>
+<title>Good.Kids.2016</title>
+<link>https://od.lk/s/OTdfMzQzNjg4Ml8/Good.Kids.2016.HDRip.XviD.AC3-iFT.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzQzNjg5MV8/Good.Kids.2016.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQzNjg5Ml8/Good.Kids.2016%20f.jpg</fanart>
+<info>The tight-knit relationship between two adolescent brothers is put to the test when secrecy, infidelity, and the onslaught of adulthood threaten to tear them apart.</info>
+</item>
+
+<item>
+<title>Genius.2016</title>
+<link>https://od.lk/s/OTdfMzQ0MjIzM18/Genius.2016.1080p.BluRay.x264-%5BYTS.AG%5D.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQ0MjIzNF8/Genius%20%282016%29.jpg</thumbnail>
+<fanart></fanart>
+<info> Biography, Drama
+When, one day of 1929, writer Thomas Wolfe, decided to keep the appointment made by Max Perkins, editor at Scribner's, he had no illusions: his manuscript would be turned down as had invariably been the case. But, to his happy amazement, his novel, which was to become "Look Homeward, Angel", was accepted for publication. The only trouble was that it was overlong (300 pages) and had to be reduced. Although reluctant to see his poetic prose trimmed, Wolfe agreed and helped by Perkins, who had become a true friend, with the result that it instantly became a favorite with the critics and best seller. Success was even greater in 1935 when "Of Time end the River" appeared, but the fight for reducing Wolfe's logorrheic written expression had been even longer, with 5,000 pages, Perkins managed to cut 90,000 words from the book, and bitter ultimately taking its toll, the relationships between the two men gradually deteriorating. Wolfe did not feel grateful to Perkins any longer but had started...</info>
+</item>
+
+<item>
+<title>Gringo.The.Dangerous.Life.of.John.McAfee.</title>
+<link>https://od.lk/s/OTdfMzQ0MTU2MF8/Gringo.The.Dangerous.Life.of.John.McAfee.2016.720p.WEBRip.x264.AAC-ETRG.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQ0MTU2NV8/Gringo.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0MTU2Nl8/Gringo.t.jpg</fanart>
+<info>Mysteries abound in the life of John McAfee. He made millions creating antivirus software, then reinvented himself as a yogi, a proponent of herbal medicine, and a serial entrepreneur. He was known for his charm and generosity. Then his life took another turn. He moved from the US to Belize and built a heavily armed compound in the jungle, like a modern day Heart of Darkness. McAfee never shied away from media attention and boasted of his libertine lifestyle, maintaining a harem of young women. In 2012 his neighbour in Belize, an American named Gregory Faull, was found murdered by a gunshot. Sought for questioning by local authorities, McAfee fled to Guatemala, then returned to the US where he pursued the Libertarian Party nomination for President in 2016. Over the years, journalists have told pieces of McAfee's story (including the infamous Vice report accidentally revealing his secret location). Here the Academy Award-nominated filmmaker Nanette Burstein delivers a deep ...</info>
+</item>
+
+<item>
+<title>Goldstone.2016</title>
+<link>https://od.lk/s/OTdfMzQzODEwMl8/Goldstone.2016.HDRip.XviD.AC3-EVO.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzQzODY3OF8/Goldstone.2016.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQzODY4MV8/Goldstone.2016%20f.jpg</fanart>
+<info>Indigenous Detective Jay Swan arrives in the frontier town of Goldstone on a missing persons enquiry. What seems like a simple light duties investigation opens a web of crime and corruption. Jay must pull his life together and bury his differences with young local cop Josh, so together they can bring justice to Goldstone</info>
+</item>
+
+<item>
+<title>guns for hire 2015 </title>
+<link>https://od.lk/s/OTdfMzQxNzc4Nl8/The.Adventures.of.Beatle.2015.1080p.BluRay.H264.AAC-RARBG.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQxNzg4OV8/Guns%20for%20Hire.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQxNzg5MF8/gund%20for%20hire%20f.jpg</fanart>
+<info>Beatle is a quirky loner who refuses to live by society's rules. Her business cards read "Towing/Assassination," and she even has a hit man infomercial to go along with it. Her only human contact is with her psychiatrist and the stripper/hooker she employs once a week. Everything changes the night she meets Athena Klendon, a suicidal blonde with a secret. With a demented killer on their tail, courtesy of Athena's crooked former employer, the two quickly strike a bargain. Athena will change her life insurance policy to reflect Beatle as the beneficiary in exchange for her own execution. And while they wait for the paperwork to come through, Beatle will provide room and board and get some extra help on her infomercial. The two have no idea that Detective Holt has been on their case reviewing their every move. Just when he thinks he's got Beatle pinned beyond a shadow of a doubt, this comedic mystery takes a wild and unexpected turn.</info>
+</item>
+
+<item>
+<title>Gridlocked.2015</title>
+<link>https://www.dropbox.com/s/u99bf5iichgiyzo/Gridlocked.2015.1080p.BluRay.H264.AAC-RARBG.mp4?dl=1</link>
+<thumbnail>https://www.dropbox.com/s/ljv6c6gtwdbbj0c/Gridlocked.2015.PNG?dl=1</thumbnail>
+<fanart>https://www.dropbox.com/s/xd1wld9pcehhpqz/Gridlocked.2015.jpg?dl=1</fanart>
+<info>Former SWAT leader David Hendrix is down on his luck and has failed to receive medical clearance after taking a bullet on the job. Despite being highly trained and competent, his efforts have been reduced to routine tasks for the NYPD. As if things couldn't get any worse, he's been forced to babysit Brody Walker, a hard partying celebrity that's been sent on a mandatory ride along as part of his probation. Pampered and irritating, Walker is the last thing Hendrix needs. But all of that changes when a police training facility comes under attack by a team of ruthless mercenaries led by the mysterious Korver. Now, Hendrix and Walker must band together with the remaining survivors to fight back and keep the mercenaries from overtaking the compound.... if they don't kill each other first. </info>
+</item>
+
+<item>
+<title>Guardians.of.the.Galaxy.2014</title>
+<link>https://od.lk/d/OTdfMzE1OTU5NF8/Guardians.of.the.Galaxy.2014.1080p.3D.HSBS.BluRay.x264.YIFY.mp4</link>
+<thumbnail>https://od.lk/d/OTdfMzE2MDY4OV8/guardians%20of%20the%20galaxy.jpg</thumbnail>
+<fanart>https://od.lk/d/OTdfMzE2MDY5MF8/guardians_of_the_galaxy.jpg</fanart>
+<info>A group of intergalactic criminals are forced to work together to stop a fanatical warrior from taking control of the universe. </info>
+</item>
+
+<item>
+<title>G.I..Joe_.Retaliation.2013</title>
+<link>https://od.lk/d/OTdfMzE1OTU3NV8/G.I..Joe_.Retaliation.2013.1080p.3D.HSBS.BluRay.x264.YIFY.mp4</link>
+<thumbnail>https://od.lk/d/OTdfMzE2MDY4NF8/GI-Joe-Retaliation.jpg</thumbnail>
+<fanart>https://od.lk/d/OTdfMzE2MDY4M18/g_i__joe_retaliation.jpg</fanart>
+<info>The G.I. Joes are not only fighting their mortal enemy Cobra; they are forced to contend with threats from within the government that jeopardize their very existence</info>
+</item>
+
+<item>
+<title>Ghosts.of.the.Abyss</title>
+<link>https://od.lk/s/OTdfMzE2NzI4MV8/Ghosts.of.the.Abyss.2003.1080p.BluRay.H264.AAC-RARBG.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzI3NjYzNV8/Ghosts.of.the.Abyss.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzI3NjYzNl8/Ghosts_of_the_Abyss_3.jpg</fanart>
+<info>Academy Award? winning director and master storyteller James Cameron journeys back to the site of his greatest inspiration, the legendary wreck of the Titanic. With a team of the world's foremost historic and marine experts and friend, Bill Paxton, he embarks on an unscripted adventure back to the final grave where nearly 1,500 souls lost their lives almost a century ago. Using state-of-the-art technology developed expressly for this expedition, Cameron and his crew are able to explore virtually all of the wreck, inside and out, as never before. With the most advanced 3D photography, moviegoers will experience the ship as if they are part of the crew right inside the dive subs. In this unprecedented motion picture event, made especially for IMAX 3D Theatres and specially outfitted 35mm 3D theaters across the country, Cameron and his team bring audiences to sights not seen since the sinking 90 years ago and explore why the landmark vessel, more than any shipwreck, continues to intrigue..</info>
+</item>
+
+<item>
+<title>Grease.1978</title>
+<link>https://od.lk/s/OTdfMzM0NjEzMF8/Grease.1978.1080p.BrRip.x264.Deceit.YIFY.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzM0NjE3M18/Grease.png</thumbnail>
+<fanart>https://od.lk/s/OTdfMzM0NjE3Ml8/Grease.1978..jpg</fanart>
+<info>A musical about teens in love in the 50's! It's California, 1959 and greaser Danny Zuko and Australian Sandy Olsson are in love. They spend time at the beach, but when they go back to school, what either of them don't know is that they both now attend Rydell High. Danny's the leader of the T-Birds, a group of black-jacket greasers while Sandy hangs with the Pink Ladies, a group of pink-wearing girls led by Rizzo. When they clash at Rydell's first pep rally, Danny isn't the same Danny at the beach. They try to be like each other so they can be together.</info>
+</item>
+
+<item>
+<title>G.I. Blues 1960</title>
+<link>https://od.lk/s/OTdfMzM5NjQyMl8/G.I.%20Blues%20%281960%29%20DVDRip%20XviD%20AC3%20peaSoup.avi</link>
+<thumbnail>https://od.lk/s/OTdfMzQwMzE3MF8/g-i-blues.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQwMzE2Nl8/g-i-blues-2.jpg</fanart>
+<info>Tulsa is a specialist in the US Army stationed in Germany. He loves to sing and has dreams to run his own nightclub when he leaves the army....but dreams don't come cheap. Tulsa places a bet with his friend Dynamite that he can spend the night with a club dancer named Lili, who is rumored to be hard to get. When Dynamite gets transferred, Tulsa is brought in to take his place. He is not looking forward to it, but in order to keep his money, he must go through with it. </info>
+</item>

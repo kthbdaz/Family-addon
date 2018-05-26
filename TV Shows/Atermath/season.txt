@@ -1,0 +1,13 @@
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+<channel>
+<name>Season 1</name>
+<thumbnail>https://od.lk/s/OTdfMzQyNzkzMV8/aftermath...jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQyNzk1OF8/S1.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQyNzkzMl8/aftermath.jpg</fanart>
+<info>The Copeland family battle for survival when civilization comes to an apocalyptic end, triggered by massive storms, meteor strikes, earthquakes, a plague - and the rise of supernatural creatures.</info>
+</channel>
+
+</channels>

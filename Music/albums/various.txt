@@ -1,0 +1,108 @@
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+<channel>
+<name>Now thats what i call music collection</name>
+<thumbnail>https://od.lk/s/OTdfMzQ1Mzc2Nl8/now%20thats%20what%20i%20call.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQ1Mzc2NF8/now%20thats%20what%20i%20call.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQ1Mzc2NV8/now%20thats%20what%20i%20call%20f.jpg</fanart>
+<info>Now thats what i call music collection</info>
+</channel>
+
+<channel>
+<name>WOW HITS 2017</name>
+<thumbnail>https://od.lk/s/OTdfMzQ1MzEzMF8/WOW%20Hits%202017%20Deluxe%20Edition.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQ1MzE5M18/CD.txt</externallink>
+<fanart></fanart>
+<info>WOW HITS 2017</info>
+</channel>
+
+
+<channel>
+<name>Now thats what i call music 95</name>
+<thumbnail>https://od.lk/s/OTdfMzQ1Mjk3MV8/Cover.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQ1Mjk3NF8/CD%20LIST.txt</externallink>
+<fanart></fanart>
+<info>CD1
+1. James Arthur	Say You Won't Let Go
+2. Little Mix	Shout Out To My Ex
+3. Clean Bandit feat. Sean Paul & Anne	Rockabye
+4. The Chainsmokers feat. Halsey	Closer
+5. Major Lazer feat. Justin Bieber and MØ	Cold Water
+6. Ariana Grande feat. Nicki Minaj	Side To Side
+7. Sia	The Greatest
+8. Calvin Harris	My Way
+9. Hailee Steinfeld & Grey feat. Zedd	Starving
+10. M.O	Who Do You Think Of?
+11. NEIKED feat. Dyo	Sexual
+12. Anne Marie	Alarm
+13. Olly Murs	You Don't Know Love
+14. MØ	Final Song
+15. Maroon 5	Don't Wanna Know
+16. JP Cooper	September Song
+17. Shawn Mendes	Mercy
+18. Ellie Goulding	Still Falling For You (from ‘Bridget Jones's Baby’)
+19. Emeli Sandé	Hurts
+20. Michael Bublé	I Believe in You
+21. Craig David	All We Needed
+22. Drake feat. WizKid & Kyla	One Dance
+CD2
+23. DJ Snake feat. Justin Bieber	Let Me Love You
+24. Fifth Harmony	That's My Girl
+25. Sigma feat. Birdy	Find Me
+26. Martin Garrix & Bebe Rexha	In The Name Of Love
+27. Nevada feat. Mark Morrison & Fetty Wap	The Mack
+28. TIEKS feat. Dan Harkna	Sunshine
+29. Zara Larsson	Ain't My Fault
+30. Bob Marley & The Wailers feat. LVNDSCAPE & Bolier	Is This Love (Remix)
+31. Digital Farm Animals & Cash Cash feat. Nelly	Millionaire
+32. Snakehips feat. ZAYN	Cruel
+33. Matoma & Becky Hill	False Alarm
+34. Galantis & Hook N Sling	Love On Me
+35. Charli XCX feat. Lil Yachty	After The Afterparty
+36. Dua Lipa	Blow Your Mind (Mwah)
+37. Louisa Johnson	So Good
+38. James TW	When You Love Someone
+39. Wilkinson feat. Karen Harding	Sweet Lies
+40. Craig David & Sigala	Ain't Giving Up
+41. Charlie Puth	Dangerously
+42. offaiah	Trouble
+43. Christine And The Queens	Tilted
+44. Lady Gaga	Perfect Illusion
+45. Niall Horan	This Town</info>
+</channel>
+
+<channel>
+<name>VA - Punk.London 40 Years of Sub-Versive Culture (2016)</name>
+<thumbnail>https://od.lk/s/OTdfMzQzNTkxNV8/Folder.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQzNTkxNl8/track%20list.txt</externallink>
+<fanart></fanart>
+<info>VA - Punk.London 40 Years of Sub-Versive Culture (2016)</info>
+</channel>
+
+<channel>
+<name>VA - The Best Of Christmas Hits (2016)</name>
+<thumbnail>https://od.lk/s/OTdfMzQzNzUxOV8/Cover.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQzNzUyMF8/track%20list.txt</externallink>
+<fanart></fanart>
+<info>VA - The Best Of Christmas Hits (2016)</info>
+</channel>
+
+<channel>
+<name>Now thats what i call music collection</name>
+<thumbnail></thumbnail>
+<externallink>https://od.lk/s/OTdfMzQzODEwM18/albums.txt</externallink>
+<fanart></fanart>
+<info>Now thats what i call music collection</info>
+</channel>
+
+<channel>
+<name>Reggae Dancehall Hits</name>
+<thumbnail>https://od.lk/s/OTdfMzQzOTM4M18/front.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQ0MTI1Ml8/disc.txt</externallink>
+<fanart></fanart>
+<info>Reggae Dancehall Hits</info>
+</channel>
+
+</channels>

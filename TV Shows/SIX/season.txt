@@ -1,0 +1,14 @@
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+<channel>
+<name>Season 1</name>
+<thumbnail>https://od.lk/s/OTdfMzU0NzQ5Ml8/Six.jpg</thumbnail>
+<externallink>https://goo.gl/SZlKqD</externallink>
+<fanart></fanart>
+<genre> Action, Drama, History</genre>
+<info>Navy SEAL Team Six attempt to eliminate a Taliban leader in Afghanistan when they discover an American citizen working with the enemy.</info>
+</channel>
+
+</channels>

@@ -1,0 +1,199 @@
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+<channel>
+<name>John Legend</name>
+<thumbnail>https://od.lk/s/OTdfMzQ1MzUzMV8/john%20legend.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQ1MzUzMF8/John%20Legend.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQ1MzUzMl8/john_legend%20f.jpg</fanart>
+<artist>John Legend</artist>
+<info>John Legend Collection</info>
+</channel>
+
+<channel>
+<name>Craig David</name>
+<thumbnail>https://od.lk/s/OTdfMzQ1MzU2OF8/Craig%20David.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQ1MzU3Ml8/CRAIG%20DAVID.txt</externallink>
+<fanart></fanart>
+<info>Craig David Collection</info>
+</channel>
+
+<channel>
+<name>Rick Astley</name>
+<thumbnail>https://od.lk/s/OTdfMzQ1MzU3OV8/Rick%20Astley.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQ1MzU4MF8/Ricky%20Astley.txt</externallink>
+<fanart></fanart>
+<info>Rick Astley Collection</info>
+</channel>
+
+<channel>
+<name>Little Mix</name>
+<thumbnail>https://od.lk/s/OTdfMzQ1MzU4NV8/little-mix%20c.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQ1MzU4OF8/Little%20Mix.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQ1MzU4Nl8/little-mix%20c%20f.jpg</fanart>
+<info>Little Mix Collection</info>
+</channel>
+
+<channel>
+<name>Phil Collins</name>
+<thumbnail>https://od.lk/s/OTdfMzQ1MzYxNF8/PHIL%20COLLINS.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQ1MzYxMl8/Deluxe.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQ1MzYxNl8/P%20COLLINS%20F.jpg</fanart>
+<info>Phil Collins Collection</info>
+</channel>
+
+<channel>
+<name>Madness</name>
+<thumbnail>https://od.lk/s/OTdfMzQ1MzU3Nl8/Madness.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQ1MzU3N18/madness.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQ1MzU3NV8/madness%20f.jpg</fanart>
+<info>Madness Collection</info>
+</channel>
+
+<channel>
+<name>Elvis Presley</name>
+<thumbnail>https://od.lk/s/OTdfMzQ1MzEyN18/elvis-presley-01.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQ1MzY2NF8/Elvis%20Collection.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQ1MzEyOF8/Elvis-Presley-Wallpapers.jpg</fanart>
+<info>Elvis Presley collection</info>
+</channel>
+
+<channel>
+<name>John lennon</name>
+<thumbnail>https://od.lk/s/OTdfMzQ1Mzc4OF8/John-Lennon.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQ1Mzc4N18/john%20lennon.txt</externallink>
+<fanart></fanart>
+<artist>John lennon</artist>
+<info>John lennon Collection</info>
+</channel>
+
+<channel>
+<name>ELECTRIC LIGHT ORCHESTRA</name>
+<thumbnail>https://od.lk/s/OTdfMzQ1MzU2Nl8/ELO%20C.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQ1MzU2N18/ELO.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQ1MzU2NF8/ELO%20F.jpg</fanart>
+<info>ELECTRIC LIGHT ORCHESTRA Collection</info>
+</channel>
+
+<channel>
+<name>David Bowie</name>
+<thumbnail>https://od.lk/s/OTdfMzQ1MzU2MV8/David%20Bowie.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQ1MzU2Ml8/david%20bowie.txt</externallink>
+<fanart></fanart>
+<info>David Bowie Collection</info>
+</channel>
+
+<channel>
+<name>Celine Dion</name>
+<thumbnail>https://od.lk/s/OTdfMzQ1MzUyNl8/Celine%20Dion.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQ1MzUyNV8/Celine%20Dion.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQ1MzUyN18/Celine%20Dion%20f.jpg</fanart>
+<info>Celine Dion Collection</info>
+</channel>
+
+<channel>
+<name>Kate Bush</name>
+<thumbnail>https://od.lk/s/OTdfMzQ1MzYwMV8/Kate_Bush.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQ1MzYwNl8/kate%20bush.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQ1MzYwMl8/kate-bush%20f.jpg</fanart>
+<info>Kate Bush Collection</info>
+</channel>
+
+<channel>
+<name>The Proclaimers</name>
+<thumbnail>https://od.lk/s/OTdfMzQ1MzQ0OF8/The%20Proclaimers%20icon.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQ1MzQ0OV8/The%20Proclaimers.txt</externallink>
+fanart></fanart>
+<info>The Proclaimers Collection</info>
+</channel>
+
+<channel>
+<name>Micheal Jackson</name>
+<thumbnail>https://od.lk/s/OTdfMzQ1MzUwN18/Michael%20Jackson.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQ1MzUxMl8/Michael%20Jackson.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQ1MzUwOV8/Michael-Jackson-Bad-f.jpg</fanart>
+<info>Micheal Jackson Collection</info>
+</channel>
+
+<channel>
+<name>The Temptations</name>
+<thumbnail>https://od.lk/s/OTdfMzQ1Mzc5Nl8/the-four-tops-and-temptations.png</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQ1Mzc5N18/the%20temptations.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQ1Mzc5NV8/temptations.jpg</fanart>
+<genre>Motown</genre>
+<info>The Temptations Collection</info>
+</channel>
+
+<channel>
+<name>The Carpenters</name>
+<thumbnail>https://od.lk/s/OTdfMzQ1MzQyNl8/The%20Carpenters.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQ1MzQyNV8/Carpenters.txt</externallink>
+<fanart></fanart>
+<info>The Carpenters Collection</info>
+</channel>
+
+<channel>
+<name>Pink Floyd</name>
+<thumbnail>https://od.lk/s/OTdfMzQ1MzQxNV8/pink_floyd.png</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQ1MzQxNl8/pink%20floyd.txt</externallink>
+<fanart></fanart>
+<info>Pink Floyd Collection</info>
+</channel>
+
+<channel>
+<name>Queen</name>
+<thumbnail>https://od.lk/s/OTdfMzQ1MzQxOF8/queen.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQ1MzQxOV8/Queen.txt</externallink>
+<fanart></fanart>
+<info>Queen Collection</info>
+</channel>
+
+<channel>
+<name>Johny Cash</name>
+<thumbnail>https://od.lk/s/OTdfMzQ1MzQwNV8/Johnny%20Cash.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQ1MzQwN18/Johnny%20Cash.txt</externallink>
+<fanart></fanart>
+<info>Johny Cash Collection</info>
+</channel>
+
+<channel>
+<name>Bee Gees</name>
+<thumbnail>https://od.lk/s/OTdfMzQ1MzM5OV8/Bee-Gees3.jpg</thumbnail>
+<externallink>https://od.lk/e/OTdfMzQ1MzQwMF8</externallink>
+<fanart></fanart>
+<info>Bee Gees</info>
+</channel>
+
+<channel>
+<name>Bob Marley</name>
+<thumbnail>https://od.lk/s/OTdfMzQ1MzQwNF8/Bob-Marley.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQ1MzQwM18/bob%20marley.txt</externallink>
+<fanart></fanart>
+<info>Bob Marley Collection</info>
+</channel>
+
+<channel>
+<name>EMINEM ALBUMS</name>
+<thumbnail>https://od.lk/s/OTdfMzQ0MzI2OV8/The_Real_Slim_Shady.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQ0MzI2Nl8/ALBUMS.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQ0MzI3MV8/Eminem-eminem%20F.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>Ray Charles</name>
+<thumbnail>https://od.lk/s/OTdfMzQ1MzI4M18/Folder.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQ1MzM3M18/ray%20charles.txt</externallink>
+<fanart></fanart>
+<info>Ray Charles</info>
+</channel>
+
+<channel>
+<name>Neil-Diamond</name>
+<thumbnail>https://od.lk/s/OTdfMzQ1MzQyMl8/Neil-Diamond.png</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQ1MzQyMV8/Neil%20Dimond.txt</externallink>
+<fanart></fanart>
+<info>Neil-Diamond Collection</info>
+</channel>
+</channels>

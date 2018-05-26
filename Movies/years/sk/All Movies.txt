@@ -1,0 +1,63 @@
+﻿
+
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+<channel>
+<name>Year</name>
+<thumbnail>https://www.dropbox.com/s/kf8fo0j1tl1c2g3/Calendar.png?dl=1</thumbnail>
+<externallink>https://goo.gl/91gVwo</externallink>
+<fanart></fanart>
+<genre>1950S - 2017</genre>
+<info>kthbdaz.netau.net</info>
+</channel>
+
+<channel>
+<name>Genre</name>
+<thumbnail>https://www.dropbox.com/s/vcxhvr4psy97jqr/film-genres1.jpg?dl=1</thumbnail>
+<externallink>https://goo.gl/TZTkdM</externallink>
+<fanart></fanart>
+<genre>ALL</genre>
+<info>kthbdaz.netau.net</info>
+</channel>
+
+<channel>
+<name>Added This Week</name>
+<thumbnail>https://od.lk/s/OTdfMzQ0NDQxMF8/new%20added.png</thumbnail>
+<externallink>https://goo.gl/PfUIpd</externallink>
+<fanart></fanart>
+<genre>ALL</genre>
+<info>movies added within the last 7 days</info>
+</channel>
+
+<channel>
+<name>For The Ladies</name>
+<thumbnail>https://od.lk/s/OTdfMzUzMjYxM18/ladies.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzUzMjYxNV8/for%20the%20ladies.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzUzMjYxMl8/romantic.jpg</fanart>
+<genre></genre>
+<info></info>
+</channel>
+
+<channel>
+<name>A - Z</name>
+<thumbnail>https://od.lk/s/OTdfMzUzMjA0N18/a%20-%20z.png</thumbnail>
+<externallink>https://goo.gl/4o4hyN</externallink>
+<fanart></fanart>
+<genre>A - Z MOVIE LISTINGS</genre>
+<info>t</info>
+</channel>
+
+<channel>
+<name>Trailers for 2017 movies</name>
+<thumbnail>https://od.lk/s/OTdfMzQ0NDQxMV8/coming%20soon.png</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQ0NDE1OV8/Trailer.txt</externallink>
+<fanart></fanart>
+<genre>ALL</genre>
+<info>coming to our screens soon</info>
+</channel>
+</channels>
+
+
+

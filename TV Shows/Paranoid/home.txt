@@ -1,0 +1,31 @@
+﻿
+
+
+
+
+
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+<channel>
+<name>Season 1</name>
+<thumbnail>https://od.lk/s/OTdfMzQzODUyMV8/paraniod.jpg</thumbnail>
+<externallink>https://od.lk/e/OTdfMzQzODUxOV8</externallink>
+<fanart>https://od.lk/s/OTdfMzQzODUyMF8/paraniod%20f.jpg</fanart>
+<info>The murder of a female GP in a rural playground in front of numerous witnesses draws a group of detectives into an ever-darkening mystery that takes them across Europe, aided by mysterious notes sent by the "Ghost Detective".</info>
+</channel>
+
+</channels>
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,52 @@
+<item>
+<title>S1 EP1 Pilot</title>
+<link>https://od.lk/s/OTdfMzQyMzE1NV8/notorious.101.hdtv-lol%5Bettv%5D.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQyNzk0N18/notorious..jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQyNzk0Nl8/notorious.jpg</fanart>
+<info>Pilot
+TV news producer Julia George teams with defense attorney Jake Gregorian to control the media, the justice system and each other. </info>
+</item>
+
+<item>
+<title>S1 EP2 The Perp Walk</title>
+<link>https://od.lk/s/OTdfMzQyODA1Nl8/notorious.102.hdtv-lol%5Bettv%5D.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQyNzk0N18/notorious..jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQyNzk0Nl8/notorious.jpg</fanart>
+<info>The Perp Walk
+After Sarah's murder, Jake takes Abby Rollins' case. Her year old son is missing from their home. Oscar is increasingly frustrated at the lack of progress in finding the killer. Julia convinces Sarah's brother to be a guest on the show. </info>
+</item>
+
+<item>
+<title>S1 EP3</title>
+<link>https://od.lk/s/OTdfMzQyODA1OV8/Notorious.S01E03.HDTV.x264-KILLERS%5Bettv%5D.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQyNzk0N18/notorious..jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQyNzk0Nl8/notorious.jpg</fanart>
+</item>
+
+<item>
+<title>S1 EP4</title>
+<link>https://od.lk/s/OTdfMzQyODY1MF8/Notorious.S01E04.HDTV.x264-FLEET%5BPRiME%5D.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzQyNzk0N18/notorious..jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQyNzk0Nl8/notorious.jpg</fanart>
+</item>
+
+<item>
+<title>S1 EP5</title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzQyNzk0N18/notorious..jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQyNzk0Nl8/notorious.jpg</fanart>
+</item>
+
+<item>
+<title>S1 EP6</title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzQyNzk0N18/notorious..jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQyNzk0Nl8/notorious.jpg</fanart>
+</item>
+
+<item>
+<title>S1 EP7</title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzQyNzk0N18/notorious..jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQyNzk0Nl8/notorious.jpg</fanart>
+</item>

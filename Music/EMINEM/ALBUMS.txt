@@ -1,0 +1,76 @@
+<item>
+<title>eminem relapse album</title>
+<utube>PLNLy-Dp-F3dMfa5g6IT73TeWRzSJI9_-U</utube>
+<thumbnail>https://od.lk/s/OTdfMzQ0MzI3M18/relapse.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0MzI3MV8/Eminem-eminem%20F.jpg</fanart>
+</item>
+
+<item>
+<title>Eminem Curtain Call (Full Album)</title>
+<utube>PLCiM8YZKsScqzob4yDPzaY7JflwY10bOz</utube>
+<thumbnail>https://od.lk/s/OTdfMzQ0MzI3MF8/CUTIAN%20CALL.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0MzI3MV8/Eminem-eminem%20F.jpg</fanart>
+</item>
+
+<item>
+<title>Eminem Recovery (Full Album)</title>
+<utube>PLCiM8YZKsScp21d3PXSlRY0WI5aA4rcKF</utube>
+<thumbnail>https://od.lk/s/OTdfMzQ0MzI2OF8/RECOVERY.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0MzI3MV8/Eminem-eminem%20F.jpg</fanart>
+</item>
+
+<item>
+<title>eminem encore</title>
+<utube>PL4044FB4AA08EFCDD</utube>
+<thumbnail>https://od.lk/s/OTdfMzQ0MzI2N18/ENCORE.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0MzI3MV8/Eminem-eminem%20F.jpg</fanart>
+</item>
+
+<item>
+<title>eminem the slim shady lp full album</title>
+<utube>PLn0aId-kQmMsAohtXkSguspIUHgp8sUAC</utube>
+<thumbnail>https://od.lk/s/OTdfMzQ0MzI2OV8/The_Real_Slim_Shady.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0MzI3MV8/Eminem-eminem%20F.jpg</fanart>
+</item>
+
+<item>
+<title>Eminem- Shady XV</title>
+<utube>PLoN5CB3TkBIyLqHbquUq8lmN6vsVeRToR</utube>
+<thumbnail>https://od.lk/s/OTdfMzQ0MzI3N18/Shady_XV.jpg</thumbnail>
+<fanart>https://od.lk/s/OTdfMzQ0MzI3Nl8/Eminem-Shady-XV%20f.jpg</fanart>
+</item>
+
+<item>
+<title>Eminem - The Marshall Mathers LP 2 </title>
+<utube>PLPS8Md-CVcrERpCtqnLQl0kz5nWtykZ3I</utube>
+<thumbnail>https://od.lk/s/OTdfMzQ0MzI3OV8/The%20Marshall%20Mathers%20LP2.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Marshall Mathers LP (Full Album)</title>
+<utube>PLFO-VhWlv-YvYApk3G7RwF3RT1pcEyiDb</utube>
+<thumbnail>https://od.lk/s/OTdfMzQ0MzI4MF8/the-marshall-mathers-lp.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>eminem infinite full album</title>
+<utube>sYiq3TeUBvQ</utube>
+<thumbnail>https://od.lk/s/OTdfMzQ0MzI3NV8/eminem-infinite.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>The Eminem Show (Explicit Version)</title>
+<utube>PLL7oe-pOLUGgRUcXXfSbgxAF1MRniPc7f</utube>
+<thumbnail>https://od.lk/s/OTdfMzQ0MzI3OF8/The%20Eminem%20Show.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title></title>
+<utube></utube>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>

@@ -1,0 +1,14 @@
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+<channel>
+<name>Season 1</name>
+<thumbnail>https://od.lk/s/OTdfMzQzMDY1MV8/BULL.jpg</thumbnail>
+<externallink>https://goo.gl/uApNzV</externallink>
+<fanart>https://od.lk/s/OTdfMzQzMDY1MF8/bull%20f.jpg</fanart>
+<genre>Drama</genre>
+<info>Rupert Bull tries to run an antiques shop, but knows nothing about antiques. He is both helped and hindered by his incompetent staff and his disillusioned sister.</info>
+</channel>
+
+</channels>

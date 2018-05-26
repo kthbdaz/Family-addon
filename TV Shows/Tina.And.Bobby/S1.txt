@@ -1,0 +1,215 @@
+<item>
+<title>S1 EP1</title>
+<link>https://od.lk/s/OTdfMzU0NzQ4M18/S01E01.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU0NzQ4N18/Tina%20and%20Bobby.jpg</thumbnail>
+<fanart></fanart>
+<genre>Drama, Romance</genre>
+<info>In 1957 teen-aged West Ham footballer Bobby Moore starts to date Tina Dean and they are married five years later. On return from honeymoon England manager Alf Ramsey appoints Bobby as the national team captain, which, to Tina's annoyance, restricts their social life but the birth of a baby girl gives them cause for optimism. The couple suffer a blow when Bobby is diagnosed with testicular though it is caught in time and cured. However Bobby's wish to leave West Ham for a more lucrative club almost loses him the England captaincy.</info>
+</item>
+
+<item>
+<title>S1 EP2</title>
+<link>https://od.lk/s/OTdfMzU0NzQ4NF8/S01E02.mp4</link>
+<thumbnail>https://od.lk/s/OTdfMzU0NzQ4N18/Tina%20and%20Bobby.jpg</thumbnail>
+<fanart></fanart>
+<genre>Drama, Romance</genre>
+<info>A nervous Tina watches as Bobby and the England team win the 1966 World Cup, with Bobby including his wife in the celebration photo shoot and a move to a more luxurious house. Tina also comes into the limelight as the pair are brought in for celebrity endorsements of advertising products. The birth of a son, Dean, completes the couple's happiness but it is clouded by Tina's mother's terminal cancer. Four years later Bobby and the team travel to Mexico where he is arrested for stealing a necklace but released. Tina flies out to support him but on returning home, ..</info>
+</item>
+
+<item>
+<title>S1 EP3</title>
+<link></link>
+<thumbnail>https://od.lk/s/OTdfMzU0NzQ4N18/Tina%20and%20Bobby.jpg</thumbnail>
+<fanart></fanart>
+<genre>Drama, Romance</genre>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP4</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP5</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP6</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP7</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP8</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP9</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP10</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP11</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP12</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP13</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP14</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP15</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP16</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>S1 EP17</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP18</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP19</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>S1 EP20</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP21</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP22</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>S1 EP23</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP24</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP25</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP26</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+<item>
+<title>S1 EP27</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>

@@ -1,0 +1,30 @@
+﻿
+
+
+
+
+
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+<channel>
+<name>Season 1</name>
+<thumbnail>https://od.lk/s/OTdfMzQ0MjQxN18/dark%20angel%20c.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQ0MjQxNl8/S1.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQ0MjQxOF8/DARK%20ANGEL.jpg</fanart>
+<info>A two-part drama about the Victorian serial killer Mary Ann Cotton.</info>
+</channel>
+</channels>
+
+
+
+
+
+
+
+
+
+
+
+

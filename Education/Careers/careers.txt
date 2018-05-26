@@ -1,0 +1,37 @@
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+<channel>
+<name>HOW TO DO A C.V</name>
+<thumbnail>https://od.lk/s/OTdfMzU2MTcxNV8/CV.jpg</thumbnail>
+<externallink>https://goo.gl/NsTa9H</externallink>
+<fanart>https://od.lk/s/OTdfMzU2MTcwNl8/job-centre-sign.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>APPLYING FOR A JOB</name>
+<thumbnail>https://od.lk/s/OTdfMzU2MTcwNF8/application-icon.jpg</thumbnail>
+<externallink>https://goo.gl/XAMvGR</externallink>
+<fanart>https://od.lk/s/OTdfMzU2MTcwNl8/job-centre-sign.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>THE INTERVIEW</name>
+<thumbnail>https://od.lk/s/OTdfMzU2MTcwM18/interview_icon.jpg</thumbnail>
+<externallink>https://goo.gl/H3FTa3</externallink>
+<fanart>https://od.lk/s/OTdfMzU2MTcwNl8/job-centre-sign.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>Benifit claims</name>
+<thumbnail>https://od.lk/s/OTdfMzU2MTk3M18/js%2B.jpeg</thumbnail>
+<externallink>https://goo.gl/Kyyg80</externallink>
+<fanart>https://od.lk/s/OTdfMzU2MTcwNl8/job-centre-sign.jpg</fanart>
+<info></info>
+</channel>
+
+</channels>

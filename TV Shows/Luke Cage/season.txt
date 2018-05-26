@@ -1,0 +1,12 @@
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+<channel>
+<name>Season 1</name>
+<thumbnail>https://od.lk/s/OTdfMzQyNzkzOF8/luke%20cage.jpg</thumbnail>
+<externallink>https://od.lk/s/OTdfMzQyNzk2OV8/S1.txt</externallink>
+<fanart>https://od.lk/s/OTdfMzQyNzkzN18/Luke-Cage.jpg</fanart>
+<info></info>
+</channel>
+

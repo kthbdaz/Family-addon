@@ -1,0 +1,37 @@
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+<channel>
+<name>Season 1</name>
+<thumbnail></thumbnail>
+<externallink>https://goo.gl/yzTavB</externallink>
+<fanart></fanart>
+<info>SimpleKore.com</info>
+</channel>
+
+<channel>
+<name>Season 2</name>
+<thumbnail></thumbnail>
+<externallink>https://goo.gl/B6opJd</externallink>
+<fanart></fanart>
+<info>SimpleKore.com</info>
+</channel>
+
+<channel>
+<name>Season 3</name>
+<thumbnail></thumbnail>
+<externallink>https://goo.gl/7IpfzA</externallink>
+<fanart></fanart>
+<info>SimpleKore.com</info>
+</channel>
+
+<channel>
+<name>Season 4</name>
+<thumbnail></thumbnail>
+<externallink>https://goo.gl/hVDgaC</externallink>
+<fanart></fanart>
+<info>SimpleKore.com</info>
+</channel>
+
+</channels>
